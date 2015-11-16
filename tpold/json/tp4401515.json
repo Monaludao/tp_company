@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "121",
+               "short_name" : "121",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Zhiyuan 1st Road",
+               "short_name" : "Section 1, Zhiyuan 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "文林里",
+               "short_name" : "文林里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 121, Section 1, Zhiyuan 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1100915,
+               "lng" : 121.514895
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1114404802915,
+                  "lng" : 121.5162439802915
+               },
+               "southwest" : {
+                  "lat" : 25.1087425197085,
+                  "lng" : 121.5135460197085
+               }
+            }
+         },
+         "place_id" : "ChIJxXh52pKuQjQRH9_oNHQ7gS8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

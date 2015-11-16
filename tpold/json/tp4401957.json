@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 25, Lane 118, Wuxing Street",
+               "short_name" : "Alley 25, Lane 118, Wuxing St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "뉴햜㉬",
+               "short_name" : "뉴햜㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Alley 25, Lane 118, Wuxing St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0293145,
+               "lng" : 121.560786
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0306634802915,
+                  "lng" : 121.5621349802915
+               },
+               "southwest" : {
+                  "lat" : 25.02796551970849,
+                  "lng" : 121.5594370197085
+               }
+            }
+         },
+         "place_id" : "ChIJO-W3cbWrQjQRYYxSq0Jgh9g",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

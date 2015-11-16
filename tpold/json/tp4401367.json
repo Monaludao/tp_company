@@ -1,0 +1,1711 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kangle Street",
+               "short_name" : "Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0681903,
+                  "lng" : 121.6181343
+               },
+               "southwest" : {
+                  "lat" : 25.0681793,
+                  "lng" : 121.61812
+               }
+            },
+            "location" : {
+               "lat" : 25.0681793,
+               "lng" : 121.6181343
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0695337802915,
+                  "lng" : 121.6194761302915
+               },
+               "southwest" : {
+                  "lat" : 25.0668358197085,
+                  "lng" : 121.6167781697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EigxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDlurfmqILooZc56Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 201, Kangle Street",
+               "short_name" : "Alley 3, Lane 201, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤º·¾¨½",
+               "short_name" : "¤º·¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 3, Lane 201, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.075341,
+               "lng" : 121.621228
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0766899802915,
+                  "lng" : 121.6225769802915
+               },
+               "southwest" : {
+                  "lat" : 25.07399201970849,
+                  "lng" : 121.6198790197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtxRoFbasQjQRClQO6tz2tE4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 23, Lane 201, Kangle Street",
+               "short_name" : "Alley 23, Lane 201, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤º·¾¨½",
+               "short_name" : "¤º·¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 23, Lane 201, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0753839,
+                  "lng" : 121.622774
+               },
+               "southwest" : {
+                  "lat" : 25.0753701,
+                  "lng" : 121.6227629
+               }
+            },
+            "location" : {
+               "lat" : 25.0753701,
+               "lng" : 121.6227629
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0767259802915,
+                  "lng" : 121.6241174302915
+               },
+               "southwest" : {
+                  "lat" : 25.0740280197085,
+                  "lng" : 121.6214194697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDlurfmqILooZcyMDHlt7cyM-W8hDnomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 7, Lane 201, Kangle Street",
+               "short_name" : "Alley 7, Lane 201, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤º·¾¨½",
+               "short_name" : "¤º·¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 7, Lane 201, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0751833,
+                  "lng" : 121.6221018
+               },
+               "southwest" : {
+                  "lat" : 25.0751806,
+                  "lng" : 121.6220833
+               }
+            },
+            "location" : {
+               "lat" : 25.0751806,
+               "lng" : 121.6220833
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0765309302915,
+                  "lng" : 121.6234415302915
+               },
+               "southwest" : {
+                  "lat" : 25.0738329697085,
+                  "lng" : 121.6207435697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDlurfmqILooZcyMDHlt7c35byEOeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 61, Kangle Street",
+               "short_name" : "Lane 61, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 61, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0685829,
+                  "lng" : 121.6190351
+               },
+               "southwest" : {
+                  "lat" : 25.068567,
+                  "lng" : 121.6190285
+               }
+            },
+            "location" : {
+               "lat" : 25.0685829,
+               "lng" : 121.6190285
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0699239302915,
+                  "lng" : 121.6203807802915
+               },
+               "southwest" : {
+                  "lat" : 25.0672259697085,
+                  "lng" : 121.6176828197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDlurfmqILooZc2MeW3tznomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 186, Kangle Street",
+               "short_name" : "Lane 186, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤º·¾¨½",
+               "short_name" : "¤º·¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 186, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0770244,
+               "lng" : 121.6205539
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0783733802915,
+                  "lng" : 121.6219028802915
+               },
+               "southwest" : {
+                  "lat" : 25.0756754197085,
+                  "lng" : 121.6192049197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1Rbt2cmsQjQRF5bNMh-mvdo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 111, Kangle Street",
+               "short_name" : "Lane 111, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 111, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0705801,
+               "lng" : 121.6196378
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0719290802915,
+                  "lng" : 121.6209867802915
+               },
+               "southwest" : {
+                  "lat" : 25.06923111970849,
+                  "lng" : 121.6182888197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm9kY37CsQjQRDcpxSSWAnJU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 131, Kangle Street",
+               "short_name" : "Lane 131, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤º·¾¨½",
+               "short_name" : "¤º·¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 131, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0738146,
+                  "lng" : 121.6204011
+               },
+               "southwest" : {
+                  "lat" : 25.0737977,
+                  "lng" : 121.6203994
+               }
+            },
+            "location" : {
+               "lat" : 25.0738146,
+               "lng" : 121.6204011
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0751551302915,
+                  "lng" : 121.6217492302915
+               },
+               "southwest" : {
+                  "lat" : 25.0724571697085,
+                  "lng" : 121.6190512697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei4xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDlurfmqILooZcxMzHlt7c56Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 20, Kangle Street",
+               "short_name" : "Lane 20, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªF´ò¨½",
+               "short_name" : "ªF´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 20, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0685789,
+               "lng" : 121.6177905
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0699278802915,
+                  "lng" : 121.6191394802915
+               },
+               "southwest" : {
+                  "lat" : 25.0672299197085,
+                  "lng" : 121.6164415197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoUpRbrCsQjQRexZUkZW4Gbo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 48, Kangle Street",
+               "short_name" : "Lane 48, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªF´ò¨½",
+               "short_name" : "ªF´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 48, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0690423,
+               "lng" : 121.6181243
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0703912802915,
+                  "lng" : 121.6194732802915
+               },
+               "southwest" : {
+                  "lat" : 25.0676933197085,
+                  "lng" : 121.6167753197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEdktYbCsQjQR484hDrfz7pA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 191, Kangle Street",
+               "short_name" : "Lane 191, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤º·¾¨½",
+               "short_name" : "¤º·¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 191, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.074486,
+               "lng" : 121.6207522
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0758349802915,
+                  "lng" : 121.6221011802915
+               },
+               "southwest" : {
+                  "lat" : 25.0731370197085,
+                  "lng" : 121.6194032197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZT6VW7asQjQRCs9ZEIDlPbk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 110, Kangle Street",
+               "short_name" : "Lane 110, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 110, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0707888,
+               "lng" : 121.6186932
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0721377802915,
+                  "lng" : 121.6200421802915
+               },
+               "southwest" : {
+                  "lat" : 25.0694398197085,
+                  "lng" : 121.6173442197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUWBmwbCsQjQRltSGGgMJ6JE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9-1",
+               "short_name" : "9-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 151, Kangle Street",
+               "short_name" : "Lane 151, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9-1, Lane 151, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0717474,
+               "lng" : 121.6198658
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0730963802915,
+                  "lng" : 121.6212147802915
+               },
+               "southwest" : {
+                  "lat" : 25.0703984197085,
+                  "lng" : 121.6185168197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJA6yf1basQjQRFOYpg4Ue7a4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 162, Kangle Street",
+               "short_name" : "Lane 162, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 162, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0730272,
+               "lng" : 121.6190348
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0743761802915,
+                  "lng" : 121.6203837802915
+               },
+               "southwest" : {
+                  "lat" : 25.0716782197085,
+                  "lng" : 121.6176858197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJc35OPbesQjQRiJmuTBp4jmE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 72, Kangle Street",
+               "short_name" : "Lane 72, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªF´ò¨½",
+               "short_name" : "ªF´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 72, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0696313,
+               "lng" : 121.6183086
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0709802802915,
+                  "lng" : 121.6196575802915
+               },
+               "southwest" : {
+                  "lat" : 25.06828231970849,
+                  "lng" : 121.6169596197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYRZUi7CsQjQRIV-4CF8T300",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 17, Lane 72, Kangle Street",
+               "short_name" : "Alley 17, Lane 72, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªF´ò¨½",
+               "short_name" : "ªF´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 17, Lane 72, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0699992,
+               "lng" : 121.6181966
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0713481802915,
+                  "lng" : 121.6195455802915
+               },
+               "southwest" : {
+                  "lat" : 25.06865021970849,
+                  "lng" : 121.6168476197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJYNDjbCsQjQR8NhfKmbIk0o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 30, Lane 136, Kangle Street",
+               "short_name" : "Alley 30, Lane 136, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªF´ò¨½",
+               "short_name" : "ªF´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 30, Lane 136, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0718217,
+               "lng" : 121.6174176
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0731706802915,
+                  "lng" : 121.6187665802915
+               },
+               "southwest" : {
+                  "lat" : 25.0704727197085,
+                  "lng" : 121.6160686197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3xyCrrCsQjQRbblgVPefqhc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 15, Lane 136, Kangle Street",
+               "short_name" : "Alley 15, Lane 136, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 15, Lane 136, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0722969,
+               "lng" : 121.618719
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0736458802915,
+                  "lng" : 121.6200679802915
+               },
+               "southwest" : {
+                  "lat" : 25.07094791970849,
+                  "lng" : 121.6173700197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbwU3MbesQjQRCTR9MGlNvNw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 18, Lane 136, Kangle Street",
+               "short_name" : "Alley 18, Lane 136, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 18, Lane 136, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0715827,
+                  "lng" : 121.6184261
+               },
+               "southwest" : {
+                  "lat" : 25.0715813,
+                  "lng" : 121.6184074
+               }
+            },
+            "location" : {
+               "lat" : 25.0715827,
+               "lng" : 121.6184074
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0729309802915,
+                  "lng" : 121.6197657302915
+               },
+               "southwest" : {
+                  "lat" : 25.0702330197085,
+                  "lng" : 121.6170677697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDlurfmqILooZcxMzblt7cxOOW8hDnomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 79, Lane 61, Kangle Street",
+               "short_name" : "Alley 79, Lane 61, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 79, Lane 61, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0710727,
+               "lng" : 121.6204194
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0724216802915,
+                  "lng" : 121.6217683802915
+               },
+               "southwest" : {
+                  "lat" : 25.0697237197085,
+                  "lng" : 121.6190704197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHZsWLrGsQjQRmdFnmXR_aaI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 81, Lane 61, Kangle Street",
+               "short_name" : "Alley 81, Lane 61, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 81, Lane 61, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0713731,
+               "lng" : 121.6203916
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0727220802915,
+                  "lng" : 121.6217405802915
+               },
+               "southwest" : {
+                  "lat" : 25.0700241197085,
+                  "lng" : 121.6190426197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe0I5LbGsQjQRElgYg_9VOIQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 14, Lane 20, Kangle Street",
+               "short_name" : "Alley 14, Lane 20, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªF´ò¨½",
+               "short_name" : "ªF´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 14, Lane 20, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0685175,
+               "lng" : 121.6170539
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0698664802915,
+                  "lng" : 121.6184028802915
+               },
+               "southwest" : {
+                  "lat" : 25.0671685197085,
+                  "lng" : 121.6157049197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGV27dbCsQjQRmVcC-I3I_To",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 186, Kangle Street",
+               "short_name" : "Alley 1, Lane 186, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤º·¾¨½",
+               "short_name" : "¤º·¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 1, Lane 186, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0763529,
+               "lng" : 121.6207163
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0777018802915,
+                  "lng" : 121.6220652802915
+               },
+               "southwest" : {
+                  "lat" : 25.0750039197085,
+                  "lng" : 121.6193673197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj2QvJLasQjQR-VhFegKCQLw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 12, Lane 61, Kangle Street",
+               "short_name" : "Alley 12, Lane 61, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 12, Lane 61, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0689789,
+               "lng" : 121.6190792
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0703278802915,
+                  "lng" : 121.6204281802915
+               },
+               "southwest" : {
+                  "lat" : 25.06762991970849,
+                  "lng" : 121.6177302197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ66N_V7CsQjQR29ojPI94l8s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 62, Lane 111, Kangle Street",
+               "short_name" : "Alley 62, Lane 111, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 62, Lane 111, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0708148,
+                  "lng" : 121.6208197
+               },
+               "southwest" : {
+                  "lat" : 25.0707978,
+                  "lng" : 121.6208192
+               }
+            },
+            "location" : {
+               "lat" : 25.0708148,
+               "lng" : 121.6208197
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0721552802915,
+                  "lng" : 121.6221684302915
+               },
+               "southwest" : {
+                  "lat" : 25.0694573197085,
+                  "lng" : 121.6194704697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDlurfmqILooZcxMTHlt7c2MuW8hDnomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 29, Lane 136, Kangle Street",
+               "short_name" : "Alley 29, Lane 136, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 29, Lane 136, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0724098,
+                  "lng" : 121.617668
+               },
+               "southwest" : {
+                  "lat" : 25.0724003,
+                  "lng" : 121.6176524
+               }
+            },
+            "location" : {
+               "lat" : 25.0724098,
+               "lng" : 121.617668
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0737540302915,
+                  "lng" : 121.6190091802915
+               },
+               "southwest" : {
+                  "lat" : 25.07105606970849,
+                  "lng" : 121.6163112197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDlurfmqILooZcxMzblt7cyOeW8hDnomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 131, Kangle Street",
+               "short_name" : "Alley 2, Lane 131, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤º·¾¨½",
+               "short_name" : "¤º·¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 2, Lane 131, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0742905,
+                  "lng" : 121.6203551
+               },
+               "southwest" : {
+                  "lat" : 25.0742855,
+                  "lng" : 121.6203372
+               }
+            },
+            "location" : {
+               "lat" : 25.0742855,
+               "lng" : 121.6203551
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0756369802915,
+                  "lng" : 121.6216951302915
+               },
+               "southwest" : {
+                  "lat" : 25.0729390197085,
+                  "lng" : 121.6189971697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDlurfmqILooZcxMzHlt7cy5byEOeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

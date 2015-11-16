@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 3, Section 1, Jiuzhuang Street",
+               "short_name" : "Lane 3, Section 1, Jiuzhuang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ÂÂ²ø¨½",
+               "short_name" : "ÂÂ²ø¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 30, Lane 3, Section 1, Jiuzhuang St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0425578,
+               "lng" : 121.6184964
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0439067802915,
+                  "lng" : 121.6198453802915
+               },
+               "southwest" : {
+                  "lat" : 25.0412088197085,
+                  "lng" : 121.6171474197085
+               }
+            }
+         },
+         "place_id" : "ChIJuZkPC0-rQjQRBqCWA7kvegk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

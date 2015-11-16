@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "251",
+               "short_name" : "251",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dechang Street",
+               "short_name" : "Dechang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "§µ¼w¨½",
+               "short_name" : "§µ¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 251, Dechang St, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0230378,
+               "lng" : 121.492464
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0243867802915,
+                  "lng" : 121.4938129802915
+               },
+               "southwest" : {
+                  "lat" : 25.02168881970849,
+                  "lng" : 121.4911150197085
+               }
+            }
+         },
+         "place_id" : "ChIJReXhQ7WpQjQRXpB_kKNWENk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

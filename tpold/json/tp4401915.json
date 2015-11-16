@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 119, Jilin Road",
+               "short_name" : "Lane 119, Jilin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤¦N¨½",
+               "short_name" : "¤¤¦N¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Lane 119, Jilin Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0568275,
+                  "lng" : 121.5301734
+               },
+               "southwest" : {
+                  "lat" : 25.0568105,
+                  "lng" : 121.530173
+               }
+            },
+            "location" : {
+               "lat" : 25.0568105,
+               "lng" : 121.530173
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0581679802915,
+                  "lng" : 121.5315221802915
+               },
+               "southwest" : {
+                  "lat" : 25.05547001970849,
+                  "lng" : 121.5288242197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei4xMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlkInmnpfot68xMTnlt7cy6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 242, Guilin Road",
+               "short_name" : "Lane 242, Guilin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¬h¶m¨½",
+               "short_name" : "¬h¶m¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 22, Lane 242, Guilin Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0373287,
+               "lng" : 121.4946963
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0386776802915,
+                  "lng" : 121.4960452802915
+               },
+               "southwest" : {
+                  "lat" : 25.0359797197085,
+                  "lng" : 121.4933473197085
+               }
+            }
+         },
+         "place_id" : "ChIJM5H2eKypQjQRC8zbb-wIf1g",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

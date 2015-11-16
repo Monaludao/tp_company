@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 121, Section 2, Jiuzong Road",
+               "short_name" : "Lane 121, Section 2, Jiuzong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ò¤¸¨½",
+               "short_name" : "´ò¤¸¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 121, Section 2, Jiuzong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0692988,
+                  "lng" : 121.5764729
+               },
+               "southwest" : {
+                  "lat" : 25.0688773,
+                  "lng" : 121.5748584
+               }
+            },
+            "location" : {
+               "lat" : 25.0691682,
+               "lng" : 121.5757052
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0704370302915,
+                  "lng" : 121.5770146302915
+               },
+               "southwest" : {
+                  "lat" : 25.0677390697085,
+                  "lng" : 121.5743166697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7VAhInmsQjQRZpPX0JDWCmg",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

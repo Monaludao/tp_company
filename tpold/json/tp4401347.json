@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "87",
+               "short_name" : "87",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tonghe Street",
+               "short_name" : "Tonghe St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖµØ¨½",
+               "short_name" : "ºÖµØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 87, Tonghe St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.080643,
+               "lng" : 121.521944
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0819919802915,
+                  "lng" : 121.5232929802915
+               },
+               "southwest" : {
+                  "lat" : 25.0792940197085,
+                  "lng" : 121.5205950197085
+               }
+            }
+         },
+         "place_id" : "ChIJDYdmELOuQjQRI0ZASvL9o2s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

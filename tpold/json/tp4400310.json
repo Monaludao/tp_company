@@ -1,0 +1,246 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "西寧南路182巷",
+               "short_name" : "西寧南路182巷",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新起里",
+               "short_name" : "新起里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "108, Taiwan, Taipei City, Wanhua District, 西寧南路182巷2號",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0398199,
+               "lng" : 121.5060324
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0411688802915,
+                  "lng" : 121.5073813802915
+               },
+               "southwest" : {
+                  "lat" : 25.03847091970849,
+                  "lng" : 121.5046834197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGRIBfKepQjQRrs3ocyoGkW8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xining South Road",
+               "short_name" : "Xining S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "福星里",
+               "short_name" : "福星里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Xining S Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0482317,
+               "lng" : 121.506618
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04958068029151,
+                  "lng" : 121.5079669802915
+               },
+               "southwest" : {
+                  "lat" : 25.0468827197085,
+                  "lng" : 121.5052690197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbzNYWQ6pQjQRi27k1KrCJT0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-1",
+               "short_name" : "2-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "西寧南路182巷",
+               "short_name" : "西寧南路182巷",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新起里",
+               "short_name" : "新起里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "108, Taiwan, Taipei City, Wanhua District, 西寧南路182巷2-1號",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0398309,
+               "lng" : 121.5060324
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0411798802915,
+                  "lng" : 121.5073813802915
+               },
+               "southwest" : {
+                  "lat" : 25.0384819197085,
+                  "lng" : 121.5046834197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyccDfKepQjQRN9GckX7BLIg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-3",
+               "short_name" : "2-3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "西寧南路182巷",
+               "short_name" : "西寧南路182巷",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新起里",
+               "short_name" : "新起里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "108, Taiwan, Taipei City, Wanhua District, 西寧南路182巷2-3號",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0398469,
+               "lng" : 121.5060314
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04119588029151,
+                  "lng" : 121.5073803802915
+               },
+               "southwest" : {
+                  "lat" : 25.0384979197085,
+                  "lng" : 121.5046824197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIS0DfKepQjQRaZG5kep6u74",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

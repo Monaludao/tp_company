@@ -1,0 +1,56 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Section 6, Civic Boulevard",
+               "short_name" : "Section 6, Civic Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Section 6, Civic Blvd & Section 7, Civic Blvd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.048914,
+               "lng" : 121.5800571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0502629802915,
+                  "lng" : 121.5814060802915
+               },
+               "southwest" : {
+                  "lat" : 25.0475650197085,
+                  "lng" : 121.5787081197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej8xMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDluILmsJHlpKfpgZPlha3mrrXluILmsJHlpKfpgZPkuIPmrrU",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}
+

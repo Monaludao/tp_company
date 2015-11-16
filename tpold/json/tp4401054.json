@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "67",
+               "short_name" : "67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Qingcheng Street",
+               "short_name" : "Qingcheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªQ°ò¨½",
+               "short_name" : "ªQ°ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 67, Qingcheng St, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0564719,
+               "lng" : 121.547106
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0578208802915,
+                  "lng" : 121.5484549802915
+               },
+               "southwest" : {
+                  "lat" : 25.0551229197085,
+                  "lng" : 121.5457570197085
+               }
+            }
+         },
+         "place_id" : "ChIJ0fbjDOarQjQRZBcpbUVXovc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

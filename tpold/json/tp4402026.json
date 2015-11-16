@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "68",
+               "short_name" : "68",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 24, Lane 284, Wuxing Street",
+               "short_name" : "Alley 24, Lane 284, Wuxing St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Âù©M¨½",
+               "short_name" : "Âù©M¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 68, Alley 24, Lane 284, Wuxing St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0230639,
+               "lng" : 121.561487
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0244128802915,
+                  "lng" : 121.5628359802915
+               },
+               "southwest" : {
+                  "lat" : 25.0217149197085,
+                  "lng" : 121.5601380197085
+               }
+            }
+         },
+         "place_id" : "ChIJlahiP0qqQjQRxElm2dNICeM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

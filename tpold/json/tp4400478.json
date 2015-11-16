@@ -1,0 +1,486 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8-6",
+               "short_name" : "8-6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxin Street",
+               "short_name" : "Dongxin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥É¦¨¨½",
+               "short_name" : "¥É¦¨¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8-6, Dongxin St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0504127,
+               "lng" : 121.5830627
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0517616802915,
+                  "lng" : 121.5844116802915
+               },
+               "southwest" : {
+                  "lat" : 25.0490637197085,
+                  "lng" : 121.5817137197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxUTgJXarQjQRMh72VJoKgyQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8-1",
+               "short_name" : "8-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxin Street",
+               "short_name" : "Dongxin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥É¦¨¨½",
+               "short_name" : "¥É¦¨¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8-1, Dongxin St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0506554,
+               "lng" : 121.582868
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.05200438029151,
+                  "lng" : 121.5842169802915
+               },
+               "southwest" : {
+                  "lat" : 25.0493064197085,
+                  "lng" : 121.5815190197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz3VYKHarQjQRQuLBWRrLnrA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10-8",
+               "short_name" : "10-8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxin Street",
+               "short_name" : "Dongxin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥É¦¨¨½",
+               "short_name" : "¥É¦¨¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 10-8, Dongxin St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0499525,
+               "lng" : 121.5834007
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0513014802915,
+                  "lng" : 121.5847496802915
+               },
+               "southwest" : {
+                  "lat" : 25.0486035197085,
+                  "lng" : 121.5820517197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO-0xI3arQjQR2sakPWgH8QA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8-5",
+               "short_name" : "8-5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxin Street",
+               "short_name" : "Dongxin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥É¦¨¨½",
+               "short_name" : "¥É¦¨¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8-5, Dongxin St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0504789,
+               "lng" : 121.5830054
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0518278802915,
+                  "lng" : 121.5843543802915
+               },
+               "southwest" : {
+                  "lat" : 25.04912991970849,
+                  "lng" : 121.5816564197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp08bJnarQjQRMRpwbNMzHtA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8-7",
+               "short_name" : "8-7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxin Street",
+               "short_name" : "Dongxin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥É¦¨¨½",
+               "short_name" : "¥É¦¨¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8-7, Dongxin St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0503421,
+               "lng" : 121.5831291
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0516910802915,
+                  "lng" : 121.5844780802915
+               },
+               "southwest" : {
+                  "lat" : 25.04899311970849,
+                  "lng" : 121.5817801197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQcDIJXarQjQRzMlqK8ZbP8Y",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8-2",
+               "short_name" : "8-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxin Street",
+               "short_name" : "Dongxin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥É¦¨¨½",
+               "short_name" : "¥É¦¨¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8-2, Dongxin St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0506093,
+               "lng" : 121.5829085
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0519582802915,
+                  "lng" : 121.5842574802915
+               },
+               "southwest" : {
+                  "lat" : 25.04926031970849,
+                  "lng" : 121.5815595197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqTWNKHarQjQRZFGfLQwDIoY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8-4",
+               "short_name" : "8-4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxin Street",
+               "short_name" : "Dongxin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥É¦¨¨½",
+               "short_name" : "¥É¦¨¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8-4, Dongxin St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0505271,
+               "lng" : 121.5829708
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.05187608029151,
+                  "lng" : 121.5843197802915
+               },
+               "southwest" : {
+                  "lat" : 25.0491781197085,
+                  "lng" : 121.5816218197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO6GhKHarQjQRdEy4Znv42dw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "8-3",
+               "short_name" : "8-3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxin Street",
+               "short_name" : "Dongxin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥É¦¨¨½",
+               "short_name" : "¥É¦¨¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8-3, Dongxin St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0505649,
+               "lng" : 121.5829447
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0519138802915,
+                  "lng" : 121.5842936802915
+               },
+               "southwest" : {
+                  "lat" : 25.04921591970849,
+                  "lng" : 121.5815957197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOWuXKHarQjQRNHXpB8wW9pw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ningbo West Street",
+               "short_name" : "Ningbo W St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 18, Ningbo W St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0311593,
+               "lng" : 121.5184565
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0325082802915,
+                  "lng" : 121.5198054802915
+               },
+               "southwest" : {
+                  "lat" : 25.0298103197085,
+                  "lng" : 121.5171075197085
+               }
+            }
+         },
+         "place_id" : "ChIJtQH3R5mpQjQRTHFVt-X4IH4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "201",
+               "short_name" : "201",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ruiguang Road",
+               "short_name" : "Ruiguang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·ç¥ú¨½",
+               "short_name" : "·ç¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 201, Ruiguang Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0736575,
+                  "lng" : 121.5793215
+               },
+               "southwest" : {
+                  "lat" : 25.0736458,
+                  "lng" : 121.5793079
+               }
+            },
+            "location" : {
+               "lat" : 25.0736575,
+               "lng" : 121.5793215
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0750006302915,
+                  "lng" : 121.5806636802915
+               },
+               "southwest" : {
+                  "lat" : 25.0723026697085,
+                  "lng" : 121.5779657197085
+               }
+            }
+         },
+         "place_id" : "EioxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDnkZ7lhYnot68yMDHomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

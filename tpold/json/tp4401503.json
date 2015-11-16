@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 74, Xiushan Road",
+               "short_name" : "Lane 74, Xiushan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¨q¤s¨½",
+               "short_name" : "¨q¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Lane 74, Xiushan Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1471992,
+               "lng" : 121.4932884
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1485481802915,
+                  "lng" : 121.4946373802915
+               },
+               "southwest" : {
+                  "lat" : 25.1458502197085,
+                  "lng" : 121.4919394197085
+               }
+            }
+         },
+         "place_id" : "ChIJ2Qp55UquQjQRzf6wO2mGyxU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

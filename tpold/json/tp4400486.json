@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 128, Jingye 1st Road",
+               "short_name" : "Lane 128, Jingye 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "成功里",
+               "short_name" : "成功里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 128, Jingye 1st Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.083206,
+               "lng" : 121.5537406
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0845549802915,
+                  "lng" : 121.5550895802915
+               },
+               "southwest" : {
+                  "lat" : 25.0818570197085,
+                  "lng" : 121.5523916197085
+               }
+            }
+         },
+         "place_id" : "ChIJd2tR8xGsQjQRj5F1D2Dr5ig",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Andong Street",
+               "short_name" : "Andong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸Û¦w¨½",
+               "short_name" : "¸Û¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 45, Andong St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0435587,
+               "lng" : 121.5424457
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0449076802915,
+                  "lng" : 121.5437946802915
+               },
+               "southwest" : {
+                  "lat" : 25.0422097197085,
+                  "lng" : 121.5410967197085
+               }
+            }
+         },
+         "place_id" : "ChIJuzBri9mrQjQRDvnGf7wS2q8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

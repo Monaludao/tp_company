@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "61",
+               "short_name" : "61",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fushou Street",
+               "short_name" : "Fushou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ÂÂ¨Î¨½",
+               "short_name" : "ÂÂ¨Î¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 61, Fushou St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0969002,
+               "lng" : 121.5254081
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0982491802915,
+                  "lng" : 121.5267570802915
+               },
+               "southwest" : {
+                  "lat" : 25.0955512197085,
+                  "lng" : 121.5240591197085
+               }
+            }
+         },
+         "place_id" : "ChIJo6OALL2uQjQRK6gpXT2RVGI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "289",
+               "short_name" : "289",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Nangang Road",
+               "short_name" : "Section 1, Nangang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«n´ä¨½",
+               "short_name" : "«n´ä¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 289, Section 1, Nangang Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0544468,
+               "lng" : 121.608278
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0557957802915,
+                  "lng" : 121.6096269802915
+               },
+               "southwest" : {
+                  "lat" : 25.05309781970849,
+                  "lng" : 121.6069290197085
+               }
+            }
+         },
+         "place_id" : "ChIJGQwKYF6rQjQRqclAxDqvDco",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

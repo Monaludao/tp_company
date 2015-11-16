@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nanning Road",
+               "short_name" : "Nanning Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´IºÖ¨½",
+               "short_name" : "´IºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 31, Nanning Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0365261,
+                  "lng" : 121.5047045
+               },
+               "southwest" : {
+                  "lat" : 25.0365146,
+                  "lng" : 121.5046907
+               }
+            },
+            "location" : {
+               "lat" : 25.0365261,
+               "lng" : 121.5046907
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0378693302915,
+                  "lng" : 121.5060465802915
+               },
+               "southwest" : {
+                  "lat" : 25.0351713697085,
+                  "lng" : 121.5033486197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikxMDjlj7DngaPlj7DljJfluILokKzoj6_ljYDljZflr6fot68zMeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

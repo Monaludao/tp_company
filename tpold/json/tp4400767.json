@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 23, Lane 85, Section 3, Muzha Road",
+               "short_name" : "Alley 23, Lane 85, Section 3, Muzha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "дьм]и╜",
+               "short_name" : "дьм]и╜",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 24, Alley 23, Lane 85, Section 3, Muzha Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.989433,
+               "lng" : 121.568294
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9907819802915,
+                  "lng" : 121.5696429802915
+               },
+               "southwest" : {
+                  "lat" : 24.9880840197085,
+                  "lng" : 121.5669450197085
+               }
+            }
+         },
+         "place_id" : "ChIJxXvyIHGqQjQRqo0oW7cdCkA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

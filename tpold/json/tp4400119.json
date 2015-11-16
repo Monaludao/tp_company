@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 20, Lane 78, Fuxing Road",
+               "short_name" : "Alley 20, Lane 78, Fuxing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³©ô¨½",
+               "short_name" : "¿³©ô¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 19, Alley 20, Lane 78, Fuxing Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0045919,
+               "lng" : 121.551349
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0059408802915,
+                  "lng" : 121.5526979802915
+               },
+               "southwest" : {
+                  "lat" : 25.00324291970849,
+                  "lng" : 121.5500000197085
+               }
+            }
+         },
+         "place_id" : "ChIJyR4Z4haqQjQR2Ap_hFtUOys",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

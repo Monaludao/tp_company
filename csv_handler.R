@@ -1,19 +1,25 @@
 csv_filter<-function(){
-    csv.list<-paste0("./csv/",dir("csv/"))
-    for (i in 1:length(dir("csv/"))){
-        csv.lines<-readLines(csv.list[i],encoding="UTF-8")
-        csv.lines<-gsub("\"","",csv.lines)
-        csv.lines<-csv.lines[grep("臺北市",csv.lines)]
+    dir.root<-"./csv/"
+    dir.list<-dir(dir.root)
+    for (d in 1:length(dir.list)){
+        dir.name<-dir.list[d]
+        csv.root<-paste0(dir.root,dir.name,"/")
+        csv.list<-dir(csv.root)
+        csv.path<-paste0(csv.root,csv.list)
         
-        ##addr<-gsub(".*,.*,(臺北市.*$)","\\1",csv.lines[i])
-        ##csv.lines<-gsub(".*,.*,(臺北市.*$)",gsub(","," ",addr),csv.lines[i])
-        
-        ##csv.lines<-strsplit(csv.lines,",")    
-        c.number<-paste0(rep("0",(2-nchar(as.character(i)))),as.character(i))
-        
-        write(csv.lines,file=paste0("./tpdata/tp",c.number,".csv"))
+        for (i in 1:length(csv.list)){
+            csv.name<-gsub(".csv","",csv.list[i])
+            csv.lines<-readLines(csv.path[i],encoding="UTF-8")
+            csv.lines<-gsub("\"","",csv.lines)
+            csv.lines<-csv.lines[grep("臺北市",csv.lines)]
+            csv.lines<-paste0(csv.lines,",",csv.name)
+            
+            c.number<-paste0(rep("0",(2-nchar(as.character(i)))),as.character(i))
+            c.path<-paste0("./tpprocess/",dir.name,"/")
+            
+            write(csv.lines,file=paste0(c.path,c.number,csv.name,".csv"))
+        }
     }
-    
 }
 
 csv_convert<-function(){

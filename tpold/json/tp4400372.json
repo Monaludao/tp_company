@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "299",
+               "short_name" : "299",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Linong Street",
+               "short_name" : "Section 2, Linong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "東華里",
+               "short_name" : "東華里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 299, Section 2, Linong St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.118666,
+               "lng" : 121.5162528
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1200149802915,
+                  "lng" : 121.5176017802915
+               },
+               "southwest" : {
+                  "lat" : 25.11731701970849,
+                  "lng" : 121.5149038197085
+               }
+            }
+         },
+         "place_id" : "ChIJVXuDEouuQjQROxl6auUBXsI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

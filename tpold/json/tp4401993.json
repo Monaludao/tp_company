@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-1",
+               "short_name" : "1-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tianmu East Road",
+               "short_name" : "Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天山里",
+               "short_name" : "天山里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-1, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1183524,
+               "lng" : 121.531008
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1197013802915,
+                  "lng" : 121.5323569802915
+               },
+               "southwest" : {
+                  "lat" : 25.1170034197085,
+                  "lng" : 121.5296590197085
+               }
+            }
+         },
+         "place_id" : "ChIJk7XpTYeuQjQRR251SfKg77w",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 38, Linkou Street",
+               "short_name" : "Lane 38, Linkou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤j¤¯¨½",
+               "short_name" : "¤j¤¯¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 25, Lane 38, Linkou St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.038343,
+               "lng" : 121.580306
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0396919802915,
+                  "lng" : 121.5816549802915
+               },
+               "southwest" : {
+                  "lat" : 25.03699401970849,
+                  "lng" : 121.5789570197085
+               }
+            }
+         },
+         "place_id" : "ChIJp3VXLKerQjQRgzs18ryN-z8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

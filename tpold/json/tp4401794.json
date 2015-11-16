@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 655, Zhongzheng Road",
+               "short_name" : "Lane 655, Zhongzheng Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸¬Äª¨½",
+               "short_name" : "¸¬Äª¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Lane 655, Zhongzheng Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0859074,
+                  "lng" : 121.5077857
+               },
+               "southwest" : {
+                  "lat" : 25.0859021,
+                  "lng" : 121.5077679
+               }
+            },
+            "location" : {
+               "lat" : 25.0859074,
+               "lng" : 121.5077857
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0872537302915,
+                  "lng" : 121.5091257802915
+               },
+               "southwest" : {
+                  "lat" : 25.0845557697085,
+                  "lng" : 121.5064278197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDkuK3mraPot682NTXlt7cxN-iZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

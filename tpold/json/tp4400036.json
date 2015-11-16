@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "88",
+               "short_name" : "88",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Nanjing East Road",
+               "short_name" : "Section 2, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¨È¨½",
+               "short_name" : "¿³¨È¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 88, Section 2, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0517892,
+               "lng" : 121.5312059
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0531381802915,
+                  "lng" : 121.5325548802915
+               },
+               "southwest" : {
+                  "lat" : 25.0504402197085,
+                  "lng" : 121.5298569197085
+               }
+            }
+         },
+         "place_id" : "ChIJPb2-zGapQjQRAHCdQPT3zuM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 10, Lane 2, Section 2, Yanjiuyuan Road",
+               "short_name" : "Alley 10, Lane 2, Section 2, Yanjiuyuan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中研里",
+               "short_name" : "中研里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 10, Lane 2, Section 2, Yanjiuyuan Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0480955,
+               "lng" : 121.6150997
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0494444802915,
+                  "lng" : 121.6164486802915
+               },
+               "southwest" : {
+                  "lat" : 25.0467465197085,
+                  "lng" : 121.6137507197085
+               }
+            }
+         },
+         "place_id" : "ChIJEx9x7lqrQjQR44yBMvv1uT8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

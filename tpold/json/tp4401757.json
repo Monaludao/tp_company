@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "97",
+               "short_name" : "97",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhiyuan 2nd Road",
+               "short_name" : "Zhiyuan 2nd Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦N§Q¨½",
+               "short_name" : "¦N§Q¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 97, Zhiyuan 2nd Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1163909,
+               "lng" : 121.5116883
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1177398802915,
+                  "lng" : 121.5130372802915
+               },
+               "southwest" : {
+                  "lat" : 25.1150419197085,
+                  "lng" : 121.5103393197085
+               }
+            }
+         },
+         "place_id" : "ChIJf4FAD_OuQjQRLkAovFtv32M",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

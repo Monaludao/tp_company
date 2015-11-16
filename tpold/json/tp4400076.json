@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "118",
+               "short_name" : "118",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 416, Section 2, Zhonghua Road",
+               "short_name" : "Lane 416, Section 2, Zhonghua Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新安里",
+               "short_name" : "新安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 118, Lane 416, Section 2, Zhonghua Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0266489,
+               "lng" : 121.5015989
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0279978802915,
+                  "lng" : 121.5029478802915
+               },
+               "southwest" : {
+                  "lat" : 25.02529991970849,
+                  "lng" : 121.5002499197085
+               }
+            }
+         },
+         "place_id" : "ChIJOejDlbCpQjQR1egAoKxiw6o",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

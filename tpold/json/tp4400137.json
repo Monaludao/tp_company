@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 283, Section 3, Roosevelt Road",
+               "short_name" : "Alley 4, Lane 283, Section 3, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "大學里",
+               "short_name" : "大學里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Alley 4, Lane 283, Section 3, Roosevelt Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.018027,
+               "lng" : 121.531852
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0193759802915,
+                  "lng" : 121.5332009802915
+               },
+               "southwest" : {
+                  "lat" : 25.0166780197085,
+                  "lng" : 121.5305030197085
+               }
+            }
+         },
+         "place_id" : "ChIJzW9z_YupQjQR0xkB8o7KejA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

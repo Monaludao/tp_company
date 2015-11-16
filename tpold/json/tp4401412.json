@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 116, Lane 5, Ziqiang Street",
+               "short_name" : "Alley 116, Lane 5, Ziqiang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¿³¨½",
+               "short_name" : "ºÖ¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 116, Lane 5, Ziqiang St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1128178,
+               "lng" : 121.5110495
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1141667802915,
+                  "lng" : 121.5123984802915
+               },
+               "southwest" : {
+                  "lat" : 25.1114688197085,
+                  "lng" : 121.5097005197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7Q3hg-2uQjQRw0q_TrNLrsQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

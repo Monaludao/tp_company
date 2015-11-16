@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 136, Sanmin Road",
+               "short_name" : "Lane 136, Sanmin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´IÀA¨½",
+               "short_name" : "´IÀA¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Lane 136, Sanmin Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.060674,
+               "lng" : 121.5641735
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0620229802915,
+                  "lng" : 121.5655224802915
+               },
+               "southwest" : {
+                  "lat" : 25.0593250197085,
+                  "lng" : 121.5628245197085
+               }
+            }
+         },
+         "place_id" : "ChIJ79pwyo2rQjQRumA1vGqBsdc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

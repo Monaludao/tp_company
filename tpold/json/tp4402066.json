@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 230, Jingfu Street",
+               "short_name" : "Lane 230, Jingfu St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´º¼y¨½",
+               "short_name" : "´º¼y¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Lane 230, Jingfu St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.993554,
+               "lng" : 121.538941
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9949029802915,
+                  "lng" : 121.5402899802915
+               },
+               "southwest" : {
+                  "lat" : 24.9922050197085,
+                  "lng" : 121.5375920197085
+               }
+            }
+         },
+         "place_id" : "ChIJHbOAuwGqQjQRZ-jwhV5vw7A",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 187, Section 3, Chenggong Road",
+               "short_name" : "Lane 187, Section 3, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "µµ¬P¨½",
+               "short_name" : "µµ¬P¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 39, Lane 187, Section 3, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.079033,
+               "lng" : 121.5921644
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0803819802915,
+                  "lng" : 121.5935133802915
+               },
+               "southwest" : {
+                  "lat" : 25.0776840197085,
+                  "lng" : 121.5908154197085
+               }
+            }
+         },
+         "place_id" : "ChIJo-5RxI2sQjQRBawS347-oto",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

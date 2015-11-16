@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Taoyuan Street",
+               "short_name" : "Taoyuan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "建國里",
+               "short_name" : "建國里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Taoyuan St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.041747,
+               "lng" : 121.510561
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0430959802915,
+                  "lng" : 121.5119099802915
+               },
+               "southwest" : {
+                  "lat" : 25.04039801970849,
+                  "lng" : 121.5092120197085
+               }
+            }
+         },
+         "place_id" : "ChIJkaWjsgupQjQR3O8oZgDj1d0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

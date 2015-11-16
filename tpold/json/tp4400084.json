@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "64",
+               "short_name" : "64",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 202, Hulin Street",
+               "short_name" : "Lane 202, Hulin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "國業里",
+               "short_name" : "國業里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 64, Lane 202, Hulin St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.03742,
+               "lng" : 121.5756239
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0387689802915,
+                  "lng" : 121.5769728802915
+               },
+               "southwest" : {
+                  "lat" : 25.03607101970849,
+                  "lng" : 121.5742749197085
+               }
+            }
+         },
+         "place_id" : "ChIJL5dHNqSrQjQRSARFZdu4wlY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "57",
+               "short_name" : "57",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Quanzhou Street",
+               "short_name" : "Quanzhou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¥ú¨½",
+               "short_name" : "Às¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 57, Quanzhou St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.02823,
+               "lng" : 121.514682
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0295789802915,
+                  "lng" : 121.5160309802915
+               },
+               "southwest" : {
+                  "lat" : 25.0268810197085,
+                  "lng" : 121.5133330197085
+               }
+            }
+         },
+         "place_id" : "ChIJu5sID5ipQjQRpwhO9R4i6Kc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

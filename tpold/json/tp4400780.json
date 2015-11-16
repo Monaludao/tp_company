@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 136, Mingde Road",
+               "short_name" : "Alley 3, Lane 136, Mingde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºaµØ¨½",
+               "short_name" : "ºaµØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 3, Lane 136, Mingde Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1101464,
+               "lng" : 121.5209834
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1114953802915,
+                  "lng" : 121.5223323802915
+               },
+               "southwest" : {
+                  "lat" : 25.1087974197085,
+                  "lng" : 121.5196344197085
+               }
+            }
+         },
+         "place_id" : "ChIJoZCo6JGuQjQRg00gSmWSWt4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,546 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "23-2",
+               "short_name" : "23-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 22, Tianmu East Road",
+               "short_name" : "Lane 22, Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天福里",
+               "short_name" : "天福里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23-2, Lane 22, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1169467,
+               "lng" : 121.532728
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1182956802915,
+                  "lng" : 121.5340769802915
+               },
+               "southwest" : {
+                  "lat" : 25.1155977197085,
+                  "lng" : 121.5313790197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHSH06YCuQjQR14hG61LjWtY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23-4",
+               "short_name" : "23-4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 22, Tianmu East Road",
+               "short_name" : "Lane 22, Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天福里",
+               "short_name" : "天福里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23-4, Lane 22, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1169959,
+               "lng" : 121.5329247
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1183448802915,
+                  "lng" : 121.5342736802915
+               },
+               "southwest" : {
+                  "lat" : 25.1156469197085,
+                  "lng" : 121.5315757197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjRTU64CuQjQRbYLyIdD8N9M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23-8",
+               "short_name" : "23-8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 22, Tianmu East Road",
+               "short_name" : "Lane 22, Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天福里",
+               "short_name" : "天福里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23-8, Lane 22, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1170706,
+               "lng" : 121.532858
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1184195802915,
+                  "lng" : 121.5342069802915
+               },
+               "southwest" : {
+                  "lat" : 25.11572161970849,
+                  "lng" : 121.5315090197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_wmq64CuQjQRyMabz6CKvrA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23-3",
+               "short_name" : "23-3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 22, Tianmu East Road",
+               "short_name" : "Lane 22, Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天福里",
+               "short_name" : "天福里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23-3, Lane 22, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.116995,
+               "lng" : 121.5328576
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1183439802915,
+                  "lng" : 121.5342065802915
+               },
+               "southwest" : {
+                  "lat" : 25.1156460197085,
+                  "lng" : 121.5315086197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwR-I6YCuQjQR9Oq3vRkUNQQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23-5",
+               "short_name" : "23-5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 22, Tianmu East Road",
+               "short_name" : "Lane 22, Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天福里",
+               "short_name" : "天福里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23-5, Lane 22, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1169665,
+               "lng" : 121.5329874
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1183154802915,
+                  "lng" : 121.5343363802915
+               },
+               "southwest" : {
+                  "lat" : 25.1156175197085,
+                  "lng" : 121.5316384197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwavg64CuQjQROsTdY-8t4D4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23-6",
+               "short_name" : "23-6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 22, Tianmu East Road",
+               "short_name" : "Lane 22, Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天福里",
+               "short_name" : "天福里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23-6, Lane 22, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1170001,
+               "lng" : 121.5329146
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1183490802915,
+                  "lng" : 121.5342635802915
+               },
+               "southwest" : {
+                  "lat" : 25.1156511197085,
+                  "lng" : 121.5315656197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ5G-64CuQjQRThqsatYgIMs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23-1",
+               "short_name" : "23-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 22, Tianmu East Road",
+               "short_name" : "Lane 22, Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天福里",
+               "short_name" : "天福里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23-1, Lane 22, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1169284,
+               "lng" : 121.5326558
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1182773802915,
+                  "lng" : 121.5340047802915
+               },
+               "southwest" : {
+                  "lat" : 25.1155794197085,
+                  "lng" : 121.5313068197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsTQIwoCuQjQRzwYozGP7qUU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23-7",
+               "short_name" : "23-7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 22, Tianmu East Road",
+               "short_name" : "Lane 22, Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天福里",
+               "short_name" : "天福里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23-7, Lane 22, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1170343,
+               "lng" : 121.532859
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1183832802915,
+                  "lng" : 121.5342079802915
+               },
+               "southwest" : {
+                  "lat" : 25.1156853197085,
+                  "lng" : 121.5315100197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV_Gt64CuQjQRMjM0fh4XaWI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tianmu East Road",
+               "short_name" : "Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天山里",
+               "short_name" : "天山里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1182028,
+               "lng" : 121.5318278
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1195517802915,
+                  "lng" : 121.5331767802915
+               },
+               "southwest" : {
+                  "lat" : 25.1168538197085,
+                  "lng" : 121.5304788197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeSPSsYCuQjQRtlMPzchkEvo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

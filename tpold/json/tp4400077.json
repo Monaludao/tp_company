@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beiping East Road",
+               "short_name" : "Beiping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "±öªá¨½",
+               "short_name" : "±öªá¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 30, Beiping E Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0457391,
+               "lng" : 121.5256144
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0470880802915,
+                  "lng" : 121.5269633802915
+               },
+               "southwest" : {
+                  "lat" : 25.0443901197085,
+                  "lng" : 121.5242654197085
+               }
+            }
+         },
+         "place_id" : "ChIJ2Y0grHqpQjQRJqHK-4826D8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

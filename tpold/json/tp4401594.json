@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 40, Lane 165, Section 4, Xinglong Road",
+               "short_name" : "Alley 40, Lane 165, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶¶¿³¨½",
+               "short_name" : "¶¶¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Alley 40, Lane 165, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9840922,
+               "lng" : 121.563606
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9854411802915,
+                  "lng" : 121.5649549802915
+               },
+               "southwest" : {
+                  "lat" : 24.9827432197085,
+                  "lng" : 121.5622570197085
+               }
+            }
+         },
+         "place_id" : "ChIJb5d9Yt8BaDQRtUjg-3dmgL0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

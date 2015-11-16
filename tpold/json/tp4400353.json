@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "46",
+               "short_name" : "46",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 147, Section 1, Keelung Road",
+               "short_name" : "Alley 5, Lane 147, Section 1, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¶®¨½",
+               "short_name" : "¿³¶®¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 46, Alley 5, Lane 147, Section 1, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.042946,
+               "lng" : 121.566439
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0442949802915,
+                  "lng" : 121.5677879802915
+               },
+               "southwest" : {
+                  "lat" : 25.0415970197085,
+                  "lng" : 121.5650900197085
+               }
+            }
+         },
+         "place_id" : "ChIJo_P_FryrQjQRbN-R4iIHhCQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

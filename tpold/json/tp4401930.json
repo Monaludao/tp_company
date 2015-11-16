@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "°·±d¸ô20«Ñ",
+               "short_name" : "°·±d¸ô20«Ñ",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªF¶Õ¨½",
+               "short_name" : "ªF¶Õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "105, Taiwan, Taipei City, Songshan District, °·±d¸ô20«Ñ7¸¹",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.052933,
+               "lng" : 121.552927
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0542819802915,
+                  "lng" : 121.5542759802915
+               },
+               "southwest" : {
+                  "lat" : 25.0515840197085,
+                  "lng" : 121.5515780197085
+               }
+            }
+         },
+         "place_id" : "ChIJZWmIdemrQjQRWzJFMu-9-gM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

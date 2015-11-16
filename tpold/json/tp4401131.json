@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7-1",
+               "short_name" : "7-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 1, Guoxing Road",
+               "short_name" : "Lane 1, Guoxing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ÄË¶³¨½",
+               "short_name" : "ÄË¶³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7-1, Lane 1, Guoxing Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.023946,
+               "lng" : 121.509329
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0252949802915,
+                  "lng" : 121.5106779802915
+               },
+               "southwest" : {
+                  "lat" : 25.0225970197085,
+                  "lng" : 121.5079800197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7-L2GrypQjQRgOiRp8dQ1zA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

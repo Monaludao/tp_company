@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 73, Songlong Road",
+               "short_name" : "Lane 73, Songlong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´°«p¨½",
+               "short_name" : "´°«p¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Lane 73, Songlong Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.045191,
+               "lng" : 121.5693563
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0465399802915,
+                  "lng" : 121.5707052802915
+               },
+               "southwest" : {
+                  "lat" : 25.0438420197085,
+                  "lng" : 121.5680073197085
+               }
+            }
+         },
+         "place_id" : "ChIJf9DtbL2rQjQRnkEfAjM9I9E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

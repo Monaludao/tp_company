@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "116-4",
+               "short_name" : "116-4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxin Street",
+               "short_name" : "Dongxin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "成福里",
+               "short_name" : "成福里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 116-4, Dongxin St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0464568,
+               "lng" : 121.5882212
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0478057802915,
+                  "lng" : 121.5895701802915
+               },
+               "southwest" : {
+                  "lat" : 25.0451078197085,
+                  "lng" : 121.5868722197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxxhSCHSrQjQRgGip8JBPbpA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "97-4",
+               "short_name" : "97-4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxin Street",
+               "short_name" : "Dongxin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "聯成里",
+               "short_name" : "聯成里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 97-4, Dongxin St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0467586,
+               "lng" : 121.5895301
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0481075802915,
+                  "lng" : 121.5908790802915
+               },
+               "southwest" : {
+                  "lat" : 25.0454096197085,
+                  "lng" : 121.5881811197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV5kS4XOrQjQRfU9nAludxcc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

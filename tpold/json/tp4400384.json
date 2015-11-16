@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "181",
+               "short_name" : "181",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Guisui Street",
+               "short_name" : "Guisui St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©µ¥­¨½",
+               "short_name" : "©µ¥­¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 181, Guisui St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.058278,
+               "lng" : 121.513121
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0596269802915,
+                  "lng" : 121.5144699802915
+               },
+               "southwest" : {
+                  "lat" : 25.05692901970849,
+                  "lng" : 121.5117720197085
+               }
+            }
+         },
+         "place_id" : "ChIJbyauOBWpQjQR2c06uw7J8p4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

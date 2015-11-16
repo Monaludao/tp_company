@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "57",
+               "short_name" : "57",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ganghua Street",
+               "short_name" : "Ganghua St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´äµØ¨½",
+               "short_name" : "´äµØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 57, Ganghua St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0830337,
+               "lng" : 121.575355
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0843826802915,
+                  "lng" : 121.5767039802915
+               },
+               "southwest" : {
+                  "lat" : 25.08168471970849,
+                  "lng" : 121.5740060197085
+               }
+            }
+         },
+         "place_id" : "ChIJBYf1lmasQjQRnVbxIOJznxo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

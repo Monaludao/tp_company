@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "517",
+               "short_name" : "517",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xinming Road",
+               "short_name" : "Xinming Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦æµ½¨½",
+               "short_name" : "¦æµ½¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 517, Xinming Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.053536,
+               "lng" : 121.578861
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0548849802915,
+                  "lng" : 121.5802099802915
+               },
+               "southwest" : {
+                  "lat" : 25.05218701970849,
+                  "lng" : 121.5775120197085
+               }
+            }
+         },
+         "place_id" : "ChIJ91JCwpyrQjQRcBP9fTw5JEQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

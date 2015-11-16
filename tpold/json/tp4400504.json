@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "172",
+               "short_name" : "172",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hualing Street",
+               "short_name" : "Hualing St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«e´ä¨½",
+               "short_name" : "«e´ä¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 172, Hualing St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.086972,
+               "lng" : 121.519616
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0883209802915,
+                  "lng" : 121.5209649802915
+               },
+               "southwest" : {
+                  "lat" : 25.0856230197085,
+                  "lng" : 121.5182670197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyat11LauQjQRX4FOp_6vJmw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

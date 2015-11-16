@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 198, Dehui Street",
+               "short_name" : "Lane 198, Dehui St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新喜里",
+               "short_name" : "新喜里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 15, Lane 198, Dehui St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0658899,
+               "lng" : 121.5326943
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0672388802915,
+                  "lng" : 121.5340432802915
+               },
+               "southwest" : {
+                  "lat" : 25.0645409197085,
+                  "lng" : 121.5313453197085
+               }
+            }
+         },
+         "place_id" : "ChIJQRC9YFepQjQRwmktaZ5vyPY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

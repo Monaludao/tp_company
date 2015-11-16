@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 26, Chang'an West Road",
+               "short_name" : "Lane 26, Chang'an W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民安里",
+               "short_name" : "民安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8, Lane 26, Chang'an W Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0494774,
+               "lng" : 121.5204704
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0508263802915,
+                  "lng" : 121.5218193802915
+               },
+               "southwest" : {
+                  "lat" : 25.04812841970849,
+                  "lng" : 121.5191214197085
+               }
+            }
+         },
+         "place_id" : "ChIJOYDjem6pQjQRUkVZRarIlvA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

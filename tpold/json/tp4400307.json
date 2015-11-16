@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "214",
+               "short_name" : "214",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hualing Street",
+               "short_name" : "Hualing St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«e´ä¨½",
+               "short_name" : "«e´ä¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 214, Hualing St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0885213,
+               "lng" : 121.5199397
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.08987028029151,
+                  "lng" : 121.5212886802915
+               },
+               "southwest" : {
+                  "lat" : 25.0871723197085,
+                  "lng" : 121.5185907197085
+               }
+            }
+         },
+         "place_id" : "ChIJT2e7yrCuQjQRKFEolu3co2I",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+
