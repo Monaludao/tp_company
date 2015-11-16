@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "77",
+               "short_name" : "77",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Yanjiuyuan Road",
+               "short_name" : "Section 1, Yanjiuyuan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·s´I¨½",
+               "short_name" : "·s´I¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 77, Section 1, Yanjiuyuan Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0526434,
+               "lng" : 121.6164442
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0539923802915,
+                  "lng" : 121.6177931802915
+               },
+               "southwest" : {
+                  "lat" : 25.05129441970849,
+                  "lng" : 121.6150952197085
+               }
+            }
+         },
+         "place_id" : "ChIJdQCi3VmrQjQRvjAaCtOfSsw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

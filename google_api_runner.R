@@ -105,3 +105,47 @@ gl_api_runner<-function(run.df,act.file){
         #print(json)
     }
 }
+
+csv_insert<-function(csv.file){
+    library(RJSONIO)
+    
+    file.root<-"./tpdata/"
+    file.path<-paste0(file.root,csv.file,".csv")
+    
+    csv.df<-read.csv(file.path,header=FALSE,stringsAsFactors = FALSE,col.names = c("CID","CNAME","CADDR"))
+    
+    json.root<-"./tpold/json/"
+    
+    RAdd<-c()
+    Rlat<-c()
+    Rlng<-c()
+    Rvil<-c()
+    
+    for(i in 1:nrow(csv.df)){
+    
+        json.num<-rownames(csv.df[i,])
+        json.num<-paste0(paste0(rep("0",(5-nchar(json.num))),collapse = ""),json.num)
+        json.path<-paste0(json.root,csv.file,json.num,".json")
+        
+        json<-fromJSON(json.path)
+        
+        if(json$status=="ZERO_RESULTS"){
+            RAdd<-c(RAdd,NA)
+            Rlat<-c(Rlat,NA)
+            Rlng<-c(Rlng,NA)
+            Rvil<-c(Rvil,NA)
+        } else {
+            RAdd<-c(RAdd,json$results[[1]]$formatted_address)
+            Rlat<-c(Rlat,json$results[[1]]$geometry$location[1])
+            Rlng<-c(Rlng,json$results[[1]]$geometry$location[2])
+            Rvil<-c(Rvil,json$results[[1]]$address_components[[3]]$long_name)
+        }
+    }
+    
+    csv.df$Response_Address<-RAdd
+    csv.df$Response_Latitude<-Rlat
+    csv.df$Response_Longitude<-Rlng
+    csv.df$village<-Rvil
+    
+    write.csv(csv.df,file=file.path)
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "32",
+               "short_name" : "32",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Zhongyang South Road",
+               "short_name" : "Section 2, Zhongyang S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤K¥P¨½",
+               "short_name" : "¤K¥P¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 32, Section 2, Zhongyang S Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.125258,
+               "lng" : 121.500162
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1266069802915,
+                  "lng" : 121.5015109802915
+               },
+               "southwest" : {
+                  "lat" : 25.1239090197085,
+                  "lng" : 121.4988130197085
+               }
+            }
+         },
+         "place_id" : "ChIJIc49YfiuQjQRGxJjaafDDBY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

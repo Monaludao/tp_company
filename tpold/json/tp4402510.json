@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-2",
+               "short_name" : "1-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 20, Lane 158, Section 3, Bade Road",
+               "short_name" : "Alley 20, Lane 158, Section 3, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_·½¨½",
+               "short_name" : "´_·½¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-2, Alley 20, Lane 158, Section 3, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0472041,
+               "lng" : 121.5551067
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0485530802915,
+                  "lng" : 121.5564556802915
+               },
+               "southwest" : {
+                  "lat" : 25.0458551197085,
+                  "lng" : 121.5537577197085
+               }
+            }
+         },
+         "place_id" : "ChIJzfbUncGrQjQRMtRufWC95x8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

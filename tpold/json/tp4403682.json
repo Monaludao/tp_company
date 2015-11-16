@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "369",
+               "short_name" : "369",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 7, Zhongxiao East Road",
+               "short_name" : "Section 7, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中南里",
+               "short_name" : "中南里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 369, Section 7, Zhongxiao E Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0521758,
+                  "lng" : 121.6068328
+               },
+               "southwest" : {
+                  "lat" : 25.0521588,
+                  "lng" : 121.6068309
+               }
+            },
+            "location" : {
+               "lat" : 25.0521758,
+               "lng" : 121.6068309
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0535162802915,
+                  "lng" : 121.6081808302915
+               },
+               "southwest" : {
+                  "lat" : 25.0508183197085,
+                  "lng" : 121.6054828697085
+               }
+            }
+         },
+         "place_id" : "EjMxMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDlv6DlrZ3mnbHot6_kuIPmrrUzNjnomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 83, Lane 189, Section 3, Kangning Road",
+               "short_name" : "Alley 83, Lane 189, Section 3, Kangning Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "±d¹ç¨½",
+               "short_name" : "±d¹ç¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Alley 83, Lane 189, Section 3, Kangning Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0728865,
+               "lng" : 121.6120806
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0742354802915,
+                  "lng" : 121.6134295802915
+               },
+               "southwest" : {
+                  "lat" : 25.0715375197085,
+                  "lng" : 121.6107316197085
+               }
+            }
+         },
+         "place_id" : "ChIJc5xy5busQjQRSKGqHSlrQGs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

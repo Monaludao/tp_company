@@ -1,0 +1,366 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17-6",
+               "short_name" : "17-6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shuangcheng Street",
+               "short_name" : "Shuangcheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´¸¥ú¨½",
+               "short_name" : "´¸¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17-6, Shuangcheng St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0652398,
+               "lng" : 121.5243641
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0665887802915,
+                  "lng" : 121.5257130802915
+               },
+               "southwest" : {
+                  "lat" : 25.0638908197085,
+                  "lng" : 121.5230151197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJieFkIUWpQjQRHsa9nUdQOwg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17-5",
+               "short_name" : "17-5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shuangcheng Street",
+               "short_name" : "Shuangcheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´¸¥ú¨½",
+               "short_name" : "´¸¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17-5, Shuangcheng St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0652026,
+               "lng" : 121.5243644
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0665515802915,
+                  "lng" : 121.5257133802915
+               },
+               "southwest" : {
+                  "lat" : 25.0638536197085,
+                  "lng" : 121.5230154197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJL8htIUWpQjQRS62q2D_nZaY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 17, Shuangcheng Street",
+               "short_name" : "Lane 17, Shuangcheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«í¦w¨½",
+               "short_name" : "«í¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Lane 17, Shuangcheng St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0644455,
+               "lng" : 121.5245967
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0657944802915,
+                  "lng" : 121.5259456802915
+               },
+               "southwest" : {
+                  "lat" : 25.06309651970849,
+                  "lng" : 121.5232477197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAR2Y20SpQjQRSlCZ_Yx8Mtk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17-2",
+               "short_name" : "17-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 25, Shuangcheng Street",
+               "short_name" : "Lane 25, Shuangcheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´¸¥ú¨½",
+               "short_name" : "´¸¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17-2, Lane 25, Shuangcheng St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0663269,
+               "lng" : 121.5254205
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0676758802915,
+                  "lng" : 121.5267694802915
+               },
+               "southwest" : {
+                  "lat" : 25.0649779197085,
+                  "lng" : 121.5240715197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwx14S0WpQjQRAmYj7G-qnxA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17-2",
+               "short_name" : "17-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 19, Shuangcheng Street",
+               "short_name" : "Lane 19, Shuangcheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´¸¥ú¨½",
+               "short_name" : "´¸¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17-2, Lane 19, Shuangcheng St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0655257,
+               "lng" : 121.5249321
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0668746802915,
+                  "lng" : 121.5262810802915
+               },
+               "southwest" : {
+                  "lat" : 25.0641767197085,
+                  "lng" : 121.5235831197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYbYQMEWpQjQRdeZy_3uvjlQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17-2",
+               "short_name" : "17-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 28, Shuangcheng Street",
+               "short_name" : "Lane 28, Shuangcheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´¸¥ú¨½",
+               "short_name" : "´¸¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17-2, Lane 28, Shuangcheng St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.06595,
+               "lng" : 121.5232507
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0672989802915,
+                  "lng" : 121.5245996802915
+               },
+               "southwest" : {
+                  "lat" : 25.06460101970849,
+                  "lng" : 121.5219017197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJL7d1D0WpQjQRbFPGnHFWXbw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

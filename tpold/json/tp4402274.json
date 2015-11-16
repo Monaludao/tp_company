@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 72, Section 1, Xiyuan Road",
+               "short_name" : "Lane 72, Section 1, Xiyuan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«C¤s¨½",
+               "short_name" : "«C¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Lane 72, Section 1, Xiyuan Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0394766,
+               "lng" : 121.4992198
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0408255802915,
+                  "lng" : 121.5005687802915
+               },
+               "southwest" : {
+                  "lat" : 25.0381276197085,
+                  "lng" : 121.4978708197085
+               }
+            }
+         },
+         "place_id" : "ChIJnVyJpampQjQRqUd1Md0scO8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

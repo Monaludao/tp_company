@@ -1,0 +1,1816 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 62, Wanlong Street",
+               "short_name" : "Lane 62, Wanlong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸U¶©¨½",
+               "short_name" : "¸U¶©¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Lane 62, Wanlong St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0011215,
+               "lng" : 121.5373732
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0024704802915,
+                  "lng" : 121.5387221802915
+               },
+               "southwest" : {
+                  "lat" : 24.9997725197085,
+                  "lng" : 121.5360242197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhd6LUx2qQjQRas_oSst2IYc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 4, Sanfu Street",
+               "short_name" : "Lane 4, Sanfu St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ºµØ¨½",
+               "short_name" : "´ºµØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 4, Sanfu St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9960717,
+               "lng" : 121.5421046
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9974206802915,
+                  "lng" : 121.5434535802915
+               },
+               "southwest" : {
+                  "lat" : 24.9947227197085,
+                  "lng" : 121.5407556197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCbzLjQOqQjQRloPKaCAzC8o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 107, Xikou Street",
+               "short_name" : "Alley 4, Lane 107, Xikou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´º¼y¨½",
+               "short_name" : "´º¼y¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 4, Lane 107, Xikou St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9956911,
+               "lng" : 121.537812
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9970400802915,
+                  "lng" : 121.5391609802915
+               },
+               "southwest" : {
+                  "lat" : 24.9943421197085,
+                  "lng" : 121.5364630197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ1zrHAKqQjQRdWlNK4M7WQI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 82, Wansheng Street",
+               "short_name" : "Alley 4, Lane 82, Wansheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸U²±¨½",
+               "short_name" : "¸U²±¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 4, Lane 82, Wansheng St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.005806,
+               "lng" : 121.540314
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0071549802915,
+                  "lng" : 121.5416629802915
+               },
+               "southwest" : {
+                  "lat" : 25.0044570197085,
+                  "lng" : 121.5389650197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW1qMgx6qQjQRwfsgnF94Guk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 4, Sanfu Street",
+               "short_name" : "Alley 5, Lane 4, Sanfu St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ºµØ¨½",
+               "short_name" : "´ºµØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 5, Lane 4, Sanfu St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.996213,
+               "lng" : 121.542199
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9975619802915,
+                  "lng" : 121.5435479802915
+               },
+               "southwest" : {
+                  "lat" : 24.99486401970849,
+                  "lng" : 121.5408500197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbVDxjgOqQjQRVLfMj0F62m0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4-1",
+               "short_name" : "4-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 11, Lane 48, Jingfeng Street",
+               "short_name" : "Alley 11, Lane 48, Jingfeng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³Â×¨½",
+               "short_name" : "¿³Â×¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4-1, Alley 11, Lane 48, Jingfeng St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0006416,
+               "lng" : 121.546513
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0019905802915,
+                  "lng" : 121.5478619802915
+               },
+               "southwest" : {
+                  "lat" : 24.9992926197085,
+                  "lng" : 121.5451640197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmU5H7hqqQjQRI0afLrQ8KcU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wanlong Street",
+               "short_name" : "Wanlong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸U¶©¨½",
+               "short_name" : "¸U¶©¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Wanlong St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0004912,
+               "lng" : 121.5391776
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0018401802915,
+                  "lng" : 121.5405265802915
+               },
+               "southwest" : {
+                  "lat" : 24.9991422197085,
+                  "lng" : 121.5378286197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ17xRLR2qQjQR93PvgICCBMg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 62, Section 4, Xinglong Road",
+               "short_name" : "Lane 62, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼ÌªL¨½",
+               "short_name" : "¼ÌªL¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 62, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9850972,
+               "lng" : 121.5611521
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9864461802915,
+                  "lng" : 121.5625010802915
+               },
+               "southwest" : {
+                  "lat" : 24.9837482197085,
+                  "lng" : 121.5598031197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqcnAXXWqQjQRphY4VndmEdE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 62, Jingfeng Street",
+               "short_name" : "Lane 62, Jingfeng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³Â×¨½",
+               "short_name" : "¿³Â×¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Lane 62, Jingfeng St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0008291,
+                  "lng" : 121.5459438
+               },
+               "southwest" : {
+                  "lat" : 25.0008135,
+                  "lng" : 121.5459363
+               }
+            },
+            "location" : {
+               "lat" : 25.0008135,
+               "lng" : 121.5459438
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0021702802915,
+                  "lng" : 121.5472890302915
+               },
+               "southwest" : {
+                  "lat" : 24.9994723197085,
+                  "lng" : 121.5445910697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMTblj7DngaPlj7DljJfluILmloflsbHljYDmma_osZDooZc2MuW3tzTomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59-1",
+               "short_name" : "59-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 62, Lane 119, Section 4, Roosevelt Road",
+               "short_name" : "Alley 62, Lane 119, Section 4, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸U²±¨½",
+               "short_name" : "¸U²±¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59-1, Alley 62, Lane 119, Section 4, Roosevelt Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0076898,
+               "lng" : 121.5393872
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0090387802915,
+                  "lng" : 121.5407361802915
+               },
+               "southwest" : {
+                  "lat" : 25.00634081970849,
+                  "lng" : 121.5380382197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy3idUB6qQjQRd7ob_xE7zHk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4-1",
+               "short_name" : "4-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 52, Wanlong Street",
+               "short_name" : "Lane 52, Wanlong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸U¶©¨½",
+               "short_name" : "¸U¶©¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4-1, Lane 52, Wanlong St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.001087,
+               "lng" : 121.537451
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0024359802915,
+                  "lng" : 121.5387999802915
+               },
+               "southwest" : {
+                  "lat" : 24.9997380197085,
+                  "lng" : 121.5361020197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb3S9Ux2qQjQRd2NplSMIb_o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 42, Jingxing Road",
+               "short_name" : "Alley 4, Lane 42, Jingxing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ºµØ¨½",
+               "short_name" : "´ºµØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 4, Lane 42, Jingxing Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.997121,
+               "lng" : 121.543969
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9984699802915,
+                  "lng" : 121.5453179802915
+               },
+               "southwest" : {
+                  "lat" : 24.9957720197085,
+                  "lng" : 121.5426200197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8X_2jASqQjQR7JvKXqwMYBE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 4, Shiyuan Road",
+               "short_name" : "Lane 4, Shiyuan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "µØ¿³¨½",
+               "short_name" : "µØ¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 4, Shiyuan Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9883739,
+               "lng" : 121.550008
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9897228802915,
+                  "lng" : 121.5513569802915
+               },
+               "southwest" : {
+                  "lat" : 24.9870249197085,
+                  "lng" : 121.5486590197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnRlhPgiqQjQRFb5lcL5NxwA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 63, Fuxing Road",
+               "short_name" : "Alley 4, Lane 63, Fuxing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³©ô¨½",
+               "short_name" : "¿³©ô¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 4, Lane 63, Fuxing Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.003717,
+               "lng" : 121.549217
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0050659802915,
+                  "lng" : 121.5505659802915
+               },
+               "southwest" : {
+                  "lat" : 25.0023680197085,
+                  "lng" : 121.5478680197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjUXnTReqQjQRy0e6DqhRpNw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 109, Section 4, Xinglong Road",
+               "short_name" : "Lane 109, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©ú¸q¨½",
+               "short_name" : "©ú¸q¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 109, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9867349,
+               "lng" : 121.561118
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9880838802915,
+                  "lng" : 121.5624669802915
+               },
+               "southwest" : {
+                  "lat" : 24.9853859197085,
+                  "lng" : 121.5597690197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9_naInWqQjQRnamW0Kl1eV4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 159, Section 4, Muzha Road",
+               "short_name" : "Lane 159, Section 4, Muzha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "³Õ¹Å¨½",
+               "short_name" : "³Õ¹Å¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 159, Section 4, Muzha Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0012239,
+               "lng" : 121.576473
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.00257288029151,
+                  "lng" : 121.5778219802915
+               },
+               "southwest" : {
+                  "lat" : 24.9998749197085,
+                  "lng" : 121.5751240197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAWc9SWeqQjQRBDAQDnws7yU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 101, Section 4, Xinhai Road",
+               "short_name" : "Lane 101, Section 4, Xinhai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³©÷¨½",
+               "short_name" : "¿³©÷¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 101, Section 4, Xinhai Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.006621,
+               "lng" : 121.55902
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0079699802915,
+                  "lng" : 121.5603689802915
+               },
+               "southwest" : {
+                  "lat" : 25.0052720197085,
+                  "lng" : 121.5576710197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeQkX4z-qQjQRHR78qND3Dc4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 184, Section 1, Xinglong Road",
+               "short_name" : "Alley 4, Lane 184, Section 1, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸U¦³¨½",
+               "short_name" : "¸U¦³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 4, Lane 184, Section 1, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0012264,
+               "lng" : 121.5419594
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0025753802915,
+                  "lng" : 121.5433083802915
+               },
+               "southwest" : {
+                  "lat" : 24.9998774197085,
+                  "lng" : 121.5406104197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhRmNlxyqQjQRdtfBJJVWxlU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 149, Section 4, Muzha Road",
+               "short_name" : "Lane 149, Section 4, Muzha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "³Õ¹Å¨½",
+               "short_name" : "³Õ¹Å¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 149, Section 4, Muzha Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9987419,
+               "lng" : 121.574813
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0000908802915,
+                  "lng" : 121.5761619802915
+               },
+               "southwest" : {
+                  "lat" : 24.9973929197085,
+                  "lng" : 121.5734640197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsc6p8maqQjQRXh1oyB8F_js",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 77, Section 4, Xinhai Road",
+               "short_name" : "Lane 77, Section 4, Xinhai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³©÷¨½",
+               "short_name" : "¿³©÷¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 77, Section 4, Xinhai Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.007603,
+               "lng" : 121.55919
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0089519802915,
+                  "lng" : 121.5605389802915
+               },
+               "southwest" : {
+                  "lat" : 25.0062540197085,
+                  "lng" : 121.5578410197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWdqV8j-qQjQROyuNPVuHbtc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 105, Section 4, Xinglong Road",
+               "short_name" : "Lane 105, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©ú¸q¨½",
+               "short_name" : "©ú¸q¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 105, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.987728,
+               "lng" : 121.5608
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.98907698029151,
+                  "lng" : 121.5621489802915
+               },
+               "southwest" : {
+                  "lat" : 24.9863790197085,
+                  "lng" : 121.5594510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6-tm2XSqQjQRAj_PJ-Ikh9M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 144, Shiyuan Road",
+               "short_name" : "Alley 4, Lane 144, Shiyuan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "µØ¿³¨½",
+               "short_name" : "µØ¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 4, Lane 144, Shiyuan Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9906695,
+               "lng" : 121.547274
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9920184802915,
+                  "lng" : 121.5486229802915
+               },
+               "southwest" : {
+                  "lat" : 24.9893205197085,
+                  "lng" : 121.5459250197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLym6NAaqQjQRWwUJupovJaQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 58, Section 4, Xinglong Road",
+               "short_name" : "Lane 58, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼ÌªL¨½",
+               "short_name" : "¼ÌªL¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 58, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.985472,
+               "lng" : 121.561182
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9868209802915,
+                  "lng" : 121.5625309802915
+               },
+               "southwest" : {
+                  "lat" : 24.98412301970849,
+                  "lng" : 121.5598330197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKXGNQnWqQjQRd9zbM-RY6SQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 165, Section 4, Xinglong Road",
+               "short_name" : "Lane 165, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶¶¿³¨½",
+               "short_name" : "¶¶¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 165, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9841366,
+               "lng" : 121.5622255
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9854855802915,
+                  "lng" : 121.5635744802915
+               },
+               "southwest" : {
+                  "lat" : 24.9827876197085,
+                  "lng" : 121.5608765197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKbSeht8BaDQRBePyPGWnPXU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 195, Section 4, Xinglong Road",
+               "short_name" : "Lane 195, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶¶¿³¨½",
+               "short_name" : "¶¶¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 195, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9831998,
+               "lng" : 121.5623809
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9845487802915,
+                  "lng" : 121.5637298802915
+               },
+               "southwest" : {
+                  "lat" : 24.98185081970849,
+                  "lng" : 121.5610319197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1cQln98BaDQRn-HImacYMxI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 179, Section 4, Xinglong Road",
+               "short_name" : "Lane 179, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶¶¿³¨½",
+               "short_name" : "¶¶¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 179, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9836913,
+               "lng" : 121.5623259
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9850402802915,
+                  "lng" : 121.5636748802915
+               },
+               "southwest" : {
+                  "lat" : 24.9823423197085,
+                  "lng" : 121.5609769197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvZKgnN8BaDQROCi7gZ9UlOQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 222, Section 4, Xinhai Road",
+               "short_name" : "Lane 222, Section 4, Xinhai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³®õ¨½",
+               "short_name" : "¿³®õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 222, Section 4, Xinhai Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0022738,
+               "lng" : 121.5550927
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0036227802915,
+                  "lng" : 121.5564416802915
+               },
+               "southwest" : {
+                  "lat" : 25.00092481970849,
+                  "lng" : 121.5537437197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPz88CRSqQjQRNmjwAklxdKU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 66, Section 4, Xinglong Road",
+               "short_name" : "Lane 66, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼ÌªL¨½",
+               "short_name" : "¼ÌªL¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 66, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.984761,
+               "lng" : 121.561269
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.98610998029151,
+                  "lng" : 121.5626179802915
+               },
+               "southwest" : {
+                  "lat" : 24.9834120197085,
+                  "lng" : 121.5599200197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRcR1YHWqQjQRySbpTVOTjTY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 252, Section 4, Xinhai Road",
+               "short_name" : "Lane 252, Section 4, Xinhai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³®õ¨½",
+               "short_name" : "¿³®õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 252, Section 4, Xinhai Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0014089,
+               "lng" : 121.5543842
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0027578802915,
+                  "lng" : 121.5557331802915
+               },
+               "southwest" : {
+                  "lat" : 25.00005991970849,
+                  "lng" : 121.5530352197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJU_Bm4xOqQjQRStWTTKIisGM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 107, Section 4, Xinglong Road",
+               "short_name" : "Lane 107, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©ú¸q¨½",
+               "short_name" : "©ú¸q¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 107, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.987169,
+               "lng" : 121.560938
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9885179802915,
+                  "lng" : 121.5622869802915
+               },
+               "southwest" : {
+                  "lat" : 24.9858200197085,
+                  "lng" : 121.5595890197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOx4xIXWqQjQRGspa-b8OWhY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

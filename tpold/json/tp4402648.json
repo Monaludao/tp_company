@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 165, Section 4, Xinglong Road",
+               "short_name" : "Lane 165, Section 4, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶¶¿³¨½",
+               "short_name" : "¶¶¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Lane 165, Section 4, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9842669,
+               "lng" : 121.5625837
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9856158802915,
+                  "lng" : 121.5639326802915
+               },
+               "southwest" : {
+                  "lat" : 24.9829179197085,
+                  "lng" : 121.5612347197085
+               }
+            }
+         },
+         "place_id" : "ChIJ40NEgN8BaDQRcjO1bLNOib0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

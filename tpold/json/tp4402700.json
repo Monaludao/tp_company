@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 26, Chaozhou Street",
+               "short_name" : "Lane 26, Chaozhou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ÀAµØ¨½",
+               "short_name" : "ÀAµØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 18, Lane 26, Chaozhou St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.028781,
+               "lng" : 121.522238
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0301299802915,
+                  "lng" : 121.5235869802915
+               },
+               "southwest" : {
+                  "lat" : 25.0274320197085,
+                  "lng" : 121.5208890197085
+               }
+            }
+         },
+         "place_id" : "ChIJHUnlrpupQjQRwkA4fms4NUI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 11, Lane 591, Section 1, Neihu Road",
+               "short_name" : "Alley 11, Lane 591, Section 1, Neihu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ÄR¤s¨½",
+               "short_name" : "ÄR¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 11, Lane 591, Section 1, Neihu Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0812182,
+               "lng" : 121.5737264
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0825671802915,
+                  "lng" : 121.5750753802915
+               },
+               "southwest" : {
+                  "lat" : 25.0798692197085,
+                  "lng" : 121.5723774197085
+               }
+            }
+         },
+         "place_id" : "ChIJlQP6yWWsQjQR-zN2_p29eEQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

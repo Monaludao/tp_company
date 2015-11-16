@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "468",
+               "short_name" : "468",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fujin Street",
+               "short_name" : "Fujin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三民里",
+               "short_name" : "三民里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 468, Fujin St, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0607703,
+               "lng" : 121.5624726
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0621192802915,
+                  "lng" : 121.5638215802915
+               },
+               "southwest" : {
+                  "lat" : 25.05942131970849,
+                  "lng" : 121.5611236197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7_lZBo2rQjQRuQUGs7PlF78",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

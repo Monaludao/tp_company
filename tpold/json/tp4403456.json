@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "290",
+               "short_name" : "290",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tayou Road",
+               "short_name" : "Tayou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·s¯q¨½",
+               "short_name" : "·s¯q¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 290, Tayou Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0596645,
+               "lng" : 121.5687151
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0610134802915,
+                  "lng" : 121.5700640802915
+               },
+               "southwest" : {
+                  "lat" : 25.0583155197085,
+                  "lng" : 121.5673661197085
+               }
+            }
+         },
+         "place_id" : "ChIJm8Mtqo-rQjQRJ71fmtalWRY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

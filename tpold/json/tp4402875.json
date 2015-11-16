@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "62",
+               "short_name" : "62",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Changsha Street",
+               "short_name" : "Section 2, Changsha St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新起里",
+               "short_name" : "新起里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 62, Section 2, Changsha St, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0405009,
+               "lng" : 121.505622
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0418498802915,
+                  "lng" : 121.5069709802915
+               },
+               "southwest" : {
+                  "lat" : 25.0391519197085,
+                  "lng" : 121.5042730197085
+               }
+            }
+         },
+         "place_id" : "ChIJN0Kp1AmpQjQRhF4mcCud4tw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

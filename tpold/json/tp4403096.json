@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13-1",
+               "short_name" : "13-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 92, Section 9, Yanping North Road",
+               "short_name" : "Lane 92, Section 9, Yanping N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´I¬w¨½",
+               "short_name" : "´I¬w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13-1, Lane 92, Section 9, Yanping N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.106804,
+               "lng" : 121.474868
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.10815298029151,
+                  "lng" : 121.4762169802915
+               },
+               "southwest" : {
+                  "lat" : 25.1054550197085,
+                  "lng" : 121.4735190197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJccH7GTyvQjQRrCiU7doqq3w",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

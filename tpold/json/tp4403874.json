@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "696",
+               "short_name" : "696",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhongzheng Road",
+               "short_name" : "Zhongzheng Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "社新里",
+               "short_name" : "社新里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 696, Zhongzheng Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.086076,
+               "lng" : 121.505666
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0874249802915,
+                  "lng" : 121.5070149802915
+               },
+               "southwest" : {
+                  "lat" : 25.0847270197085,
+                  "lng" : 121.5043170197085
+               }
+            }
+         },
+         "place_id" : "ChIJ6ZIjTcyuQjQRsQrhpmChbPw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

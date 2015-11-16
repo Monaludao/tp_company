@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "686",
+               "short_name" : "686",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Bade Road",
+               "short_name" : "Section 4, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·O¯§¨½",
+               "short_name" : "·O¯§¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 686, Section 4, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0499932,
+                  "lng" : 121.5767615
+               },
+               "southwest" : {
+                  "lat" : 25.0499762,
+                  "lng" : 121.5767605
+               }
+            },
+            "location" : {
+               "lat" : 25.0499762,
+               "lng" : 121.5767615
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0513336802915,
+                  "lng" : 121.5781099802915
+               },
+               "southwest" : {
+                  "lat" : 25.0486357197085,
+                  "lng" : 121.5754120197085
+               }
+            }
+         },
+         "place_id" : "EjAxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhavlvrfot6_lm5vmrrU2ODbomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

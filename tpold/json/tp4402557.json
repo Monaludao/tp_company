@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 6, Lane 111, Section 2, Muxin Road",
+               "short_name" : "Alley 6, Lane 111, Section 2, Muxin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤ì·s¨½",
+               "short_name" : "¤ì·s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Alley 6, Lane 111, Section 2, Muxin Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.983818,
+               "lng" : 121.570081
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9851669802915,
+                  "lng" : 121.5714299802915
+               },
+               "southwest" : {
+                  "lat" : 24.9824690197085,
+                  "lng" : 121.5687320197085
+               }
+            }
+         },
+         "place_id" : "ChIJyfAU63eqQjQR6wJ7ZaD20Fk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

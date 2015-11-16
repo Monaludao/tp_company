@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17-3",
+               "short_name" : "17-3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Andong Street",
+               "short_name" : "Andong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "∞Ò¿Y®Ω",
+               "short_name" : "∞Ò¿Y®Ω",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17-3, Andong St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0453693,
+               "lng" : 121.5423717
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0467182802915,
+                  "lng" : 121.5437206802915
+               },
+               "southwest" : {
+                  "lat" : 25.04402031970849,
+                  "lng" : 121.5410227197085
+               }
+            }
+         },
+         "place_id" : "ChIJP6mefNmrQjQRtGI5Oi0rc-c",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

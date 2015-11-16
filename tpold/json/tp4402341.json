@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 38, Taishun Street",
+               "short_name" : "Lane 38, Taishun St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¬u¨½",
+               "short_name" : "Às¬u¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Lane 38, Taishun St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0246029,
+               "lng" : 121.53118
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0259518802915,
+                  "lng" : 121.5325289802915
+               },
+               "southwest" : {
+                  "lat" : 25.0232539197085,
+                  "lng" : 121.5298310197085
+               }
+            }
+         },
+         "place_id" : "ChIJiQGS4YWpQjQR9QvVF_4G8dc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

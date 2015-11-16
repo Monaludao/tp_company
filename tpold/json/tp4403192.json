@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "68",
+               "short_name" : "68",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kaiming Street",
+               "short_name" : "Kaiming St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "開明里",
+               "short_name" : "開明里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 68, Kaiming St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1411786,
+                  "lng" : 121.5028202
+               },
+               "southwest" : {
+                  "lat" : 25.14117,
+                  "lng" : 121.502804
+               }
+            },
+            "location" : {
+               "lat" : 25.1411786,
+               "lng" : 121.5028202
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1425232802915,
+                  "lng" : 121.5041610802915
+               },
+               "southwest" : {
+                  "lat" : 25.1398253197085,
+                  "lng" : 121.5014631197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikxMTLlj7DngaPlj7DljJfluILljJfmipXljYDplovmmI7ooZc2OOiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 164, Section 7, Chengde Road",
+               "short_name" : "Lane 164, Section 7, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦N¼y¨½",
+               "short_name" : "¦N¼y¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 164, Section 7, Chengde Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1133394,
+               "lng" : 121.5087473
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1146883802915,
+                  "lng" : 121.5100962802915
+               },
+               "southwest" : {
+                  "lat" : 25.11199041970849,
+                  "lng" : 121.5073983197085
+               }
+            }
+         },
+         "place_id" : "ChIJ39UR_O2uQjQReuzj51wafvU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "246",
+               "short_name" : "246",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Zhongxiao East Road",
+               "short_name" : "Section 5, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼s©~¨½",
+               "short_name" : "¼s©~¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 246, Section 5, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.040779,
+               "lng" : 121.572468
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0421279802915,
+                  "lng" : 121.5738169802915
+               },
+               "southwest" : {
+                  "lat" : 25.0394300197085,
+                  "lng" : 121.5711190197085
+               }
+            }
+         },
+         "place_id" : "ChIJbyU2XKOrQjQRCusuQg9-lZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

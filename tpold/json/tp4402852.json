@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 175, Section 1, Kangning Road",
+               "short_name" : "Lane 175, Section 1, Kangning Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "µµ¶³¨½",
+               "short_name" : "µµ¶³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Lane 175, Section 1, Kangning Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0786509,
+               "lng" : 121.595514
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0799998802915,
+                  "lng" : 121.5968629802915
+               },
+               "southwest" : {
+                  "lat" : 25.0773019197085,
+                  "lng" : 121.5941650197085
+               }
+            }
+         },
+         "place_id" : "ChIJwbX9P5KsQjQRlnkdDTnXs1c",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "78",
+               "short_name" : "78",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 61, Kangle Street",
+               "short_name" : "Lane 61, Kangle St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ö±d¨½",
+               "short_name" : "¼Ö±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 78, Lane 61, Kangle St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0708327,
+               "lng" : 121.6197679
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0721816802915,
+                  "lng" : 121.6211168802915
+               },
+               "southwest" : {
+                  "lat" : 25.0694837197085,
+                  "lng" : 121.6184189197085
+               }
+            }
+         },
+         "place_id" : "ChIJ56B52LCsQjQRUqoCLLboe1o",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

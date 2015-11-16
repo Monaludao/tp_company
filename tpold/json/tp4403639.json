@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wenchang Street",
+               "short_name" : "Wenchang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "義安里",
+               "short_name" : "義安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Wenchang St, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0326421,
+               "lng" : 121.5517797
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0339910802915,
+                  "lng" : 121.5531286802915
+               },
+               "southwest" : {
+                  "lat" : 25.0312931197085,
+                  "lng" : 121.5504307197085
+               }
+            }
+         },
+         "place_id" : "ChIJqT_QUcyrQjQRnO_FTVE5iyI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

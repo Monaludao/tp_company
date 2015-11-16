@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "29-2",
+               "short_name" : "29-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Daoxiang Road",
+               "short_name" : "Daoxiang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "½_­»¨½",
+               "short_name" : "½_­»¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 29-2, Daoxiang Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.139116,
+               "lng" : 121.4904428
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1404649802915,
+                  "lng" : 121.4917917802915
+               },
+               "southwest" : {
+                  "lat" : 25.13776701970849,
+                  "lng" : 121.4890938197085
+               }
+            }
+         },
+         "place_id" : "ChIJ97PiWK2vQjQRoQE73RvS3vM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

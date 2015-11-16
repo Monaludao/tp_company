@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 144, Minquan West Road",
+               "short_name" : "Alley 5, Lane 144, Minquan W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民權里",
+               "short_name" : "民權里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Alley 5, Lane 144, Minquan W Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0623361,
+               "lng" : 121.5164386
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0636850802915,
+                  "lng" : 121.5177875802915
+               },
+               "southwest" : {
+                  "lat" : 25.0609871197085,
+                  "lng" : 121.5150896197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_TKk5UCpQjQR4QKuplSXYjw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

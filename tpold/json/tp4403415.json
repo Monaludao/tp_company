@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhonghe Street",
+               "short_name" : "Zhonghe St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中心里",
+               "short_name" : "中心里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 22, Zhonghe St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.137812,
+               "lng" : 121.50314
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1391609802915,
+                  "lng" : 121.5044889802915
+               },
+               "southwest" : {
+                  "lat" : 25.1364630197085,
+                  "lng" : 121.5017910197085
+               }
+            }
+         },
+         "place_id" : "ChIJDXnPZkWuQjQRGmI_zeOI5Zo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

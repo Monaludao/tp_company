@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24-1",
+               "short_name" : "24-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 113, Section 3, Chongqing North Road",
+               "short_name" : "Lane 113, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´­¶®¨½",
+               "short_name" : "´­¶®¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 24-1, Lane 113, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0671327,
+               "lng" : 121.5146612
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0684816802915,
+                  "lng" : 121.5160101802915
+               },
+               "southwest" : {
+                  "lat" : 25.0657837197085,
+                  "lng" : 121.5133122197085
+               }
+            }
+         },
+         "place_id" : "ChIJefBfeEepQjQR0bkmdGng-fk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

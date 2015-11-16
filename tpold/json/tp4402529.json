@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 178, Ruihu Street",
+               "short_name" : "Lane 178, Ruihu St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ò¤¸¨½",
+               "short_name" : "´ò¤¸¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 21, Lane 178, Ruihu St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0708832,
+               "lng" : 121.5755559
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0722321802915,
+                  "lng" : 121.5769048802915
+               },
+               "southwest" : {
+                  "lat" : 25.06953421970849,
+                  "lng" : 121.5742069197085
+               }
+            }
+         },
+         "place_id" : "ChIJ1x9fXXmsQjQRhkyxMBQ3D3s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

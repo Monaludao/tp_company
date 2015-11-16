@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 20, Zhonghe Street",
+               "short_name" : "Lane 20, Zhonghe St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中心里",
+               "short_name" : "中心里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Lane 20, Zhonghe St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1382528,
+                  "lng" : 121.5039185
+               },
+               "southwest" : {
+                  "lat" : 25.1382441,
+                  "lng" : 121.5039024
+               }
+            },
+            "location" : {
+               "lat" : 25.1382441,
+               "lng" : 121.5039185
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1395974302915,
+                  "lng" : 121.5052594302915
+               },
+               "southwest" : {
+                  "lat" : 25.1368994697085,
+                  "lng" : 121.5025614697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMTLlj7DngaPlj7DljJfluILljJfmipXljYDkuK3lkozooZcyMOW3tzLomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+
