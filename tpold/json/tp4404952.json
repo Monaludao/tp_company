@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "155-6",
+               "short_name" : "155-6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xingshun Street",
+               "short_name" : "Xingshun St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³Â×¨½",
+               "short_name" : "¿³Â×¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 155-6, Xingshun St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.001895,
+               "lng" : 121.545622
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0032439802915,
+                  "lng" : 121.5469709802915
+               },
+               "southwest" : {
+                  "lat" : 25.00054601970849,
+                  "lng" : 121.5442730197085
+               }
+            }
+         },
+         "place_id" : "ChIJx9qkVBqqQjQRpvhhx3ueWy8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

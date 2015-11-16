@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "238",
+               "short_name" : "238",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sanyuan Street",
+               "short_name" : "Sanyuan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã¥\¨½",
+               "short_name" : "¥Ã¥\¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 238, Sanyuan St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0273258,
+               "lng" : 121.5131975
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.02867478029151,
+                  "lng" : 121.5145464802915
+               },
+               "southwest" : {
+                  "lat" : 25.0259768197085,
+                  "lng" : 121.5118485197085
+               }
+            }
+         },
+         "place_id" : "ChIJO4vmTr2pQjQRcvbdA810Y_Y",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

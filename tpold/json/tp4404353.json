@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "179",
+               "short_name" : "179",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xinming Road",
+               "short_name" : "Xinming Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "�ۼ樽",
+               "short_name" : "�ۼ樽",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 179, Xinming Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0586619,
+               "lng" : 121.588736
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0600108802915,
+                  "lng" : 121.5900849802915
+               },
+               "southwest" : {
+                  "lat" : 25.0573129197085,
+                  "lng" : 121.5873870197085
+               }
+            }
+         },
+         "place_id" : "ChIJWQX1G3yrQjQRsA9pVY5G2cg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

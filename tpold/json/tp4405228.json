@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "334",
+               "short_name" : "334",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jinhu Road",
+               "short_name" : "Jinhu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ª÷´ò¨½",
+               "short_name" : "ª÷´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 334, Jinhu Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0737137,
+               "lng" : 121.6036617
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0750626802915,
+                  "lng" : 121.6050106802915
+               },
+               "southwest" : {
+                  "lat" : 25.0723647197085,
+                  "lng" : 121.6023127197085
+               }
+            }
+         },
+         "place_id" : "ChIJbyw6RJasQjQRRgQQ5AlITL0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

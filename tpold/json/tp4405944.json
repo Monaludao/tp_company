@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 100, Hejiang Street",
+               "short_name" : "Lane 100, Hejiang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¿¤s¨½",
+               "short_name" : "¦¿¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 19, Lane 100, Hejiang St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0584483,
+               "lng" : 121.5383263
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0597972802915,
+                  "lng" : 121.5396752802915
+               },
+               "southwest" : {
+                  "lat" : 25.0570993197085,
+                  "lng" : 121.5369773197085
+               }
+            }
+         },
+         "place_id" : "ChIJq2bp8uGrQjQR40ASLjIJbvw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

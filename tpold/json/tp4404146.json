@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 455, Section 6, Roosevelt Road",
+               "short_name" : "Lane 455, Section 6, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´º¦æ¨½",
+               "short_name" : "´º¦æ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Lane 455, Section 6, Roosevelt Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9901646,
+                  "lng" : 121.5400691
+               },
+               "southwest" : {
+                  "lat" : 24.9901491,
+                  "lng" : 121.5400614
+               }
+            },
+            "location" : {
+               "lat" : 24.9901491,
+               "lng" : 121.5400614
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9915058302915,
+                  "lng" : 121.5414142302915
+               },
+               "southwest" : {
+                  "lat" : 24.98880786970849,
+                  "lng" : 121.5387162697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMTblj7DngaPlj7DljJfluILmloflsbHljYDnvoXmlq_npo_ot6_lha3mrrU0NTXlt7cy6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

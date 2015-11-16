@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 8, Yusheng Street",
+               "short_name" : "Lane 8, Yusheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "名山里",
+               "short_name" : "名山里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 14, Lane 8, Yusheng St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1015853,
+                  "lng" : 121.5300852
+               },
+               "southwest" : {
+                  "lat" : 25.1015697,
+                  "lng" : 121.5300777
+               }
+            },
+            "location" : {
+               "lat" : 25.1015697,
+               "lng" : 121.5300852
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1029264802915,
+                  "lng" : 121.5314304302915
+               },
+               "southwest" : {
+                  "lat" : 25.1002285197085,
+                  "lng" : 121.5287324697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDpm6jogbLooZc45be3MTTomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "90",
+               "short_name" : "90",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 185, Dechang Street",
+               "short_name" : "Lane 185, Dechang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "§µ¼w¨½",
+               "short_name" : "§µ¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 90, Lane 185, Dechang St, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.022093,
+               "lng" : 121.492299
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0234419802915,
+                  "lng" : 121.4936479802915
+               },
+               "southwest" : {
+                  "lat" : 25.02074401970849,
+                  "lng" : 121.4909500197085
+               }
+            }
+         },
+         "place_id" : "ChIJD_efWLWpQjQRaiRIiLJ4BD4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

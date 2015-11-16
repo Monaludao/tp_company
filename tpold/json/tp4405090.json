@@ -1,0 +1,326 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "409",
+               "short_name" : "409",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Tiding Boulevard",
+               "short_name" : "Section 2, Tiding Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "﹁眃ń",
+               "short_name" : "﹁眃ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 409, Section 2, Tiding Blvd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0804837,
+                  "lng" : 121.5628738
+               },
+               "southwest" : {
+                  "lat" : 25.0804738,
+                  "lng" : 121.5628586
+               }
+            },
+            "location" : {
+               "lat" : 25.0804837,
+               "lng" : 121.5628738
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0818277302915,
+                  "lng" : 121.5642151802915
+               },
+               "southwest" : {
+                  "lat" : 25.0791297697085,
+                  "lng" : 121.5615172197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDloKTpoILlpKfpgZPkuozmrrU0MDnomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Section 2, Jiuzong Road",
+               "short_name" : "Section 2, Jiuzong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打じń",
+               "short_name" : "打じń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Section 2, Jiuzong Rd & Tiding Blvd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0706894,
+                  "lng" : 121.5722215
+               },
+               "southwest" : {
+                  "lat" : 25.0703847,
+                  "lng" : 121.5713217
+               }
+            },
+            "location" : {
+               "lat" : 25.0705783,
+               "lng" : 121.5717885
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0718860302915,
+                  "lng" : 121.5731205802915
+               },
+               "southwest" : {
+                  "lat" : 25.0691880697085,
+                  "lng" : 121.5704226197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvQer23msQjQRWT-MnH8JPd8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 407, Section 2, Tiding Boulevard",
+               "short_name" : "Lane 407, Section 2, Tiding Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "﹁眃ń",
+               "short_name" : "﹁眃ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 407, Section 2, Tiding Blvd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0810692,
+                  "lng" : 121.563832
+               },
+               "southwest" : {
+                  "lat" : 25.0804402,
+                  "lng" : 121.562873
+               }
+            },
+            "location" : {
+               "lat" : 25.080624,
+               "lng" : 121.5634315
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0821036802915,
+                  "lng" : 121.5647014802915
+               },
+               "southwest" : {
+                  "lat" : 25.0794057197085,
+                  "lng" : 121.5620035197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgQOzm22sQjQRrYchTmL1wbU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tiding Boulevard",
+               "short_name" : "Tiding Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打じń",
+               "short_name" : "打じń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tiding Blvd & Section 2, Tiding Blvd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0650294,
+               "lng" : 121.5722179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0663783802915,
+                  "lng" : 121.5735668802915
+               },
+               "southwest" : {
+                  "lat" : 25.0636804197085,
+                  "lng" : 121.5708689197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDloKTpoILlpKfpgZPloKTpoILlpKfpgZPkuozmrrU",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "出郴笵琿诀ó笵",
+               "short_name" : "出郴笵琿诀ó笵",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ń",
+               "short_name" : "ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "104, Taiwan, Taipei City, Zhongshan District, 出郴笵琿诀ó笵",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0770125,
+                  "lng" : 121.5721688
+               },
+               "southwest" : {
+                  "lat" : 25.0745046,
+                  "lng" : 121.5695429
+               }
+            },
+            "location" : {
+               "lat" : 25.0758106,
+               "lng" : 121.5712726
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0771075302915,
+                  "lng" : 121.5722048302915
+               },
+               "southwest" : {
+                  "lat" : 25.0744095697085,
+                  "lng" : 121.5695068697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJM4P5h3qsQjQRehTtxgRxE70",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

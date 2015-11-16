@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "604",
+               "short_name" : "604",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Bade Road",
+               "short_name" : "Section 4, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·O¯§¨½",
+               "short_name" : "·O¯§¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 604, Section 4, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0497009,
+               "lng" : 121.5727809
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0510498802915,
+                  "lng" : 121.5741298802915
+               },
+               "southwest" : {
+                  "lat" : 25.04835191970849,
+                  "lng" : 121.5714319197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJx8QZlZmrQjQRHOxRfw8F-NQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

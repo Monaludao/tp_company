@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "«áµó21«Ñ",
+               "short_name" : "«áµó21«Ñ",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ÂÂ¨Î¨½",
+               "short_name" : "ÂÂ¨Î¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "111, Taiwan, Taipei City, Shilin District, «áµó21«Ñ",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0990261,
+                  "lng" : 121.525074
+               },
+               "southwest" : {
+                  "lat" : 25.0981516,
+                  "lng" : 121.524624
+               }
+            },
+            "location" : {
+               "lat" : 25.0985473,
+               "lng" : 121.5248858
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0999378302915,
+                  "lng" : 121.5261979802915
+               },
+               "southwest" : {
+                  "lat" : 25.0972398697085,
+                  "lng" : 121.5235000197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ90pDRb2uQjQRHmT1C27A7eY",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

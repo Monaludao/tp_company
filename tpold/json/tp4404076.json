@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 328, Lishan Street",
+               "short_name" : "Lane 328, Lishan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ä³£¨½",
+               "short_name" : "´ä³£¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16, Lane 328, Lishan St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.083103,
+               "lng" : 121.5737203
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0844519802915,
+                  "lng" : 121.5750692802915
+               },
+               "southwest" : {
+                  "lat" : 25.08175401970849,
+                  "lng" : 121.5723713197085
+               }
+            }
+         },
+         "place_id" : "ChIJHz1fe2asQjQReIb0WK5Iyro",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

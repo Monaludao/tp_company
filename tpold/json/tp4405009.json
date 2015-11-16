@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "203",
+               "short_name" : "203",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zunxian Street",
+               "short_name" : "Zunxian St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "�߽娽",
+               "short_name" : "�߽娽",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 203, Zunxian St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1151001,
+               "lng" : 121.5080257
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1164490802915,
+                  "lng" : 121.5093746802915
+               },
+               "southwest" : {
+                  "lat" : 25.1137511197085,
+                  "lng" : 121.5066767197085
+               }
+            }
+         },
+         "place_id" : "ChIJL-pg8_GuQjQRnd1P3UBiS-Q",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

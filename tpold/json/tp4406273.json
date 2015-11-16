@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "156",
+               "short_name" : "156",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Civic Boulevard",
+               "short_name" : "Section 3, Civic Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "チ女┰",
+               "short_name" : "チ女┰",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da・an District",
+               "short_name" : "Da・an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 156, Section 3, Civic Blvd, Da・an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0446541,
+               "lng" : 121.5355364
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0460030802915,
+                  "lng" : 121.5368853802915
+               },
+               "southwest" : {
+                  "lat" : 25.0433051197085,
+                  "lng" : 121.5341874197085
+               }
+            }
+         },
+         "place_id" : "ChIJv69ox2KpQjQRzEh5YDYnNso",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

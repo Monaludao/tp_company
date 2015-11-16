@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "148",
+               "short_name" : "148",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Guisui Street",
+               "short_name" : "Guisui St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Âù³s¨½",
+               "short_name" : "Âù³s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 148, Guisui St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0581821,
+               "lng" : 121.5143044
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0595310802915,
+                  "lng" : 121.5156533802915
+               },
+               "southwest" : {
+                  "lat" : 25.0568331197085,
+                  "lng" : 121.5129554197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7XMEtWqpQjQREGFnfzkV75Q",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

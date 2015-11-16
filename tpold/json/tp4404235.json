@@ -1,0 +1,119 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "博愛路",
+               "short_name" : "博愛路",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "中正區",
+               "short_name" : "中正區",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "台北市",
+               "short_name" : "台北市",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100, Taiwan, 台北市中正區博愛路",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.043291,
+               "lng" : 121.511596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04463998029151,
+                  "lng" : 121.5129449802915
+               },
+               "southwest" : {
+                  "lat" : 25.0419420197085,
+                  "lng" : 121.5102470197085
+               }
+            }
+         },
+         "place_id" : "ChIJbX0jdwupQjQRagWZxO4MAt0",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bo'ai Road",
+               "short_name" : "Bo'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "光復里",
+               "short_name" : "光復里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 100, Bo'ai Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.043953,
+               "lng" : 121.511408
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0453019802915,
+                  "lng" : 121.5127569802915
+               },
+               "southwest" : {
+                  "lat" : 25.0426040197085,
+                  "lng" : 121.5100590197085
+               }
+            }
+         },
+         "place_id" : "ChIJL6kLfwupQjQR9MW4SHsJeao",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

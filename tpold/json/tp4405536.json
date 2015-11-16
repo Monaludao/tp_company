@@ -1,0 +1,1816 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 12, Lane 50, Section 2, Huanshan Road",
+               "short_name" : "Alley 12, Lane 50, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 12, Lane 50, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0874175,
+               "lng" : 121.573049
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0887664802915,
+                  "lng" : 121.5743979802915
+               },
+               "southwest" : {
+                  "lat" : 25.08606851970849,
+                  "lng" : 121.5717000197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV-NwjmesQjQRP5DESFotMxU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 12, Lane 250, Section 2, Chenggong Road",
+               "short_name" : "Alley 12, Lane 250, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打砍ń",
+               "short_name" : "打砍ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 12, Lane 250, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0666366,
+                  "lng" : 121.5899143
+               },
+               "southwest" : {
+                  "lat" : 25.0656181,
+                  "lng" : 121.5896509
+               }
+            },
+            "location" : {
+               "lat" : 25.0661574,
+               "lng" : 121.5897762
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0674763302915,
+                  "lng" : 121.5911315802915
+               },
+               "southwest" : {
+                  "lat" : 25.0647783697085,
+                  "lng" : 121.5884336197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvf8GyIOsQjQRXCeG48svmw4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 23, Lane 250, Section 2, Chenggong Road",
+               "short_name" : "Alley 23, Lane 250, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打砍ń",
+               "short_name" : "打砍ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 23, Lane 250, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0666697,
+               "lng" : 121.5895742
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0680186802915,
+                  "lng" : 121.5909231802915
+               },
+               "southwest" : {
+                  "lat" : 25.0653207197085,
+                  "lng" : 121.5882252197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm_UdwYOsQjQRXvz-vNErE5E",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 6, Lane 53, Section 2, Huanshan Road",
+               "short_name" : "Alley 6, Lane 53, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 6, Lane 53, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0848957,
+               "lng" : 121.5739085
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0862446802915,
+                  "lng" : 121.5752574802915
+               },
+               "southwest" : {
+                  "lat" : 25.0835467197085,
+                  "lng" : 121.5725595197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNUNMVGasQjQR62ZOeDmC-ss",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 6, Lane 109, Section 2, Huanshan Road",
+               "short_name" : "Alley 6, Lane 109, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 6, Lane 109, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0838549,
+               "lng" : 121.576233
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0852038802915,
+                  "lng" : 121.5775819802915
+               },
+               "southwest" : {
+                  "lat" : 25.0825059197085,
+                  "lng" : 121.5748840197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJx59XxWasQjQR3unj4hwQJ-o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 53, Section 2, Huanshan Road",
+               "short_name" : "Alley 1, Lane 53, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 1, Lane 53, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0848817,
+               "lng" : 121.5731133
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.08623068029151,
+                  "lng" : 121.5744622802915
+               },
+               "southwest" : {
+                  "lat" : 25.0835327197085,
+                  "lng" : 121.5717643197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJH4_BTmasQjQRMpnk87LFGPU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 53, Section 2, Huanshan Road",
+               "short_name" : "Alley 5, Lane 53, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 5, Lane 53, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0845564,
+               "lng" : 121.5726989
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0859053802915,
+                  "lng" : 121.5740478802915
+               },
+               "southwest" : {
+                  "lat" : 25.0832074197085,
+                  "lng" : 121.5713499197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyeJ7R2asQjQRCBeLHZkj24M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 49, Lane 115, Section 2, Chenggong Road",
+               "short_name" : "Alley 49, Lane 115, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ホ兼ń",
+               "short_name" : "ホ兼ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 49, Lane 115, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.064787,
+               "lng" : 121.592958
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0661359802915,
+                  "lng" : 121.5943069802915
+               },
+               "southwest" : {
+                  "lat" : 25.0634380197085,
+                  "lng" : 121.5916090197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp-vHIIOsQjQRgUPKyoOcBRc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 47, Lane 115, Section 2, Chenggong Road",
+               "short_name" : "Alley 47, Lane 115, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ホ兼ń",
+               "short_name" : "ホ兼ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 47, Lane 115, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.065021,
+               "lng" : 121.5928998
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0663699802915,
+                  "lng" : 121.5942487802915
+               },
+               "southwest" : {
+                  "lat" : 25.0636720197085,
+                  "lng" : 121.5915508197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsWJkIYOsQjQRVRl6Mi6YhfM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 50, Section 2, Huanshan Road",
+               "short_name" : "Alley 3, Lane 50, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 3, Lane 50, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0859823,
+               "lng" : 121.5743081
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0873312802915,
+                  "lng" : 121.5756570802915
+               },
+               "southwest" : {
+                  "lat" : 25.08463331970849,
+                  "lng" : 121.5729591197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGyBlCWesQjQR1eOf-PWtMcA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 50, Section 2, Huanshan Road",
+               "short_name" : "Alley 1, Lane 50, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 1, Lane 50, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.085596,
+               "lng" : 121.5743107
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0869449802915,
+                  "lng" : 121.5756596802915
+               },
+               "southwest" : {
+                  "lat" : 25.0842470197085,
+                  "lng" : 121.5729617197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuedHBmesQjQRpxe9elGjq94",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 109, Section 2, Huanshan Road",
+               "short_name" : "Alley 3, Lane 109, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 3, Lane 109, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0839149,
+               "lng" : 121.575383
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0852638802915,
+                  "lng" : 121.5767319802915
+               },
+               "southwest" : {
+                  "lat" : 25.0825659197085,
+                  "lng" : 121.5740340197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT1es6WasQjQRKmTSUi4Rf74",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 14, Lane 50, Section 2, Huanshan Road",
+               "short_name" : "Alley 14, Lane 50, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 14, Lane 50, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0878217,
+               "lng" : 121.5729318
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0891706802915,
+                  "lng" : 121.5742807802915
+               },
+               "southwest" : {
+                  "lat" : 25.0864727197085,
+                  "lng" : 121.5715828197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp8M0imesQjQRrVZYVC-ygbc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 8, Lane 109, Section 2, Huanshan Road",
+               "short_name" : "Alley 8, Lane 109, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 8, Lane 109, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0833743,
+               "lng" : 121.5762692
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0847232802915,
+                  "lng" : 121.5776181802915
+               },
+               "southwest" : {
+                  "lat" : 25.0820253197085,
+                  "lng" : 121.5749202197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaUp8yGasQjQR6ZiBAFdD0OQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 115, Section 2, Chenggong Road",
+               "short_name" : "Alley 1, Lane 115, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ホ兼ń",
+               "short_name" : "ホ兼ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 1, Lane 115, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.065648,
+               "lng" : 121.592277
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0669969802915,
+                  "lng" : 121.5936259802915
+               },
+               "southwest" : {
+                  "lat" : 25.0642990197085,
+                  "lng" : 121.5909280197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6QrSEIOsQjQRVQh2X2Sqlms",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 238, Section 2, Chenggong Road",
+               "short_name" : "Lane 238, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打砍ń",
+               "short_name" : "打砍ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 238, Section 2, Chenggong Rd & Alley 12, Lane 250, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0656181,
+               "lng" : 121.5897539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0669670802915,
+                  "lng" : 121.5911028802915
+               },
+               "southwest" : {
+                  "lat" : 25.0642691197085,
+                  "lng" : 121.5884049197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkoxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmiJDlip_ot6_kuozmrrUyMzjlt7fmiJDlip_ot6_kuozmrrUyNTDlt7cxMuW8hA",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 7, Lane 426, Section 2, Chenggong Road",
+               "short_name" : "Alley 7, Lane 426, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打砍ń",
+               "short_name" : "打砍ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 7, Lane 426, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.071605,
+               "lng" : 121.589045
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0729539802915,
+                  "lng" : 121.5903939802915
+               },
+               "southwest" : {
+                  "lat" : 25.0702560197085,
+                  "lng" : 121.5876960197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ7-o2oWsQjQRHxC9wyhksnA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 250, Section 2, Chenggong Road",
+               "short_name" : "Lane 250, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打砍ń",
+               "short_name" : "打砍ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 250, Section 2, Chenggong Rd & Alley 12, Lane 250, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0661574,
+               "lng" : 121.5897762
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0675063802915,
+                  "lng" : 121.5911251802915
+               },
+               "southwest" : {
+                  "lat" : 25.06480841970849,
+                  "lng" : 121.5884272197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkoxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmiJDlip_ot6_kuozmrrUyNTDlt7fmiJDlip_ot6_kuozmrrUyNTDlt7cxMuW8hA",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 86, Section 1, Kangning Road",
+               "short_name" : "Alley 2, Lane 86, Section 1, Kangning Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "档琍ń",
+               "short_name" : "档琍ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 2, Lane 86, Section 1, Kangning Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0793739,
+               "lng" : 121.5928261
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0807228802915,
+                  "lng" : 121.5941750802915
+               },
+               "southwest" : {
+                  "lat" : 25.0780249197085,
+                  "lng" : 121.5914771197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ29LYlI2sQjQRgXpmgrMBl3o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 324, Section 4, Chenggong Road",
+               "short_name" : "Alley 2, Lane 324, Section 4, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "╭打ń",
+               "short_name" : "╭打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 2, Lane 324, Section 4, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0851373,
+               "lng" : 121.5983229
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0864862802915,
+                  "lng" : 121.5996718802915
+               },
+               "southwest" : {
+                  "lat" : 25.0837883197085,
+                  "lng" : 121.5969739197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIfyOXeysQjQRjudjir24eEA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 30, Section 3, Huanshan Road",
+               "short_name" : "Alley 2, Lane 30, Section 3, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠碔ń",
+               "short_name" : "翠碔ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 2, Lane 30, Section 3, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.08492,
+               "lng" : 121.579562
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0862689802915,
+                  "lng" : 121.5809109802915
+               },
+               "southwest" : {
+                  "lat" : 25.0835710197085,
+                  "lng" : 121.5782130197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTSRf9GCsQjQRtIBF1OZgc6g",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 31, Lane 320, Section 2, Chenggong Road",
+               "short_name" : "Alley 31, Lane 320, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打砍ń",
+               "short_name" : "打砍ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 31, Lane 320, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0679197,
+                  "lng" : 121.5891937
+               },
+               "southwest" : {
+                  "lat" : 25.0679192,
+                  "lng" : 121.5891749
+               }
+            },
+            "location" : {
+               "lat" : 25.0679192,
+               "lng" : 121.5891937
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0692684302915,
+                  "lng" : 121.5905332802915
+               },
+               "southwest" : {
+                  "lat" : 25.06657046970849,
+                  "lng" : 121.5878353197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjoxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmiJDlip_ot6_kuozmrrUzMjDlt7czMeW8hDEy6Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 21, Lane 320, Section 2, Chenggong Road",
+               "short_name" : "Alley 21, Lane 320, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打砍ń",
+               "short_name" : "打砍ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Alley 21, Lane 320, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0679544,
+                  "lng" : 121.5897926
+               },
+               "southwest" : {
+                  "lat" : 25.067953,
+                  "lng" : 121.5897739
+               }
+            },
+            "location" : {
+               "lat" : 25.0679544,
+               "lng" : 121.5897739
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0693026802915,
+                  "lng" : 121.5911322302915
+               },
+               "southwest" : {
+                  "lat" : 25.0666047197085,
+                  "lng" : 121.5884342697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjoxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmiJDlip_ot6_kuozmrrUzMjDlt7cyMeW8hDEy6Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 68, Section 2, Huanshan Road",
+               "short_name" : "Lane 68, Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "翠地ń",
+               "short_name" : "翠地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Lane 68, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0865317,
+               "lng" : 121.5748996
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0878806802915,
+                  "lng" : 121.5762485802915
+               },
+               "southwest" : {
+                  "lat" : 25.0851827197085,
+                  "lng" : 121.5735506197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj2J1bmesQjQRApnNtAxbwVE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ず打隔琿2532",
+               "short_name" : "ず打隔琿2532",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打镭ń",
+               "short_name" : "打镭ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "114, Taiwan, Taipei City, Neihu District, ず打隔琿253212腹",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0822472,
+               "lng" : 121.5892857
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0835961802915,
+                  "lng" : 121.5906346802915
+               },
+               "southwest" : {
+                  "lat" : 25.0808982197085,
+                  "lng" : 121.5879367197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5UTKkYysQjQRXV4SkIhNHUE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ず打隔琿3015",
+               "short_name" : "ず打隔琿3015",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ず打ń",
+               "short_name" : "ず打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "114, Taiwan, Taipei City, Neihu District, ず打隔琿301512腹",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0833108,
+               "lng" : 121.5909334
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0846597802915,
+                  "lng" : 121.5922823802915
+               },
+               "southwest" : {
+                  "lat" : 25.0819618197085,
+                  "lng" : 121.5895844197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIaTB1oysQjQR0luGWcz8oDs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ず打隔琿17969",
+               "short_name" : "ず打隔琿17969",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打镭ń",
+               "short_name" : "打镭ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "114, Taiwan, Taipei City, Neihu District, ず打隔琿1796912腹",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0858,
+               "lng" : 121.584546
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0871489802915,
+                  "lng" : 121.5858949802915
+               },
+               "southwest" : {
+                  "lat" : 25.0844510197085,
+                  "lng" : 121.5831970197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMZvpMPWsQjQRFRuP1ImlT34",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 426, Section 2, Chenggong Road",
+               "short_name" : "Lane 426, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打砍ń",
+               "short_name" : "打砍ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Lane 426, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0710787,
+               "lng" : 121.5893338
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0724276802915,
+                  "lng" : 121.5906827802915
+               },
+               "southwest" : {
+                  "lat" : 25.06972971970849,
+                  "lng" : 121.5879848197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPThQzIWsQjQR5aIddzWbOmM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 193, Section 2, Chenggong Road",
+               "short_name" : "Lane 193, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Lane 193, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0664157,
+               "lng" : 121.5913921
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0677646802915,
+                  "lng" : 121.5927410802915
+               },
+               "southwest" : {
+                  "lat" : 25.0650667197085,
+                  "lng" : 121.5900431197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgYApdYOsQjQRpfWVovIUdPc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 510, Section 2, Chenggong Road",
+               "short_name" : "Lane 510, Section 2, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打砍ń",
+               "short_name" : "打砍ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 12, Lane 510, Section 2, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0738526,
+               "lng" : 121.5891481
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0752015802915,
+                  "lng" : 121.5904970802915
+               },
+               "southwest" : {
+                  "lat" : 25.0725036197085,
+                  "lng" : 121.5877991197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw5HiWY-sQjQRgKKdexko9HM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

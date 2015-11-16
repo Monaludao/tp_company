@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "69",
+               "short_name" : "69",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Dadu Road",
+               "short_name" : "Section 3, Dadu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "一德里",
+               "short_name" : "一德里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 69, Section 3, Dadu Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1229964,
+                  "lng" : 121.471378
+               },
+               "southwest" : {
+                  "lat" : 25.1229794,
+                  "lng" : 121.4713767
+               }
+            },
+            "location" : {
+               "lat" : 25.1229964,
+               "lng" : 121.471378
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1243368802915,
+                  "lng" : 121.4727263302915
+               },
+               "southwest" : {
+                  "lat" : 25.1216389197085,
+                  "lng" : 121.4700283697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMTLlj7DngaPlj7DljJfluILljJfmipXljYDlpKfluqbot6_kuInmrrU2OeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

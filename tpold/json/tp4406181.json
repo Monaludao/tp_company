@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "429",
+               "short_name" : "429",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fude Street",
+               "short_name" : "Fude St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¨ºÖ¨½",
+               "short_name" : "¦¨ºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 429, Fude St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.040126,
+               "lng" : 121.590595
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0414749802915,
+                  "lng" : 121.5919439802915
+               },
+               "southwest" : {
+                  "lat" : 25.03877701970849,
+                  "lng" : 121.5892460197085
+               }
+            }
+         },
+         "place_id" : "ChIJpWlC3QyrQjQRtuWX_v814wg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,196 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 417, Guangfu South Road",
+               "short_name" : "Lane 417, Guangfu S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "正和里",
+               "short_name" : "正和里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Lane 417, Guangfu S Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0369327,
+               "lng" : 121.557928
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0382816802915,
+                  "lng" : 121.5592769802915
+               },
+               "southwest" : {
+                  "lat" : 25.03558371970849,
+                  "lng" : 121.5565790197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2bG9Q8irQjQRpLN68vv-8JI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "41-7",
+               "short_name" : "41-7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 46, Guangfu South Road",
+               "short_name" : "Lane 46, Guangfu S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "復源里",
+               "short_name" : "復源里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 41-7, Lane 46, Guangfu S Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.046025,
+               "lng" : 121.554646
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0473739802915,
+                  "lng" : 121.5559949802915
+               },
+               "southwest" : {
+                  "lat" : 25.0446760197085,
+                  "lng" : 121.5532970197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp14GZ8GrQjQRyiWxSQRqRIc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "417",
+               "short_name" : "417",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 350, Guangfu South Road",
+               "short_name" : "Lane 350, Guangfu S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "正聲里",
+               "short_name" : "正聲里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 417, Lane 350, Guangfu S Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0381949,
+                  "lng" : 121.5573857
+               },
+               "southwest" : {
+                  "lat" : 25.0381794,
+                  "lng" : 121.5573779
+               }
+            },
+            "location" : {
+               "lat" : 25.0381949,
+               "lng" : 121.5573779
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.03953613029151,
+                  "lng" : 121.5587307802915
+               },
+               "southwest" : {
+                  "lat" : 25.0368381697085,
+                  "lng" : 121.5560328197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDblj7DngaPlj7DljJfluILlpKflronljYDlhYnlvqnljZfot68zNTDlt7c0MTfomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

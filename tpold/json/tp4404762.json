@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "208",
+               "short_name" : "208",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jinghou Street",
+               "short_name" : "Jinghou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´º¦æ¨½",
+               "short_name" : "´º¦æ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 208, Jinghou St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.98936,
+               "lng" : 121.541869
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9907089802915,
+                  "lng" : 121.5432179802915
+               },
+               "southwest" : {
+                  "lat" : 24.9880110197085,
+                  "lng" : 121.5405200197085
+               }
+            }
+         },
+         "place_id" : "ChIJ27uxpwCqQjQR4oeb-gqtCnU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

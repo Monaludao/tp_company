@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17-1",
+               "short_name" : "17-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 12, Wenzhou Street",
+               "short_name" : "Lane 12, Wenzhou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às©Y¨½",
+               "short_name" : "Às©Y¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17-1, Lane 12, Wenzhou St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.025863,
+               "lng" : 121.532238
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0272119802915,
+                  "lng" : 121.5335869802915
+               },
+               "southwest" : {
+                  "lat" : 25.02451401970849,
+                  "lng" : 121.5308890197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ4ZEYoapQjQRIoOONMMTr2I",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

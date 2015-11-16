@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 157, Kunyang Street",
+               "short_name" : "Lane 157, Kunyang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新光里",
+               "short_name" : "新光里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 157, Kunyang St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0499788,
+               "lng" : 121.5945333
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0513277802915,
+                  "lng" : 121.5958822802915
+               },
+               "southwest" : {
+                  "lat" : 25.04862981970849,
+                  "lng" : 121.5931843197085
+               }
+            }
+         },
+         "place_id" : "ChIJx9Ej52-rQjQRlUa_Sct1a6c",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

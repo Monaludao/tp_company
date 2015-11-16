@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "艋舺大道390巷",
+               "short_name" : "艋舺大道390巷",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和平里",
+               "short_name" : "和平里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "108, Taiwan, Taipei City, Wanhua District, 艋舺大道390巷1號",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0308186,
+                  "lng" : 121.4939403
+               },
+               "southwest" : {
+                  "lat" : 25.0308066,
+                  "lng" : 121.493927
+               }
+            },
+            "location" : {
+               "lat" : 25.0308066,
+               "lng" : 121.493927
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0321615802915,
+                  "lng" : 121.4952826302915
+               },
+               "southwest" : {
+                  "lat" : 25.0294636197085,
+                  "lng" : 121.4925846697085
+               }
+            }
+         },
+         "place_id" : "EjExMDjlj7DngaPlj7DljJfluILokKzoj6_ljYDoiYvoiLrlpKfpgZMzOTDlt7cx6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

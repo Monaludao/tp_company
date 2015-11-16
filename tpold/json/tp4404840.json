@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 119, Section 1, Roosevelt Road",
+               "short_name" : "Lane 119, Section 1, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新營里",
+               "short_name" : "新營里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16, Lane 119, Section 1, Roosevelt Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0304377,
+               "lng" : 121.5219315
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0317866802915,
+                  "lng" : 121.5232804802915
+               },
+               "southwest" : {
+                  "lat" : 25.0290887197085,
+                  "lng" : 121.5205825197085
+               }
+            }
+         },
+         "place_id" : "ChIJF8jpj5upQjQR5F_65WzvlbI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

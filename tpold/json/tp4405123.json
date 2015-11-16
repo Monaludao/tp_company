@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 8, Lane 201, Yucheng Street",
+               "short_name" : "Alley 8, Lane 201, Yucheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ÂEºÖ¨½",
+               "short_name" : "ÂEºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 8, Lane 201, Yucheng St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0445997,
+               "lng" : 121.5859656
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0459486802915,
+                  "lng" : 121.5873145802915
+               },
+               "southwest" : {
+                  "lat" : 25.0432507197085,
+                  "lng" : 121.5846166197085
+               }
+            }
+         },
+         "place_id" : "ChIJabht-3SrQjQRuv8vgyiItF8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

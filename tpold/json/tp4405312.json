@@ -1,0 +1,356 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 125, Chongyang Road",
+               "short_name" : "Lane 125, Chongyang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "重陽里",
+               "short_name" : "重陽里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 125, Chongyang Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0568568,
+                  "lng" : 121.597995
+               },
+               "southwest" : {
+                  "lat" : 25.0568506,
+                  "lng" : 121.5979775
+               }
+            },
+            "location" : {
+               "lat" : 25.0568506,
+               "lng" : 121.5979775
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0582026802915,
+                  "lng" : 121.5993352302915
+               },
+               "southwest" : {
+                  "lat" : 25.0555047197085,
+                  "lng" : 121.5966372697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDph43pmb3ot68xMjXlt7czNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 36, Lane 125, Chongyang Road",
+               "short_name" : "Alley 36, Lane 125, Chongyang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "重陽里",
+               "short_name" : "重陽里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 36, Lane 125, Chongyang Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0577713,
+                  "lng" : 121.5975985
+               },
+               "southwest" : {
+                  "lat" : 25.0577551,
+                  "lng" : 121.5975928
+               }
+            },
+            "location" : {
+               "lat" : 25.0577713,
+               "lng" : 121.5975928
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0591121802915,
+                  "lng" : 121.5989446302915
+               },
+               "southwest" : {
+                  "lat" : 25.0564142197085,
+                  "lng" : 121.5962466697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDph43pmb3ot68xMjXlt7czNuW8hDHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chongyang Road",
+               "short_name" : "Chongyang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "東新里",
+               "short_name" : "東新里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Chongyang Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0555285,
+                  "lng" : 121.5965153
+               },
+               "southwest" : {
+                  "lat" : 25.0555131,
+                  "lng" : 121.5965073
+               }
+            },
+            "location" : {
+               "lat" : 25.0555131,
+               "lng" : 121.5965153
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0568697802915,
+                  "lng" : 121.5978602802915
+               },
+               "southwest" : {
+                  "lat" : 25.05417181970849,
+                  "lng" : 121.5951623197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikxMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDph43pmb3ot68zNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 423, Chongyang Road",
+               "short_name" : "Lane 423, Chongyang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三重里",
+               "short_name" : "三重里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 423, Chongyang Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0590286,
+                  "lng" : 121.6090857
+               },
+               "southwest" : {
+                  "lat" : 25.0590229,
+                  "lng" : 121.609068
+               }
+            },
+            "location" : {
+               "lat" : 25.0590229,
+               "lng" : 121.609068
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0603747302915,
+                  "lng" : 121.6104258302915
+               },
+               "southwest" : {
+                  "lat" : 25.0576767697085,
+                  "lng" : 121.6077278697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDph43pmb3ot680MjPlt7czNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 36, Section 1, Chenggong Road",
+               "short_name" : "Lane 36, Section 1, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "西新里",
+               "short_name" : "西新里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 36, Section 1, Chenggong Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0564,
+                  "lng" : 121.5919153
+               },
+               "southwest" : {
+                  "lat" : 25.0563917,
+                  "lng" : 121.5918989
+               }
+            },
+            "location" : {
+               "lat" : 25.0563917,
+               "lng" : 121.5918989
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0577448302915,
+                  "lng" : 121.5932560802915
+               },
+               "southwest" : {
+                  "lat" : 25.0550468697085,
+                  "lng" : 121.5905581197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDmiJDlip_ot6_kuIDmrrUzNuW3tzHomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

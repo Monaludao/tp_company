@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hengyang Road",
+               "short_name" : "Hengyang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©ú¨½",
+               "short_name" : "¾¤©ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 10, Hengyang Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0422059,
+               "lng" : 121.513636
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0435548802915,
+                  "lng" : 121.5149849802915
+               },
+               "southwest" : {
+                  "lat" : 25.0408569197085,
+                  "lng" : 121.5122870197085
+               }
+            }
+         },
+         "place_id" : "ChIJdQY1NgupQjQR2oG7nwmyYgc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

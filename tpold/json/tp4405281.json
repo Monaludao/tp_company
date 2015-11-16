@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "134",
+               "short_name" : "134",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tongbei Street",
+               "short_name" : "Tongbei St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼C¼æ¨½",
+               "short_name" : "¼C¼æ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 134, Tongbei St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0845857,
+               "lng" : 121.5377076
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0859346802915,
+                  "lng" : 121.5390565802915
+               },
+               "southwest" : {
+                  "lat" : 25.0832367197085,
+                  "lng" : 121.5363586197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_aU0owKsQjQRO_SJGQ0Hgag",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

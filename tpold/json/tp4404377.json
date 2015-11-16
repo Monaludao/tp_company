@@ -1,0 +1,1351 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wende Road",
+               "short_name" : "Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "답퀹㉬",
+               "short_name" : "답퀹㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0785334,
+               "lng" : 121.5791861
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0798823802915,
+                  "lng" : 121.5805350802915
+               },
+               "southwest" : {
+                  "lat" : 25.07718441970849,
+                  "lng" : 121.5778371197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5VTzB2OsQjQRworVjvugSdM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 210, Wende Road",
+               "short_name" : "Lane 210, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Lane 210, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.077973,
+                  "lng" : 121.5839062
+               },
+               "southwest" : {
+                  "lat" : 25.0779727,
+                  "lng" : 121.5838874
+               }
+            },
+            "location" : {
+               "lat" : 25.0779727,
+               "lng" : 121.5839062
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.07932183029151,
+                  "lng" : 121.5852457802915
+               },
+               "southwest" : {
+                  "lat" : 25.0766238697085,
+                  "lng" : 121.5825478197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei4xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmloflvrfot68yMTDlt7c26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 44, Lane 22, Wende Road",
+               "short_name" : "Alley 44, Lane 22, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 44, Lane 22, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0768446,
+               "lng" : 121.580459
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0781935802915,
+                  "lng" : 121.5818079802915
+               },
+               "southwest" : {
+                  "lat" : 25.07549561970849,
+                  "lng" : 121.5791100197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVQc73WKsQjQRgHykmYlGafg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 69, Lane 66, Wende Road",
+               "short_name" : "Alley 69, Lane 66, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 69, Lane 66, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0767851,
+               "lng" : 121.582285
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0781340802915,
+                  "lng" : 121.5836339802915
+               },
+               "southwest" : {
+                  "lat" : 25.0754361197085,
+                  "lng" : 121.5809360197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhYpImWKsQjQR2rW9gxGpfvM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 62, Lane 22, Wende Road",
+               "short_name" : "Alley 62, Lane 22, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 62, Lane 22, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0760745,
+               "lng" : 121.5805848
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0774234802915,
+                  "lng" : 121.5819337802915
+               },
+               "southwest" : {
+                  "lat" : 25.0747255197085,
+                  "lng" : 121.5792358197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyX7Mz2KsQjQRlZZa8wJiBiM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 9, Lane 171, Wende Road",
+               "short_name" : "Alley 9, Lane 171, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "도때㉬",
+               "short_name" : "도때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 9, Lane 171, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0794003,
+               "lng" : 121.5852501
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0807492802915,
+                  "lng" : 121.5865990802915
+               },
+               "southwest" : {
+                  "lat" : 25.0780513197085,
+                  "lng" : 121.5839011197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUbHpg4msQjQRyETCL6QBjwI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 171, Wende Road",
+               "short_name" : "Alley 3, Lane 171, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "도때㉬",
+               "short_name" : "도때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 3, Lane 171, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0789704,
+               "lng" : 121.5852614
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0803193802915,
+                  "lng" : 121.5866103802915
+               },
+               "southwest" : {
+                  "lat" : 25.0776214197085,
+                  "lng" : 121.5839124197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJh2HznImsQjQRpeh_6lO5aw0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 220, Wende Road",
+               "short_name" : "Alley 5, Lane 220, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "도때㉬",
+               "short_name" : "도때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 5, Lane 220, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0782894,
+               "lng" : 121.5884307
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0796383802915,
+                  "lng" : 121.5897796802915
+               },
+               "southwest" : {
+                  "lat" : 25.0769404197085,
+                  "lng" : 121.5870817197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrdm7so6sQjQRIRJd92-zRU8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 14, Lane 66, Wende Road",
+               "short_name" : "Alley 14, Lane 66, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 14, Lane 66, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0771232,
+                  "lng" : 121.5815239
+               },
+               "southwest" : {
+                  "lat" : 25.0771062,
+                  "lng" : 121.5815236
+               }
+            },
+            "location" : {
+               "lat" : 25.0771232,
+               "lng" : 121.5815236
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.07846368029151,
+                  "lng" : 121.5828727302915
+               },
+               "southwest" : {
+                  "lat" : 25.0757657197085,
+                  "lng" : 121.5801747697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmloflvrfot682NuW3tzE05byENuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 9, Lane 22, Wende Road",
+               "short_name" : "Alley 9, Lane 22, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 9, Lane 22, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0771494,
+               "lng" : 121.5796425
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.07849838029151,
+                  "lng" : 121.5809914802915
+               },
+               "southwest" : {
+                  "lat" : 25.0758004197085,
+                  "lng" : 121.5782935197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-cyBH2OsQjQR7-FwnO2dcso",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 11, Lane 66, Wende Road",
+               "short_name" : "Alley 11, Lane 66, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 11, Lane 66, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0778468,
+               "lng" : 121.5818766
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0791957802915,
+                  "lng" : 121.5832255802915
+               },
+               "southwest" : {
+                  "lat" : 25.0764978197085,
+                  "lng" : 121.5805276197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw_FDiGKsQjQRPHGQoiIJMcs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 12, Lane 66, Wende Road",
+               "short_name" : "Alley 12, Lane 66, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 12, Lane 66, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0777083,
+               "lng" : 121.5812294
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0790572802915,
+                  "lng" : 121.5825783802915
+               },
+               "southwest" : {
+                  "lat" : 25.07635931970849,
+                  "lng" : 121.5798804197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOSZI82KsQjQR7wrAe4ZQpho",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 16, Lane 22, Wende Road",
+               "short_name" : "Alley 16, Lane 22, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 16, Lane 22, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0777559,
+               "lng" : 121.579932
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.07910488029151,
+                  "lng" : 121.5812809802915
+               },
+               "southwest" : {
+                  "lat" : 25.0764069197085,
+                  "lng" : 121.5785830197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp4Yw_WKsQjQR77CjHYdrjmk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 27, Lane 22, Wende Road",
+               "short_name" : "Alley 27, Lane 22, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 27, Lane 22, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0765501,
+               "lng" : 121.5799739
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0778990802915,
+                  "lng" : 121.5813228802915
+               },
+               "southwest" : {
+                  "lat" : 25.0752011197085,
+                  "lng" : 121.5786249197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpdFT2GKsQjQRJGjPp-2V5cQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 32, Lane 66, Wende Road",
+               "short_name" : "Alley 32, Lane 66, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 32, Lane 66, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.076729,
+               "lng" : 121.581179
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0780779802915,
+                  "lng" : 121.5825279802915
+               },
+               "southwest" : {
+                  "lat" : 25.0753800197085,
+                  "lng" : 121.5798300197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-a0bwGKsQjQRwWWBzBT_FYo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 59, Lane 22, Wende Road",
+               "short_name" : "Alley 59, Lane 22, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루�奚�",
+               "short_name" : "루�奚�",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 59, Lane 22, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.075492,
+               "lng" : 121.5803241
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0768409802915,
+                  "lng" : 121.5816730802915
+               },
+               "southwest" : {
+                  "lat" : 25.0741430197085,
+                  "lng" : 121.5789751197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ_dFLH2sQjQRyitBDS2lXQ0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 34, Lane 66, Wende Road",
+               "short_name" : "Alley 34, Lane 66, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 34, Lane 66, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0764002,
+               "lng" : 121.5817366
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0777491802915,
+                  "lng" : 121.5830855802915
+               },
+               "southwest" : {
+                  "lat" : 25.0750512197085,
+                  "lng" : 121.5803876197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJA-d3vGKsQjQR-p6P5VJXuAM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 38, Lane 66, Wende Road",
+               "short_name" : "Alley 38, Lane 66, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 38, Lane 66, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0758578,
+               "lng" : 121.581883
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0772067802915,
+                  "lng" : 121.5832319802915
+               },
+               "southwest" : {
+                  "lat" : 25.0745088197085,
+                  "lng" : 121.5805340197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbdowsGKsQjQRjs4Fjk4s-ls",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 40, Lane 66, Wende Road",
+               "short_name" : "Alley 40, Lane 66, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 40, Lane 66, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0755052,
+               "lng" : 121.5819808
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0768541802915,
+                  "lng" : 121.5833297802915
+               },
+               "southwest" : {
+                  "lat" : 25.0741562197085,
+                  "lng" : 121.5806318197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_TSdrWKsQjQR0bqgFGJWPxo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 42, Lane 90, Wende Road",
+               "short_name" : "Alley 42, Lane 90, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 42, Lane 90, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0766818,
+               "lng" : 121.5830076
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0780307802915,
+                  "lng" : 121.5843565802915
+               },
+               "southwest" : {
+                  "lat" : 25.0753328197085,
+                  "lng" : 121.5816586197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQWxVIYisQjQRFzqZvtD4A1c",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 29, Lane 22, Wende Road",
+               "short_name" : "Alley 29, Lane 22, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 29, Lane 22, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0764613,
+                  "lng" : 121.5799972
+               },
+               "southwest" : {
+                  "lat" : 25.0764473,
+                  "lng" : 121.5799865
+               }
+            },
+            "location" : {
+               "lat" : 25.0764473,
+               "lng" : 121.5799972
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0778032802915,
+                  "lng" : 121.5813408302915
+               },
+               "southwest" : {
+                  "lat" : 25.07510531970849,
+                  "lng" : 121.5786428697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmloflvrfot68yMuW3tzI55byENuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 101, Wende Road",
+               "short_name" : "Alley 1, Lane 101, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "도때㉬",
+               "short_name" : "도때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 1, Lane 101, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0788672,
+               "lng" : 121.5837372
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0802161802915,
+                  "lng" : 121.5850861802915
+               },
+               "southwest" : {
+                  "lat" : 25.0775182197085,
+                  "lng" : 121.5823882197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFe746YmsQjQR_ThhVrt2MJE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "58",
+               "short_name" : "58",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xingshan Road",
+               "short_name" : "Xingshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶g¬ü¨½",
+               "short_name" : "¶g¬ü¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 58, Xingshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0585445,
+               "lng" : 121.5799076
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0598934802915,
+                  "lng" : 121.5812565802915
+               },
+               "southwest" : {
+                  "lat" : 25.0571955197085,
+                  "lng" : 121.5785586197085
+               }
+            }
+         },
+         "place_id" : "ChIJm0AQNYKrQjQRTaDbOcQYk50",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

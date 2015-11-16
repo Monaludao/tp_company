@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 250, Section 2, Huanhe South Road",
+               "short_name" : "Alley 3, Lane 250, Section 2, Huanhe S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "µØ¦¿¨½",
+               "short_name" : "µØ¦¿¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Alley 3, Lane 250, Section 2, Huanhe S Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0331936,
+               "lng" : 121.4912544
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0345425802915,
+                  "lng" : 121.4926033802915
+               },
+               "southwest" : {
+                  "lat" : 25.0318446197085,
+                  "lng" : 121.4899054197085
+               }
+            }
+         },
+         "place_id" : "ChIJ651Aq1KoQjQRHuFr2yj3qbg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

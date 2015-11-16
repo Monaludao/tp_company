@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 99, Xining South Road",
+               "short_name" : "Lane 99, Xining S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸U¹Ø¨½",
+               "short_name" : "¸U¹Ø¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Lane 99, Xining S Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.045274,
+               "lng" : 121.507029
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0466229802915,
+                  "lng" : 121.5083779802915
+               },
+               "southwest" : {
+                  "lat" : 25.0439250197085,
+                  "lng" : 121.5056800197085
+               }
+            }
+         },
+         "place_id" : "ChIJd2BitQ6pQjQRKteVRearyHY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

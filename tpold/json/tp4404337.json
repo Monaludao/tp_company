@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 9, Lane 77, Nong'an Street",
+               "short_name" : "Alley 9, Lane 77, Nong'an St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "∑s…‹®Ω",
+               "short_name" : "∑s…‹®Ω",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 33, Alley 9, Lane 77, Nong'an St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0662621,
+               "lng" : 121.5294186
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0676110802915,
+                  "lng" : 121.5307675802915
+               },
+               "southwest" : {
+                  "lat" : 25.0649131197085,
+                  "lng" : 121.5280696197085
+               }
+            }
+         },
+         "place_id" : "ChIJf9pjdlqpQjQRpmJL5SxnVwQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

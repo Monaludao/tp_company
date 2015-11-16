@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "162",
+               "short_name" : "162",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wanda Road",
+               "short_name" : "Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤éµ½¨½",
+               "short_name" : "¤éµ½¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 162, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0284844,
+               "lng" : 121.5003868
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0298333802915,
+                  "lng" : 121.5017357802915
+               },
+               "southwest" : {
+                  "lat" : 25.0271354197085,
+                  "lng" : 121.4990378197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4RTKVrCpQjQRamlk9VokkYw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

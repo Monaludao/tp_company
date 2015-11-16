@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "78",
+               "short_name" : "78",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 94, Wenlin North Road",
+               "short_name" : "Lane 94, Wenlin N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "建民里",
+               "short_name" : "建民里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 78, Lane 94, Wenlin N Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1071907,
+               "lng" : 121.5199609
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1085396802915,
+                  "lng" : 121.5213098802915
+               },
+               "southwest" : {
+                  "lat" : 25.1058417197085,
+                  "lng" : 121.5186119197085
+               }
+            }
+         },
+         "place_id" : "ChIJg-hDYJGuQjQRY65iC_ArCgI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

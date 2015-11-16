@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 19, Chang'an West Road",
+               "short_name" : "Alley 2, Lane 19, Chang'an W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民安里",
+               "short_name" : "民安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Alley 2, Lane 19, Chang'an W Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0508676,
+               "lng" : 121.5203972
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0522165802915,
+                  "lng" : 121.5217461802915
+               },
+               "southwest" : {
+                  "lat" : 25.0495186197085,
+                  "lng" : 121.5190482197085
+               }
+            }
+         },
+         "place_id" : "ChIJr6Gzm26pQjQRal3pa-t0FLc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

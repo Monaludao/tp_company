@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 60, Lane 164, Hulin Street",
+               "short_name" : "Alley 60, Lane 164, Hulin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦w±d¨½",
+               "short_name" : "¦w±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 26, Alley 60, Lane 164, Hulin St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.038629,
+               "lng" : 121.574057
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0399779802915,
+                  "lng" : 121.5754059802915
+               },
+               "southwest" : {
+                  "lat" : 25.0372800197085,
+                  "lng" : 121.5727080197085
+               }
+            }
+         },
+         "place_id" : "ChIJK-RP9aSrQjQRPFQTqBDRfaU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

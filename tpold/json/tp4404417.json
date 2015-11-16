@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "51",
+               "short_name" : "51",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jinjiang Street",
+               "short_name" : "Jinjiang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "³»ªF¨½",
+               "short_name" : "³»ªF¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 51, Jinjiang St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0243803,
+               "lng" : 121.5232239
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0257292802915,
+                  "lng" : 121.5245728802915
+               },
+               "southwest" : {
+                  "lat" : 25.02303131970849,
+                  "lng" : 121.5218749197085
+               }
+            }
+         },
+         "place_id" : "ChIJn56UZpCpQjQRq8wkFBesh4s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

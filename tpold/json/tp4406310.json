@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "38",
+               "short_name" : "38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jinglong Street",
+               "short_name" : "Jinglong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "萬有里",
+               "short_name" : "萬有里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 38, Jinglong St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.99867,
+               "lng" : 121.543739
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0000189802915,
+                  "lng" : 121.5450879802915
+               },
+               "southwest" : {
+                  "lat" : 24.9973210197085,
+                  "lng" : 121.5423900197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwxAaugSqQjQRAFyqVWeLdFE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

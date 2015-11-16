@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "152",
+               "short_name" : "152",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Juguang Road",
+               "short_name" : "Juguang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "³»ºÓ¨½",
+               "short_name" : "³»ºÓ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 152, Juguang Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0313763,
+               "lng" : 121.5026273
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0327252802915,
+                  "lng" : 121.5039762802915
+               },
+               "southwest" : {
+                  "lat" : 25.03002731970849,
+                  "lng" : 121.5012783197085
+               }
+            }
+         },
+         "place_id" : "ChIJISm89a-pQjQRinxWBmQ23yM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

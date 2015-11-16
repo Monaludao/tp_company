@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 141, Fuhua Road",
+               "short_name" : "Lane 141, Fuhua Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "德華里",
+               "short_name" : "德華里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Lane 141, Fuhua Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1029848,
+               "lng" : 121.5220752
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1043337802915,
+                  "lng" : 121.5234241802915
+               },
+               "southwest" : {
+                  "lat" : 25.10163581970849,
+                  "lng" : 121.5207262197085
+               }
+            }
+         },
+         "place_id" : "ChIJAbQe-pauQjQRTITkK8qH7d8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

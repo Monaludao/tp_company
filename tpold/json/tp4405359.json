@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Baoqing Street",
+               "short_name" : "Baoqing St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·s»E¨½",
+               "short_name" : "·s»E¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 10, Baoqing St, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0500159,
+               "lng" : 121.5687047
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0513648802915,
+                  "lng" : 121.5700536802915
+               },
+               "southwest" : {
+                  "lat" : 25.0486669197085,
+                  "lng" : 121.5673557197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJcdmWHJerQjQRQHzLRF9F65s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

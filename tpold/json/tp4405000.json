@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 401, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 401, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 401, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.024603,
+               "lng" : 121.570709
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0259519802915,
+                  "lng" : 121.5720579802915
+               },
+               "southwest" : {
+                  "lat" : 25.0232540197085,
+                  "lng" : 121.5693600197085
+               }
+            }
+         },
+         "place_id" : "ChIJt5g0Uk2qQjQRLxUN0Qxf86c",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 110, Aiguo East Road",
+               "short_name" : "Lane 110, Aiguo E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新營里",
+               "short_name" : "新營里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 30, Lane 110, Aiguo E Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0326239,
+               "lng" : 121.521294
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0339728802915,
+                  "lng" : 121.5226429802915
+               },
+               "southwest" : {
+                  "lat" : 25.03127491970849,
+                  "lng" : 121.5199450197085
+               }
+            }
+         },
+         "place_id" : "ChIJxRiKP5ypQjQRS-F3EFGIWJk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "139",
+               "short_name" : "139",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shishang Road",
+               "short_name" : "Shishang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 139, Shishang Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0933746,
+               "lng" : 121.5178904
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0947235802915,
+                  "lng" : 121.5192393802915
+               },
+               "southwest" : {
+                  "lat" : 25.0920256197085,
+                  "lng" : 121.5165414197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4bsoD7muQjQRzyWszymanBc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

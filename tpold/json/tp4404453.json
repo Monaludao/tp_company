@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 80, Yongping Street",
+               "short_name" : "Lane 80, Yongping St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªÀ¶é¨½",
+               "short_name" : "ªÀ¶é¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 19, Lane 80, Yongping St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0916096,
+               "lng" : 121.5058395
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0929585802915,
+                  "lng" : 121.5071884802915
+               },
+               "southwest" : {
+                  "lat" : 25.09026061970849,
+                  "lng" : 121.5044905197085
+               }
+            }
+         },
+         "place_id" : "ChIJp223C8-uQjQRGaUJktxLqH8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

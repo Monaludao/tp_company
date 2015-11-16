@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 40, Shuangyuan Street",
+               "short_name" : "Alley 2, Lane 40, Shuangyuan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和平里",
+               "short_name" : "和平里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 33, Alley 2, Lane 40, Shuangyuan St, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0290678,
+               "lng" : 121.493235
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0304167802915,
+                  "lng" : 121.4945839802915
+               },
+               "southwest" : {
+                  "lat" : 25.0277188197085,
+                  "lng" : 121.4918860197085
+               }
+            }
+         },
+         "place_id" : "ChIJNZ7vELOpQjQRixDiGRNaXxE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

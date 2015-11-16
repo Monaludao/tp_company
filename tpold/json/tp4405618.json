@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ず打隔琿33910",
+               "short_name" : "ず打隔琿33910",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ず打ń",
+               "short_name" : "ず打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "114, Taiwan, Taipei City, Neihu District, ず打隔琿339106腹",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0834339,
+               "lng" : 121.5914116
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0847828802915,
+                  "lng" : 121.5927605802915
+               },
+               "southwest" : {
+                  "lat" : 25.0820849197085,
+                  "lng" : 121.5900626197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4QOvK42sQjQRZjRMtdzeCwQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

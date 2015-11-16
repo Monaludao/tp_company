@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "192",
+               "short_name" : "192",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Datong Street",
+               "short_name" : "Datong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "長安里",
+               "short_name" : "長安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 192, Datong St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.136734,
+               "lng" : 121.499164
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1380829802915,
+                  "lng" : 121.5005129802915
+               },
+               "southwest" : {
+                  "lat" : 25.1353850197085,
+                  "lng" : 121.4978150197085
+               }
+            }
+         },
+         "place_id" : "ChIJUel42lGuQjQRbp1M4Y-3DTg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

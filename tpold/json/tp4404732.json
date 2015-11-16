@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 97, Section 1, Xinsheng South Road",
+               "short_name" : "Lane 97, Section 1, Xinsheng S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "チ女┰",
+               "short_name" : "チ女┰",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da・an District",
+               "short_name" : "Da・an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 24, Lane 97, Section 1, Xinsheng S Rd, Da・an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0410239,
+               "lng" : 121.5347961
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0423728802915,
+                  "lng" : 121.5361450802915
+               },
+               "southwest" : {
+                  "lat" : 25.0396749197085,
+                  "lng" : 121.5334471197085
+               }
+            }
+         },
+         "place_id" : "ChIJ8X6lqH2pQjQRZlEsQF1U0eI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

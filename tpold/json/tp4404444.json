@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fuguo Road",
+               "short_name" : "Fuguo Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "德行里",
+               "short_name" : "德行里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Fuguo Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1025092,
+               "lng" : 121.5249431
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1038581802915,
+                  "lng" : 121.5262920802915
+               },
+               "southwest" : {
+                  "lat" : 25.1011602197085,
+                  "lng" : 121.5235941197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJt-l-cJeuQjQR6Whe4UFEI3s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

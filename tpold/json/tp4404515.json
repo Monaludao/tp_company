@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 196, Section 1, Zhongyang South Road",
+               "short_name" : "Lane 196, Section 1, Zhongyang S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤¥¡¨½",
+               "short_name" : "¤¤¥¡¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 10, Lane 196, Section 1, Zhongyang S Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1286728,
+               "lng" : 121.5007262
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1300217802915,
+                  "lng" : 121.5020751802915
+               },
+               "southwest" : {
+                  "lat" : 25.1273238197085,
+                  "lng" : 121.4993772197085
+               }
+            }
+         },
+         "place_id" : "ChIJP5BdpleuQjQRkeH3-2t63hY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

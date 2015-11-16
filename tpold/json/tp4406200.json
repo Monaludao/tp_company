@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "30-1",
+               "short_name" : "30-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gongyuan Road",
+               "short_name" : "Gongyuan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©ú¨½",
+               "short_name" : "¾¤©ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 30-1, Gongyuan Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0445664,
+               "lng" : 121.5168021
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0459153802915,
+                  "lng" : 121.5181510802915
+               },
+               "southwest" : {
+                  "lat" : 25.04321741970849,
+                  "lng" : 121.5154531197085
+               }
+            }
+         },
+         "place_id" : "ChIJeV4LCXOpQjQRvpCSjR_h_-c",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

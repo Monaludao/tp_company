@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 140, Wenchang Road",
+               "short_name" : "Lane 140, Wenchang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¨Î¨½",
+               "short_name" : "ºÖ¨Î¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16, Lane 140, Wenchang Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0977781,
+                  "lng" : 121.5215367
+               },
+               "southwest" : {
+                  "lat" : 25.0977618,
+                  "lng" : 121.5215312
+               }
+            },
+            "location" : {
+               "lat" : 25.0977618,
+               "lng" : 121.5215367
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0991189302915,
+                  "lng" : 121.5228829302915
+               },
+               "southwest" : {
+                  "lat" : 25.0964209697085,
+                  "lng" : 121.5201849697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDmlofmmIzot68xNDDlt7cxNuiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

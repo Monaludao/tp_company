@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "47",
+               "short_name" : "47",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shezi Street",
+               "short_name" : "Shezi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "社新里",
+               "short_name" : "社新里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 47, Shezi St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0875934,
+               "lng" : 121.5073928
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0889423802915,
+                  "lng" : 121.5087417802915
+               },
+               "southwest" : {
+                  "lat" : 25.0862444197085,
+                  "lng" : 121.5060438197085
+               }
+            }
+         },
+         "place_id" : "ChIJ0SJKp86uQjQRZvay7hnbMXs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

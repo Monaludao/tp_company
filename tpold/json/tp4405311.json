@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 11, Lane 250, Section 3, Yangde Boulevard",
+               "short_name" : "Alley 11, Lane 250, Section 3, Yangde Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 11, Lane 250, Section 3, Yangde Blvd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1313252,
+                  "lng" : 121.5513118
+               },
+               "southwest" : {
+                  "lat" : 25.1249225,
+                  "lng" : 121.549693
+               }
+            },
+            "location" : {
+               "lat" : 25.1267283,
+               "lng" : 121.55027
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1313252,
+                  "lng" : 121.5518513802915
+               },
+               "southwest" : {
+                  "lat" : 25.1249225,
+                  "lng" : 121.5491534197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWZ5KcMWtQjQRk_sBCDNT59A",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

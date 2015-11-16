@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 12, Lane 127, Section 3, Muxin Road",
+               "short_name" : "Alley 12, Lane 127, Section 3, Muxin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼Ì¸}¨½",
+               "short_name" : "¼Ì¸}¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 12, Lane 127, Section 3, Muxin Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9811379,
+               "lng" : 121.5619295
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9824868802915,
+                  "lng" : 121.5632784802915
+               },
+               "southwest" : {
+                  "lat" : 24.9797889197085,
+                  "lng" : 121.5605805197085
+               }
+            }
+         },
+         "place_id" : "ChIJm7hFRd4BaDQRWF4xiEe9tXI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

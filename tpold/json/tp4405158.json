@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "312",
+               "short_name" : "312",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Songshan Road",
+               "short_name" : "Songshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªø¬K¨½",
+               "short_name" : "ªø¬K¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 312, Songshan Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.042506,
+               "lng" : 121.577615
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0438549802915,
+                  "lng" : 121.5789639802915
+               },
+               "southwest" : {
+                  "lat" : 25.0411570197085,
+                  "lng" : 121.5762660197085
+               }
+            }
+         },
+         "place_id" : "ChIJTzPwj6GrQjQRpJ1wCqRbE_U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+
