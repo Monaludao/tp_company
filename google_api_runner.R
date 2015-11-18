@@ -142,7 +142,14 @@ csv_insert<-function(csv.file){
             RAdd<-c(RAdd,json$results[[1]]$formatted_address)
             Rlat<-c(Rlat,json$results[[1]]$geometry$location[1])
             Rlng<-c(Rlng,json$results[[1]]$geometry$location[2])
-            Rvil<-c(Rvil,json$results[[1]]$address_components[[3]]$long_name)
+            
+            add.len<-length(json$results[[1]]$address_components)
+            if(add.len>=3){
+                Rvil<-c(Rvil,json$results[[1]]$address_components[[3]]$long_name)    
+            } else {
+                Rvil<-c(Rvil,json$results[[1]]$address_components[[add.len]]$long_name)
+            }
+            
         }
     }
     

@@ -1,6 +1,65 @@
 {
-   "error_message" : "You have exceeded your rate-limit for this API.",
-   "results" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-1",
+               "short_name" : "1-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Zhongxiao East Road",
+               "short_name" : "Section 5, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¶®¨½",
+               "short_name" : "¿³¶®¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-1, Section 5, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0414073,
+               "lng" : 121.5648553
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04275628029151,
+                  "lng" : 121.5662042802915
+               },
+               "southwest" : {
+                  "lat" : 25.0400583197085,
+                  "lng" : 121.5635063197085
+               }
+            }
+         },
+         "place_id" : "ChIJX87HWrmrQjQRDUWhiQxT5o0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
 }
 

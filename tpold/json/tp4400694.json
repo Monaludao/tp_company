@@ -1,6 +1,65 @@
 {
-   "error_message" : "You have exceeded your rate-limit for this API.",
-   "results" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "136",
+               "short_name" : "136",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Ren'ai Road",
+               "short_name" : "Section 3, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 136, Section 3, Ren'ai Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0375902,
+               "lng" : 121.5411449
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0389391802915,
+                  "lng" : 121.5424938802915
+               },
+               "southwest" : {
+                  "lat" : 25.0362412197085,
+                  "lng" : 121.5397959197085
+               }
+            }
+         },
+         "place_id" : "ChIJnRz6mNarQjQRVVqNT4U5ACM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
 }
 
