@@ -1,0 +1,1176 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Ren'ai Road",
+               "short_name" : "Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¯·O¨½",
+               "short_name" : "¤¯·O¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0377894,
+                  "lng" : 121.5441858
+               },
+               "southwest" : {
+                  "lat" : 25.0377724,
+                  "lng" : 121.544185
+               }
+            },
+            "location" : {
+               "lat" : 25.0377724,
+               "lng" : 121.544185
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0391298802915,
+                  "lng" : 121.5455343802915
+               },
+               "southwest" : {
+                  "lat" : 25.03643191970849,
+                  "lng" : 121.5428364197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei4xMDblj7DngaPlj7DljJfluILlpKflronljYDku4HmhJvot6_lm5vmrrU16Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 300, Section 4, Ren'ai Road",
+               "short_name" : "Lane 300, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´°·×¨½",
+               "short_name" : "´°·×¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Lane 300, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0370388,
+                  "lng" : 121.5544749
+               },
+               "southwest" : {
+                  "lat" : 25.0370387,
+                  "lng" : 121.5544561
+               }
+            },
+            "location" : {
+               "lat" : 25.0370387,
+               "lng" : 121.5544749
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0383877302915,
+                  "lng" : 121.5558144802915
+               },
+               "southwest" : {
+                  "lat" : 25.0356897697085,
+                  "lng" : 121.5531165197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDblj7DngaPlj7DljJfluILlpKflronljYDku4HmhJvot6_lm5vmrrUzMDDlt7c16Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 26, Lane 300, Section 4, Ren'ai Road",
+               "short_name" : "Alley 26, Lane 300, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´°·×¨½",
+               "short_name" : "´°·×¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 26, Lane 300, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0359778,
+               "lng" : 121.5541486
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0373267802915,
+                  "lng" : 121.5554975802915
+               },
+               "southwest" : {
+                  "lat" : 25.0346288197085,
+                  "lng" : 121.5527996197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4TI1zc6rQjQRAII4tPvpd6k",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 20, Lane 300, Section 4, Ren'ai Road",
+               "short_name" : "Alley 20, Lane 300, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´°·×¨½",
+               "short_name" : "´°·×¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 20, Lane 300, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0363912,
+               "lng" : 121.5539502
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0377401802915,
+                  "lng" : 121.5552991802915
+               },
+               "southwest" : {
+                  "lat" : 25.0350422197085,
+                  "lng" : 121.5526012197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ35d3086rQjQR4ClmQYNu_gQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 35, Lane 300, Section 4, Ren'ai Road",
+               "short_name" : "Alley 35, Lane 300, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥ú«H¨½",
+               "short_name" : "¥ú«H¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 35, Lane 300, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.035141,
+               "lng" : 121.554726
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0364899802915,
+                  "lng" : 121.5560749802915
+               },
+               "southwest" : {
+                  "lat" : 25.0337920197085,
+                  "lng" : 121.5533770197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJda1ESMmrQjQRdwHHGTFwFpk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 25, Lane 300, Section 4, Ren'ai Road",
+               "short_name" : "Alley 25, Lane 300, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥ú«H¨½",
+               "short_name" : "¥ú«H¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 25, Lane 300, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0359438,
+               "lng" : 121.5547147
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0372927802915,
+                  "lng" : 121.5560636802915
+               },
+               "southwest" : {
+                  "lat" : 25.0345948197085,
+                  "lng" : 121.5533657197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVXjXL8mrQjQRqypBIhwWCj8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 31, Lane 265, Section 4, Xinyi Road",
+               "short_name" : "Alley 31, Lane 265, Section 4, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥ú«H¨½",
+               "short_name" : "¥ú«H¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 31, Lane 265, Section 4, Xinyi Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0345214,
+               "lng" : 121.5554277
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0358703802915,
+                  "lng" : 121.5567766802915
+               },
+               "southwest" : {
+                  "lat" : 25.0331724197085,
+                  "lng" : 121.5540787197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmTvoQsmrQjQRABWmRpMdrYY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 345, Section 4, Ren'ai Road",
+               "short_name" : "Alley 4, Lane 345, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¨®¼h¨½",
+               "short_name" : "¨®¼h¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 4, Lane 345, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0390506,
+               "lng" : 121.5536486
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0403995802915,
+                  "lng" : 121.5549975802915
+               },
+               "southwest" : {
+                  "lat" : 25.0377016197085,
+                  "lng" : 121.5522996197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk3gFUc-rQjQRxt9p21YqcEk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 345, Section 4, Ren'ai Road",
+               "short_name" : "Alley 2, Lane 345, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¨®¼h¨½",
+               "short_name" : "¨®¼h¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 2, Lane 345, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.038555,
+               "lng" : 121.5537751
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0399039802915,
+                  "lng" : 121.5551240802915
+               },
+               "southwest" : {
+                  "lat" : 25.0372060197085,
+                  "lng" : 121.5524261197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk0mfTs-rQjQR9DDOWXlzbdE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 15, Lane 345, Section 4, Ren'ai Road",
+               "short_name" : "Alley 15, Lane 345, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¨®¼h¨½",
+               "short_name" : "¨®¼h¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 15, Lane 345, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0391127,
+               "lng" : 121.5542753
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0404616802915,
+                  "lng" : 121.5556242802915
+               },
+               "southwest" : {
+                  "lat" : 25.0377637197085,
+                  "lng" : 121.5529263197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeZByq8irQjQRAmcmWLPZ4G0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 27, Section 4, Ren'ai Road",
+               "short_name" : "Alley 4, Lane 27, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¯·R¨½",
+               "short_name" : "¤¯·R¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 4, Lane 27, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0387381,
+               "lng" : 121.5445229
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0400870802915,
+                  "lng" : 121.5458718802915
+               },
+               "southwest" : {
+                  "lat" : 25.0373891197085,
+                  "lng" : 121.5431739197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRVccHNGrQjQREAKx61jIsUY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 9, Lane 112, Section 4, Ren'ai Road",
+               "short_name" : "Alley 9, Lane 112, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´°¦w¨½",
+               "short_name" : "´°¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 9, Lane 112, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0368152,
+               "lng" : 121.5499952
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.03816418029151,
+                  "lng" : 121.5513441802915
+               },
+               "southwest" : {
+                  "lat" : 25.0354662197085,
+                  "lng" : 121.5486462197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb_vgRs6rQjQRPTuGk5LwNG4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 27, Lane 27, Section 4, Ren'ai Road",
+               "short_name" : "Alley 27, Lane 27, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¯·R¨½",
+               "short_name" : "¤¯·R¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 27, Lane 27, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0404805,
+               "lng" : 121.5454252
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0418294802915,
+                  "lng" : 121.5467741802915
+               },
+               "southwest" : {
+                  "lat" : 25.0391315197085,
+                  "lng" : 121.5440762197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJWiEidCrQjQRh_JccQlS2T0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 28, Lane 27, Section 4, Ren'ai Road",
+               "short_name" : "Alley 28, Lane 27, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¯·R¨½",
+               "short_name" : "¤¯·R¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Alley 28, Lane 27, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0406336,
+                  "lng" : 121.5447124
+               },
+               "southwest" : {
+                  "lat" : 25.0406166,
+                  "lng" : 121.5447123
+               }
+            },
+            "location" : {
+               "lat" : 25.0406336,
+               "lng" : 121.5447124
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0419740802915,
+                  "lng" : 121.5460613302915
+               },
+               "southwest" : {
+                  "lat" : 25.0392761197085,
+                  "lng" : 121.5433633697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDku4HmhJvot6_lm5vmrrUyN-W3tzI45byENeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 27, Section 4, Ren'ai Road",
+               "short_name" : "Lane 27, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¯·R¨½",
+               "short_name" : "¤¯·R¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Lane 27, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0392312,
+               "lng" : 121.5453548
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0405801802915,
+                  "lng" : 121.5467037802915
+               },
+               "southwest" : {
+                  "lat" : 25.0378822197085,
+                  "lng" : 121.5440058197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlWY7-dCrQjQR7P_teV5v_WI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 112, Section 4, Ren'ai Road",
+               "short_name" : "Lane 112, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´°¦w¨½",
+               "short_name" : "´°¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Lane 112, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0369716,
+               "lng" : 121.5497423
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0383205802915,
+                  "lng" : 121.5510912802915
+               },
+               "southwest" : {
+                  "lat" : 25.0356226197085,
+                  "lng" : 121.5483933197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi_ZmOM6rQjQRqobIMTgXlRA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 91, Section 4, Ren'ai Road",
+               "short_name" : "Lane 91, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¯·R¨½",
+               "short_name" : "¤¯·R¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Lane 91, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0386662,
+               "lng" : 121.5478399
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0400151802915,
+                  "lng" : 121.5491888802915
+               },
+               "southwest" : {
+                  "lat" : 25.03731721970849,
+                  "lng" : 121.5464909197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC60ULtCrQjQR6Tpv9m8SQyU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 48, Section 4, Ren'ai Road",
+               "short_name" : "Lane 48, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼w¦w¨½",
+               "short_name" : "¼w¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Lane 48, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0374555,
+               "lng" : 121.5472003
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0388044802915,
+                  "lng" : 121.5485492802915
+               },
+               "southwest" : {
+                  "lat" : 25.0361065197085,
+                  "lng" : 121.5458513197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT3DbxtGrQjQRx9ZL4fJxaEo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 105, Section 4, Ren'ai Road",
+               "short_name" : "Lane 105, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«Ø­Û¨½",
+               "short_name" : "«Ø­Û¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Lane 105, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0386329,
+               "lng" : 121.550189
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0399818802915,
+                  "lng" : 121.5515379802915
+               },
+               "southwest" : {
+                  "lat" : 25.0372839197085,
+                  "lng" : 121.5488400197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3SlUuc-rQjQR_8Rj1UgyeVQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

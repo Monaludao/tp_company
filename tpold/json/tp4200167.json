@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanhai Road",
+               "short_name" : "Nanhai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nanhai Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0328352,
+                  "lng" : 121.5179631
+               },
+               "southwest" : {
+                  "lat" : 25.0317365,
+                  "lng" : 121.5136369
+               }
+            },
+            "location" : {
+               "lat" : 25.032236,
+               "lng" : 121.5157025
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0336348302915,
+                  "lng" : 121.5179631
+               },
+               "southwest" : {
+                  "lat" : 25.03093686970849,
+                  "lng" : 121.5136369
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMbAK7aKpQjQRsTq7-v1iVIc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

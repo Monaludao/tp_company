@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xiamen Street",
+               "short_name" : "Xiamen St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿Ã®E¨½",
+               "short_name" : "¿Ã®E¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 42, Xiamen St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0255434,
+               "lng" : 121.5173624
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0268923802915,
+                  "lng" : 121.5187113802915
+               },
+               "southwest" : {
+                  "lat" : 25.0241944197085,
+                  "lng" : 121.5160134197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_y9kc5epQjQREkV4sL5oHRo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

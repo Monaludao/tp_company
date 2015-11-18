@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "147",
+               "short_name" : "147",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Chongqing South Road",
+               "short_name" : "Section 1, Chongqing S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©ú¨½",
+               "short_name" : "¾¤©ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 147, Section 1, Chongqing S Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.04152,
+               "lng" : 121.513262
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0428689802915,
+                  "lng" : 121.5146109802915
+               },
+               "southwest" : {
+                  "lat" : 25.0401710197085,
+                  "lng" : 121.5119130197085
+               }
+            }
+         },
+         "place_id" : "ChIJE5xUJAupQjQRgHoyflYM5EQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

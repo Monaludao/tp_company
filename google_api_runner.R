@@ -129,11 +129,15 @@ csv_insert<-function(csv.file){
         
         json<-fromJSON(json.path)
         
+        ##print(i)
+        
         if(json$status=="ZERO_RESULTS"){
             RAdd<-c(RAdd,NA)
             Rlat<-c(Rlat,NA)
             Rlng<-c(Rlng,NA)
             Rvil<-c(Rvil,NA)
+        } else if (json$status=="OVER_QUERY_LIMIT"){
+            stop(paste("need re-parse : i =",i))
         } else {
             RAdd<-c(RAdd,json$results[[1]]$formatted_address)
             Rlat<-c(Rlat,json$results[[1]]$geometry$location[1])
