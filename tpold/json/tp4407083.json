@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45-2",
+               "short_name" : "45-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nanning Road",
+               "short_name" : "Nanning Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´IºÖ¨½",
+               "short_name" : "´IºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 45-2, Nanning Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0362327,
+               "lng" : 121.504233
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0375816802915,
+                  "lng" : 121.5055819802915
+               },
+               "southwest" : {
+                  "lat" : 25.0348837197085,
+                  "lng" : 121.5028840197085
+               }
+            }
+         },
+         "place_id" : "ChIJwWJda6apQjQR1R7p7lRYe44",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

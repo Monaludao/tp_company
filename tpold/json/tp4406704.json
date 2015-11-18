@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "68",
+               "short_name" : "68",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Minquan East Road",
+               "short_name" : "Section 5, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·s¯q¨½",
+               "short_name" : "·s¯q¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 68, Section 5, Minquan E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.062994,
+               "lng" : 121.566173
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0643429802915,
+                  "lng" : 121.5675219802915
+               },
+               "southwest" : {
+                  "lat" : 25.0616450197085,
+                  "lng" : 121.5648240197085
+               }
+            }
+         },
+         "place_id" : "ChIJge1ArY6rQjQRUZ8EjMYk5e8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

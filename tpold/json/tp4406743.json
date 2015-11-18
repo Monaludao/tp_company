@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "87",
+               "short_name" : "87",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Chenggong Road",
+               "short_name" : "Section 5, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ª÷´ò¨½",
+               "short_name" : "ª÷´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 87, Section 5, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0735232,
+                  "lng" : 121.6052596
+               },
+               "southwest" : {
+                  "lat" : 25.0735166,
+                  "lng" : 121.6052423
+               }
+            },
+            "location" : {
+               "lat" : 25.0735232,
+               "lng" : 121.6052423
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0748688802915,
+                  "lng" : 121.6065999302915
+               },
+               "southwest" : {
+                  "lat" : 25.0721709197085,
+                  "lng" : 121.6039019697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmiJDlip_ot6_kupTmrrU4N-iZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

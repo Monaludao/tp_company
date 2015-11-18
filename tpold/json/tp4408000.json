@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7-1",
+               "short_name" : "7-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "西園路一段125巷",
+               "short_name" : "西園路一段125巷",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "富民里",
+               "short_name" : "富民里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "108, Taiwan, Taipei City, Wanhua District, 西園路一段125巷7-1號",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0377766,
+               "lng" : 121.4998881
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0391255802915,
+                  "lng" : 121.5012370802915
+               },
+               "southwest" : {
+                  "lat" : 25.0364276197085,
+                  "lng" : 121.4985391197085
+               }
+            }
+         },
+         "place_id" : "ChIJkTff4aipQjQR0b_36F1RGTQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

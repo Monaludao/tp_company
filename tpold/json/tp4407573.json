@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "133",
+               "short_name" : "133",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Huanshan Road",
+               "short_name" : "Section 2, Huanshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´äµØ¨½",
+               "short_name" : "´äµØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 133, Section 2, Huanshan Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.083886,
+               "lng" : 121.576732
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.08523498029151,
+                  "lng" : 121.5780809802915
+               },
+               "southwest" : {
+                  "lat" : 25.0825370197085,
+                  "lng" : 121.5753830197085
+               }
+            }
+         },
+         "place_id" : "ChIJ79BE0masQjQRnQjh9BHJP3o",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

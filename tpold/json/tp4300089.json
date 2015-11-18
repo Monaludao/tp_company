@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lishui Street",
+               "short_name" : "Lishui St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ÀA¦w¨½",
+               "short_name" : "ÀA¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 29, Lishui St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.02837,
+               "lng" : 121.528329
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0297189802915,
+                  "lng" : 121.5296779802915
+               },
+               "southwest" : {
+                  "lat" : 25.0270210197085,
+                  "lng" : 121.5269800197085
+               }
+            }
+         },
+         "place_id" : "ChIJpzT0ioSpQjQRagGRjaLTxg4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

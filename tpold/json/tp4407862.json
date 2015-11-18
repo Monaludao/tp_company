@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "479",
+               "short_name" : "479",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mingshui Road",
+               "short_name" : "Mingshui Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã¦w¨½",
+               "short_name" : "¥Ã¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 479, Mingshui Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.078082,
+               "lng" : 121.551673
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.07943098029151,
+                  "lng" : 121.5530219802915
+               },
+               "southwest" : {
+                  "lat" : 25.0767330197085,
+                  "lng" : 121.5503240197085
+               }
+            }
+         },
+         "place_id" : "ChIJNQL42w6sQjQRyiRwbunF1i4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

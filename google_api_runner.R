@@ -29,7 +29,7 @@ gl_convert<-function(){
     
     if(nrow(csv.df) <= last.row){
         act.file<-file.list[grep(last.file,file.list)+1]
-        csv.df<-getcsv(act.file)
+        csv.df<-getcsv(act.file,file.root)
         start.row<-1
     } else {
         start.row<-last.row+1

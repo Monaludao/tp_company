@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "250",
+               "short_name" : "250",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Tingzhou Road",
+               "short_name" : "Section 1, Tingzhou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã©÷¨½",
+               "short_name" : "¥Ã©÷¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 250, Section 1, Tingzhou Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0270798,
+               "lng" : 121.5104931
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0284287802915,
+                  "lng" : 121.5118420802915
+               },
+               "southwest" : {
+                  "lat" : 25.0257308197085,
+                  "lng" : 121.5091441197085
+               }
+            }
+         },
+         "place_id" : "ChIJc7466LypQjQRM3TRL9Ifbjs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

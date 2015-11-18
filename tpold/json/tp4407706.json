@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 14, Zhoumei Street",
+               "short_name" : "Lane 14, Zhoumei St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¬w¬ü¨½",
+               "short_name" : "¬w¬ü¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Lane 14, Zhoumei St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.098705,
+               "lng" : 121.5102735
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1000539802915,
+                  "lng" : 121.5116224802915
+               },
+               "southwest" : {
+                  "lat" : 25.0973560197085,
+                  "lng" : 121.5089245197085
+               }
+            }
+         },
+         "place_id" : "ChIJJafFPcGuQjQRVll7qENIDGc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 73, Wenquan Road",
+               "short_name" : "Lane 73, Wenquan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "長安里",
+               "short_name" : "長安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Lane 73, Wenquan Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1359765,
+                  "lng" : 121.5065275
+               },
+               "southwest" : {
+                  "lat" : 25.1359754,
+                  "lng" : 121.5065088
+               }
+            },
+            "location" : {
+               "lat" : 25.1359765,
+               "lng" : 121.5065088
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1373249302915,
+                  "lng" : 121.5078671302915
+               },
+               "southwest" : {
+                  "lat" : 25.1346269697085,
+                  "lng" : 121.5051691697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei4xMTLlj7DngaPlj7DljJfluILljJfmipXljYDmuqvms4not683M-W3tzEz6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,986 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 47, Section 1, Xinsheng North Road",
+               "short_name" : "Lane 47, Section 1, Xinsheng N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¨È¨½",
+               "short_name" : "¿³¨È¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 47, Section 1, Xinsheng N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0479829,
+                  "lng" : 121.5314266
+               },
+               "southwest" : {
+                  "lat" : 25.0479659,
+                  "lng" : 121.5314263
+               }
+            },
+            "location" : {
+               "lat" : 25.0479659,
+               "lng" : 121.5314263
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0493233802915,
+                  "lng" : 121.5327754302915
+               },
+               "southwest" : {
+                  "lat" : 25.04662541970849,
+                  "lng" : 121.5300774697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDmlrDnlJ_ljJfot6_kuIDmrrU0N-W3tzEwNOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 102, Section 1, Xinsheng North Road",
+               "short_name" : "Lane 102, Section 1, Xinsheng N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥¿¸q¨½",
+               "short_name" : "¥¿¸q¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 102, Section 1, Xinsheng N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0486335,
+                  "lng" : 121.5282133
+               },
+               "southwest" : {
+                  "lat" : 25.0486169,
+                  "lng" : 121.5282092
+               }
+            },
+            "location" : {
+               "lat" : 25.0486169,
+               "lng" : 121.5282133
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0499741802915,
+                  "lng" : 121.5295602302915
+               },
+               "southwest" : {
+                  "lat" : 25.0472762197085,
+                  "lng" : 121.5268622697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDmlrDnlJ_ljJfot6_kuIDmrrUxMDLlt7cxMDTomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 23, Section 1, Jianguo North Road",
+               "short_name" : "Lane 23, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶±[¨½",
+               "short_name" : "¦¶±[¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 23, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0472916,
+                  "lng" : 121.5403933
+               },
+               "southwest" : {
+                  "lat" : 25.0472746,
+                  "lng" : 121.5403928
+               }
+            },
+            "location" : {
+               "lat" : 25.0472746,
+               "lng" : 121.5403928
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0486320802915,
+                  "lng" : 121.5417420302915
+               },
+               "southwest" : {
+                  "lat" : 25.0459341197085,
+                  "lng" : 121.5390440697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrUyM-W3tzEwNOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 33, Section 1, Jianguo North Road",
+               "short_name" : "Lane 33, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶±[¨½",
+               "short_name" : "¦¶±[¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 33, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0477655,
+                  "lng" : 121.5403913
+               },
+               "southwest" : {
+                  "lat" : 25.0477485,
+                  "lng" : 121.540391
+               }
+            },
+            "location" : {
+               "lat" : 25.0477485,
+               "lng" : 121.540391
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0491059802915,
+                  "lng" : 121.5417401302915
+               },
+               "southwest" : {
+                  "lat" : 25.0464080197085,
+                  "lng" : 121.5390421697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrUzM-W3tzEwNOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 78, Section 1, Jianguo North Road",
+               "short_name" : "Lane 78, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶¶é¨½",
+               "short_name" : "¦¶¶é¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 78, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0493263,
+                  "lng" : 121.5347551
+               },
+               "southwest" : {
+                  "lat" : 25.0493093,
+                  "lng" : 121.5347549
+               }
+            },
+            "location" : {
+               "lat" : 25.0493093,
+               "lng" : 121.5347549
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0506667802915,
+                  "lng" : 121.5361039802915
+               },
+               "southwest" : {
+                  "lat" : 25.0479688197085,
+                  "lng" : 121.5334060197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrU3OOW3tzEwNOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 138, Section 1, Jianguo North Road",
+               "short_name" : "Lane 138, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶¶é¨½",
+               "short_name" : "¦¶¶é¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 138, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0509988,
+                  "lng" : 121.5350571
+               },
+               "southwest" : {
+                  "lat" : 25.0509818,
+                  "lng" : 121.535057
+               }
+            },
+            "location" : {
+               "lat" : 25.0509988,
+               "lng" : 121.535057
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.05233928029151,
+                  "lng" : 121.5364060302915
+               },
+               "southwest" : {
+                  "lat" : 25.0496413197085,
+                  "lng" : 121.5337080697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrUxMzjlt7cxMDTomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 92, Section 1, Jianguo North Road",
+               "short_name" : "Lane 92, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶¶é¨½",
+               "short_name" : "¦¶¶é¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 92, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0501746,
+                  "lng" : 121.5350296
+               },
+               "southwest" : {
+                  "lat" : 25.0501576,
+                  "lng" : 121.5350293
+               }
+            },
+            "location" : {
+               "lat" : 25.0501576,
+               "lng" : 121.5350293
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0515150802915,
+                  "lng" : 121.5363784302915
+               },
+               "southwest" : {
+                  "lat" : 25.0488171197085,
+                  "lng" : 121.5336804697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrU5MuW3tzEwNOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 67, Section 1, Jianguo North Road",
+               "short_name" : "Lane 67, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤O¦æ¨½",
+               "short_name" : "¤O¦æ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 67, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.050915,
+                  "lng" : 121.5384619
+               },
+               "southwest" : {
+                  "lat" : 25.050898,
+                  "lng" : 121.5384613
+               }
+            },
+            "location" : {
+               "lat" : 25.050898,
+               "lng" : 121.5384613
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0522554802915,
+                  "lng" : 121.5398105802915
+               },
+               "southwest" : {
+                  "lat" : 25.0495575197085,
+                  "lng" : 121.5371126197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrU2N-W3tzEwNOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 11, Section 1, Jianguo North Road",
+               "short_name" : "Lane 11, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶±[¨½",
+               "short_name" : "¦¶±[¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 11, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0469181,
+                  "lng" : 121.5390431
+               },
+               "southwest" : {
+                  "lat" : 25.0469013,
+                  "lng" : 121.5390399
+               }
+            },
+            "location" : {
+               "lat" : 25.0469013,
+               "lng" : 121.5390431
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0482586802915,
+                  "lng" : 121.5403904802915
+               },
+               "southwest" : {
+                  "lat" : 25.0455607197085,
+                  "lng" : 121.5376925197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrUxMeW3tzEwNOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 17, Section 1, Jianguo North Road",
+               "short_name" : "Lane 17, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶±[¨½",
+               "short_name" : "¦¶±[¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 17, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0470824,
+                  "lng" : 121.537992
+               },
+               "southwest" : {
+                  "lat" : 25.0470655,
+                  "lng" : 121.5379899
+               }
+            },
+            "location" : {
+               "lat" : 25.0470655,
+               "lng" : 121.537992
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0484229302915,
+                  "lng" : 121.5393399302915
+               },
+               "southwest" : {
+                  "lat" : 25.04572496970849,
+                  "lng" : 121.5366419697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrUxN-W3tzEwNOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 20, Section 1, Jianguo North Road",
+               "short_name" : "Lane 20, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶¶é¨½",
+               "short_name" : "¦¶¶é¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 20, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0468679,
+                  "lng" : 121.5362305
+               },
+               "southwest" : {
+                  "lat" : 25.0468509,
+                  "lng" : 121.5362293
+               }
+            },
+            "location" : {
+               "lat" : 25.0468509,
+               "lng" : 121.5362305
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04820838029151,
+                  "lng" : 121.5375788802915
+               },
+               "southwest" : {
+                  "lat" : 25.0455104197085,
+                  "lng" : 121.5348809197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrUyMOW3tzEwNOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 5, Section 1, Jianguo North Road",
+               "short_name" : "Lane 5, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶±[¨½",
+               "short_name" : "¦¶±[¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Lane 5, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0465043,
+                  "lng" : 121.5374827
+               },
+               "southwest" : {
+                  "lat" : 25.0464875,
+                  "lng" : 121.5374801
+               }
+            },
+            "location" : {
+               "lat" : 25.0464875,
+               "lng" : 121.5374827
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0478448802915,
+                  "lng" : 121.5388303802915
+               },
+               "southwest" : {
+                  "lat" : 25.0451469197085,
+                  "lng" : 121.5361324197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrU15be3MTA06Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 11, Lane 23, Section 1, Jianguo North Road",
+               "short_name" : "Alley 11, Lane 23, Section 1, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶±[¨½",
+               "short_name" : "¦¶±[¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Alley 11, Lane 23, Section 1, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0474039,
+                  "lng" : 121.5376536
+               },
+               "southwest" : {
+                  "lat" : 25.0474034,
+                  "lng" : 121.5376348
+               }
+            },
+            "location" : {
+               "lat" : 25.0474039,
+               "lng" : 121.5376348
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0487526302915,
+                  "lng" : 121.5389931802915
+               },
+               "southwest" : {
+                  "lat" : 25.0460546697085,
+                  "lng" : 121.5362952197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej0xMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlu7rlnIvljJfot6_kuIDmrrUyM-W3tzEx5byEMTA06Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 1, Section 4, Zhongshan North Road",
+               "short_name" : "Alley 1, Lane 1, Section 4, Zhongshan N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼C¼æ¨½",
+               "short_name" : "¼C¼æ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Alley 1, Lane 1, Section 4, Zhongshan N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0803487,
+                  "lng" : 121.5278542
+               },
+               "southwest" : {
+                  "lat" : 25.080347,
+                  "lng" : 121.5278355
+               }
+            },
+            "location" : {
+               "lat" : 25.080347,
+               "lng" : 121.5278355
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0816968302915,
+                  "lng" : 121.5291938302915
+               },
+               "southwest" : {
+                  "lat" : 25.0789988697085,
+                  "lng" : 121.5264958697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjsxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDkuK3lsbHljJfot6_lm5vmrrUx5be3MeW8hDEwNOiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

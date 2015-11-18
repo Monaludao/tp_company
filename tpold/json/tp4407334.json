@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "180",
+               "short_name" : "180",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dunhuang Road",
+               "short_name" : "Dunhuang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "老師里",
+               "short_name" : "老師里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 180, Dunhuang Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0763125,
+               "lng" : 121.5126445
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0776614802915,
+                  "lng" : 121.5139934802915
+               },
+               "southwest" : {
+                  "lat" : 25.0749635197085,
+                  "lng" : 121.5112955197085
+               }
+            }
+         },
+         "place_id" : "ChIJBRE03TWpQjQRK6AkxbVjW9k",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

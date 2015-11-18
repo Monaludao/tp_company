@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Yanping North Road",
+               "short_name" : "Section 1, Yanping N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥É¬u¨½",
+               "short_name" : "¥É¬u¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 24, Section 1, Yanping N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0504188,
+               "lng" : 121.5118829
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.05176778029151,
+                  "lng" : 121.5132318802915
+               },
+               "southwest" : {
+                  "lat" : 25.0490698197085,
+                  "lng" : 121.5105339197085
+               }
+            }
+         },
+         "place_id" : "ChIJs7u7jRKpQjQRHhfmqi4Aeq8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

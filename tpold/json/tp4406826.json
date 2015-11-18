@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "394",
+               "short_name" : "394",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 6, Zhongxiao East Road",
+               "short_name" : "Section 6, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新光里",
+               "short_name" : "新光里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 394, Section 6, Zhongxiao E Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.049836,
+               "lng" : 121.59243
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0511849802915,
+                  "lng" : 121.5937789802915
+               },
+               "southwest" : {
+                  "lat" : 25.0484870197085,
+                  "lng" : 121.5910810197085
+               }
+            }
+         },
+         "place_id" : "ChIJUzDdRnCrQjQR3DRMrzpw8mM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

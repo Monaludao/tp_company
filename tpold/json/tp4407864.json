@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 512, Section 4, Ren'ai Road",
+               "short_name" : "Lane 512, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 512, Section 4, Ren'ai Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.037606,
+                  "lng" : 121.5615031
+               },
+               "southwest" : {
+                  "lat" : 25.0366433,
+                  "lng" : 121.5609113
+               }
+            },
+            "location" : {
+               "lat" : 25.0370907,
+               "lng" : 121.5612555
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0384736302915,
+                  "lng" : 121.5625561802915
+               },
+               "southwest" : {
+                  "lat" : 25.0357756697085,
+                  "lng" : 121.5598582197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj_K0jLerQjQRuxrIVjbpROo",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

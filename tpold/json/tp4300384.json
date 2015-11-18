@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "66",
+               "short_name" : "66",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lequn 3rd Road",
+               "short_name" : "Lequn 3rd Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "成功里",
+               "short_name" : "成功里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 66, Lequn 3rd Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0826821,
+                  "lng" : 121.552727
+               },
+               "southwest" : {
+                  "lat" : 25.0826651,
+                  "lng" : 121.5527269
+               }
+            },
+            "location" : {
+               "lat" : 25.0826651,
+               "lng" : 121.5527269
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0840225802915,
+                  "lng" : 121.5540759302915
+               },
+               "southwest" : {
+                  "lat" : 25.0813246197085,
+                  "lng" : 121.5513779697085
+               }
+            }
+         },
+         "place_id" : "EiwxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDmqILnvqTkuInot682NuiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

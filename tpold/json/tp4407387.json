@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "´L½åµó218«Ñ25§Ë",
+               "short_name" : "´L½åµó218«Ñ25§Ë",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´L½å¨½",
+               "short_name" : "´L½å¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "112, Taiwan, Taipei City, Beitou District, ´L½åµó218«Ñ25§Ë6¸¹",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1167604,
+               "lng" : 121.5085909
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1181093802915,
+                  "lng" : 121.5099398802915
+               },
+               "southwest" : {
+                  "lat" : 25.1154114197085,
+                  "lng" : 121.5072419197085
+               }
+            }
+         },
+         "place_id" : "ChIJZQF71vOuQjQRM_NuPb4B3qM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

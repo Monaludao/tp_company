@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 159, Songlong Road",
+               "short_name" : "Lane 159, Songlong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶®²»¨½",
+               "short_name" : "¶®²»¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 45, Lane 159, Songlong Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0488443,
+                  "lng" : 121.5727367
+               },
+               "southwest" : {
+                  "lat" : 25.0488437,
+                  "lng" : 121.5727179
+               }
+            },
+            "location" : {
+               "lat" : 25.0488443,
+               "lng" : 121.5727179
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0501929802915,
+                  "lng" : 121.5740762802915
+               },
+               "southwest" : {
+                  "lat" : 25.0474950197085,
+                  "lng" : 121.5713783197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDmnb7pmobot68xNTnlt7c0NeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

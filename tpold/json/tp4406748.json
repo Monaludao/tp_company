@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 20, Lane 391, Section 3, Heping East Road",
+               "short_name" : "Alley 20, Lane 391, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©¾¨½",
+               "short_name" : "¾¤©¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 20, Lane 391, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0205763,
+               "lng" : 121.5577874
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0219252802915,
+                  "lng" : 121.5591363802915
+               },
+               "southwest" : {
+                  "lat" : 25.0192273197085,
+                  "lng" : 121.5564384197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4z6OTzaqQjQRats3uK1e0pE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

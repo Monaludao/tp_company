@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 110, Fugang Street",
+               "short_name" : "Alley 1, Lane 110, Fugang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¤¤¨½",
+               "short_name" : "ºÖ¤¤¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Alley 1, Lane 110, Fugang St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0886161,
+                  "lng" : 121.5177067
+               },
+               "southwest" : {
+                  "lat" : 25.0886132,
+                  "lng" : 121.5176882
+               }
+            },
+            "location" : {
+               "lat" : 25.0886161,
+               "lng" : 121.5176882
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0899636302915,
+                  "lng" : 121.5190464302915
+               },
+               "southwest" : {
+                  "lat" : 25.0872656697085,
+                  "lng" : 121.5163484697085
+               }
+            }
+         },
+         "place_id" : "EjIxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDnpo_muK_ooZcxMTDlt7cx5byEMuiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

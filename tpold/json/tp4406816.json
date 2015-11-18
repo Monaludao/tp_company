@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "226",
+               "short_name" : "226",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Muxin Road",
+               "short_name" : "Section 3, Muxin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "�̤娽",
+               "short_name" : "�̤娽",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 226, Section 3, Muxin Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9813886,
+                  "lng" : 121.5592104
+               },
+               "southwest" : {
+                  "lat" : 24.9813722,
+                  "lng" : 121.5592053
+               }
+            },
+            "location" : {
+               "lat" : 24.9813886,
+               "lng" : 121.5592053
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9827293802915,
+                  "lng" : 121.5605568302915
+               },
+               "southwest" : {
+                  "lat" : 24.9800314197085,
+                  "lng" : 121.5578588697085
+               }
+            }
+         },
+         "place_id" : "EjAxMTblj7DngaPlj7DljJfluILmloflsbHljYDmnKjmlrDot6_kuInmrrUyMjbomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

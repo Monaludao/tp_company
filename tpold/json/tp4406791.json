@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 2, Nong'an Street",
+               "short_name" : "Lane 2, Nong'an St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«í¦w¨½",
+               "short_name" : "«í¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 18, Lane 2, Nong'an St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0640745,
+                  "lng" : 121.5230405
+               },
+               "southwest" : {
+                  "lat" : 25.064072,
+                  "lng" : 121.5230219
+               }
+            },
+            "location" : {
+               "lat" : 25.064072,
+               "lng" : 121.5230219
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0654222302915,
+                  "lng" : 121.5243801802915
+               },
+               "southwest" : {
+                  "lat" : 25.0627242697085,
+                  "lng" : 121.5216822197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDovrLlronooZcy5be3MTjomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

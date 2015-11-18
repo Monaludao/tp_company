@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "188",
+               "short_name" : "188",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chengfu Road",
+               "short_name" : "Chengfu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦ÊºÖ¨½",
+               "short_name" : "¦ÊºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 188, Chengfu Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0411621,
+               "lng" : 121.5879993
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0425110802915,
+                  "lng" : 121.5893482802915
+               },
+               "southwest" : {
+                  "lat" : 25.03981311970849,
+                  "lng" : 121.5866503197085
+               }
+            }
+         },
+         "place_id" : "ChIJhfjWWwurQjQRrl2Dq9qSA5o",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-9",
+               "short_name" : "2-9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 302, Section 3, Heping West Road",
+               "short_name" : "Lane 302, Section 3, Heping W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "µØ¦¿¨½",
+               "short_name" : "µØ¦¿¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2-9, Lane 302, Section 3, Heping W Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0348528,
+               "lng" : 121.492864
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0362017802915,
+                  "lng" : 121.4942129802915
+               },
+               "southwest" : {
+                  "lat" : 25.0335038197085,
+                  "lng" : 121.4915150197085
+               }
+            }
+         },
+         "place_id" : "ChIJn3LPGK2pQjQRnf5loJcLuWo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 12, Lane 2, Section 2, Yanjiuyuan Road",
+               "short_name" : "Alley 12, Lane 2, Section 2, Yanjiuyuan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中研里",
+               "short_name" : "中研里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8, Alley 12, Lane 2, Section 2, Yanjiuyuan Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0482329,
+               "lng" : 121.614446
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0495818802915,
+                  "lng" : 121.6157949802915
+               },
+               "southwest" : {
+                  "lat" : 25.0468839197085,
+                  "lng" : 121.6130970197085
+               }
+            }
+         },
+         "place_id" : "ChIJS1uF5FqrQjQRfUI_svWx_io",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

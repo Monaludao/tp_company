@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "423",
+               "short_name" : "423",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Bade Road",
+               "short_name" : "Section 4, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 423, Section 4, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0495611,
+                  "lng" : 121.5696022
+               },
+               "southwest" : {
+                  "lat" : 25.0495453,
+                  "lng" : 121.5695954
+               }
+            },
+            "location" : {
+               "lat" : 25.0495611,
+               "lng" : 121.5695954
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0509021802915,
+                  "lng" : 121.5709477802915
+               },
+               "southwest" : {
+                  "lat" : 25.0482042197085,
+                  "lng" : 121.5682498197085
+               }
+            }
+         },
+         "place_id" : "EjAxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhavlvrfot6_lm5vmrrU0MjPomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

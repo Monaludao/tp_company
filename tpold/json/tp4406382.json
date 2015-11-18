@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Fengnian Road",
+               "short_name" : "Section 2, Fengnian Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Â×¦~¨½",
+               "short_name" : "Â×¦~¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 104, Section 2, Fengnian Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.136494,
+               "lng" : 121.494799
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1378429802915,
+                  "lng" : 121.4961479802915
+               },
+               "southwest" : {
+                  "lat" : 25.1351450197085,
+                  "lng" : 121.4934500197085
+               }
+            }
+         },
+         "place_id" : "ChIJ9wJAW1KuQjQRbXjLZUVTkc8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

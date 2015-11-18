@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 78, Section 2, Donghua Street",
+               "short_name" : "Lane 78, Section 2, Donghua St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã©ú¨½",
+               "short_name" : "¥Ã©ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 78, Section 2, Donghua St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1175372,
+               "lng" : 121.5138716
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1188861802915,
+                  "lng" : 121.5152205802915
+               },
+               "southwest" : {
+                  "lat" : 25.11618821970849,
+                  "lng" : 121.5125226197085
+               }
+            }
+         },
+         "place_id" : "ChIJix0SVPOuQjQRoQonWcZ9R4k",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

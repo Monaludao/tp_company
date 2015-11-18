@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "236",
+               "short_name" : "236",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 7, Chengde Road",
+               "short_name" : "Section 7, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "�߽娽",
+               "short_name" : "�߽娽",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 236, Section 7, Chengde Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.115615,
+               "lng" : 121.506252
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1169639802915,
+                  "lng" : 121.5076009802915
+               },
+               "southwest" : {
+                  "lat" : 25.1142660197085,
+                  "lng" : 121.5049030197085
+               }
+            }
+         },
+         "place_id" : "ChIJ5ZgbyPGuQjQR9DDdUV0rOj4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

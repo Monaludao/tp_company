@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 33, Lane 280, Jili Street",
+               "short_name" : "Alley 33, Lane 280, Jili St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦N§Q¨½",
+               "short_name" : "¦N§Q¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8, Alley 33, Lane 280, Jili St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1172447,
+               "lng" : 121.5104013
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.11859368029151,
+                  "lng" : 121.5117502802915
+               },
+               "southwest" : {
+                  "lat" : 25.1158957197085,
+                  "lng" : 121.5090523197085
+               }
+            }
+         },
+         "place_id" : "ChIJ8S-avfOuQjQR7zFhSB7jWiI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

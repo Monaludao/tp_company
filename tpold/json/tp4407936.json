@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "67",
+               "short_name" : "67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Liangzhou Street",
+               "short_name" : "Liangzhou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nªÚ¨½",
+               "short_name" : "«nªÚ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 67, Liangzhou St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0605786,
+               "lng" : 121.5087914
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.06192758029151,
+                  "lng" : 121.5101403802915
+               },
+               "southwest" : {
+                  "lat" : 25.0592296197085,
+                  "lng" : 121.5074424197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb-RJ_xWpQjQRn8Pa0gdcU10",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

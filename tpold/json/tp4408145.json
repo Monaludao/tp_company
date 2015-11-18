@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "152",
+               "short_name" : "152",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rui'an Street",
+               "short_name" : "Rui'an St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¹Ï¨½",
+               "short_name" : "Às¹Ï¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 152, Rui'an St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0292273,
+               "lng" : 121.5418782
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0305762802915,
+                  "lng" : 121.5432271802915
+               },
+               "southwest" : {
+                  "lat" : 25.0278783197085,
+                  "lng" : 121.5405292197085
+               }
+            }
+         },
+         "place_id" : "ChIJxaoFdyuqQjQROo7Q7iTrSmc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

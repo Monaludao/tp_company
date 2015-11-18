@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "51",
+               "short_name" : "51",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Guangming Road",
+               "short_name" : "Guangming Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "大同里",
+               "short_name" : "大同里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 51, Guangming Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1328887,
+               "lng" : 121.4997292
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1342376802915,
+                  "lng" : 121.5010781802915
+               },
+               "southwest" : {
+                  "lat" : 25.1315397197085,
+                  "lng" : 121.4983802197085
+               }
+            }
+         },
+         "place_id" : "ChIJ51L7IFGuQjQR6TAB7LPPpw4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 502, Yongji Road",
+               "short_name" : "Lane 502, Yongji Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã¬K¨½",
+               "short_name" : "¥Ã¬K¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 11, Lane 502, Yongji Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.044891,
+               "lng" : 121.580164
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0462399802915,
+                  "lng" : 121.5815129802915
+               },
+               "southwest" : {
+                  "lat" : 25.0435420197085,
+                  "lng" : 121.5788150197085
+               }
+            }
+         },
+         "place_id" : "ChIJq1mtnp-rQjQRyZS261qxY4Y",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

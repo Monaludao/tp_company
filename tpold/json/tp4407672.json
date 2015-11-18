@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 252, Minzu East Road",
+               "short_name" : "Lane 252, Minzu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦æ§µ¨½",
+               "short_name" : "¦æ§µ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 252, Minzu E Rd & Lane 151, Section 3, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0677159,
+               "lng" : 121.5348736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0690648802915,
+                  "lng" : 121.5362225802915
+               },
+               "southwest" : {
+                  "lat" : 25.0663669197085,
+                  "lng" : 121.5335246197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkUxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDmsJHml4_mnbHot68yNTLlt7flu7rlnIvljJfot6_kuInmrrUxNTHlt7c",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "151",
+               "short_name" : "151",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Minzu East Road",
+               "short_name" : "Minzu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤j¨Î¨½",
+               "short_name" : "¤j¨Î¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 151, Minzu E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0683551,
+               "lng" : 121.540019
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0697040802915,
+                  "lng" : 121.5413679802915
+               },
+               "southwest" : {
+                  "lat" : 25.0670061197085,
+                  "lng" : 121.5386700197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIRsJM_yrQjQROxnxfkjWzI0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

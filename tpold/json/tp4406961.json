@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 70, Zhongpo South Road",
+               "short_name" : "Lane 70, Zhongpo S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "大道里",
+               "short_name" : "大道里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Lane 70, Zhongpo S Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0415013,
+               "lng" : 121.5848062
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0428502802915,
+                  "lng" : 121.5861551802915
+               },
+               "southwest" : {
+                  "lat" : 25.0401523197085,
+                  "lng" : 121.5834572197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_36zwgqrQjQRYHc3muw2LaQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

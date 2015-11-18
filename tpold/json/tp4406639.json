@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Zhicheng Road",
+               "short_name" : "Section 2, Zhicheng Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "名山里",
+               "short_name" : "名山里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 19, Section 2, Zhicheng Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1021097,
+               "lng" : 121.5298485
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1034586802915,
+                  "lng" : 121.5311974802915
+               },
+               "southwest" : {
+                  "lat" : 25.1007607197085,
+                  "lng" : 121.5284995197085
+               }
+            }
+         },
+         "place_id" : "ChIJWwkBQJmuQjQRnnUzU1lzsME",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

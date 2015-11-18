@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jinxi Street",
+               "short_name" : "Jinxi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "集英里",
+               "short_name" : "集英里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Jinxi St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0602252,
+               "lng" : 121.5219436
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0615741802915,
+                  "lng" : 121.5232925802915
+               },
+               "southwest" : {
+                  "lat" : 25.05887621970849,
+                  "lng" : 121.5205946197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2eSzskOpQjQRc0PB4eKzrLk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 53, Jinxi Street",
+               "short_name" : "Lane 53, Jinxi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民權里",
+               "short_name" : "民權里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Lane 53, Jinxi St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0606322,
+                  "lng" : 121.5158963
+               },
+               "southwest" : {
+                  "lat" : 25.0606317,
+                  "lng" : 121.5158775
+               }
+            },
+            "location" : {
+               "lat" : 25.0606322,
+               "lng" : 121.5158775
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0619809302915,
+                  "lng" : 121.5172358802915
+               },
+               "southwest" : {
+                  "lat" : 25.0592829697085,
+                  "lng" : 121.5145379197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMDPlj7DngaPlj7DljJfluILlpKflkIzljYDpjKbopb_ooZc1M-W3tzbomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

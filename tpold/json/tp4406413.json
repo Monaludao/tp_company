@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 59, Lane 14, Section 7, Zhongshan North Road",
+               "short_name" : "Alley 59, Lane 14, Section 7, Zhongshan N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天和里",
+               "short_name" : "天和里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 10, Alley 59, Lane 14, Section 7, Zhongshan N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1212451,
+               "lng" : 121.5338451
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1225940802915,
+                  "lng" : 121.5351940802915
+               },
+               "southwest" : {
+                  "lat" : 25.1198961197085,
+                  "lng" : 121.5324961197085
+               }
+            }
+         },
+         "place_id" : "ChIJI_ov_36uQjQRxBxFWOCcK_k",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

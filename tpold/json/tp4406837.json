@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tianmu North Road",
+               "short_name" : "Tianmu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤Ñ¥É¨½",
+               "short_name" : "¤Ñ¥É¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 29, Tianmu N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1201662,
+               "lng" : 121.5265605
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1215151802915,
+                  "lng" : 121.5279094802915
+               },
+               "southwest" : {
+                  "lat" : 25.1188172197085,
+                  "lng" : 121.5252115197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOeu3WH2uQjQReM9L6jvtAzM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

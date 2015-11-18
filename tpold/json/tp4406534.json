@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 192, Section 5, Roosevelt Road",
+               "short_name" : "Lane 192, Section 5, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "萬年里",
+               "short_name" : "萬年里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 22, Lane 192, Section 5, Roosevelt Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0035097,
+               "lng" : 121.5366619
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0048586802915,
+                  "lng" : 121.5380108802915
+               },
+               "southwest" : {
+                  "lat" : 25.0021607197085,
+                  "lng" : 121.5353129197085
+               }
+            }
+         },
+         "place_id" : "ChIJ86H_1PepQjQRY1-lJ4femeo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

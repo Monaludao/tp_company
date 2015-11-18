@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "680",
+               "short_name" : "680",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Guangfu South Road",
+               "short_name" : "Guangfu S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "通化里",
+               "short_name" : "通化里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 680, Guangfu S Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0304087,
+                  "lng" : 121.5573491
+               },
+               "southwest" : {
+                  "lat" : 25.0304076,
+                  "lng" : 121.5573304
+               }
+            },
+            "location" : {
+               "lat" : 25.0304087,
+               "lng" : 121.5573304
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0317571302915,
+                  "lng" : 121.5586887302915
+               },
+               "southwest" : {
+                  "lat" : 25.0290591697085,
+                  "lng" : 121.5559907697085
+               }
+            }
+         },
+         "place_id" : "Ei0xMDblj7DngaPlj7DljJfluILlpKflronljYDlhYnlvqnljZfot682ODDomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

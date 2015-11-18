@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "107",
+               "short_name" : "107",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 66, Wende Road",
+               "short_name" : "Lane 66, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "루때㉬",
+               "short_name" : "루때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 107, Lane 66, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0752705,
+               "lng" : 121.5825553
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0766194802915,
+                  "lng" : 121.5839042802915
+               },
+               "southwest" : {
+                  "lat" : 25.0739215197085,
+                  "lng" : 121.5812063197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_zLmqmKsQjQRXjhUT5MTKOQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xining South Road",
+               "short_name" : "Xining S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¬P¨½",
+               "short_name" : "ºÖ¬P¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 15, Xining S Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.048092,
+               "lng" : 121.507601
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0494409802915,
+                  "lng" : 121.5089499802915
+               },
+               "southwest" : {
+                  "lat" : 25.0467430197085,
+                  "lng" : 121.5062520197085
+               }
+            }
+         },
+         "place_id" : "ChIJ81GNZA6pQjQR4UaO0GxhUQg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

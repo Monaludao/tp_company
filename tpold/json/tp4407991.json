@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "56",
+               "short_name" : "56",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jinxi Street",
+               "short_name" : "Jinxi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Âù³s¨½",
+               "short_name" : "Âù³s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 56, Jinxi St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0601986,
+               "lng" : 121.5196988
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0615475802915,
+                  "lng" : 121.5210477802915
+               },
+               "southwest" : {
+                  "lat" : 25.0588496197085,
+                  "lng" : 121.5183498197085
+               }
+            }
+         },
+         "place_id" : "ChIJb-Cyh0GpQjQR6QglBXhLfu8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

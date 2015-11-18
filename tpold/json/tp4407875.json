@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fude Street",
+               "short_name" : "Fude St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªQ¥ú¨½",
+               "short_name" : "ªQ¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Fude St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0364599,
+               "lng" : 121.578788
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0378088802915,
+                  "lng" : 121.5801369802915
+               },
+               "southwest" : {
+                  "lat" : 25.0351109197085,
+                  "lng" : 121.5774390197085
+               }
+            }
+         },
+         "place_id" : "ChIJHWaX9qarQjQRoQRfuqDf2ho",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "83",
+               "short_name" : "83",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongming Street",
+               "short_name" : "Dongming St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "東新里",
+               "short_name" : "東新里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 83, Dongming St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0547788,
+               "lng" : 121.6016388
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0561277802915,
+                  "lng" : 121.6029877802915
+               },
+               "southwest" : {
+                  "lat" : 25.0534298197085,
+                  "lng" : 121.6002898197085
+               }
+            }
+         },
+         "place_id" : "ChIJqY5BM2GrQjQRGB5zF72QgsM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

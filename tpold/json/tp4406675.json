@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "192",
+               "short_name" : "192",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Minsheng East Road",
+               "short_name" : "Section 5, Minsheng E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´I®õ¨½",
+               "short_name" : "´I®õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 192, Section 5, Minsheng E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0582217,
+               "lng" : 121.5642661
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0595706802915,
+                  "lng" : 121.5656150802915
+               },
+               "southwest" : {
+                  "lat" : 25.0568727197085,
+                  "lng" : 121.5629171197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7QB99Y2rQjQRzMYw-kHHUv0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

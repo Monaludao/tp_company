@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "81",
+               "short_name" : "81",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chengdu Road",
+               "short_name" : "Chengdu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "西門里",
+               "short_name" : "西門里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 81, Chengdu Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.043089,
+               "lng" : 121.505268
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0444379802915,
+                  "lng" : 121.5066169802915
+               },
+               "southwest" : {
+                  "lat" : 25.0417400197085,
+                  "lng" : 121.5039190197085
+               }
+            }
+         },
+         "place_id" : "ChIJjSPW_gipQjQRnOcBw4_2_GI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

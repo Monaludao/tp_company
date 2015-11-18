@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "溫泉路銀光巷",
+               "short_name" : "溫泉路銀光巷",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "林泉里",
+               "short_name" : "林泉里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "112, Taiwan, Taipei City, Beitou District, 溫泉路銀光巷22號",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1359157,
+               "lng" : 121.5157628
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1372646802915,
+                  "lng" : 121.5171117802915
+               },
+               "southwest" : {
+                  "lat" : 25.13456671970849,
+                  "lng" : 121.5144138197085
+               }
+            }
+         },
+         "place_id" : "ChIJpW3XSmiuQjQRYc_zpS-hzEA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

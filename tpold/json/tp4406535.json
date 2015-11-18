@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "201-24",
+               "short_name" : "201-24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dunhua North Road",
+               "short_name" : "Dunhua N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºë©¾¨½",
+               "short_name" : "ºë©¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 201-24, Dunhua N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0561123,
+               "lng" : 121.549868
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0574612802915,
+                  "lng" : 121.5512169802915
+               },
+               "southwest" : {
+                  "lat" : 25.0547633197085,
+                  "lng" : 121.5485190197085
+               }
+            }
+         },
+         "place_id" : "ChIJzzqPyuirQjQRtqKpi1nRdjs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

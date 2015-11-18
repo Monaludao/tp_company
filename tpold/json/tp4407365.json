@@ -1,0 +1,821 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Nanjing East Road",
+               "short_name" : "Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "︽ń",
+               "short_name" : "︽ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Section 3, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0519044,
+                  "lng" : 121.5370219
+               },
+               "southwest" : {
+                  "lat" : 25.0518874,
+                  "lng" : 121.5370219
+               }
+            },
+            "location" : {
+               "lat" : 25.0518874,
+               "lng" : 121.5370219
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0532448802915,
+                  "lng" : 121.5383708802915
+               },
+               "southwest" : {
+                  "lat" : 25.0505469197085,
+                  "lng" : 121.5356729197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjExMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDljZfkuqzmnbHot6_kuInmrrUy6Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 194, Section 3, Nanjing East Road",
+               "short_name" : "Lane 194, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "︽ń",
+               "short_name" : "︽ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Lane 194, Section 3, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0517966,
+                  "lng" : 121.5427971
+               },
+               "southwest" : {
+                  "lat" : 25.0517944,
+                  "lng" : 121.5427785
+               }
+            },
+            "location" : {
+               "lat" : 25.0517966,
+               "lng" : 121.5427785
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0531444802915,
+                  "lng" : 121.5441367802915
+               },
+               "southwest" : {
+                  "lat" : 25.0504465197085,
+                  "lng" : 121.5414388197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDljZfkuqzmnbHot6_kuInmrrUxOTTlt7cy6Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 3, Lane 41, Section 2, Nanjing East Road",
+               "short_name" : "Alley 3, Lane 41, Section 2, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "いń",
+               "short_name" : "いń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 3, Lane 41, Section 2, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0530566,
+                  "lng" : 121.5296899
+               },
+               "southwest" : {
+                  "lat" : 25.0528751,
+                  "lng" : 121.5293371
+               }
+            },
+            "location" : {
+               "lat" : 25.0529656,
+               "lng" : 121.5293371
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0543148302915,
+                  "lng" : 121.5308624802915
+               },
+               "southwest" : {
+                  "lat" : 25.0516168697085,
+                  "lng" : 121.5281645197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2bV44WapQjQRCSqJeXGkyVo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 3, Lane 115, Section 2, Nanjing East Road",
+               "short_name" : "Alley 3, Lane 115, Section 2, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "いァń",
+               "short_name" : "いァń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 3, Lane 115, Section 2, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0534383,
+                  "lng" : 121.534215
+               },
+               "southwest" : {
+                  "lat" : 25.0531389,
+                  "lng" : 121.5336269
+               }
+            },
+            "location" : {
+               "lat" : 25.05343,
+               "lng" : 121.5340804
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0546375802915,
+                  "lng" : 121.5352699302915
+               },
+               "southwest" : {
+                  "lat" : 25.0519396197085,
+                  "lng" : 121.5325719697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfRP59GCpQjQResTBSIdRIYg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 216, Section 3, Nanjing East Road",
+               "short_name" : "Lane 216, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "︽ń",
+               "short_name" : "︽ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 216, Section 3, Nanjing E Rd & Alley 2, Lane 101, Liaoning St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0503801,
+               "lng" : 121.5433995
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0517290802915,
+                  "lng" : 121.5447484802915
+               },
+               "southwest" : {
+                  "lat" : 25.0490311197085,
+                  "lng" : 121.5420505197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkYxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDljZfkuqzmnbHot6_kuInmrrUyMTblt7fpgbzlr6fooZcxMDHlt7cy5byE",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 89, Section 3, Nanjing East Road",
+               "short_name" : "Alley 5, Lane 89, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "確地ń",
+               "short_name" : "確地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Alley 5, Lane 89, Section 3, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0527815,
+               "lng" : 121.539135
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0541304802915,
+                  "lng" : 121.5404839802915
+               },
+               "southwest" : {
+                  "lat" : 25.0514325197085,
+                  "lng" : 121.5377860197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJq8Ffxd-rQjQRyVl3ynx6dRo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 27, Lane 89, Section 3, Nanjing East Road",
+               "short_name" : "Alley 27, Lane 89, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "確地ń",
+               "short_name" : "確地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Alley 27, Lane 89, Section 3, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0535529,
+               "lng" : 121.538127
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0549018802915,
+                  "lng" : 121.5394759802915
+               },
+               "southwest" : {
+                  "lat" : 25.0522039197085,
+                  "lng" : 121.5367780197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJE9Vx4d-rQjQRiL33qmhuDXs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 89, Section 3, Nanjing East Road",
+               "short_name" : "Alley 3, Lane 89, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "確地ń",
+               "short_name" : "確地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Alley 3, Lane 89, Section 3, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0524224,
+               "lng" : 121.5390294
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0537713802915,
+                  "lng" : 121.5403783802915
+               },
+               "southwest" : {
+                  "lat" : 25.05107341970849,
+                  "lng" : 121.5376804197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJcbxIxt-rQjQRpW1kd_xgP7o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 15, Lane 89, Section 3, Nanjing East Road",
+               "short_name" : "Alley 15, Lane 89, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "確地ń",
+               "short_name" : "確地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Alley 15, Lane 89, Section 3, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0531482,
+               "lng" : 121.5385809
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.05449718029151,
+                  "lng" : 121.5399298802915
+               },
+               "southwest" : {
+                  "lat" : 25.0517992197085,
+                  "lng" : 121.5372319197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC0wA3d-rQjQRDxsOpNmEm2Y",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 89, Section 3, Nanjing East Road",
+               "short_name" : "Lane 89, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "確地ń",
+               "short_name" : "確地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Lane 89, Section 3, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0527055,
+               "lng" : 121.5383937
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0540544802915,
+                  "lng" : 121.5397426802915
+               },
+               "southwest" : {
+                  "lat" : 25.0513565197085,
+                  "lng" : 121.5370447197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ37L46d-rQjQRDCZ1H1YeMII",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 14, Section 3, Nanjing East Road",
+               "short_name" : "Lane 14, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "︽ń",
+               "short_name" : "︽ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Lane 14, Section 3, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0519039,
+                  "lng" : 121.5375214
+               },
+               "southwest" : {
+                  "lat" : 25.0519035,
+                  "lng" : 121.5375026
+               }
+            },
+            "location" : {
+               "lat" : 25.0519039,
+               "lng" : 121.5375026
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0532526802915,
+                  "lng" : 121.5388609802915
+               },
+               "southwest" : {
+                  "lat" : 25.05055471970849,
+                  "lng" : 121.5361630197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDljZfkuqzmnbHot6_kuInmrrUxNOW3tzLomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-2",
+               "short_name" : "1-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 109, Section 3, Nanjing East Road",
+               "short_name" : "Lane 109, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "確地ń",
+               "short_name" : "確地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-2, Lane 109, Section 3, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0523678,
+               "lng" : 121.5399041
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.05371678029151,
+                  "lng" : 121.5412530802915
+               },
+               "southwest" : {
+                  "lat" : 25.0510188197085,
+                  "lng" : 121.5385551197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJswSlNN6rQjQRHnqrqGZZUw8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3-2",
+               "short_name" : "3-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 109, Section 3, Nanjing East Road",
+               "short_name" : "Lane 109, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "確地ń",
+               "short_name" : "確地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3-2, Lane 109, Section 3, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0524194,
+               "lng" : 121.5399078
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0537683802915,
+                  "lng" : 121.5412567802915
+               },
+               "southwest" : {
+                  "lat" : 25.0510704197085,
+                  "lng" : 121.5385588197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDStaM96rQjQRo_5pZggmevk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+
