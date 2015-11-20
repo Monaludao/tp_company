@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "84",
+               "short_name" : "84",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ningxia Road",
+               "short_name" : "Ningxia Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Âù³s¨½",
+               "short_name" : "Âù³s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 84, Ningxia Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.058223,
+               "lng" : 121.5151408
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0595719802915,
+                  "lng" : 121.5164897802915
+               },
+               "southwest" : {
+                  "lat" : 25.0568740197085,
+                  "lng" : 121.5137918197085
+               }
+            }
+         },
+         "place_id" : "ChIJwSHpu2qpQjQReut9xYNFlhw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

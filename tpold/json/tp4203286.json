@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 100, Lane 109, Section 2, Muzha Road",
+               "short_name" : "Alley 100, Lane 109, Section 2, Muzha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©ú¿³¨½",
+               "short_name" : "©ú¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Alley 100, Lane 109, Section 2, Muzha Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.991562,
+               "lng" : 121.562531
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9929109802915,
+                  "lng" : 121.5638799802915
+               },
+               "southwest" : {
+                  "lat" : 24.9902130197085,
+                  "lng" : 121.5611820197085
+               }
+            }
+         },
+         "place_id" : "ChIJn4ReCHOqQjQRpD5hMhTIcoY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

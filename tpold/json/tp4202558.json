@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "181",
+               "short_name" : "181",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Tiding Boulevard",
+               "short_name" : "Section 2, Tiding Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥‰·Y®Ω",
+               "short_name" : "¥‰·Y®Ω",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 181, Section 2, Tiding Blvd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0772622,
+                  "lng" : 121.569758
+               },
+               "southwest" : {
+                  "lat" : 25.0772462,
+                  "lng" : 121.5697517
+               }
+            },
+            "location" : {
+               "lat" : 25.0772622,
+               "lng" : 121.569758
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0786031802915,
+                  "lng" : 121.5711038302915
+               },
+               "southwest" : {
+                  "lat" : 25.0759052197085,
+                  "lng" : 121.5684058697085
+               }
+            }
+         },
+         "place_id" : "EjMxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDloKTpoILlpKfpgZPkuozmrrUxODHomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

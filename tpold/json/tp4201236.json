@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 6, Lane 65, Section 3, Chongqing South Road",
+               "short_name" : "Alley 6, Lane 65, Section 3, Chongqing S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿Ã®E¨½",
+               "short_name" : "¿Ã®E¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Alley 6, Lane 65, Section 3, Chongqing S Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0265484,
+               "lng" : 121.5169887
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0278973802915,
+                  "lng" : 121.5183376802915
+               },
+               "southwest" : {
+                  "lat" : 25.0251994197085,
+                  "lng" : 121.5156397197085
+               }
+            }
+         },
+         "place_id" : "ChIJpwUEgpepQjQREhpdA1u2SQU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

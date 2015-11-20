@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 17, Guangfu South Road",
+               "short_name" : "Lane 17, Guangfu S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_²±¨½",
+               "short_name" : "´_²±¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 45, Lane 17, Guangfu S Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0473063,
+               "lng" : 121.5597159
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0486552802915,
+                  "lng" : 121.5610648802915
+               },
+               "southwest" : {
+                  "lat" : 25.0459573197085,
+                  "lng" : 121.5583669197085
+               }
+            }
+         },
+         "place_id" : "ChIJ3dMvdcCrQjQRXXF7HnMeGhc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

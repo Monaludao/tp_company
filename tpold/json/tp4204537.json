@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 34, Jinmen Street",
+               "short_name" : "Lane 34, Jinmen St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªe³ö¨½",
+               "short_name" : "ªe³ö¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Lane 34, Jinmen St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0212534,
+               "lng" : 121.5224363
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0226023802915,
+                  "lng" : 121.5237852802915
+               },
+               "southwest" : {
+                  "lat" : 25.0199044197085,
+                  "lng" : 121.5210873197085
+               }
+            }
+         },
+         "place_id" : "ChIJW2uvdpGpQjQRspUA8EEa2pM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

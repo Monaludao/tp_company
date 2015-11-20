@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "153",
+               "short_name" : "153",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Jianguo North Road",
+               "short_name" : "Section 3, Jianguo N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦æ§µ¨½",
+               "short_name" : "¦æ§µ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 153, Section 3, Jianguo N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0675501,
+               "lng" : 121.5345017
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0688990802915,
+                  "lng" : 121.5358506802915
+               },
+               "southwest" : {
+                  "lat" : 25.0662011197085,
+                  "lng" : 121.5331527197085
+               }
+            }
+         },
+         "place_id" : "ChIJhYz_q1epQjQR1zEw5ZsS-q4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

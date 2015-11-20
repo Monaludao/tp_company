@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "247",
+               "short_name" : "247",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Linsen North Road",
+               "short_name" : "Linsen N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "±d¼Ö¨½",
+               "short_name" : "±d¼Ö¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 247, Linsen N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0542103,
+               "lng" : 121.5255876
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0555592802915,
+                  "lng" : 121.5269365802915
+               },
+               "southwest" : {
+                  "lat" : 25.0528613197085,
+                  "lng" : 121.5242386197085
+               }
+            }
+         },
+         "place_id" : "ChIJC9d-1WepQjQRKxFzdA4qqE4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

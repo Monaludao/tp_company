@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dexing West Road",
+               "short_name" : "Dexing W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 40, Dexing W Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1051647,
+                  "lng" : 121.5226497
+               },
+               "southwest" : {
+                  "lat" : 25.1051521,
+                  "lng" : 121.5226371
+               }
+            },
+            "location" : {
+               "lat" : 25.1051647,
+               "lng" : 121.5226371
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1065073802915,
+                  "lng" : 121.5239923802915
+               },
+               "southwest" : {
+                  "lat" : 25.1038094197085,
+                  "lng" : 121.5212944197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EiwxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlvrfooYzopb_ot680MOiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

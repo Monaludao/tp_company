@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 32, Lane 245, Section 4, Bade Road",
+               "short_name" : "Alley 32, Lane 245, Section 4, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦N²»¨½",
+               "short_name" : "¦N²»¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 32, Lane 245, Section 4, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.050154,
+                  "lng" : 121.5645457
+               },
+               "southwest" : {
+                  "lat" : 25.0496165,
+                  "lng" : 121.5625311
+               }
+            },
+            "location" : {
+               "lat" : 25.0499258,
+               "lng" : 121.5637894
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0512342302915,
+                  "lng" : 121.5648873802915
+               },
+               "southwest" : {
+                  "lat" : 25.0485362697085,
+                  "lng" : 121.5621894197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHw1PsJWrQjQRsVaKUk0jAFg",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

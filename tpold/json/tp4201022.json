@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "227",
+               "short_name" : "227",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Bade Road",
+               "short_name" : "Section 3, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_¶Õ¨½",
+               "short_name" : "´_¶Õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 227, Section 3, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0482447,
+               "lng" : 121.5570081
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0495936802915,
+                  "lng" : 121.5583570802915
+               },
+               "southwest" : {
+                  "lat" : 25.04689571970849,
+                  "lng" : 121.5556591197085
+               }
+            }
+         },
+         "place_id" : "ChIJ-z-9NMCrQjQRx8EObGSsVXA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

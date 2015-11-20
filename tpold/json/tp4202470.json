@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 361, Wuxing Street",
+               "short_name" : "Alley 1, Lane 361, Wuxing St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´f¦w¨½",
+               "short_name" : "´f¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Alley 1, Lane 361, Wuxing St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.02603,
+               "lng" : 121.566788
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0273789802915,
+                  "lng" : 121.5681369802915
+               },
+               "southwest" : {
+                  "lat" : 25.0246810197085,
+                  "lng" : 121.5654390197085
+               }
+            }
+         },
+         "place_id" : "ChIJUcW0S7OrQjQRLJqIQQ7PqHg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "178",
+               "short_name" : "178",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Changji Street",
+               "short_name" : "Changji St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶©©M¨½",
+               "short_name" : "¶©©M¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 178, Changji St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0658835,
+               "lng" : 121.5122981
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0672324802915,
+                  "lng" : 121.5136470802915
+               },
+               "southwest" : {
+                  "lat" : 25.06453451970849,
+                  "lng" : 121.5109491197085
+               }
+            }
+         },
+         "place_id" : "ChIJf2fqxTipQjQRmgF2P_H0TNo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 361, Wuxing Street",
+               "short_name" : "Alley 1, Lane 361, Wuxing St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´f¦w¨½",
+               "short_name" : "´f¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Alley 1, Lane 361, Wuxing St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0261074,
+               "lng" : 121.5667291
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0274563802915,
+                  "lng" : 121.5680780802915
+               },
+               "southwest" : {
+                  "lat" : 25.02475841970849,
+                  "lng" : 121.5653801197085
+               }
+            }
+         },
+         "place_id" : "ChIJCXPbS7OrQjQR1wEfHFWJ_-A",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

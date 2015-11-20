@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "144",
+               "short_name" : "144",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Roosevelt Road",
+               "short_name" : "Section 5, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "萬年里",
+               "short_name" : "萬年里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 144, Section 5, Roosevelt Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.00531,
+               "lng" : 121.538705
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0066589802915,
+                  "lng" : 121.5400539802915
+               },
+               "southwest" : {
+                  "lat" : 25.00396101970849,
+                  "lng" : 121.5373560197085
+               }
+            }
+         },
+         "place_id" : "ChIJYQGV3B2qQjQRQtDb0cPpyLE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

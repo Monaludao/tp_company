@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "54",
+               "short_name" : "54",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 301, Section 3, Dadu Road",
+               "short_name" : "Lane 301, Section 3, Dadu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ãö´ç¨½",
+               "short_name" : "Ãö´ç¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 54, Lane 301, Section 3, Dadu Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1218618,
+               "lng" : 121.4658737
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1232107802915,
+                  "lng" : 121.4672226802915
+               },
+               "southwest" : {
+                  "lat" : 25.1205128197085,
+                  "lng" : 121.4645247197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_aiECG2vQjQRl6wPwvAehag",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

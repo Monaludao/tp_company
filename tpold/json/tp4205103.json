@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "52",
+               "short_name" : "52",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Nanjing East Road",
+               "short_name" : "Section 5, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦N²»¨½",
+               "short_name" : "¦N²»¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 52, Section 5, Nanjing E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.051284,
+               "lng" : 121.5601795
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0526329802915,
+                  "lng" : 121.5615284802915
+               },
+               "southwest" : {
+                  "lat" : 25.0499350197085,
+                  "lng" : 121.5588305197085
+               }
+            }
+         },
+         "place_id" : "ChIJlT7v1ZSrQjQRXCgg43GrJ70",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

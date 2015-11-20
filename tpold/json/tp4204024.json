@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-5",
+               "short_name" : "1-5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 25, Songjiang Road",
+               "short_name" : "Lane 25, Songjiang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶¶é¨½",
+               "short_name" : "¦¶¶é¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-5, Lane 25, Songjiang Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0472459,
+               "lng" : 121.533391
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0485948802915,
+                  "lng" : 121.5347399802915
+               },
+               "southwest" : {
+                  "lat" : 25.0458969197085,
+                  "lng" : 121.5320420197085
+               }
+            }
+         },
+         "place_id" : "ChIJ2fIEpmOpQjQRKM5iiWTiW6E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

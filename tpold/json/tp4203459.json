@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 509, Section 3, Heping East Road",
+               "short_name" : "Lane 509, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 509, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0187775,
+                  "lng" : 121.5609619
+               },
+               "southwest" : {
+                  "lat" : 25.0168079,
+                  "lng" : 121.5599565
+               }
+            },
+            "location" : {
+               "lat" : 25.0176884,
+               "lng" : 121.5603788
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0191416802915,
+                  "lng" : 121.5618081802915
+               },
+               "southwest" : {
+                  "lat" : 25.0164437197085,
+                  "lng" : 121.5591102197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJh7BYBUiqQjQRop1lZFHuFuI",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

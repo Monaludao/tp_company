@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huarong Street",
+               "short_name" : "Huarong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¨Î¨½",
+               "short_name" : "ºÖ¨Î¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 55, Huarong St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0962812,
+               "lng" : 121.5233586
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0976301802915,
+                  "lng" : 121.5247075802915
+               },
+               "southwest" : {
+                  "lat" : 25.0949322197085,
+                  "lng" : 121.5220096197085
+               }
+            }
+         },
+         "place_id" : "ChIJxZFs8LyuQjQRRk_biteUH0I",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

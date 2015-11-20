@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 668, Minzu East Road",
+               "short_name" : "Alley 2, Lane 668, Minzu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥ÁºÖ¨½",
+               "short_name" : "¥ÁºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 2, Lane 668, Minzu E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.064684,
+               "lng" : 121.546236
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0660329802915,
+                  "lng" : 121.5475849802915
+               },
+               "southwest" : {
+                  "lat" : 25.0633350197085,
+                  "lng" : 121.5448870197085
+               }
+            }
+         },
+         "place_id" : "ChIJA2Vy-vqrQjQRMdpeS0MLF5I",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

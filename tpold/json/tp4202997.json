@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "148",
+               "short_name" : "148",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhongnan Street",
+               "short_name" : "Zhongnan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中南里",
+               "short_name" : "中南里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 148, Zhongnan St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0517919,
+               "lng" : 121.615253
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0531408802915,
+                  "lng" : 121.6166019802915
+               },
+               "southwest" : {
+                  "lat" : 25.05044291970849,
+                  "lng" : 121.6139040197085
+               }
+            }
+         },
+         "place_id" : "ChIJZfqFi1mrQjQRIiRxoIqnqZ0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

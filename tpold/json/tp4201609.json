@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 69, Jingye 2nd Road",
+               "short_name" : "Lane 69, Jingye 2nd Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 69, Jingye 2nd Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0824755,
+                  "lng" : 121.5543731
+               },
+               "southwest" : {
+                  "lat" : 25.0812723,
+                  "lng" : 121.5525618
+               }
+            },
+            "location" : {
+               "lat" : 25.0819373,
+               "lng" : 121.5534674
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0832228802915,
+                  "lng" : 121.5548164302915
+               },
+               "southwest" : {
+                  "lat" : 25.0805249197085,
+                  "lng" : 121.5521184697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-8SlAg6sQjQR0mu8bzh3WGc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

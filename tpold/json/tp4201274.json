@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "208",
+               "short_name" : "208",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhuangjing Road",
+               "short_name" : "Zhuangjing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´º·s¨½",
+               "short_name" : "´º·s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 208, Zhuangjing Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0302946,
+               "lng" : 121.5614755
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0316435802915,
+                  "lng" : 121.5628244802915
+               },
+               "southwest" : {
+                  "lat" : 25.02894561970849,
+                  "lng" : 121.5601265197085
+               }
+            }
+         },
+         "place_id" : "ChIJY3Yjo7WrQjQRQJlV0_t_yjE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "51",
+               "short_name" : "51",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tianjin Street",
+               "short_name" : "Tianjin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "正得里",
+               "short_name" : "正得里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 51, Tianjin St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0502872,
+               "lng" : 121.523098
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0516361802915,
+                  "lng" : 121.5244469802915
+               },
+               "southwest" : {
+                  "lat" : 25.0489382197085,
+                  "lng" : 121.5217490197085
+               }
+            }
+         },
+         "place_id" : "ChIJkbv6G2-pQjQRah6W5j1nEaU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

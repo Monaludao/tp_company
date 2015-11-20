@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "35",
+               "short_name" : "35",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Minsheng East Road",
+               "short_name" : "Section 5, Minsheng E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªFºa¨½",
+               "short_name" : "ªFºa¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 35, Section 5, Minsheng E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0585513,
+               "lng" : 121.5568146
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0599002802915,
+                  "lng" : 121.5581635802915
+               },
+               "southwest" : {
+                  "lat" : 25.05720231970849,
+                  "lng" : 121.5554656197085
+               }
+            }
+         },
+         "place_id" : "ChIJ38W0oe2rQjQRp5tQPi0U3Fc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

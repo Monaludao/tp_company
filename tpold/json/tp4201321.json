@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42-5",
+               "short_name" : "42-5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 32, Lane 245, Section 4, Bade Road",
+               "short_name" : "Alley 32, Lane 245, Section 4, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦N²»¨½",
+               "short_name" : "¦N²»¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 42-5, Alley 32, Lane 245, Section 4, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.050154,
+               "lng" : 121.563035
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0515029802915,
+                  "lng" : 121.5643839802915
+               },
+               "southwest" : {
+                  "lat" : 25.0488050197085,
+                  "lng" : 121.5616860197085
+               }
+            }
+         },
+         "place_id" : "ChIJm4hMqZWrQjQRLz2VlpejlZg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

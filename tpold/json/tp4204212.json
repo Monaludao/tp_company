@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 743, Section 5, Zhongxiao East Road",
+               "short_name" : "Alley 1, Lane 743, Section 5, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã¬K¨½",
+               "short_name" : "¥Ã¬K¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 1, Lane 743, Section 5, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.043317,
+               "lng" : 121.5809
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0446659802915,
+                  "lng" : 121.5822489802915
+               },
+               "southwest" : {
+                  "lat" : 25.0419680197085,
+                  "lng" : 121.5795510197085
+               }
+            }
+         },
+         "place_id" : "ChIJP5D5I6CrQjQRU2DaNeZahV0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

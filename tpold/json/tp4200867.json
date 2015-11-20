@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 8, Jilin Road",
+               "short_name" : "Lane 8, Jilin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¨È¨½",
+               "short_name" : "¿³¨È¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 22, Lane 8, Jilin Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0493633,
+               "lng" : 121.5292131
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0507122802915,
+                  "lng" : 121.5305620802915
+               },
+               "southwest" : {
+                  "lat" : 25.0480143197085,
+                  "lng" : 121.5278641197085
+               }
+            }
+         },
+         "place_id" : "ChIJi_U8OGSpQjQRw8dAXccZGMM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

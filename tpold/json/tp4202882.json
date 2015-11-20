@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 15, Section 3, Chongqing South Road",
+               "short_name" : "Lane 15, Section 3, Chongqing S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16, Lane 15, Section 3, Chongqing S Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0290544,
+               "lng" : 121.516217
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0304033802915,
+                  "lng" : 121.5175659802915
+               },
+               "southwest" : {
+                  "lat" : 25.0277054197085,
+                  "lng" : 121.5148680197085
+               }
+            }
+         },
+         "place_id" : "ChIJDxtKRZipQjQRjpPdPVarFVw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

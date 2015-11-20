@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "262",
+               "short_name" : "262",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Muxin Road",
+               "short_name" : "Section 2, Muxin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶¶¿³¨½",
+               "short_name" : "¶¶¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 262, Section 2, Muxin Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9831829,
+               "lng" : 121.5660561
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9845318802915,
+                  "lng" : 121.5674050802915
+               },
+               "southwest" : {
+                  "lat" : 24.9818339197085,
+                  "lng" : 121.5647071197085
+               }
+            }
+         },
+         "place_id" : "ChIJr8_QrtgBaDQR7qPUQOs5Ldc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

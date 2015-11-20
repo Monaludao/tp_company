@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Songgao Road",
+               "short_name" : "Songgao Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Songgao Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0390988,
+                  "lng" : 121.5672442
+               },
+               "southwest" : {
+                  "lat" : 25.0390818,
+                  "lng" : 121.5672438
+               }
+            },
+            "location" : {
+               "lat" : 25.0390818,
+               "lng" : 121.5672438
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0404392802915,
+                  "lng" : 121.5685929802915
+               },
+               "southwest" : {
+                  "lat" : 25.03774131970849,
+                  "lng" : 121.5658950197085
+               }
+            }
+         },
+         "place_id" : "EigxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDmnb7pq5jot6856Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

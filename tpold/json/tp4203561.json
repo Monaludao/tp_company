@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "229",
+               "short_name" : "229",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tayou Road",
+               "short_name" : "Tayou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新東里",
+               "short_name" : "新東里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 229, Tayou Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0593977,
+               "lng" : 121.5692745
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0607466802915,
+                  "lng" : 121.5706234802915
+               },
+               "southwest" : {
+                  "lat" : 25.05804871970849,
+                  "lng" : 121.5679255197085
+               }
+            }
+         },
+         "place_id" : "ChIJg99ipo-rQjQRjWZhVr0Se3U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

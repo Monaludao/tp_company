@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "148",
+               "short_name" : "148",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Anxi Street",
+               "short_name" : "Anxi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nªÚ¨½",
+               "short_name" : "«nªÚ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 148, Anxi St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0623486,
+               "lng" : 121.5096596
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0636975802915,
+                  "lng" : 121.5110085802915
+               },
+               "southwest" : {
+                  "lat" : 25.0609996197085,
+                  "lng" : 121.5083106197085
+               }
+            }
+         },
+         "place_id" : "ChIJpbHyaD6pQjQR1WKZrsuBXOM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

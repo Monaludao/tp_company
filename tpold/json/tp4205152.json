@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-1",
+               "short_name" : "2-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 28, Leli Road",
+               "short_name" : "Lane 28, Leli Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "全安里",
+               "short_name" : "全安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2-1, Lane 28, Leli Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0269276,
+               "lng" : 121.5513757
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0282765802915,
+                  "lng" : 121.5527246802915
+               },
+               "southwest" : {
+                  "lat" : 25.0255786197085,
+                  "lng" : 121.5500267197085
+               }
+            }
+         },
+         "place_id" : "ChIJt2Q2ADOqQjQRpCQDJhCzjDA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

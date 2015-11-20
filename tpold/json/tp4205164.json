@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "175",
+               "short_name" : "175",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Chang'an East Road",
+               "short_name" : "Section 2, Chang'an E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "力行里",
+               "short_name" : "力行里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 175, Section 2, Chang'an E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0483043,
+                  "lng" : 121.5422415
+               },
+               "southwest" : {
+                  "lat" : 25.0482872,
+                  "lng" : 121.5422411
+               }
+            },
+            "location" : {
+               "lat" : 25.0483043,
+               "lng" : 121.5422415
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0496447302915,
+                  "lng" : 121.5435902802915
+               },
+               "southwest" : {
+                  "lat" : 25.04694676970849,
+                  "lng" : 121.5408923197085
+               }
+            }
+         },
+         "place_id" : "EjMxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDplbflronmnbHot6_kuozmrrUxNzXomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

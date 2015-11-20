@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "69",
+               "short_name" : "69",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Xinglong Road",
+               "short_name" : "Section 3, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¥ú¨½",
+               "short_name" : "¿³¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 69, Section 3, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0001203,
+               "lng" : 121.5565014
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0014692802915,
+                  "lng" : 121.5578503802915
+               },
+               "southwest" : {
+                  "lat" : 24.9987713197085,
+                  "lng" : 121.5551524197085
+               }
+            }
+         },
+         "place_id" : "ChIJlQyXoxOqQjQR-sKxKNbBfbg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

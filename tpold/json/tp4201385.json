@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "251",
+               "short_name" : "251",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dexing East Road",
+               "short_name" : "Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤T¥É¨½",
+               "short_name" : "¤T¥É¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 251, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1099053,
+               "lng" : 121.5345819
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1112542802915,
+                  "lng" : 121.5359308802915
+               },
+               "southwest" : {
+                  "lat" : 25.1085563197085,
+                  "lng" : 121.5332329197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_T_p-4KuQjQRG6aqc8ImjH0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

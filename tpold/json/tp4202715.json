@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "303",
+               "short_name" : "303",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Zhongxiao East Road",
+               "short_name" : "Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "華聲里",
+               "short_name" : "華聲里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 303, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0416,
+               "lng" : 121.55541
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0429489802915,
+                  "lng" : 121.5567589802915
+               },
+               "southwest" : {
+                  "lat" : 25.0402510197085,
+                  "lng" : 121.5540610197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoVZQYMarQjQRNeT4odVryT8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

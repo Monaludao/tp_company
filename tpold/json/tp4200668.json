@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 65, Wenquan Road",
+               "short_name" : "Lane 65, Wenquan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "長安里",
+               "short_name" : "長安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16, Lane 65, Wenquan Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.136045,
+               "lng" : 121.504374
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1373939802915,
+                  "lng" : 121.5057229802915
+               },
+               "southwest" : {
+                  "lat" : 25.1346960197085,
+                  "lng" : 121.5030250197085
+               }
+            }
+         },
+         "place_id" : "ChIJMT_cNEWuQjQRLG0kPrZlBMI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

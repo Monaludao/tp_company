@@ -1,0 +1,666 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-3",
+               "short_name" : "1-3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-3, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1131809,
+               "lng" : 121.5246174
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1145298802915,
+                  "lng" : 121.5259663802915
+               },
+               "southwest" : {
+                  "lat" : 25.1118319197085,
+                  "lng" : 121.5232684197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLzC3cY-uQjQR6SlvF6OKkec",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-2",
+               "short_name" : "1-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-2, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1132037,
+               "lng" : 121.524627
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1145526802915,
+                  "lng" : 121.5259759802915
+               },
+               "southwest" : {
+                  "lat" : 25.1118547197085,
+                  "lng" : 121.5232780197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJiaHJcY-uQjQRuo5QCFvbK7o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-6",
+               "short_name" : "1-6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-6, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1131095,
+               "lng" : 121.5246183
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1144584802915,
+                  "lng" : 121.5259672802915
+               },
+               "southwest" : {
+                  "lat" : 25.1117605197085,
+                  "lng" : 121.5232693197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJR-0GcY-uQjQRXOj-sEm_jGE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-5",
+               "short_name" : "1-5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-5, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.113129,
+               "lng" : 121.5246103
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1144779802915,
+                  "lng" : 121.5259592802915
+               },
+               "southwest" : {
+                  "lat" : 25.11178001970849,
+                  "lng" : 121.5232613197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnxWocY-uQjQREQgf7wkokDc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-1",
+               "short_name" : "2-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2-1, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1128107,
+               "lng" : 121.5243715
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1141596802915,
+                  "lng" : 121.5257204802915
+               },
+               "southwest" : {
+                  "lat" : 25.1114617197085,
+                  "lng" : 121.5230225197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxbbHdY-uQjQRJ7ApDY5Z-vs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-1",
+               "short_name" : "1-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-1, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1132349,
+               "lng" : 121.5246242
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1145838802915,
+                  "lng" : 121.5259731802915
+               },
+               "southwest" : {
+                  "lat" : 25.1118859197085,
+                  "lng" : 121.5232752197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdyzQcY-uQjQR9oZ6wD9rQCQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "14-1",
+               "short_name" : "14-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 14-1, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1117138,
+               "lng" : 121.5234378
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1130627802915,
+                  "lng" : 121.5247867802915
+               },
+               "southwest" : {
+                  "lat" : 25.1103648197085,
+                  "lng" : 121.5220888197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe0GNt4-uQjQRll7kdoL3Ed0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-7",
+               "short_name" : "1-7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-7, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.113089,
+               "lng" : 121.5246149
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1144379802915,
+                  "lng" : 121.5259638802915
+               },
+               "southwest" : {
+                  "lat" : 25.1117400197085,
+                  "lng" : 121.5232659197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJa9kEcY-uQjQR9ZvscigwHjw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-8",
+               "short_name" : "1-8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-8, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1130585,
+               "lng" : 121.5246444
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1144074802915,
+                  "lng" : 121.5259933802915
+               },
+               "southwest" : {
+                  "lat" : 25.11170951970849,
+                  "lng" : 121.5232954197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjaMZcY-uQjQRiZm8ZLn41gY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-9",
+               "short_name" : "1-9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-9, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1130355,
+               "lng" : 121.5246352
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1143844802915,
+                  "lng" : 121.5259841802915
+               },
+               "southwest" : {
+                  "lat" : 25.1116865197085,
+                  "lng" : 121.5232862197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJweUicY-uQjQR7J4y4Ge_Cjs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3-1",
+               "short_name" : "3-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ronghua 1st Road",
+               "short_name" : "Ronghua 1st Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴地ń",
+               "short_name" : "篴地ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3-1, Ronghua 1st Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1129985,
+               "lng" : 121.5246531
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1143474802915,
+                  "lng" : 121.5260020802915
+               },
+               "southwest" : {
+                  "lat" : 25.1116495197085,
+                  "lng" : 121.5233041197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJu5DlcI-uQjQRd6kMyBxmVyY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

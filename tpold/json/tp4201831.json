@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Guling Street",
+               "short_name" : "Guling St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 45, Guling St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0299567,
+               "lng" : 121.5166324
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0313056802915,
+                  "lng" : 121.5179813802915
+               },
+               "southwest" : {
+                  "lat" : 25.0286077197085,
+                  "lng" : 121.5152834197085
+               }
+            }
+         },
+         "place_id" : "ChIJUwNX-ZipQjQRboooWm5VrMA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

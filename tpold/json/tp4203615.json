@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 256, Section 3, Nanjing East Road",
+               "short_name" : "Lane 256, Section 3, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中正里",
+               "short_name" : "中正里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 256, Section 3, Nanjing E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0517553,
+                  "lng" : 121.5448372
+               },
+               "southwest" : {
+                  "lat" : 25.0482566,
+                  "lng" : 121.5445463
+               }
+            },
+            "location" : {
+               "lat" : 25.050206,
+               "lng" : 121.5447061
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0517553,
+                  "lng" : 121.5460407302915
+               },
+               "southwest" : {
+                  "lat" : 25.0482566,
+                  "lng" : 121.5433427697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJzY2Ysd2rQjQRnljA8OUtBf8",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

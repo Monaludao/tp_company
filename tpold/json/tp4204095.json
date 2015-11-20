@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "123",
+               "short_name" : "123",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Roosevelt Road",
+               "short_name" : "Section 1, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新營里",
+               "short_name" : "新營里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 123, Section 1, Roosevelt Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0303913,
+               "lng" : 121.5203051
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0317402802915,
+                  "lng" : 121.5216540802915
+               },
+               "southwest" : {
+                  "lat" : 25.02904231970849,
+                  "lng" : 121.5189561197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4Za85pupQjQRp8UY4k1fxO4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

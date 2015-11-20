@@ -1,0 +1,1681 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wanda Road",
+               "short_name" : "Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "郴河ń",
+               "short_name" : "郴河ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0323654,
+               "lng" : 121.5006934
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0337143802915,
+                  "lng" : 121.5020423802915
+               },
+               "southwest" : {
+                  "lat" : 25.0310164197085,
+                  "lng" : 121.4993444197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJv3vxua-pQjQRdBlgQw2Y0MI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 423, Wanda Road",
+               "short_name" : "Lane 423, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Lane 423, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0212968,
+                  "lng" : 121.4995389
+               },
+               "southwest" : {
+                  "lat" : 25.0212803,
+                  "lng" : 121.4995344
+               }
+            },
+            "location" : {
+               "lat" : 25.0212968,
+               "lng" : 121.4995389
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0226375302915,
+                  "lng" : 121.5008856302915
+               },
+               "southwest" : {
+                  "lat" : 25.01993956970849,
+                  "lng" : 121.4981876697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMDjlj7DngaPlj7DljJfluILokKzoj6_ljYDokKzlpKfot680MjPlt7cxM-iZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 101, Lane 423, Wanda Road",
+               "short_name" : "Alley 101, Lane 423, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "┚璼ń",
+               "short_name" : "┚璼ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 101, Lane 423, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.022573,
+               "lng" : 121.5020109
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0239219802915,
+                  "lng" : 121.5033598802915
+               },
+               "southwest" : {
+                  "lat" : 25.02122401970849,
+                  "lng" : 121.5006619197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJH-gleLepQjQRITBVc0GH64Q",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 20, Lane 423, Wanda Road",
+               "short_name" : "Alley 20, Lane 423, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "砍紈ń",
+               "short_name" : "砍紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 20, Lane 423, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0209164,
+               "lng" : 121.4994343
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0222653802915,
+                  "lng" : 121.5007832802915
+               },
+               "southwest" : {
+                  "lat" : 25.0195674197085,
+                  "lng" : 121.4980853197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ42SMLrapQjQRyLyksrBFT4M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 10, Lane 423, Wanda Road",
+               "short_name" : "Alley 10, Lane 423, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "砍紈ń",
+               "short_name" : "砍紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 10, Lane 423, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0208936,
+               "lng" : 121.499031
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0222425802915,
+                  "lng" : 121.5003799802915
+               },
+               "southwest" : {
+                  "lat" : 25.01954461970849,
+                  "lng" : 121.4976820197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAy7DJbapQjQRvAk77zJFwEg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 106, Lane 423, Wanda Road",
+               "short_name" : "Alley 106, Lane 423, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ら不ń",
+               "short_name" : "ら不ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 106, Lane 423, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0217766,
+                  "lng" : 121.5017952
+               },
+               "southwest" : {
+                  "lat" : 25.0217672,
+                  "lng" : 121.5017796
+               }
+            },
+            "location" : {
+               "lat" : 25.0217672,
+               "lng" : 121.5017796
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0231208802915,
+                  "lng" : 121.5031363802915
+               },
+               "southwest" : {
+                  "lat" : 25.0204229197085,
+                  "lng" : 121.5004384197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjUxMDjlj7DngaPlj7DljJfluILokKzoj6_ljYDokKzlpKfot680MjPlt7cxMDblvIQxM-iZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 28, Lane 423, Wanda Road",
+               "short_name" : "Alley 28, Lane 423, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ら不ń",
+               "short_name" : "ら不ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 28, Lane 423, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0207199,
+                  "lng" : 121.4999862
+               },
+               "southwest" : {
+                  "lat" : 25.020712,
+                  "lng" : 121.4999696
+               }
+            },
+            "location" : {
+               "lat" : 25.0207199,
+               "lng" : 121.4999862
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.02206493029151,
+                  "lng" : 121.5013268802915
+               },
+               "southwest" : {
+                  "lat" : 25.0193669697085,
+                  "lng" : 121.4986289197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDjlj7DngaPlj7DljJfluILokKzoj6_ljYDokKzlpKfot680MjPlt7cyOOW8hDEz6Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 45, Lane 423, Wanda Road",
+               "short_name" : "Alley 45, Lane 423, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "关紈ń",
+               "short_name" : "关紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 45, Lane 423, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0220368,
+                  "lng" : 121.5002489
+               },
+               "southwest" : {
+                  "lat" : 25.0220321,
+                  "lng" : 121.5002309
+               }
+            },
+            "location" : {
+               "lat" : 25.0220321,
+               "lng" : 121.5002309
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0233834302915,
+                  "lng" : 121.5015888802915
+               },
+               "southwest" : {
+                  "lat" : 25.0206854697085,
+                  "lng" : 121.4988909197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDjlj7DngaPlj7DljJfluILokKzoj6_ljYDokKzlpKfot680MjPlt7c0NeW8hDEz6Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 89, Lane 423, Wanda Road",
+               "short_name" : "Alley 89, Lane 423, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "关紈ń",
+               "short_name" : "关紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 89, Lane 423, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0221569,
+                  "lng" : 121.5012335
+               },
+               "southwest" : {
+                  "lat" : 25.02214,
+                  "lng" : 121.5012326
+               }
+            },
+            "location" : {
+               "lat" : 25.02214,
+               "lng" : 121.5012335
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0234974302915,
+                  "lng" : 121.5025820302915
+               },
+               "southwest" : {
+                  "lat" : 25.0207994697085,
+                  "lng" : 121.4998840697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDjlj7DngaPlj7DljJfluILokKzoj6_ljYDokKzlpKfot680MjPlt7c4OeW8hDEz6Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 37, Lane 486, Wanda Road",
+               "short_name" : "Alley 37, Lane 486, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "地いń",
+               "short_name" : "地いń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 37, Lane 486, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.019664,
+               "lng" : 121.496117
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0210129802915,
+                  "lng" : 121.4974659802915
+               },
+               "southwest" : {
+                  "lat" : 25.0183150197085,
+                  "lng" : 121.4947680197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-UhXPMqpQjQRSxzBf9__l8w",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 48, Lane 493, Wanda Road",
+               "short_name" : "Alley 48, Lane 493, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "砍紈ń",
+               "short_name" : "砍紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 48, Lane 493, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.019767,
+               "lng" : 121.499823
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0211159802915,
+                  "lng" : 121.5011719802915
+               },
+               "southwest" : {
+                  "lat" : 25.0184180197085,
+                  "lng" : 121.4984740197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXxbE0smpQjQRpkMLK5-H2Fw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 10, Lane 237, Wanda Road",
+               "short_name" : "Alley 10, Lane 237, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "穝ń",
+               "short_name" : "穝ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 10, Lane 237, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0260804,
+               "lng" : 121.5011976
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0274293802915,
+                  "lng" : 121.5025465802915
+               },
+               "southwest" : {
+                  "lat" : 25.02473141970849,
+                  "lng" : 121.4998486197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0da7x7CpQjQRDNRT6_EkBSg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 28, Lane 486, Wanda Road",
+               "short_name" : "Alley 28, Lane 486, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "地いń",
+               "short_name" : "地いń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 28, Lane 486, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.020609,
+               "lng" : 121.496744
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0219579802915,
+                  "lng" : 121.4980929802915
+               },
+               "southwest" : {
+                  "lat" : 25.0192600197085,
+                  "lng" : 121.4953950197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoaOWA8qpQjQRBCRiI4bZmio",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 10, Lane 486, Wanda Road",
+               "short_name" : "Alley 10, Lane 486, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "地いń",
+               "short_name" : "地いń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 10, Lane 486, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0201989,
+               "lng" : 121.49722
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.02154788029151,
+                  "lng" : 121.4985689802915
+               },
+               "southwest" : {
+                  "lat" : 25.0188499197085,
+                  "lng" : 121.4958710197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvVV098mpQjQRFAjRcE9a2MM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 79, Lane 486, Wanda Road",
+               "short_name" : "Alley 79, Lane 486, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "篴紈ń",
+               "short_name" : "篴紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 79, Lane 486, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.020634,
+               "lng" : 121.494593
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0219829802915,
+                  "lng" : 121.4959419802915
+               },
+               "southwest" : {
+                  "lat" : 25.0192850197085,
+                  "lng" : 121.4932440197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeWoTZMqpQjQRSMLlcLShQh8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 11, Lane 486, Wanda Road",
+               "short_name" : "Alley 11, Lane 486, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "地いń",
+               "short_name" : "地いń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 11, Lane 486, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.01941,
+               "lng" : 121.496729
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0207589802915,
+                  "lng" : 121.4980779802915
+               },
+               "southwest" : {
+                  "lat" : 25.0180610197085,
+                  "lng" : 121.4953800197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpy1MIcqpQjQRmAeZAzJy4aM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 59, Lane 486, Wanda Road",
+               "short_name" : "Alley 59, Lane 486, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "地いń",
+               "short_name" : "地いń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 59, Lane 486, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0200045,
+               "lng" : 121.495691
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.02135348029151,
+                  "lng" : 121.4970399802915
+               },
+               "southwest" : {
+                  "lat" : 25.0186555197085,
+                  "lng" : 121.4943420197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJP1ldFcqpQjQRMPhClsFY2j4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 424, Wanda Road",
+               "short_name" : "Alley 3, Lane 424, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "地いń",
+               "short_name" : "地いń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 3, Lane 424, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0209144,
+               "lng" : 121.4976842
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.02226338029151,
+                  "lng" : 121.4990331802915
+               },
+               "southwest" : {
+                  "lat" : 25.0195654197085,
+                  "lng" : 121.4963352197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsWrGArapQjQREIj6BjVzWQU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 10, Lane 449, Wanda Road",
+               "short_name" : "Alley 10, Lane 449, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "砍紈ń",
+               "short_name" : "砍紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 10, Lane 449, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0201794,
+               "lng" : 121.4985678
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0215283802915,
+                  "lng" : 121.4999167802915
+               },
+               "southwest" : {
+                  "lat" : 25.0188304197085,
+                  "lng" : 121.4972188197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwYC53cmpQjQRzFGvRCf3E8I",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 187, Wanda Road",
+               "short_name" : "Alley 1, Lane 187, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "穝ń",
+               "short_name" : "穝ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 1, Lane 187, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0283054,
+               "lng" : 121.5008592
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0296543802915,
+                  "lng" : 121.5022081802915
+               },
+               "southwest" : {
+                  "lat" : 25.0269564197085,
+                  "lng" : 121.4995102197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIQJCWbCpQjQRTS7PD9r1OMc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 12, Lane 493, Wanda Road",
+               "short_name" : "Alley 12, Lane 493, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "砍紈ń",
+               "short_name" : "砍紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 12, Lane 493, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.01958,
+               "lng" : 121.498179
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0209289802915,
+                  "lng" : 121.4995279802915
+               },
+               "southwest" : {
+                  "lat" : 25.0182310197085,
+                  "lng" : 121.4968300197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCVWY68mpQjQR07qDvG3lH2I",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 14, Lane 277, Wanda Road",
+               "short_name" : "Alley 14, Lane 277, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "关紈ń",
+               "short_name" : "关紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 14, Lane 277, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0251075,
+               "lng" : 121.5011446
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0264564802915,
+                  "lng" : 121.5024935802915
+               },
+               "southwest" : {
+                  "lat" : 25.02375851970849,
+                  "lng" : 121.4997956197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFbezNbepQjQRDu-g3tgXD-Q",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 329, Wanda Road",
+               "short_name" : "Alley 3, Lane 329, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "关紈ń",
+               "short_name" : "关紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 3, Lane 329, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0241532,
+                  "lng" : 121.5007975
+               },
+               "southwest" : {
+                  "lat" : 25.0241447,
+                  "lng" : 121.5007812
+               }
+            },
+            "location" : {
+               "lat" : 25.0241447,
+               "lng" : 121.5007975
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0254979302915,
+                  "lng" : 121.5021383302915
+               },
+               "southwest" : {
+                  "lat" : 25.0227999697085,
+                  "lng" : 121.4994403697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDjlj7DngaPlj7DljJfluILokKzoj6_ljYDokKzlpKfot68zMjnlt7cz5byEMTPomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1-3",
+               "short_name" : "1-3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 37, Lane 277, Wanda Road",
+               "short_name" : "Alley 37, Lane 277, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "穝ń",
+               "short_name" : "穝ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1-3, Alley 37, Lane 277, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0257577,
+               "lng" : 121.5023174
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0271066802915,
+                  "lng" : 121.5036663802915
+               },
+               "southwest" : {
+                  "lat" : 25.0244087197085,
+                  "lng" : 121.5009684197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTdTupbCpQjQR5obaWn9AWE8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 55, Lane 322, Wanda Road",
+               "short_name" : "Alley 55, Lane 322, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "紈ń",
+               "short_name" : "紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 55, Lane 322, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0242853,
+               "lng" : 121.4985362
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0256342802915,
+                  "lng" : 121.4998851802915
+               },
+               "southwest" : {
+                  "lat" : 25.0229363197085,
+                  "lng" : 121.4971872197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqVBn67apQjQRa4Vc2aDcmI4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 27, Lane 329, Wanda Road",
+               "short_name" : "Alley 27, Lane 329, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "关紈ń",
+               "short_name" : "关紈ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 27, Lane 329, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0241029,
+               "lng" : 121.5012252
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0254518802915,
+                  "lng" : 121.5025741802915
+               },
+               "southwest" : {
+                  "lat" : 25.0227539197085,
+                  "lng" : 121.4998762197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0QWYP7epQjQRgZYl9nREi_0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 187, Wanda Road",
+               "short_name" : "Alley 3, Lane 187, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "穝ń",
+               "short_name" : "穝ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 3, Lane 187, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0288034,
+               "lng" : 121.5013158
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0301523802915,
+                  "lng" : 121.5026647802915
+               },
+               "southwest" : {
+                  "lat" : 25.0274544197085,
+                  "lng" : 121.4999668197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkwx4QrCpQjQRzEuSJfobXc0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

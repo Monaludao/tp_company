@@ -1,0 +1,61 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Section 1, Neihu Road",
+               "short_name" : "Section 1, Neihu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ª÷®õ¨½",
+               "short_name" : "ª÷®õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Section 1, Neihu Rd & Jingye 4th Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0847479,
+               "lng" : 121.5585348
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0860968802915,
+                  "lng" : 121.5598837802915
+               },
+               "southwest" : {
+                  "lat" : 25.0833989197085,
+                  "lng" : 121.5571858197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDlhafmuZbot6_kuIDmrrXmlazmpa3lm5vot68",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}
+

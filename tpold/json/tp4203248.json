@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Xinyi Road",
+               "short_name" : "Section 2, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "光明里",
+               "short_name" : "光明里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 28, Section 2, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.034733,
+               "lng" : 121.525322
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0360819802915,
+                  "lng" : 121.5266709802915
+               },
+               "southwest" : {
+                  "lat" : 25.0333840197085,
+                  "lng" : 121.5239730197085
+               }
+            }
+         },
+         "place_id" : "ChIJdw-1TZ2pQjQR0Uex6tK0Dw8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

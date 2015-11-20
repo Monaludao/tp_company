@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "35",
+               "short_name" : "35",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dexing West Road",
+               "short_name" : "Dexing W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Äõ¿³¨½",
+               "short_name" : "Äõ¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 35, Dexing W Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1058767,
+               "lng" : 121.523384
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1072256802915,
+                  "lng" : 121.5247329802915
+               },
+               "southwest" : {
+                  "lat" : 25.1045277197085,
+                  "lng" : 121.5220350197085
+               }
+            }
+         },
+         "place_id" : "ChIJFz8525CuQjQRakqveBq3gYY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

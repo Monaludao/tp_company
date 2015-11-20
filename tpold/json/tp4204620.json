@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 100, Guangfu North Road",
+               "short_name" : "Lane 100, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_¶Õ¨½",
+               "short_name" : "´_¶Õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 26, Lane 100, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0505587,
+                  "lng" : 121.5563732
+               },
+               "southwest" : {
+                  "lat" : 25.0505417,
+                  "lng" : 121.5563727
+               }
+            },
+            "location" : {
+               "lat" : 25.0505417,
+               "lng" : 121.5563727
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0518991802915,
+                  "lng" : 121.5577219302915
+               },
+               "southwest" : {
+                  "lat" : 25.0492012197085,
+                  "lng" : 121.5550239697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68xMDDlt7cyNuiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

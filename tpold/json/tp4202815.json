@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "30-1",
+               "short_name" : "30-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 313, Fuxing North Road",
+               "short_name" : "Lane 313, Fuxing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民有里",
+               "short_name" : "民有里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 30-1, Lane 313, Fuxing N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0588398,
+               "lng" : 121.5463723
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0601887802915,
+                  "lng" : 121.5477212802915
+               },
+               "southwest" : {
+                  "lat" : 25.05749081970849,
+                  "lng" : 121.5450233197085
+               }
+            }
+         },
+         "place_id" : "ChIJB9I4uuWrQjQRWJpmu3KHVPM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

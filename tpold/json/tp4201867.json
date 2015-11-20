@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 31, Section 2, Jinshan South Road",
+               "short_name" : "Lane 31, Section 2, Jinshan S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã±d¨½",
+               "short_name" : "¥Ã±d¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 31, Section 2, Jinshan S Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0329139,
+               "lng" : 121.5281375
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.03426288029151,
+                  "lng" : 121.5294864802915
+               },
+               "southwest" : {
+                  "lat" : 25.0315649197085,
+                  "lng" : 121.5267885197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZW2Z-oKpQjQRHzqLBA-gX6w",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

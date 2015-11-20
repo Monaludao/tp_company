@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "385",
+               "short_name" : "385",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Heping East Road",
+               "short_name" : "Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©¾¨½",
+               "short_name" : "¾¤©¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 385, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0199496,
+               "lng" : 121.5575515
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0212985802915,
+                  "lng" : 121.5589004802915
+               },
+               "southwest" : {
+                  "lat" : 25.0186006197085,
+                  "lng" : 121.5562025197085
+               }
+            }
+         },
+         "place_id" : "ChIJp4EkrTeqQjQR-Twcj3WFmBA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

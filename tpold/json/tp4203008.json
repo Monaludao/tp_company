@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 289, Zhuangjing Road",
+               "short_name" : "Lane 289, Zhuangjing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´º·s¨½",
+               "short_name" : "´º·s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 14, Lane 289, Zhuangjing Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.029387,
+               "lng" : 121.564197
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0307359802915,
+                  "lng" : 121.5655459802915
+               },
+               "southwest" : {
+                  "lat" : 25.0280380197085,
+                  "lng" : 121.5628480197085
+               }
+            }
+         },
+         "place_id" : "ChIJyzO1YLSrQjQRQ8wAVGoK9tQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

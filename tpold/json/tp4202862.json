@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 175, Jiaxing Street",
+               "short_name" : "Alley 2, Lane 175, Jiaxing St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¹Å¿³¨½",
+               "short_name" : "¹Å¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16, Alley 2, Lane 175, Jiaxing St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0272947,
+               "lng" : 121.5572271
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0286436802915,
+                  "lng" : 121.5585760802915
+               },
+               "southwest" : {
+                  "lat" : 25.0259457197085,
+                  "lng" : 121.5558781197085
+               }
+            }
+         },
+         "place_id" : "ChIJ37o_JjWqQjQRTy7qWKD7RzQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

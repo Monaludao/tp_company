@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "76",
+               "short_name" : "76",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kunming Street",
+               "short_name" : "Kunming St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸U¹Ø¨½",
+               "short_name" : "¸U¹Ø¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 76, Kunming St, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0457146,
+               "lng" : 121.5054442
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0470635802915,
+                  "lng" : 121.5067931802915
+               },
+               "southwest" : {
+                  "lat" : 25.0443656197085,
+                  "lng" : 121.5040952197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7YlbKg-pQjQRuXOA4pflbMs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

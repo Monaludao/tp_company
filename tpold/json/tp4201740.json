@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "65",
+               "short_name" : "65",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Linsen North Road",
+               "short_name" : "Linsen N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 65, Linsen N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0483419,
+               "lng" : 121.5245803
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0496908802915,
+                  "lng" : 121.5259292802915
+               },
+               "southwest" : {
+                  "lat" : 25.0469929197085,
+                  "lng" : 121.5232313197085
+               }
+            }
+         },
+         "place_id" : "ChIJp9wLmm-pQjQR7Qr7i2vyvxE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

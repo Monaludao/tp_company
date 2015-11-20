@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "461",
+               "short_name" : "461",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Zhongxiao East Road",
+               "short_name" : "Section 5, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´I¥x¨½",
+               "short_name" : "´I¥x¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 461, Section 5, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0410331,
+               "lng" : 121.5764317
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0423820802915,
+                  "lng" : 121.5777806802915
+               },
+               "southwest" : {
+                  "lat" : 25.0396841197085,
+                  "lng" : 121.5750827197085
+               }
+            }
+         },
+         "place_id" : "ChIJ70li3KOrQjQR5BLmjOMjZtE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

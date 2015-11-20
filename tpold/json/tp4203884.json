@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Xinhai Road",
+               "short_name" : "Section 1, Xinhai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "大學里",
+               "short_name" : "大學里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 40, Section 1, Xinhai Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.020016,
+               "lng" : 121.53019
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0213649802915,
+                  "lng" : 121.5315389802915
+               },
+               "southwest" : {
+                  "lat" : 25.0186670197085,
+                  "lng" : 121.5288410197085
+               }
+            }
+         },
+         "place_id" : "ChIJ8_cuwY6pQjQRoLtHkyxXG24",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

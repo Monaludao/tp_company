@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "37",
+               "short_name" : "37",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tongde Road",
+               "short_name" : "Tongde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸UºÖ¨½",
+               "short_name" : "¸UºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 37, Tongde Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0454663,
+               "lng" : 121.5843292
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0468152802915,
+                  "lng" : 121.5856781802915
+               },
+               "southwest" : {
+                  "lat" : 25.0441173197085,
+                  "lng" : 121.5829802197085
+               }
+            }
+         },
+         "place_id" : "ChIJb1lvCnWrQjQRoUxGtD8b3J8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

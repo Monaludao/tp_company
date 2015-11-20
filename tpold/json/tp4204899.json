@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nanshen Road",
+               "short_name" : "Nanshen Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Nanshen Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0257639,
+                  "lng" : 121.6240595
+               },
+               "southwest" : {
+                  "lat" : 25.0257506,
+                  "lng" : 121.6240478
+               }
+            },
+            "location" : {
+               "lat" : 25.0257506,
+               "lng" : 121.6240478
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0271062302915,
+                  "lng" : 121.6254026302915
+               },
+               "southwest" : {
+                  "lat" : 25.0244082697085,
+                  "lng" : 121.6227046697085
+               }
+            }
+         },
+         "place_id" : "EikxMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDljZfmt7Hot68xN-iZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

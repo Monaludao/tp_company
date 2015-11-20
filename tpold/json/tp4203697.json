@@ -1,0 +1,521 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wanshou Road",
+               "short_name" : "Wanshou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "萬興里",
+               "short_name" : "萬興里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 6, Wanshou Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9878217,
+                  "lng" : 121.575811
+               },
+               "southwest" : {
+                  "lat" : 24.9878094,
+                  "lng" : 121.575798
+               }
+            },
+            "location" : {
+               "lat" : 24.9878094,
+               "lng" : 121.575811
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9891645302915,
+                  "lng" : 121.5771534802915
+               },
+               "southwest" : {
+                  "lat" : 24.98646656970849,
+                  "lng" : 121.5744555197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EigxMTblj7DngaPlj7DljJfluILmloflsbHljYDokKzlo73ot6826Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 16, Lane 75, Wanshou Road",
+               "short_name" : "Alley 16, Lane 75, Wanshou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "政大里",
+               "short_name" : "政大里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 16, Lane 75, Wanshou Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9858674,
+                  "lng" : 121.5887311
+               },
+               "southwest" : {
+                  "lat" : 24.9852068,
+                  "lng" : 121.588431
+               }
+            },
+            "location" : {
+               "lat" : 24.9855952,
+               "lng" : 121.588593
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9868860802915,
+                  "lng" : 121.5899300302915
+               },
+               "southwest" : {
+                  "lat" : 24.9841881197085,
+                  "lng" : 121.5872320697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJY-GBKISqQjQRB34B5clRUQg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 61, Wanshou Road",
+               "short_name" : "Lane 61, Wanshou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "政大里",
+               "short_name" : "政大里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 61, Wanshou Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9870472,
+                  "lng" : 121.5916171
+               },
+               "southwest" : {
+                  "lat" : 24.9862739,
+                  "lng" : 121.5876571
+               }
+            },
+            "location" : {
+               "lat" : 24.9867079,
+               "lng" : 121.5897731
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9880095302915,
+                  "lng" : 121.5916171
+               },
+               "southwest" : {
+                  "lat" : 24.9853115697085,
+                  "lng" : 121.5876571
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhyozxoWqQjQR9Szcf3USE3g",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 75, Wanshou Road",
+               "short_name" : "Lane 75, Wanshou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "政大里",
+               "short_name" : "政大里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 75, Wanshou Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9859638,
+                  "lng" : 121.5891568
+               },
+               "southwest" : {
+                  "lat" : 24.9852842,
+                  "lng" : 121.5872959
+               }
+            },
+            "location" : {
+               "lat" : 24.9858674,
+               "lng" : 121.588431
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9869729802915,
+                  "lng" : 121.5895753302915
+               },
+               "southwest" : {
+                  "lat" : 24.9842750197085,
+                  "lng" : 121.5868773697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ51TUgoaqQjQRzqzJEOmdK5o",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 107, Wanshou Road",
+               "short_name" : "Lane 107, Wanshou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "指南里",
+               "short_name" : "指南里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 107, Wanshou Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.981357,
+                  "lng" : 121.5865325
+               },
+               "southwest" : {
+                  "lat" : 24.9809067,
+                  "lng" : 121.5855856
+               }
+            },
+            "location" : {
+               "lat" : 24.9811327,
+               "lng" : 121.5860361
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9824808302915,
+                  "lng" : 121.5874080302915
+               },
+               "southwest" : {
+                  "lat" : 24.9797828697085,
+                  "lng" : 121.5847100697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ5noroGqQjQRsbzV7qtRbCo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 17, Wanshou Road",
+               "short_name" : "Lane 17, Wanshou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "萬興里",
+               "short_name" : "萬興里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 17, Wanshou Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9885106,
+                  "lng" : 121.5760669
+               },
+               "southwest" : {
+                  "lat" : 24.9880606,
+                  "lng" : 121.5756746
+               }
+            },
+            "location" : {
+               "lat" : 24.9882871,
+               "lng" : 121.5758605
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9896345802915,
+                  "lng" : 121.5772197302915
+               },
+               "southwest" : {
+                  "lat" : 24.98693661970849,
+                  "lng" : 121.5745217697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUTnhk3uqQjQRYPOVNyz8HCY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 23, Lane 61, Wanshou Road",
+               "short_name" : "Alley 23, Lane 61, Wanshou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "政大里",
+               "short_name" : "政大里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 23, Lane 61, Wanshou Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9870967,
+                  "lng" : 121.5893785
+               },
+               "southwest" : {
+                  "lat" : 24.9865873,
+                  "lng" : 121.5883585
+               }
+            },
+            "location" : {
+               "lat" : 24.9868859,
+               "lng" : 121.5889196
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9881909802915,
+                  "lng" : 121.5902174802915
+               },
+               "southwest" : {
+                  "lat" : 24.9854930197085,
+                  "lng" : 121.5875195197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk_yX24WqQjQRWtv4y75oWHM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 6, Lane 45, Section 2, Zhinan Road",
+               "short_name" : "Alley 6, Lane 45, Section 2, Zhinan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "萬興里",
+               "short_name" : "萬興里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 6, Lane 45, Section 2, Zhinan Rd & Lane 17, Wanshou Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9885106,
+               "lng" : 121.5756746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9898595802915,
+                  "lng" : 121.5770235802915
+               },
+               "southwest" : {
+                  "lat" : 24.9871616197085,
+                  "lng" : 121.5743256197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkExMTblj7DngaPlj7DljJfluILmloflsbHljYDmjIfljZfot6_kuozmrrU0NeW3tzblvITokKzlo73ot68xN-W3tw",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}
+

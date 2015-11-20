@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "158",
+               "short_name" : "158",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Xinsheng South Road",
+               "short_name" : "Section 1, Xinsheng S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三愛里",
+               "short_name" : "三愛里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 158, Section 1, Xinsheng S Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0347917,
+               "lng" : 121.5324785
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0361406802915,
+                  "lng" : 121.5338274802915
+               },
+               "southwest" : {
+                  "lat" : 25.0334427197085,
+                  "lng" : 121.5311295197085
+               }
+            }
+         },
+         "place_id" : "ChIJ8a69Q3-pQjQR_Ymd8J30jtk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

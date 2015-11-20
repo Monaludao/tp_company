@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "158",
+               "short_name" : "158",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhangtai Street",
+               "short_name" : "Zhangtai St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "保德里",
+               "short_name" : "保德里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 158, Zhangtai St, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0221629,
+               "lng" : 121.4972621
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0235118802915,
+                  "lng" : 121.4986110802915
+               },
+               "southwest" : {
+                  "lat" : 25.02081391970849,
+                  "lng" : 121.4959131197085
+               }
+            }
+         },
+         "place_id" : "ChIJ29cVC7apQjQRh-pR7ExWcEY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

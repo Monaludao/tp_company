@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "97",
+               "short_name" : "97",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "通河東街一段",
+               "short_name" : "通河東街一段",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "百齡里",
+               "short_name" : "百齡里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "111, Taiwan, Taipei City, Shilin District, 通河東街一段97號",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0848834,
+               "lng" : 121.5162775
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.08623238029151,
+                  "lng" : 121.5176264802915
+               },
+               "southwest" : {
+                  "lat" : 25.0835344197085,
+                  "lng" : 121.5149285197085
+               }
+            }
+         },
+         "place_id" : "ChIJlWeY2rWuQjQRAkd2-lqLuxY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

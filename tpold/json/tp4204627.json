@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "96",
+               "short_name" : "96",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 74, Section 3, Bade Road",
+               "short_name" : "Lane 74, Section 3, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´°¤Æ¨½",
+               "short_name" : "´°¤Æ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 96, Lane 74, Section 3, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.044779,
+               "lng" : 121.5523559
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0461279802915,
+                  "lng" : 121.5537048802915
+               },
+               "southwest" : {
+                  "lat" : 25.0434300197085,
+                  "lng" : 121.5510069197085
+               }
+            }
+         },
+         "place_id" : "ChIJubLkc8SrQjQRWhys1haH_C4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

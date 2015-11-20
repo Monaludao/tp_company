@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hefeng Street",
+               "short_name" : "Hefeng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖµØ¨½",
+               "short_name" : "ºÖµØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Hefeng St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0826686,
+               "lng" : 121.5190835
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0840175802915,
+                  "lng" : 121.5204324802915
+               },
+               "southwest" : {
+                  "lat" : 25.08131961970849,
+                  "lng" : 121.5177345197085
+               }
+            }
+         },
+         "place_id" : "ChIJmfYjZbSuQjQRHKo0Q-_iYPU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

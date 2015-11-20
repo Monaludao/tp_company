@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 107, Section 1, Fuxing South Road",
+               "short_name" : "Alley 5, Lane 107, Section 1, Fuxing S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥úªZ¨½",
+               "short_name" : "¥úªZ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 11, Alley 5, Lane 107, Section 1, Fuxing S Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.044357,
+               "lng" : 121.5445989
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0457059802915,
+                  "lng" : 121.5459478802915
+               },
+               "southwest" : {
+                  "lat" : 25.0430080197085,
+                  "lng" : 121.5432499197085
+               }
+            }
+         },
+         "place_id" : "ChIJRe8Ws9urQjQRZMfierg00MI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

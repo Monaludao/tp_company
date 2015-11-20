@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "144",
+               "short_name" : "144",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Chengde Road",
+               "short_name" : "Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "斯文里",
+               "short_name" : "斯文里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 144, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0678618,
+               "lng" : 121.5181622
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0692107802915,
+                  "lng" : 121.5195111802915
+               },
+               "southwest" : {
+                  "lat" : 25.0665128197085,
+                  "lng" : 121.5168132197085
+               }
+            }
+         },
+         "place_id" : "ChIJT-Y8P0apQjQRgXHhP1dtaTo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+
