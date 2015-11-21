@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "70",
+               "short_name" : "70",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wansheng Street",
+               "short_name" : "Wansheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸U²±¨½",
+               "short_name" : "¸U²±¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 70, Wansheng St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.006423,
+               "lng" : 121.540234
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0077719802915,
+                  "lng" : 121.5415829802915
+               },
+               "southwest" : {
+                  "lat" : 25.0050740197085,
+                  "lng" : 121.5388850197085
+               }
+            }
+         },
+         "place_id" : "ChIJC4DJjh6qQjQRJ0M9Fzw1yQk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

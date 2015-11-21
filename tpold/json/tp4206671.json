@@ -1,0 +1,796 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dexing East Road",
+               "short_name" : "Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Äõ¶®¨½",
+               "short_name" : "Äõ¶®¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1068781,
+               "lng" : 121.5257027
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1082270802915,
+                  "lng" : 121.5270516802915
+               },
+               "southwest" : {
+                  "lat" : 25.1055291197085,
+                  "lng" : 121.5243537197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrTr_fpquQjQRqT0SC1dZdas",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 190, Dexing East Road",
+               "short_name" : "Lane 190, Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸t¤s¨½",
+               "short_name" : "¸t¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Lane 190, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1083416,
+                  "lng" : 121.5312116
+               },
+               "southwest" : {
+                  "lat" : 25.1083352,
+                  "lng" : 121.5311942
+               }
+            },
+            "location" : {
+               "lat" : 25.1083416,
+               "lng" : 121.5312116
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1096873802915,
+                  "lng" : 121.5325518802915
+               },
+               "southwest" : {
+                  "lat" : 25.1069894197085,
+                  "lng" : 121.5298539197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlvrfooYzmnbHot68xOTDlt7cxN-iZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 6, Lane 190, Dexing East Road",
+               "short_name" : "Alley 6, Lane 190, Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸t¤s¨½",
+               "short_name" : "¸t¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Alley 6, Lane 190, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1074631,
+                  "lng" : 121.5309279
+               },
+               "southwest" : {
+                  "lat" : 25.1074493,
+                  "lng" : 121.530917
+               }
+            },
+            "location" : {
+               "lat" : 25.1074631,
+               "lng" : 121.530917
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1088051802915,
+                  "lng" : 121.5322714302915
+               },
+               "southwest" : {
+                  "lat" : 25.1061072197085,
+                  "lng" : 121.5295734697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlvrfooYzmnbHot68xOTDlt7c25byEMTfomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 30, Lane 190, Dexing East Road",
+               "short_name" : "Alley 30, Lane 190, Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸t¤s¨½",
+               "short_name" : "¸t¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Alley 30, Lane 190, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1070377,
+                  "lng" : 121.5313071
+               },
+               "southwest" : {
+                  "lat" : 25.107023,
+                  "lng" : 121.5312978
+               }
+            },
+            "location" : {
+               "lat" : 25.107023,
+               "lng" : 121.5313071
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1083793302915,
+                  "lng" : 121.5326514302915
+               },
+               "southwest" : {
+                  "lat" : 25.1056813697085,
+                  "lng" : 121.5299534697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlvrfooYzmnbHot68xOTDlt7czMOW8hDE36Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 40, Lane 190, Dexing East Road",
+               "short_name" : "Alley 40, Lane 190, Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸t¤s¨½",
+               "short_name" : "¸t¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Alley 40, Lane 190, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1064726,
+                  "lng" : 121.5313366
+               },
+               "southwest" : {
+                  "lat" : 25.106458,
+                  "lng" : 121.5313269
+               }
+            },
+            "location" : {
+               "lat" : 25.106458,
+               "lng" : 121.5313366
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1078142802915,
+                  "lng" : 121.5326807302915
+               },
+               "southwest" : {
+                  "lat" : 25.1051163197085,
+                  "lng" : 121.5299827697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlvrfooYzmnbHot68xOTDlt7c0MOW8hDE36Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 190, Dexing East Road",
+               "short_name" : "Alley 5, Lane 190, Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸t¤s¨½",
+               "short_name" : "¸t¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Alley 5, Lane 190, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1078929,
+                  "lng" : 121.5319304
+               },
+               "southwest" : {
+                  "lat" : 25.1078768,
+                  "lng" : 121.5319245
+               }
+            },
+            "location" : {
+               "lat" : 25.1078929,
+               "lng" : 121.5319245
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1092338302915,
+                  "lng" : 121.5332764302915
+               },
+               "southwest" : {
+                  "lat" : 25.1065358697085,
+                  "lng" : 121.5305784697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlvrfooYzmnbHot68xOTDlt7c15byEMTfomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 190, Dexing East Road",
+               "short_name" : "Alley 1, Lane 190, Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸t¤s¨½",
+               "short_name" : "¸t¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Alley 1, Lane 190, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1085328,
+                  "lng" : 121.5315671
+               },
+               "southwest" : {
+                  "lat" : 25.108517,
+                  "lng" : 121.5315601
+               }
+            },
+            "location" : {
+               "lat" : 25.108517,
+               "lng" : 121.5315671
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1098738802915,
+                  "lng" : 121.5329125802915
+               },
+               "southwest" : {
+                  "lat" : 25.1071759197085,
+                  "lng" : 121.5302146197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlvrfooYzmnbHot68xOTDlt7cx5byEMTfomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 81, Dexing East Road",
+               "short_name" : "Lane 81, Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Äõ¶®¨½",
+               "short_name" : "Äõ¶®¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Lane 81, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1083871,
+               "lng" : 121.5271169
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1097360802915,
+                  "lng" : 121.5284658802915
+               },
+               "southwest" : {
+                  "lat" : 25.1070381197085,
+                  "lng" : 121.5257679197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlenJwJquQjQR7q3v03Ueseg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 11, Lane 358, Dexing East Road",
+               "short_name" : "Alley 11, Lane 358, Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªÛ¤s¨½",
+               "short_name" : "ªÛ¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Alley 11, Lane 358, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.110448,
+               "lng" : 121.539692
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1117969802915,
+                  "lng" : 121.5410409802915
+               },
+               "southwest" : {
+                  "lat" : 25.1090990197085,
+                  "lng" : 121.5383430197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuz6DnymsQjQRxWTd_-JQ13g",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 18, Lane 358, Dexing East Road",
+               "short_name" : "Alley 18, Lane 358, Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªÛ¤s¨½",
+               "short_name" : "ªÛ¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Alley 18, Lane 358, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.109605,
+               "lng" : 121.538944
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1109539802915,
+                  "lng" : 121.5402929802915
+               },
+               "southwest" : {
+                  "lat" : 25.1082560197085,
+                  "lng" : 121.5375950197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJU45-sSmsQjQRA19cne8K7a0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 31, Lane 8, Tianmu East Road",
+               "short_name" : "Alley 31, Lane 8, Tianmu E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤ÑºÖ¨½",
+               "short_name" : "¤ÑºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Alley 31, Lane 8, Tianmu E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1166473,
+                  "lng" : 121.532319
+               },
+               "southwest" : {
+                  "lat" : 25.1166324,
+                  "lng" : 121.53231
+               }
+            },
+            "location" : {
+               "lat" : 25.1166324,
+               "lng" : 121.53231
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.11798883029151,
+                  "lng" : 121.5336634802915
+               },
+               "southwest" : {
+                  "lat" : 25.1152908697085,
+                  "lng" : 121.5309655197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjUxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlpKnmr43mnbHot6845be3MzHlvIQxN-iZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 338, Dexing East Road",
+               "short_name" : "Lane 338, Dexing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªÛ¤s¨½",
+               "short_name" : "ªÛ¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Lane 338, Dexing E Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.108812,
+               "lng" : 121.540825
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1101609802915,
+                  "lng" : 121.5421739802915
+               },
+               "southwest" : {
+                  "lat" : 25.1074630197085,
+                  "lng" : 121.5394760197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoQp14iisQjQRCl8YAOD5kNU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

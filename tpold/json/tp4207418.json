@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 42, Dali Street",
+               "short_name" : "Lane 42, Dali St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´IºÖ¨½",
+               "short_name" : "´IºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Lane 42, Dali St, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0341982,
+               "lng" : 121.5003189
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0355471802915,
+                  "lng" : 121.5016678802915
+               },
+               "southwest" : {
+                  "lat" : 25.0328492197085,
+                  "lng" : 121.4989699197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_eBDG6-pQjQRpKwfzDfrpck",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

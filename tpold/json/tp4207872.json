@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "132",
+               "short_name" : "132",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Songshan Road",
+               "short_name" : "Songshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "四育里",
+               "short_name" : "四育里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 132, Songshan Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0475119,
+               "lng" : 121.577592
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0488608802915,
+                  "lng" : 121.5789409802915
+               },
+               "southwest" : {
+                  "lat" : 25.0461629197085,
+                  "lng" : 121.5762430197085
+               }
+            }
+         },
+         "place_id" : "ChIJ-SC_0J6rQjQRYEwkn6GBVlQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Minquan East Road",
+               "short_name" : "Section 3, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤U°ñ¨½",
+               "short_name" : "¤U°ñ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 55, Section 3, Minquan E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0625535,
+               "lng" : 121.5430359
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0639024802915,
+                  "lng" : 121.5443848802915
+               },
+               "southwest" : {
+                  "lat" : 25.0612045197085,
+                  "lng" : 121.5416869197085
+               }
+            }
+         },
+         "place_id" : "ChIJnSuqqOSrQjQRpFFixng-Bqw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

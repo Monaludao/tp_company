@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 36, Section 5, Minsheng East Road",
+               "short_name" : "Alley 4, Lane 36, Section 5, Minsheng E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¶¹Ø¨½",
+               "short_name" : "¤¶¹Ø¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 43, Alley 4, Lane 36, Section 5, Minsheng E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0580609,
+               "lng" : 121.5590259
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0594098802915,
+                  "lng" : 121.5603748802915
+               },
+               "southwest" : {
+                  "lat" : 25.05671191970849,
+                  "lng" : 121.5576769197085
+               }
+            }
+         },
+         "place_id" : "ChIJHd4TOO2rQjQRjEgreagfVmw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

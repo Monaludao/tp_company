@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 102, Lane 5, Ziqiang Street",
+               "short_name" : "Alley 102, Lane 5, Ziqiang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¿³¨½",
+               "short_name" : "ºÖ¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Alley 102, Lane 5, Ziqiang St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1122741,
+               "lng" : 121.511524
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1136230802915,
+                  "lng" : 121.5128729802915
+               },
+               "southwest" : {
+                  "lat" : 25.1109251197085,
+                  "lng" : 121.5101750197085
+               }
+            }
+         },
+         "place_id" : "ChIJIZMFd-2uQjQReizuJEuEH0A",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

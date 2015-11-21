@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "98",
+               "short_name" : "98",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wenhua 3rd Road",
+               "short_name" : "Wenhua 3rd Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "文化里",
+               "short_name" : "文化里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 98, Wenhua 3rd Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.138944,
+               "lng" : 121.498388
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1402929802915,
+                  "lng" : 121.4997369802915
+               },
+               "southwest" : {
+                  "lat" : 25.1375950197085,
+                  "lng" : 121.4970390197085
+               }
+            }
+         },
+         "place_id" : "ChIJd_Brak6uQjQRrckGhvfEUQk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

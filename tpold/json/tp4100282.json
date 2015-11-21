@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 45, Lane 280, Section 6, Minquan East Road",
+               "short_name" : "Alley 45, Lane 280, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸¬¬w¨½",
+               "short_name" : "¸¬¬w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 11, Alley 45, Lane 280, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.070934,
+               "lng" : 121.606205
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0722829802915,
+                  "lng" : 121.6075539802915
+               },
+               "southwest" : {
+                  "lat" : 25.0695850197085,
+                  "lng" : 121.6048560197085
+               }
+            }
+         },
+         "place_id" : "ChIJi1J1aL2sQjQRbSzhdFlrMvY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

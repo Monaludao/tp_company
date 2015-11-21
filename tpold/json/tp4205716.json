@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Qiangang Street",
+               "short_name" : "Qiangang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦ÊÄÖ¨½",
+               "short_name" : "¦ÊÄÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 116, Qiangang St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0851514,
+               "lng" : 121.5182044
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0865003802915,
+                  "lng" : 121.5195533802915
+               },
+               "southwest" : {
+                  "lat" : 25.0838024197085,
+                  "lng" : 121.5168554197085
+               }
+            }
+         },
+         "place_id" : "ChIJzZ1YnrauQjQRkKwuL3veD8E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "128",
+               "short_name" : "128",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Dunhua South Road",
+               "short_name" : "Section 2, Dunhua S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸s½å¨½",
+               "short_name" : "¸s½å¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 128, Section 2, Dunhua S Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0261353,
+               "lng" : 121.5483028
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.02748428029151,
+                  "lng" : 121.5496517802915
+               },
+               "southwest" : {
+                  "lat" : 25.0247863197085,
+                  "lng" : 121.5469538197085
+               }
+            }
+         },
+         "place_id" : "ChIJjxU59S2qQjQRn_8qaukiMFo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

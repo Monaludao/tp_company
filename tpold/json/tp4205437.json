@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "274",
+               "short_name" : "274",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhixing Road",
+               "short_name" : "Zhixing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ãö´ç¨½",
+               "short_name" : "Ãö´ç¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 274, Zhixing Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.121344,
+               "lng" : 121.467437
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1226929802915,
+                  "lng" : 121.4687859802915
+               },
+               "southwest" : {
+                  "lat" : 25.1199950197085,
+                  "lng" : 121.4660880197085
+               }
+            }
+         },
+         "place_id" : "ChIJGeyaJG2vQjQRUgVVMT0xMd4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

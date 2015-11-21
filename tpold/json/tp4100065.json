@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "32",
+               "short_name" : "32",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tianmu North Road",
+               "short_name" : "Tianmu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤Ñ¥É¨½",
+               "short_name" : "¤Ñ¥É¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 32, Tianmu N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1200413,
+               "lng" : 121.5263237
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1213902802915,
+                  "lng" : 121.5276726802915
+               },
+               "southwest" : {
+                  "lat" : 25.1186923197085,
+                  "lng" : 121.5249747197085
+               }
+            }
+         },
+         "place_id" : "ChIJEbTq94euQjQRUIYQqiym0AA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

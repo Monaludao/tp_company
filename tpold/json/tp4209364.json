@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 160, Section 3, Tingzhou Road",
+               "short_name" : "Lane 160, Section 3, Tingzhou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤ô·½¨½",
+               "short_name" : "¤ô·½¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Lane 160, Section 3, Tingzhou Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.013396,
+               "lng" : 121.534235
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0147449802915,
+                  "lng" : 121.5355839802915
+               },
+               "southwest" : {
+                  "lat" : 25.0120470197085,
+                  "lng" : 121.5328860197085
+               }
+            }
+         },
+         "place_id" : "ChIJq6wK34qpQjQRjNSY0WWHM1A",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

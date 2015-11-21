@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "32",
+               "short_name" : "32",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 12, Lane 157, Section 3, Xinhai Road",
+               "short_name" : "Alley 12, Lane 157, Section 3, Xinhai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤¤¸¨½",
+               "short_name" : "¾¤¤¸¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 32, Alley 12, Lane 157, Section 3, Xinhai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0169487,
+               "lng" : 121.550608
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0182976802915,
+                  "lng" : 121.5519569802915
+               },
+               "southwest" : {
+                  "lat" : 25.0155997197085,
+                  "lng" : 121.5492590197085
+               }
+            }
+         },
+         "place_id" : "ChIJIxa8-jqqQjQRYEjWCdGx6OQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

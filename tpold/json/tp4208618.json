@@ -1,0 +1,331 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 23, Nanjing West Road",
+               "short_name" : "Lane 23, Nanjing W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民安里",
+               "short_name" : "民安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 23, Nanjing W Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0555132,
+                  "lng" : 121.5206999
+               },
+               "southwest" : {
+                  "lat" : 25.0525868,
+                  "lng" : 121.5204789
+               }
+            },
+            "location" : {
+               "lat" : 25.0539711,
+               "lng" : 121.5205941
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0555132,
+                  "lng" : 121.5219383802915
+               },
+               "southwest" : {
+                  "lat" : 25.0525868,
+                  "lng" : 121.5192404197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp8k8Q2mpQjQRFCsWczPvWqo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 12, Nanjing West Road",
+               "short_name" : "Lane 12, Nanjing W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民安里",
+               "short_name" : "民安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 12, Nanjing W Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0523759,
+                  "lng" : 121.5215292
+               },
+               "southwest" : {
+                  "lat" : 25.0510036,
+                  "lng" : 121.5214015
+               }
+            },
+            "location" : {
+               "lat" : 25.0516812,
+               "lng" : 121.5214485
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0530387302915,
+                  "lng" : 121.5228143302915
+               },
+               "southwest" : {
+                  "lat" : 25.05034076970849,
+                  "lng" : 121.5201163697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEX8HyW6pQjQRgLtCMJKJNb8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 13, Lane 12, Nanjing West Road",
+               "short_name" : "Alley 13, Lane 12, Nanjing W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民安里",
+               "short_name" : "民安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 13, Lane 12, Nanjing W Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.051733,
+                  "lng" : 121.5219504
+               },
+               "southwest" : {
+                  "lat" : 25.0514813,
+                  "lng" : 121.5214485
+               }
+            },
+            "location" : {
+               "lat" : 25.0516792,
+               "lng" : 121.5218319
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0529561302915,
+                  "lng" : 121.5230484302915
+               },
+               "southwest" : {
+                  "lat" : 25.0502581697085,
+                  "lng" : 121.5203504697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-U5rz26pQjQR9bxBzkW7VC0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 10, Lane 12, Nanjing West Road",
+               "short_name" : "Alley 10, Lane 12, Nanjing W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民安里",
+               "short_name" : "民安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 10, Lane 12, Nanjing W Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0512962,
+                  "lng" : 121.5214515
+               },
+               "southwest" : {
+                  "lat" : 25.0512804,
+                  "lng" : 121.5211988
+               }
+            },
+            "location" : {
+               "lat" : 25.0512962,
+               "lng" : 121.5214515
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0526372802915,
+                  "lng" : 121.5226741302915
+               },
+               "southwest" : {
+                  "lat" : 25.0499393197085,
+                  "lng" : 121.5199761697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPxuAv26pQjQRDZBVdb25peE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "中山地下街R5出入口",
+               "short_name" : "中山地下街R5出入口",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Lane 18, Nanjing West Road",
+               "short_name" : "Lane 18, Nanjing W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "104, Taiwan, Taipei City, Zhongshan District, Lane 18, Nanjing W Rd, 中山地下街R5出入口",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0507894,
+                  "lng" : 121.5202211
+               },
+               "southwest" : {
+                  "lat" : 25.0506941,
+                  "lng" : 121.5201669
+               }
+            },
+            "location" : {
+               "lat" : 25.0507418,
+               "lng" : 121.520194
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0520907302915,
+                  "lng" : 121.5215429802915
+               },
+               "southwest" : {
+                  "lat" : 25.0493927697085,
+                  "lng" : 121.5188450197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI_SknG6pQjQRXISgwR3o8OQ",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}
+

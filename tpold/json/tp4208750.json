@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 1, Xinglinyi Road",
+               "short_name" : "Lane 1, Xinglinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤±e¨½",
+               "short_name" : "¤¤±e¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 11, Lane 1, Xinglinyi Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.14126,
+               "lng" : 121.499074
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1426089802915,
+                  "lng" : 121.5004229802915
+               },
+               "southwest" : {
+                  "lat" : 25.1399110197085,
+                  "lng" : 121.4977250197085
+               }
+            }
+         },
+         "place_id" : "ChIJY0OWwk6uQjQRVHv1LXM5pFc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Guangfu North Road",
+               "short_name" : "Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦N²»¨½",
+               "short_name" : "¦N²»¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0489615,
+               "lng" : 121.5579972
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0503104802915,
+                  "lng" : 121.5593461802915
+               },
+               "southwest" : {
+                  "lat" : 25.04761251970849,
+                  "lng" : 121.5566482197085
+               }
+            }
+         },
+         "place_id" : "ChIJG0MzJ8CrQjQRFGrfkJGP6mI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

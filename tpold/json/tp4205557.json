@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "61",
+               "short_name" : "61",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 122, Section 4, Ren'ai Road",
+               "short_name" : "Lane 122, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´°¦w¨½",
+               "short_name" : "´°¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 61, Lane 122, Section 4, Ren'ai Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0337252,
+               "lng" : 121.5503287
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0350741802915,
+                  "lng" : 121.5516776802915
+               },
+               "southwest" : {
+                  "lat" : 25.0323762197085,
+                  "lng" : 121.5489797197085
+               }
+            }
+         },
+         "place_id" : "ChIJp6Z2x82rQjQRvMA7DDKG7hI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

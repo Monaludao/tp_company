@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Liangzhou Street",
+               "short_name" : "Liangzhou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民權里",
+               "short_name" : "民權里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Liangzhou St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0607122,
+               "lng" : 121.5141964
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0620611802915,
+                  "lng" : 121.5155453802915
+               },
+               "southwest" : {
+                  "lat" : 25.0593632197085,
+                  "lng" : 121.5128474197085
+               }
+            }
+         },
+         "place_id" : "ChIJw1c9dUCpQjQRF1S19737uds",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

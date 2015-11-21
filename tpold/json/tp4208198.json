@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "86",
+               "short_name" : "86",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Fuxing South Road",
+               "short_name" : "Section 2, Fuxing S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¹Ï¨½",
+               "short_name" : "Às¹Ï¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 86, Section 2, Fuxing S Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0306077,
+               "lng" : 121.5432841
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0319566802915,
+                  "lng" : 121.5446330802915
+               },
+               "southwest" : {
+                  "lat" : 25.02925871970849,
+                  "lng" : 121.5419351197085
+               }
+            }
+         },
+         "place_id" : "ChIJhS2fpSyqQjQRdRyqX2fUymY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

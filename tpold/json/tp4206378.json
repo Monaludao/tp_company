@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "75",
+               "short_name" : "75",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Leye Street",
+               "short_name" : "Leye St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªÚ©M¨½",
+               "short_name" : "ªÚ©M¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 75, Leye St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.021932,
+                  "lng" : 121.5507958
+               },
+               "southwest" : {
+                  "lat" : 25.0219196,
+                  "lng" : 121.5507829
+               }
+            },
+            "location" : {
+               "lat" : 25.0219196,
+               "lng" : 121.5507829
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0232747802915,
+                  "lng" : 121.5521383302915
+               },
+               "southwest" : {
+                  "lat" : 25.0205768197085,
+                  "lng" : 121.5494403697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikxMDblj7DngaPlj7DljJfluILlpKflronljYDmqILmpa3ooZc3NeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

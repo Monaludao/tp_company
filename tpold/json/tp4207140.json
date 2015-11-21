@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fuxing Road",
+               "short_name" : "Fuxing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³©ô¨½",
+               "short_name" : "¿³©ô¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Fuxing Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0025427,
+                  "lng" : 121.5516545
+               },
+               "southwest" : {
+                  "lat" : 25.002529,
+                  "lng" : 121.5516435
+               }
+            },
+            "location" : {
+               "lat" : 25.002529,
+               "lng" : 121.5516435
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0038848302915,
+                  "lng" : 121.5529979802915
+               },
+               "southwest" : {
+                  "lat" : 25.0011868697085,
+                  "lng" : 121.5503000197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikxMTblj7DngaPlj7DljJfluILmloflsbHljYDnpo_oiIjot68xM-iZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Minquan East Road",
+               "short_name" : "Section 3, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤U°ñ¨½",
+               "short_name" : "¤U°ñ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 21, Section 3, Minquan E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0625594,
+               "lng" : 121.5417075
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0639083802915,
+                  "lng" : 121.5430564802915
+               },
+               "southwest" : {
+                  "lat" : 25.06121041970849,
+                  "lng" : 121.5403585197085
+               }
+            }
+         },
+         "place_id" : "ChIJjQgOROOrQjQRJObLbBEgrIs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

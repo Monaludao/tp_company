@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "237",
+               "short_name" : "237",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Chongqing North Road",
+               "short_name" : "Section 4, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸¬ªF¨½",
+               "short_name" : "¸¬ªF¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 237, Section 4, Chongqing N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0855211,
+               "lng" : 121.5109243
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0868700802915,
+                  "lng" : 121.5122732802915
+               },
+               "southwest" : {
+                  "lat" : 25.08417211970849,
+                  "lng" : 121.5095753197085
+               }
+            }
+         },
+         "place_id" : "ChIJaWedycuuQjQRCbrhiJhUNFY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "47",
+               "short_name" : "47",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shuiyuan Road",
+               "short_name" : "Shuiyuan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªL¿³¨½",
+               "short_name" : "ªL¿³¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 47, Shuiyuan Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.01947,
+               "lng" : 121.5237657
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0208189802915,
+                  "lng" : 121.5251146802915
+               },
+               "southwest" : {
+                  "lat" : 25.0181210197085,
+                  "lng" : 121.5224167197085
+               }
+            }
+         },
+         "place_id" : "ChIJc-eEJJKpQjQRhn3oQXHE1K8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

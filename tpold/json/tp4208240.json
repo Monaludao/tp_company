@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 46, Lane 25, Dongshan Road",
+               "short_name" : "Alley 46, Lane 25, Dongshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "東山里",
+               "short_name" : "東山里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 46, Lane 25, Dongshan Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1183814,
+               "lng" : 121.5415131
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1197303802915,
+                  "lng" : 121.5428620802915
+               },
+               "southwest" : {
+                  "lat" : 25.1170324197085,
+                  "lng" : 121.5401641197085
+               }
+            }
+         },
+         "place_id" : "ChIJK7Gkk9StQjQRUdyutBdGAm8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

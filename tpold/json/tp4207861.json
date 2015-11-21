@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "88",
+               "short_name" : "88",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Keelung Road",
+               "short_name" : "Section 1, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·s¤¯¨½",
+               "short_name" : "·s¤¯¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 88, Section 1, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.046411,
+               "lng" : 121.5673261
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04775998029151,
+                  "lng" : 121.5686750802915
+               },
+               "southwest" : {
+                  "lat" : 25.0450620197085,
+                  "lng" : 121.5659771197085
+               }
+            }
+         },
+         "place_id" : "ChIJl8wnjL2rQjQRWvgjchhtzew",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

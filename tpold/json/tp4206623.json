@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 34, Lane 40, Section 3, Zhongyang North Road",
+               "short_name" : "Alley 34, Lane 40, Section 3, Zhongyang N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "®ç·½¨½",
+               "short_name" : "®ç·½¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 34, Lane 40, Section 3, Zhongyang N Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1397279,
+               "lng" : 121.4853503
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1410768802915,
+                  "lng" : 121.4866992802915
+               },
+               "southwest" : {
+                  "lat" : 25.1383789197085,
+                  "lng" : 121.4840013197085
+               }
+            }
+         },
+         "place_id" : "ChIJH1zGCK6vQjQRbdMunAMXpn0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

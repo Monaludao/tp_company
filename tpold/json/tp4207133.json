@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yitong Street",
+               "short_name" : "Yitong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶¶é¨½",
+               "short_name" : "¦¶¶é¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 31, Yitong St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0503465,
+               "lng" : 121.5351269
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0516954802915,
+                  "lng" : 121.5364758802915
+               },
+               "southwest" : {
+                  "lat" : 25.0489975197085,
+                  "lng" : 121.5337779197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2-FglmGpQjQR2gGnHfZCB48",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 118, Minquan West Road",
+               "short_name" : "Lane 118, Minquan W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民權里",
+               "short_name" : "民權里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 8, Lane 118, Minquan W Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0623909,
+               "lng" : 121.516806
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0637398802915,
+                  "lng" : 121.5181549802915
+               },
+               "southwest" : {
+                  "lat" : 25.0610419197085,
+                  "lng" : 121.5154570197085
+               }
+            }
+         },
+         "place_id" : "ChIJLbLR40CpQjQRETeAsqmpnvM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

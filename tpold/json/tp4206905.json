@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Guoxing Road",
+               "short_name" : "Guoxing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Guoxing Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0248804,
+                  "lng" : 121.5090343
+               },
+               "southwest" : {
+                  "lat" : 25.0248691,
+                  "lng" : 121.5090202
+               }
+            },
+            "location" : {
+               "lat" : 25.0248804,
+               "lng" : 121.5090202
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.02622373029151,
+                  "lng" : 121.5103762302915
+               },
+               "southwest" : {
+                  "lat" : 25.0235257697085,
+                  "lng" : 121.5076782697085
+               }
+            }
+         },
+         "place_id" : "EigxMDjlj7DngaPlj7DljJfluILokKzoj6_ljYDlnIvoiIjot6806Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

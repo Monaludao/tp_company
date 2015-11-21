@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "重慶南路一段5巷",
+               "short_name" : "重慶南路一段5巷",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "黎明里",
+               "short_name" : "黎明里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100, Taiwan, Taipei City, Zhongzheng District, 重慶南路一段5巷1號",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0466836,
+               "lng" : 121.5135772
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0480325802915,
+                  "lng" : 121.5149261802915
+               },
+               "southwest" : {
+                  "lat" : 25.04533461970849,
+                  "lng" : 121.5122282197085
+               }
+            }
+         },
+         "place_id" : "ChIJ2UA9Lw2pQjQRMtXdafmbsOk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 214, Section 3, Chengde Road",
+               "short_name" : "Lane 214, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦Ü¸t¨½",
+               "short_name" : "¦Ü¸t¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 25, Lane 214, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0715316,
+               "lng" : 121.5171693
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0728805802915,
+                  "lng" : 121.5185182802915
+               },
+               "southwest" : {
+                  "lat" : 25.0701826197085,
+                  "lng" : 121.5158203197085
+               }
+            }
+         },
+         "place_id" : "ChIJmabe-EipQjQRuwot16WRrh0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "188",
+               "short_name" : "188",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Chongqing North Road",
+               "short_name" : "Section 2, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nªÚ¨½",
+               "short_name" : "«nªÚ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 188, Section 2, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0622972,
+               "lng" : 121.5133576
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0636461802915,
+                  "lng" : 121.5147065802915
+               },
+               "southwest" : {
+                  "lat" : 25.0609482197085,
+                  "lng" : 121.5120086197085
+               }
+            }
+         },
+         "place_id" : "ChIJw9nsdz-pQjQRgjq4Jg7p8Po",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

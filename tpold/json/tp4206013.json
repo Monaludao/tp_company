@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "76-1",
+               "short_name" : "76-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 27, Lane 372, Section 5, Zhongxiao East Road",
+               "short_name" : "Alley 27, Lane 372, Section 5, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼s©~¨½",
+               "short_name" : "¼s©~¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 76-1, Alley 27, Lane 372, Section 5, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0395659,
+               "lng" : 121.575657
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04091488029151,
+                  "lng" : 121.5770059802915
+               },
+               "southwest" : {
+                  "lat" : 25.0382169197085,
+                  "lng" : 121.5743080197085
+               }
+            }
+         },
+         "place_id" : "ChIJRU-QCqSrQjQRHOBx4rLY_M4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

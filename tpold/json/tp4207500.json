@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 278, Kangding Road",
+               "short_name" : "Lane 278, Kangding Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´I¥Á¨½",
+               "short_name" : "´I¥Á¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Lane 278, Kangding Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.037069,
+               "lng" : 121.5012518
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0384179802915,
+                  "lng" : 121.5026007802915
+               },
+               "southwest" : {
+                  "lat" : 25.0357200197085,
+                  "lng" : 121.4999028197085
+               }
+            }
+         },
+         "place_id" : "ChIJZ8R8wKipQjQRcBVol2QfsTk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

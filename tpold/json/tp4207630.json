@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 180, Guangfu South Road",
+               "short_name" : "Lane 180, Guangfu S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "華聲里",
+               "short_name" : "華聲里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Lane 180, Guangfu S Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0422931,
+               "lng" : 121.5567255
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0436420802915,
+                  "lng" : 121.5580744802915
+               },
+               "southwest" : {
+                  "lat" : 25.0409441197085,
+                  "lng" : 121.5553765197085
+               }
+            }
+         },
+         "place_id" : "ChIJg3Sy48arQjQRzrjxUcp1iAM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

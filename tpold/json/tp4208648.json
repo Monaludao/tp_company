@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "47",
+               "short_name" : "47",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 405, Section 6, Zhongshan North Road",
+               "short_name" : "Lane 405, Section 6, Zhongshan N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤Ñ¹Ø¨½",
+               "short_name" : "¤Ñ¹Ø¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 47, Lane 405, Section 6, Zhongshan N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1154504,
+               "lng" : 121.5263178
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1167993802915,
+                  "lng" : 121.5276667802915
+               },
+               "southwest" : {
+                  "lat" : 25.1141014197085,
+                  "lng" : 121.5249688197085
+               }
+            }
+         },
+         "place_id" : "ChIJxQeMD4auQjQR7-wvmphAH0s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

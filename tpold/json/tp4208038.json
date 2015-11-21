@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "95",
+               "short_name" : "95",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Jianguo South Road",
+               "short_name" : "Section 2, Jianguo S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "∑s¿s®Ω",
+               "short_name" : "∑s¿s®Ω",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da°¶an District",
+               "short_name" : "Da°¶an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 95, Section 2, Jianguo S Rd, Da°¶an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0304139,
+               "lng" : 121.538266
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0317628802915,
+                  "lng" : 121.5396149802915
+               },
+               "southwest" : {
+                  "lat" : 25.0290649197085,
+                  "lng" : 121.5369170197085
+               }
+            }
+         },
+         "place_id" : "ChIJj10JjSqqQjQRbgdfY6uPeos",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

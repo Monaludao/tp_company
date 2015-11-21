@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "250",
+               "short_name" : "250",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 6, Civic Boulevard",
+               "short_name" : "Section 6, Civic Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·O¯§¨½",
+               "short_name" : "·O¯§¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 250, Section 6, Civic Blvd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0495287,
+                  "lng" : 121.5790026
+               },
+               "southwest" : {
+                  "lat" : 25.0495117,
+                  "lng" : 121.5790021
+               }
+            },
+            "location" : {
+               "lat" : 25.0495287,
+               "lng" : 121.5790021
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0508691802915,
+                  "lng" : 121.5803513302915
+               },
+               "southwest" : {
+                  "lat" : 25.0481712197085,
+                  "lng" : 121.5776533697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDluILmsJHlpKfpgZPlha3mrrUyNTDomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "52",
+               "short_name" : "52",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 188, Ruiguang Road",
+               "short_name" : "Lane 188, Ruiguang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥‰·Y®Ω",
+               "short_name" : "¥‰·Y®Ω",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 52, Lane 188, Ruiguang Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0737618,
+               "lng" : 121.5765292
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0751107802915,
+                  "lng" : 121.5778781802915
+               },
+               "southwest" : {
+                  "lat" : 25.0724128197085,
+                  "lng" : 121.5751802197085
+               }
+            }
+         },
+         "place_id" : "ChIJa-NIgnusQjQRnJzuwvdMa5c",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

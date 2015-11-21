@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 52, Lane 12, Section 3, Bade Road",
+               "short_name" : "Alley 52, Lane 12, Section 3, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´°¤Æ¨½",
+               "short_name" : "´°¤Æ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 52, Lane 12, Section 3, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0460062,
+               "lng" : 121.5502332
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0473551802915,
+                  "lng" : 121.5515821802915
+               },
+               "southwest" : {
+                  "lat" : 25.0446572197085,
+                  "lng" : 121.5488842197085
+               }
+            }
+         },
+         "place_id" : "ChIJJxQ9ZMOrQjQRo-0duqZ1u40",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

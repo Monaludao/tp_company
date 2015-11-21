@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "355",
+               "short_name" : "355",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 355, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0241109,
+                  "lng" : 121.5714034
+               },
+               "southwest" : {
+                  "lat" : 25.0240948,
+                  "lng" : 121.5713974
+               }
+            },
+            "location" : {
+               "lat" : 25.0241109,
+               "lng" : 121.5714034
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.02545183029151,
+                  "lng" : 121.5727493802915
+               },
+               "southwest" : {
+                  "lat" : 25.0227538697085,
+                  "lng" : 121.5700514197085
+               }
+            }
+         },
+         "place_id" : "EjYxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDkv6Hnvqnot6_kupTmrrUxNTDlt7czNTXomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

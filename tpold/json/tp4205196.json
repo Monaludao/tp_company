@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 123, Section 6, Minquan East Road",
+               "short_name" : "Lane 123, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ä_´ò¨½",
+               "short_name" : "Ä_´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16, Lane 123, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0693298,
+                  "lng" : 121.5928324
+               },
+               "southwest" : {
+                  "lat" : 25.0693284,
+                  "lng" : 121.5928137
+               }
+            },
+            "location" : {
+               "lat" : 25.0693298,
+               "lng" : 121.5928137
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0706780802915,
+                  "lng" : 121.5941720302915
+               },
+               "southwest" : {
+                  "lat" : 25.0679801197085,
+                  "lng" : 121.5914740697085
+               }
+            }
+         },
+         "place_id" : "EjgxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUxMjPlt7cxNuiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

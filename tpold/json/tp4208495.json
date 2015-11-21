@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 89, Section 1, Muzha Road",
+               "short_name" : "Lane 89, Section 1, Muzha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "試院里",
+               "short_name" : "試院里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 89, Section 1, Muzha Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9881012,
+                  "lng" : 121.547362
+               },
+               "southwest" : {
+                  "lat" : 24.9870012,
+                  "lng" : 121.547037
+               }
+            },
+            "location" : {
+               "lat" : 24.987571,
+               "lng" : 121.5471997
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9889001802915,
+                  "lng" : 121.5485484802915
+               },
+               "southwest" : {
+                  "lat" : 24.9862022197085,
+                  "lng" : 121.5458505197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN4pHXP0BaDQRVB9PcBUjFJ4",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

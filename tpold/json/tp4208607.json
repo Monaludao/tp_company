@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 574, Fujin Street",
+               "short_name" : "Lane 574, Fujin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·s¯q¨½",
+               "short_name" : "·s¯q¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 10, Lane 574, Fujin St, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0627569,
+               "lng" : 121.5677243
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0641058802915,
+                  "lng" : 121.5690732802915
+               },
+               "southwest" : {
+                  "lat" : 25.0614079197085,
+                  "lng" : 121.5663753197085
+               }
+            }
+         },
+         "place_id" : "ChIJQZBbLYmrQjQRCjhPBsX3LR4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

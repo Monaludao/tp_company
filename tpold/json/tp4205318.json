@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 9, Lane 280, Daye Road",
+               "short_name" : "Alley 9, Lane 280, Daye Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤¥¡¨½",
+               "short_name" : "¤¤¥¡¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 14, Alley 9, Lane 280, Daye Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1279796,
+                  "lng" : 121.4986059
+               },
+               "southwest" : {
+                  "lat" : 25.1279741,
+                  "lng" : 121.4985881
+               }
+            },
+            "location" : {
+               "lat" : 25.1279741,
+               "lng" : 121.4985881
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1293258302915,
+                  "lng" : 121.4999459802915
+               },
+               "southwest" : {
+                  "lat" : 25.1266278697085,
+                  "lng" : 121.4972480197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMTLlj7DngaPlj7DljJfluILljJfmipXljYDlpKfmpa3ot68yODDlt7c55byEMTTomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 6, Minquan East Road",
+               "short_name" : "Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ò¤¸¨½",
+               "short_name" : "´ò¤¸¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 39, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0648381,
+                  "lng" : 121.5728724
+               },
+               "southwest" : {
+                  "lat" : 25.0648222,
+                  "lng" : 121.5728657
+               }
+            },
+            "location" : {
+               "lat" : 25.0648222,
+               "lng" : 121.5728724
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0661791302915,
+                  "lng" : 121.5742180302915
+               },
+               "southwest" : {
+                  "lat" : 25.0634811697085,
+                  "lng" : 121.5715200697085
+               }
+            }
+         },
+         "place_id" : "EjIxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUzOeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

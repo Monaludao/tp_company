@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 63, Shezi Street",
+               "short_name" : "Lane 63, Shezi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "社新里",
+               "short_name" : "社新里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 63, Shezi St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0876749,
+               "lng" : 121.5070534
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0890238802915,
+                  "lng" : 121.5084023802915
+               },
+               "southwest" : {
+                  "lat" : 25.0863259197085,
+                  "lng" : 121.5057044197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_6AfoM6uQjQRbvtkAvonJrQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

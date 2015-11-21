@@ -45,7 +45,7 @@ gl_convert<-function(){
     
     gl_api_runner(run.df,act.file)
     
-    if(length(record.df[record.df$Date==today])==0){
+    if(length(record.df[record.df$Date==today,])==0){
         n.cnt<-end.row-start.row+1
         record.df<-rbind(record.df,c(today,n.cnt,act.file,end.row))
     } else {

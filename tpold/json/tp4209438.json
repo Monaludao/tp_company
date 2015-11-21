@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 204, Section 2, Muzha Road",
+               "short_name" : "Lane 204, Section 2, Muzha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "дьм]и╜",
+               "short_name" : "дьм]и╜",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 15, Lane 204, Section 2, Muzha Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9882998,
+                  "lng" : 121.5636645
+               },
+               "southwest" : {
+                  "lat" : 24.9882929,
+                  "lng" : 121.5636474
+               }
+            },
+            "location" : {
+               "lat" : 24.9882929,
+               "lng" : 121.5636645
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.98964533029151,
+                  "lng" : 121.5650049302915
+               },
+               "southwest" : {
+                  "lat" : 24.9869473697085,
+                  "lng" : 121.5623069697085
+               }
+            }
+         },
+         "place_id" : "EjUxMTblj7DngaPlj7DljJfluILmloflsbHljYDmnKjmn7Xot6_kuozmrrUyMDTlt7cxNeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huarong Street",
+               "short_name" : "Huarong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¨Î¨½",
+               "short_name" : "ºÖ¨Î¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Huarong St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.095357,
+               "lng" : 121.5235105
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0967059802915,
+                  "lng" : 121.5248594802915
+               },
+               "southwest" : {
+                  "lat" : 25.0940080197085,
+                  "lng" : 121.5221615197085
+               }
+            }
+         },
+         "place_id" : "ChIJeyMakryuQjQRZduGqhsouHs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

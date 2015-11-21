@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Roosevelt Road",
+               "short_name" : "Section 2, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新營里",
+               "short_name" : "新營里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Section 2, Roosevelt Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0292036,
+                  "lng" : 121.5215266
+               },
+               "southwest" : {
+                  "lat" : 25.0289375,
+                  "lng" : 121.5211819
+               }
+            },
+            "location" : {
+               "lat" : 25.0290705,
+               "lng" : 121.5213542
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0304195302915,
+                  "lng" : 121.5227032302915
+               },
+               "southwest" : {
+                  "lat" : 25.0277215697085,
+                  "lng" : 121.5200052697085
+               }
+            }
+         },
+         "place_id" : "ChIJq3fFt5upQjQRtzFMmATPfiM",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}
+

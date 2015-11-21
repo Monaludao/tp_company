@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 9, Sanfu Street",
+               "short_name" : "Lane 9, Sanfu St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "萬有里",
+               "short_name" : "萬有里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Lane 9, Sanfu St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.9975118,
+               "lng" : 121.5422751
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9988607802915,
+                  "lng" : 121.5436240802915
+               },
+               "southwest" : {
+                  "lat" : 24.99616281970849,
+                  "lng" : 121.5409261197085
+               }
+            }
+         },
+         "place_id" : "ChIJ1xKVewOqQjQRjET6Rft3jKk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

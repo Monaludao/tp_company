@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 6, Lane 203, Section 2, Xinglong Road",
+               "short_name" : "Alley 6, Lane 203, Section 2, Xinglong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¨¹¨½",
+               "short_name" : "¿³¨¹¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Alley 6, Lane 203, Section 2, Xinglong Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0017127,
+                  "lng" : 121.5492576
+               },
+               "southwest" : {
+                  "lat" : 25.0017008,
+                  "lng" : 121.5492442
+               }
+            },
+            "location" : {
+               "lat" : 25.0017127,
+               "lng" : 121.5492442
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0030557302915,
+                  "lng" : 121.5505998802915
+               },
+               "southwest" : {
+                  "lat" : 25.0003577697085,
+                  "lng" : 121.5479019197085
+               }
+            }
+         },
+         "place_id" : "EjgxMTblj7DngaPlj7DljJfluILmloflsbHljYDoiIjpmobot6_kuozmrrUyMDPlt7c25byEM-iZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

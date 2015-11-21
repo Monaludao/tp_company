@@ -1,0 +1,61 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Section 4, Roosevelt Road",
+               "short_name" : "Section 4, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤å²±¨½",
+               "short_name" : "¤å²±¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Section 4, Roosevelt Rd & Section 3, Xinsheng S Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.016365,
+               "lng" : 121.5325581
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.01771398029151,
+                  "lng" : 121.5339070802915
+               },
+               "southwest" : {
+                  "lat" : 25.0150160197085,
+                  "lng" : 121.5312091197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej8xMDDlj7DngaPlj7DljJfluILkuK3mraPljYDnvoXmlq_npo_ot6_lm5vmrrXmlrDnlJ_ljZfot6_kuInmrrU",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}
+

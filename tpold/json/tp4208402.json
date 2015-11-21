@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "35-2",
+               "short_name" : "35-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nong'an Street",
+               "short_name" : "Nong'an St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´¸¥ú¨½",
+               "short_name" : "´¸¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 35-2, Nong'an St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0649804,
+               "lng" : 121.5253634
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0663293802915,
+                  "lng" : 121.5267123802915
+               },
+               "southwest" : {
+                  "lat" : 25.0636314197085,
+                  "lng" : 121.5240144197085
+               }
+            }
+         },
+         "place_id" : "ChIJPxqbK0WpQjQRLt3fgn6rQBA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

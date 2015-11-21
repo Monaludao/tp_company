@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 35, Andong Street",
+               "short_name" : "Lane 35, Andong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸Û¦w¨½",
+               "short_name" : "¸Û¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Lane 35, Andong St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0441354,
+               "lng" : 121.5431094
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0454843802915,
+                  "lng" : 121.5444583802915
+               },
+               "southwest" : {
+                  "lat" : 25.0427864197085,
+                  "lng" : 121.5417604197085
+               }
+            }
+         },
+         "place_id" : "ChIJk2_VLtqrQjQRiJEot1AzdZU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

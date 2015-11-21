@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Ren'ai Road",
+               "short_name" : "Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "德安里",
+               "short_name" : "德安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 50, Section 4, Ren'ai Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0376027,
+               "lng" : 121.5473591
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0389516802915,
+                  "lng" : 121.5487080802915
+               },
+               "southwest" : {
+                  "lat" : 25.0362537197085,
+                  "lng" : 121.5460101197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJixnhxdGrQjQRMat92dcPqmQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

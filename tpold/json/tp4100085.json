@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "469",
+               "short_name" : "469",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 6, Minquan East Road",
+               "short_name" : "Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ª÷´ò¨½",
+               "short_name" : "ª÷´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 469, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0719734,
+               "lng" : 121.6045051
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0733223802915,
+                  "lng" : 121.6058540802915
+               },
+               "southwest" : {
+                  "lat" : 25.0706244197085,
+                  "lng" : 121.6031561197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7xVqz5esQjQRHa0rc9erRzU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "148",
+               "short_name" : "148",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Fuxing South Road",
+               "short_name" : "Section 2, Fuxing S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às°}¨½",
+               "short_name" : "Às°}¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 148, Section 2, Fuxing S Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0283426,
+                  "lng" : 121.5433214
+               },
+               "southwest" : {
+                  "lat" : 25.0281771,
+                  "lng" : 121.5431143
+               }
+            },
+            "location" : {
+               "lat" : 25.0282598,
+               "lng" : 121.5432178
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0296088302915,
+                  "lng" : 121.5445668302915
+               },
+               "southwest" : {
+                  "lat" : 25.0269108697085,
+                  "lng" : 121.5418688697085
+               }
+            }
+         },
+         "place_id" : "ChIJ--ujeyyqQjQRU-i5kPanbo8",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "41",
+               "short_name" : "41",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 15, Lane 308, Section 3, Heping East Road",
+               "short_name" : "Alley 15, Lane 308, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤§µ¨½",
+               "short_name" : "¾¤§µ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 41, Alley 15, Lane 308, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0188065,
+               "lng" : 121.5563425
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0201554802915,
+                  "lng" : 121.5576914802915
+               },
+               "southwest" : {
+                  "lat" : 25.0174575197085,
+                  "lng" : 121.5549935197085
+               }
+            }
+         },
+         "place_id" : "ChIJ95L8cjeqQjQRhwYz0ltURYY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

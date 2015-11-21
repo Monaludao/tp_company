@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 19, Ronghua 2nd Road",
+               "short_name" : "Lane 19, Ronghua 2nd Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºaµØ¨½",
+               "short_name" : "ºaµØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Lane 19, Ronghua 2nd Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1130068,
+               "lng" : 121.5234856
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1143557802915,
+                  "lng" : 121.5248345802915
+               },
+               "southwest" : {
+                  "lat" : 25.1116578197085,
+                  "lng" : 121.5221366197085
+               }
+            }
+         },
+         "place_id" : "ChIJ8U1iCI-uQjQR6sc_QbiT6s4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

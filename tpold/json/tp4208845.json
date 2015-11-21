@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "29-1",
+               "short_name" : "29-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xingdong Street",
+               "short_name" : "Xingdong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三重里",
+               "short_name" : "三重里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 29-1, Xingdong St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0558139,
+               "lng" : 121.6125403
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0571628802915,
+                  "lng" : 121.6138892802915
+               },
+               "southwest" : {
+                  "lat" : 25.0544649197085,
+                  "lng" : 121.6111913197085
+               }
+            }
+         },
+         "place_id" : "ChIJLWnxwVirQjQRb_bU0E5pH8g",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 38, Lane 218, Section 5, Roosevelt Road",
+               "short_name" : "Alley 38, Lane 218, Section 5, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸U¶©¨½",
+               "short_name" : "¸U¶©¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 17, Alley 38, Lane 218, Section 5, Roosevelt Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0026876,
+               "lng" : 121.5372257
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0040365802915,
+                  "lng" : 121.5385746802915
+               },
+               "southwest" : {
+                  "lat" : 25.00133861970849,
+                  "lng" : 121.5358767197085
+               }
+            }
+         },
+         "place_id" : "ChIJnXu7Yx2qQjQRlSsyW9stLN4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

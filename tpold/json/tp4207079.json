@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-1",
+               "short_name" : "2-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 8, Lane 85, Section 3, Muzha Road",
+               "short_name" : "Alley 8, Lane 85, Section 3, Muzha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "дьм]и╜",
+               "short_name" : "дьм]и╜",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2-1, Alley 8, Lane 85, Section 3, Muzha Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.989275,
+               "lng" : 121.567387
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9906239802915,
+                  "lng" : 121.5687359802915
+               },
+               "southwest" : {
+                  "lat" : 24.9879260197085,
+                  "lng" : 121.5660380197085
+               }
+            }
+         },
+         "place_id" : "ChIJ6ZI9OnGqQjQRLzmVwAF1M3Y",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

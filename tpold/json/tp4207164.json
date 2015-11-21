@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "83",
+               "short_name" : "83",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wuxing Street",
+               "short_name" : "Wuxing St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "뉴햜㉬",
+               "short_name" : "뉴햜㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 83, Wuxing St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.030725,
+               "lng" : 121.5608053
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0320739802915,
+                  "lng" : 121.5621542802915
+               },
+               "southwest" : {
+                  "lat" : 25.0293760197085,
+                  "lng" : 121.5594563197085
+               }
+            }
+         },
+         "place_id" : "ChIJjWAckbWrQjQRfuyvWIdyi4s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

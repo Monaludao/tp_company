@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "371",
+               "short_name" : "371",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Danan Road",
+               "short_name" : "Danan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¤¤¨½",
+               "short_name" : "ºÖ¤¤¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 371, Danan Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0891795,
+               "lng" : 121.5160997
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0905284802915,
+                  "lng" : 121.5174486802915
+               },
+               "southwest" : {
+                  "lat" : 25.0878305197085,
+                  "lng" : 121.5147507197085
+               }
+            }
+         },
+         "place_id" : "ChIJ40V7vLeuQjQRK3kXNUdEgIo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "184-1",
+               "short_name" : "184-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Zhongcheng Road",
+               "short_name" : "Section 1, Zhongcheng Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©¾¸Û¨½",
+               "short_name" : "©¾¸Û¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 184-1, Section 1, Zhongcheng Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1077599,
+               "lng" : 121.529773
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1091088802915,
+                  "lng" : 121.5311219802915
+               },
+               "southwest" : {
+                  "lat" : 25.1064109197085,
+                  "lng" : 121.5284240197085
+               }
+            }
+         },
+         "place_id" : "ChIJTfE1P5uuQjQRq84jXrdhe_w",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

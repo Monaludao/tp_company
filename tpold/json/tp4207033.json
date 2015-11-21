@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "60",
+               "short_name" : "60",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongfeng Street",
+               "short_name" : "Dongfeng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "德安里",
+               "short_name" : "德安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 60, Dongfeng St, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0359187,
+               "lng" : 121.5476852
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0372676802915,
+                  "lng" : 121.5490341802915
+               },
+               "southwest" : {
+                  "lat" : 25.0345697197085,
+                  "lng" : 121.5463362197085
+               }
+            }
+         },
+         "place_id" : "ChIJH41T99GrQjQRerAp2rguDJU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

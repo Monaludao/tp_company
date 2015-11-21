@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "181",
+               "short_name" : "181",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Zhongyang South Road",
+               "short_name" : "Section 1, Zhongyang S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "²M¦¿¨½",
+               "short_name" : "²M¦¿¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 181, Section 1, Zhongyang S Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.128984,
+               "lng" : 121.50123
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1303329802915,
+                  "lng" : 121.5025789802915
+               },
+               "southwest" : {
+                  "lat" : 25.1276350197085,
+                  "lng" : 121.4998810197085
+               }
+            }
+         },
+         "place_id" : "ChIJ2cM9C1euQjQRhxP8OzCjjQU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

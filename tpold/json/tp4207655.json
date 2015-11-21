@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 39, Hulu Street",
+               "short_name" : "Lane 39, Hulu St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´I¥ú¨½",
+               "short_name" : "´I¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 39, Hulu St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0796333,
+               "lng" : 121.5095674
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0809822802915,
+                  "lng" : 121.5109163802915
+               },
+               "southwest" : {
+                  "lat" : 25.07828431970849,
+                  "lng" : 121.5082184197085
+               }
+            }
+         },
+         "place_id" : "ChIJY-cJjjSpQjQRcFObELss5Aw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

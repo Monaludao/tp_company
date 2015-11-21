@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "118",
+               "short_name" : "118",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 7, Zhongshan North Road",
+               "short_name" : "Section 7, Zhongshan N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "天山里",
+               "short_name" : "天山里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 118, Section 7, Zhongshan N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1222678,
+               "lng" : 121.5319932
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1236167802915,
+                  "lng" : 121.5333421802915
+               },
+               "southwest" : {
+                  "lat" : 25.1209188197085,
+                  "lng" : 121.5306442197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4XSZmn6uQjQRLLRYDG8GXg0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

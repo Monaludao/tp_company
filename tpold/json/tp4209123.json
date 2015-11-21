@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "60",
+               "short_name" : "60",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhouzi Street",
+               "short_name" : "Zhouzi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥‰·Y®Ω",
+               "short_name" : "¥‰·Y®Ω",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 60, Zhouzi St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0794681,
+               "lng" : 121.5723125
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0808170802915,
+                  "lng" : 121.5736614802915
+               },
+               "southwest" : {
+                  "lat" : 25.0781191197085,
+                  "lng" : 121.5709635197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_7YMbmWsQjQRIeZAc6zKra8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+
