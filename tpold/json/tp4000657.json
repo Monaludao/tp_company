@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 49, Yumin 2nd Road",
+               "short_name" : "Lane 49, Yumin 2nd Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸Î¥Á¨½",
+               "short_name" : "¸Î¥Á¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 49, Yumin 2nd Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1148516,
+                  "lng" : 121.5174702
+               },
+               "southwest" : {
+                  "lat" : 25.114528,
+                  "lng" : 121.5166748
+               }
+            },
+            "location" : {
+               "lat" : 25.1146027,
+               "lng" : 121.5172038
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1160387802915,
+                  "lng" : 121.5184214802915
+               },
+               "southwest" : {
+                  "lat" : 25.1133408197085,
+                  "lng" : 121.5157235197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOVvpVYyuQjQRNXhq8nUNAt8",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 6, Lane 325, Jiankang Road",
+               "short_name" : "Alley 6, Lane 325, Jiankang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ÄPµ{¨½",
+               "short_name" : "ÄPµ{¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 21, Alley 6, Lane 325, Jiankang Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0550891,
+               "lng" : 121.5681571
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0564380802915,
+                  "lng" : 121.5695060802915
+               },
+               "southwest" : {
+                  "lat" : 25.0537401197085,
+                  "lng" : 121.5668081197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7QaorZGrQjQRwhUS-_Oic2w",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

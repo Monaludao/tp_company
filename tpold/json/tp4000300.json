@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "34",
+               "short_name" : "34",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fushun Street",
+               "short_name" : "Fushun St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "集英里",
+               "short_name" : "集英里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 34, Fushun St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0634715,
+                  "lng" : 121.5198714
+               },
+               "southwest" : {
+                  "lat" : 25.0634548,
+                  "lng" : 121.519868
+               }
+            },
+            "location" : {
+               "lat" : 25.0634715,
+               "lng" : 121.519868
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0648121302915,
+                  "lng" : 121.5212186802915
+               },
+               "southwest" : {
+                  "lat" : 25.0621141697085,
+                  "lng" : 121.5185207197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDmkqvpoIbooZczNOiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

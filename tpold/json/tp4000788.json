@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 28, Lane 301, Section 3, Dadu Road",
+               "short_name" : "Alley 28, Lane 301, Section 3, Dadu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ãö´ç¨½",
+               "short_name" : "Ãö´ç¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 50, Alley 28, Lane 301, Section 3, Dadu Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1223097,
+                  "lng" : 121.4653225
+               },
+               "southwest" : {
+                  "lat" : 25.1222927,
+                  "lng" : 121.4653212
+               }
+            },
+            "location" : {
+               "lat" : 25.1222927,
+               "lng" : 121.4653212
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1236501802915,
+                  "lng" : 121.4666708302915
+               },
+               "southwest" : {
+                  "lat" : 25.1209522197085,
+                  "lng" : 121.4639728697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjoxMTLlj7DngaPlj7DljJfluILljJfmipXljYDlpKfluqbot6_kuInmrrUzMDHlt7cyOOW8hDUw6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

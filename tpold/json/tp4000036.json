@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "157-4",
+               "short_name" : "157-4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yanji Street",
+               "short_name" : "Yanji St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "正聲里",
+               "short_name" : "正聲里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 157-4, Yanji St, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0394994,
+               "lng" : 121.5551286
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04084838029151,
+                  "lng" : 121.5564775802915
+               },
+               "southwest" : {
+                  "lat" : 25.0381504197085,
+                  "lng" : 121.5537796197085
+               }
+            }
+         },
+         "place_id" : "ChIJgW7xG8arQjQRe_cOCM47Mh8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

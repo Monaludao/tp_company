@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sanchong Road",
+               "short_name" : "Sanchong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三重里",
+               "short_name" : "三重里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 33, Sanchong Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0594294,
+                  "lng" : 121.6142466
+               },
+               "southwest" : {
+                  "lat" : 25.0594286,
+                  "lng" : 121.6142278
+               }
+            },
+            "location" : {
+               "lat" : 25.0594294,
+               "lng" : 121.6142278
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.06077798029151,
+                  "lng" : 121.6155861802915
+               },
+               "southwest" : {
+                  "lat" : 25.05808001970851,
+                  "lng" : 121.6128882197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikxMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDkuInph43ot68zM-iZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

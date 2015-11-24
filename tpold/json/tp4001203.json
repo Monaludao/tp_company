@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 50, Tianmu West Road",
+               "short_name" : "Lane 50, Tianmu W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤Ñ¹Ø¨½",
+               "short_name" : "¤Ñ¹Ø¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 43, Lane 50, Tianmu W Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1179111,
+                  "lng" : 121.5248183
+               },
+               "southwest" : {
+                  "lat" : 25.1178942,
+                  "lng" : 121.5248172
+               }
+            },
+            "location" : {
+               "lat" : 25.1178942,
+               "lng" : 121.5248172
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1192516302915,
+                  "lng" : 121.5261667302915
+               },
+               "southwest" : {
+                  "lat" : 25.1165536697085,
+                  "lng" : 121.5234687697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjExMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlpKnmr43opb_ot681MOW3tzQz6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

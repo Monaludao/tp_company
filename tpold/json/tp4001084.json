@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "139-36",
+               "short_name" : "139-36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wenquan Road",
+               "short_name" : "Wenquan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªL¬u¨½",
+               "short_name" : "ªL¬u¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 139-36, Wenquan Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.137083,
+               "lng" : 121.510491
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1384319802915,
+                  "lng" : 121.5118399802915
+               },
+               "southwest" : {
+                  "lat" : 25.1357340197085,
+                  "lng" : 121.5091420197085
+               }
+            }
+         },
+         "place_id" : "ChIJ6dVDCEOuQjQRD6m0n4lSqAg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yucheng Street",
+               "short_name" : "Yucheng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "合成里",
+               "short_name" : "合成里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 40, Yucheng St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.048741,
+               "lng" : 121.581305
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0500899802915,
+                  "lng" : 121.5826539802915
+               },
+               "southwest" : {
+                  "lat" : 25.0473920197085,
+                  "lng" : 121.5799560197085
+               }
+            }
+         },
+         "place_id" : "ChIJgbTeCp6rQjQRlz57FedtE_U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

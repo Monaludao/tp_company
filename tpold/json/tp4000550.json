@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "23-14",
+               "short_name" : "23-14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 48, Lane 493, Wanda Road",
+               "short_name" : "Alley 48, Lane 493, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¼w¨½",
+               "short_name" : "¿³¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23-14, Alley 48, Lane 493, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0197585,
+               "lng" : 121.500051
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0211074802915,
+                  "lng" : 121.5013999802915
+               },
+               "southwest" : {
+                  "lat" : 25.0184095197085,
+                  "lng" : 121.4987020197085
+               }
+            }
+         },
+         "place_id" : "ChIJBRwBLcipQjQRk1b2LhF4aYE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

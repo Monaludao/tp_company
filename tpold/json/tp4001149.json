@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Liaoning Street",
+               "short_name" : "Liaoning St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_µØ¨½",
+               "short_name" : "´_µØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 112, Liaoning St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0525759,
+               "lng" : 121.541847
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0539248802915,
+                  "lng" : 121.5431959802915
+               },
+               "southwest" : {
+                  "lat" : 25.05122691970849,
+                  "lng" : 121.5404980197085
+               }
+            }
+         },
+         "place_id" : "ChIJO26EHN6rQjQRswWJYG2GHf8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

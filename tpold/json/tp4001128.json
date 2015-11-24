@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 120, Section 3, Chongqing North Road",
+               "short_name" : "Lane 120, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "°ê¼y¨½",
+               "short_name" : "°ê¼y¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Lane 120, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.067296,
+               "lng" : 121.5131183
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0686449802915,
+                  "lng" : 121.5144672802915
+               },
+               "southwest" : {
+                  "lat" : 25.0659470197085,
+                  "lng" : 121.5117693197085
+               }
+            }
+         },
+         "place_id" : "ChIJTXhaiTipQjQRdnPalHyMyiY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

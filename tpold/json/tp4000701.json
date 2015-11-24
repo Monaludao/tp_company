@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "77",
+               "short_name" : "77",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lianyun Street",
+               "short_name" : "Lianyun St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三愛里",
+               "short_name" : "三愛里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 77, Lianyun St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.034387,
+               "lng" : 121.530186
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0357359802915,
+                  "lng" : 121.5315349802915
+               },
+               "southwest" : {
+                  "lat" : 25.0330380197085,
+                  "lng" : 121.5288370197085
+               }
+            }
+         },
+         "place_id" : "ChIJx9MFCoKpQjQR5BInNaxWjms",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,1996 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 79, Section 2, Keelung Road",
+               "short_name" : "Lane 79, Section 2, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ºÁp¨½",
+               "short_name" : "´ºÁp¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 79, Section 2, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0293206,
+                  "lng" : 121.5599659
+               },
+               "southwest" : {
+                  "lat" : 25.029305,
+                  "lng" : 121.5599585
+               }
+            },
+            "location" : {
+               "lat" : 25.029305,
+               "lng" : 121.5599585
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0306617802915,
+                  "lng" : 121.5613111802915
+               },
+               "southwest" : {
+                  "lat" : 25.0279638197085,
+                  "lng" : 121.5586132197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDln7rpmobot6_kuozmrrU3OeW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Xinyi Road",
+               "short_name" : "Section 2, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤å²»¨½",
+               "short_name" : "¤å²»¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Section 2, Xinyi Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0348766,
+                  "lng" : 121.5258254
+               },
+               "southwest" : {
+                  "lat" : 25.0348617,
+                  "lng" : 121.5258163
+               }
+            },
+            "location" : {
+               "lat" : 25.0348766,
+               "lng" : 121.5258254
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.03621813029151,
+                  "lng" : 121.5271698302915
+               },
+               "southwest" : {
+                  "lat" : 25.0335201697085,
+                  "lng" : 121.5244718697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMDDlj7DngaPlj7DljJfluILkuK3mraPljYDkv6Hnvqnot6_kuozmrrUzNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 36, Section 2, Roosevelt Road",
+               "short_name" : "Lane 36, Section 2, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 36, Section 2, Roosevelt Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.028308,
+                  "lng" : 121.5215835
+               },
+               "southwest" : {
+                  "lat" : 25.027764,
+                  "lng" : 121.5200661
+               }
+            },
+            "location" : {
+               "lat" : 25.0279087,
+               "lng" : 121.5208768
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0293849802915,
+                  "lng" : 121.5221737802915
+               },
+               "southwest" : {
+                  "lat" : 25.0266870197085,
+                  "lng" : 121.5194758197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6Y6hMJqpQjQR37HPRjVrvH8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 1, Lane 79, Section 2, Keelung Road",
+               "short_name" : "Alley 1, Lane 79, Section 2, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ºÁp¨½",
+               "short_name" : "´ºÁp¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Alley 1, Lane 79, Section 2, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0304411,
+                  "lng" : 121.5586252
+               },
+               "southwest" : {
+                  "lat" : 25.030433,
+                  "lng" : 121.5586087
+               }
+            },
+            "location" : {
+               "lat" : 25.0304411,
+               "lng" : 121.5586087
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0317860302915,
+                  "lng" : 121.5599659302915
+               },
+               "southwest" : {
+                  "lat" : 25.0290880697085,
+                  "lng" : 121.5572679697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDln7rpmobot6_kuozmrrU3OeW3tzHlvIQzNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 17, Lane 79, Section 2, Keelung Road",
+               "short_name" : "Alley 17, Lane 79, Section 2, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ºÁp¨½",
+               "short_name" : "´ºÁp¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 17, Lane 79, Section 2, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0302159,
+                  "lng" : 121.5598714
+               },
+               "southwest" : {
+                  "lat" : 25.0296083,
+                  "lng" : 121.559249
+               }
+            },
+            "location" : {
+               "lat" : 25.0299532,
+               "lng" : 121.5595565
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0312610802915,
+                  "lng" : 121.5609091802915
+               },
+               "southwest" : {
+                  "lat" : 25.0285631197085,
+                  "lng" : 121.5582112197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJR-gSgcqrQjQR22m6cywQu_s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 33, Lane 79, Section 2, Keelung Road",
+               "short_name" : "Alley 33, Lane 79, Section 2, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ºÁp¨½",
+               "short_name" : "´ºÁp¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 33, Lane 79, Section 2, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0299599,
+                  "lng" : 121.5600876
+               },
+               "southwest" : {
+                  "lat" : 25.0294121,
+                  "lng" : 121.5597322
+               }
+            },
+            "location" : {
+               "lat" : 25.0296962,
+               "lng" : 121.5598953
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0310349802915,
+                  "lng" : 121.5612588802915
+               },
+               "southwest" : {
+                  "lat" : 25.0283370197085,
+                  "lng" : 121.5585609197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYXLufbWrQjQRAjsCgPLW3y0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 4, Lane 79, Section 2, Keelung Road",
+               "short_name" : "Alley 4, Lane 79, Section 2, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 4, Lane 79, Section 2, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0300921,
+                  "lng" : 121.558413
+               },
+               "southwest" : {
+                  "lat" : 25.0289653,
+                  "lng" : 121.5577314
+               }
+            },
+            "location" : {
+               "lat" : 25.0293767,
+               "lng" : 121.5580602
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0308776802915,
+                  "lng" : 121.5594211802915
+               },
+               "southwest" : {
+                  "lat" : 25.02817971970849,
+                  "lng" : 121.5567232197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk3-S68qrQjQR2AJCBygGBoo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Section 2, Roosevelt Road",
+               "short_name" : "Section 2, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Section 2, Roosevelt Rd & Lane 36, Section 2, Roosevelt Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.028308,
+               "lng" : 121.5215835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0296569802915,
+                  "lng" : 121.5229324802915
+               },
+               "southwest" : {
+                  "lat" : 25.0269590197085,
+                  "lng" : 121.5202345197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkQxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDnvoXmlq_npo_ot6_kuozmrrXnvoXmlq_npo_ot6_kuozmrrUzNuW3tw",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36-2",
+               "short_name" : "36-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 39, Section 2, Keelung Road",
+               "short_name" : "Lane 39, Section 2, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ºÁp¨½",
+               "short_name" : "´ºÁp¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36-2, Lane 39, Section 2, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.031076,
+               "lng" : 121.559642
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0324249802915,
+                  "lng" : 121.5609909802915
+               },
+               "southwest" : {
+                  "lat" : 25.0297270197085,
+                  "lng" : 121.5582930197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7e2IdsqrQjQRbdgDr3Elnt0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 64, Section 2, Zhongxiao East Road",
+               "short_name" : "Lane 64, Section 2, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©¯ºÖ¨½",
+               "short_name" : "©¯ºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 64, Section 2, Zhongxiao E Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0424359,
+               "lng" : 121.52779
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0437848802915,
+                  "lng" : 121.5291389802915
+               },
+               "southwest" : {
+                  "lat" : 25.04108691970849,
+                  "lng" : 121.5264410197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCaD1UHqpQjQRU0QIRPKzRww",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 197, Section 2, Keelung Road",
+               "short_name" : "Lane 197, Section 2, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤¶¶¨½",
+               "short_name" : "¾¤¶¶¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 197, Section 2, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0247067,
+                  "lng" : 121.5535713
+               },
+               "southwest" : {
+                  "lat" : 25.0246978,
+                  "lng" : 121.5535553
+               }
+            },
+            "location" : {
+               "lat" : 25.0246978,
+               "lng" : 121.5535713
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0260512302915,
+                  "lng" : 121.5549122802915
+               },
+               "southwest" : {
+                  "lat" : 25.0233532697085,
+                  "lng" : 121.5522143197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjUxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDln7rpmobot6_kuozmrrUxOTflt7czNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 167, Section 2, Keelung Road",
+               "short_name" : "Lane 167, Section 2, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤¶¶¨½",
+               "short_name" : "¾¤¶¶¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 167, Section 2, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.025316,
+                  "lng" : 121.5543978
+               },
+               "southwest" : {
+                  "lat" : 25.0252996,
+                  "lng" : 121.554393
+               }
+            },
+            "location" : {
+               "lat" : 25.025316,
+               "lng" : 121.5543978
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0266567802915,
+                  "lng" : 121.5557443802915
+               },
+               "southwest" : {
+                  "lat" : 25.0239588197085,
+                  "lng" : 121.5530464197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjUxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDln7rpmobot6_kuozmrrUxNjflt7czNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Ren'ai Road",
+               "short_name" : "Section 2, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤å¥_¨½",
+               "short_name" : "¤å¥_¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Section 2, Ren'ai Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.038074,
+               "lng" : 121.5272176
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0394229802915,
+                  "lng" : 121.5285665802915
+               },
+               "southwest" : {
+                  "lat" : 25.0367250197085,
+                  "lng" : 121.5258686197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ0UktHmpQjQRuRVInC3JqJY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "149-36",
+               "short_name" : "149-36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Keelung Road",
+               "short_name" : "Section 2, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤¶¶¨½",
+               "short_name" : "¾¤¶¶¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 149-36, Section 2, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0265199,
+               "lng" : 121.5552349
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0278688802915,
+                  "lng" : 121.5565838802915
+               },
+               "southwest" : {
+                  "lat" : 25.0251709197085,
+                  "lng" : 121.5538859197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ463xjTSqQjQR-36vwcTt3b0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 48, Section 2, Jinan Road",
+               "short_name" : "Lane 48, Section 2, Jinan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©¯¥«¨½",
+               "short_name" : "©¯¥«¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 48, Section 2, Jinan Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0394752,
+                  "lng" : 121.5310412
+               },
+               "southwest" : {
+                  "lat" : 25.0394715,
+                  "lng" : 121.5310229
+               }
+            },
+            "location" : {
+               "lat" : 25.0394715,
+               "lng" : 121.5310229
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0408223302915,
+                  "lng" : 121.5323810302915
+               },
+               "southwest" : {
+                  "lat" : 25.03812436970849,
+                  "lng" : 121.5296830697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDmv5_ljZfot6_kuozmrrU0OOW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 62, Section 2, Jinan Road",
+               "short_name" : "Lane 62, Section 2, Jinan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©¯¥«¨½",
+               "short_name" : "©¯¥«¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 62, Section 2, Jinan Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0386011,
+                  "lng" : 121.5318824
+               },
+               "southwest" : {
+                  "lat" : 25.0385993,
+                  "lng" : 121.5318637
+               }
+            },
+            "location" : {
+               "lat" : 25.0385993,
+               "lng" : 121.5318824
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0399491802915,
+                  "lng" : 121.5332220302915
+               },
+               "southwest" : {
+                  "lat" : 25.03725121970849,
+                  "lng" : 121.5305240697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDmv5_ljZfot6_kuozmrrU2MuW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Keelung Road",
+               "short_name" : "Section 2, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Section 2, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.031502,
+                  "lng" : 121.5587289
+               },
+               "southwest" : {
+                  "lat" : 25.0314935,
+                  "lng" : 121.5587126
+               }
+            },
+            "location" : {
+               "lat" : 25.0314935,
+               "lng" : 121.5587289
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0328467302915,
+                  "lng" : 121.5600697302915
+               },
+               "southwest" : {
+                  "lat" : 25.0301487697085,
+                  "lng" : 121.5573717697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei8xMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDln7rpmobot6_kuozmrrUzNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 8, Section 2, Roosevelt Road",
+               "short_name" : "Lane 8, Section 2, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 8, Section 2, Roosevelt Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0284121,
+                  "lng" : 121.5206666
+               },
+               "southwest" : {
+                  "lat" : 25.0284064,
+                  "lng" : 121.5206489
+               }
+            },
+            "location" : {
+               "lat" : 25.0284064,
+               "lng" : 121.5206489
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0297582302915,
+                  "lng" : 121.5220067302915
+               },
+               "southwest" : {
+                  "lat" : 25.0270602697085,
+                  "lng" : 121.5193087697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDnvoXmlq_npo_ot6_kuozmrrU45be3MzbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 38, Section 2, Ren'ai Road",
+               "short_name" : "Lane 38, Section 2, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤å²»¨½",
+               "short_name" : "¤å²»¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 38, Section 2, Ren'ai Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0366103,
+                  "lng" : 121.5270303
+               },
+               "southwest" : {
+                  "lat" : 25.0366061,
+                  "lng" : 121.5270121
+               }
+            },
+            "location" : {
+               "lat" : 25.0366061,
+               "lng" : 121.5270303
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0379571802915,
+                  "lng" : 121.5283701802915
+               },
+               "southwest" : {
+                  "lat" : 25.0352592197085,
+                  "lng" : 121.5256722197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDku4HmhJvot6_kuozmrrUzOOW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 91, Section 2, Ren'ai Road",
+               "short_name" : "Lane 91, Section 2, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©¯¥«¨½",
+               "short_name" : "©¯¥«¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 91, Section 2, Ren'ai Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0398465,
+                  "lng" : 121.5315526
+               },
+               "southwest" : {
+                  "lat" : 25.0398416,
+                  "lng" : 121.5315346
+               }
+            },
+            "location" : {
+               "lat" : 25.0398416,
+               "lng" : 121.5315346
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0411930302915,
+                  "lng" : 121.5328925802915
+               },
+               "southwest" : {
+                  "lat" : 25.0384950697085,
+                  "lng" : 121.5301946197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDku4HmhJvot6_kuozmrrU5MeW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 20, Section 2, Ren'ai Road",
+               "short_name" : "Lane 20, Section 2, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤å²»¨½",
+               "short_name" : "¤å²»¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 20, Section 2, Ren'ai Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0368783,
+                  "lng" : 121.5262317
+               },
+               "southwest" : {
+                  "lat" : 25.0368741,
+                  "lng" : 121.5262135
+               }
+            },
+            "location" : {
+               "lat" : 25.0368741,
+               "lng" : 121.5262317
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0382251802915,
+                  "lng" : 121.5275715802915
+               },
+               "southwest" : {
+                  "lat" : 25.0355272197085,
+                  "lng" : 121.5248736197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDku4HmhJvot6_kuozmrrUyMOW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 30, Section 2, Roosevelt Road",
+               "short_name" : "Lane 30, Section 2, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 30, Section 2, Roosevelt Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0277541,
+                  "lng" : 121.5209654
+               },
+               "southwest" : {
+                  "lat" : 25.0277475,
+                  "lng" : 121.520948
+               }
+            },
+            "location" : {
+               "lat" : 25.0277541,
+               "lng" : 121.5209654
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0290997802915,
+                  "lng" : 121.5223056802915
+               },
+               "southwest" : {
+                  "lat" : 25.0264018197085,
+                  "lng" : 121.5196077197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDnvoXmlq_npo_ot6_kuozmrrUzMOW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 15, Section 2, Ren'ai Road",
+               "short_name" : "Lane 15, Section 2, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤å¥_¨½",
+               "short_name" : "¤å¥_¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 15, Section 2, Ren'ai Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0390405,
+                  "lng" : 121.5254002
+               },
+               "southwest" : {
+                  "lat" : 25.0390243,
+                  "lng" : 121.5253943
+               }
+            },
+            "location" : {
+               "lat" : 25.0390243,
+               "lng" : 121.5253943
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0403813802915,
+                  "lng" : 121.5267462302915
+               },
+               "southwest" : {
+                  "lat" : 25.0376834197085,
+                  "lng" : 121.5240482697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDku4HmhJvot6_kuozmrrUxNeW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Nanchang Road",
+               "short_name" : "Section 2, Nanchang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Section 2, Nanchang Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0276034,
+               "lng" : 121.5200165
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0289523802915,
+                  "lng" : 121.5213654802915
+               },
+               "southwest" : {
+                  "lat" : 25.0262544197085,
+                  "lng" : 121.5186675197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6eE3IJqpQjQRfWWNs1mMsjg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 65, Section 2, Ren'ai Road",
+               "short_name" : "Lane 65, Section 2, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©¯¥«¨½",
+               "short_name" : "©¯¥«¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 65, Section 2, Ren'ai Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0392764,
+                  "lng" : 121.5304075
+               },
+               "southwest" : {
+                  "lat" : 25.0392724,
+                  "lng" : 121.5303892
+               }
+            },
+            "location" : {
+               "lat" : 25.0392724,
+               "lng" : 121.5303892
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0406233802915,
+                  "lng" : 121.5317473302915
+               },
+               "southwest" : {
+                  "lat" : 25.03792541970849,
+                  "lng" : 121.5290493697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDku4HmhJvot6_kuozmrrU2NeW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Jinan Road",
+               "short_name" : "Section 2, Jinan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤å¥_¨½",
+               "short_name" : "¤å¥_¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Section 2, Jinan Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0406237,
+               "lng" : 121.5296041
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0419726802915,
+                  "lng" : 121.5309530802915
+               },
+               "southwest" : {
+                  "lat" : 25.03927471970849,
+                  "lng" : 121.5282551197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ9sUw3upQjQRXiunwYnfEnE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 48, Section 2, Roosevelt Road",
+               "short_name" : "Lane 48, Section 2, Roosevelt Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 48, Section 2, Roosevelt Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0275577,
+                  "lng" : 121.5209862
+               },
+               "southwest" : {
+                  "lat" : 25.0275442,
+                  "lng" : 121.5209747
+               }
+            },
+            "location" : {
+               "lat" : 25.0275577,
+               "lng" : 121.5209747
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0288999302915,
+                  "lng" : 121.5223294302915
+               },
+               "southwest" : {
+                  "lat" : 25.0262019697085,
+                  "lng" : 121.5196314697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDnvoXmlq_npo_ot6_kuozmrrU0OOW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 9, Section 2, Ren'ai Road",
+               "short_name" : "Lane 9, Section 2, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤å¥_¨½",
+               "short_name" : "¤å¥_¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 9, Section 2, Ren'ai Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0388753,
+                  "lng" : 121.5253527
+               },
+               "southwest" : {
+                  "lat" : 25.0388591,
+                  "lng" : 121.5253469
+               }
+            },
+            "location" : {
+               "lat" : 25.0388591,
+               "lng" : 121.5253469
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04021618029151,
+                  "lng" : 121.5266987802915
+               },
+               "southwest" : {
+                  "lat" : 25.0375182197085,
+                  "lng" : 121.5240008197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDku4HmhJvot6_kuozmrrU55be3MzbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 18, Section 2, Nanchang Road",
+               "short_name" : "Lane 18, Section 2, Nanchang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 18, Section 2, Nanchang Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0274766,
+                  "lng" : 121.5190992
+               },
+               "southwest" : {
+                  "lat" : 25.0274623,
+                  "lng" : 121.519089
+               }
+            },
+            "location" : {
+               "lat" : 25.0274623,
+               "lng" : 121.5190992
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0288184302915,
+                  "lng" : 121.5204430802915
+               },
+               "southwest" : {
+                  "lat" : 25.0261204697085,
+                  "lng" : 121.5177451197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDljZfmmIzot6_kuozmrrUxOOW3tzM26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 9, Section 2, Nanchang Road",
+               "short_name" : "Lane 9, Section 2, Nanchang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Lane 9, Section 2, Nanchang Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0283455,
+                  "lng" : 121.5200223
+               },
+               "southwest" : {
+                  "lat" : 25.0283344,
+                  "lng" : 121.5200081
+               }
+            },
+            "location" : {
+               "lat" : 25.0283344,
+               "lng" : 121.5200081
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0296889302915,
+                  "lng" : 121.5213641802915
+               },
+               "southwest" : {
+                  "lat" : 25.0269909697085,
+                  "lng" : 121.5186662197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDljZfmmIzot6_kuozmrrU55be3MzbomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

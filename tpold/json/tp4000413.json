@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-4",
+               "short_name" : "2-4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Meide Street",
+               "short_name" : "Meide St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¼w¨½",
+               "short_name" : "ºÖ¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2-4, Meide St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0939647,
+               "lng" : 121.5257292
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0953136802915,
+                  "lng" : 121.5270781802915
+               },
+               "southwest" : {
+                  "lat" : 25.0926157197085,
+                  "lng" : 121.5243802197085
+               }
+            }
+         },
+         "place_id" : "ChIJr_IDVaOuQjQRGgnr6lXn61E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

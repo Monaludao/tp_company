@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hulu Street",
+               "short_name" : "Hulu St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´I¥ú¨½",
+               "short_name" : "´I¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 110, Hulu St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.082573,
+               "lng" : 121.508183
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0839219802915,
+                  "lng" : 121.5095319802915
+               },
+               "southwest" : {
+                  "lat" : 25.0812240197085,
+                  "lng" : 121.5068340197085
+               }
+            }
+         },
+         "place_id" : "ChIJSZ7CqMyuQjQR1HafC7TqAzU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+
