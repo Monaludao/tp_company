@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 6, Lane 740, Section 5, Zhongshan North Road",
+               "short_name" : "Alley 6, Lane 740, Section 5, Zhongshan N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ§Ó¨½",
+               "short_name" : "ºÖ§Ó¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Alley 6, Lane 740, Section 5, Zhongshan N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0988798,
+               "lng" : 121.5276255
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1002287802915,
+                  "lng" : 121.5289744802915
+               },
+               "southwest" : {
+                  "lat" : 25.0975308197085,
+                  "lng" : 121.5262765197085
+               }
+            }
+         },
+         "place_id" : "ChIJzz8Nd5iuQjQRW4CEroI_Qhs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

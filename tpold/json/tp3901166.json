@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 608, Beian Road",
+               "short_name" : "Alley 5, Lane 608, Beian Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "成功里",
+               "short_name" : "成功里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 18, Alley 5, Lane 608, Beian Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0824713,
+                  "lng" : 121.5495213
+               },
+               "southwest" : {
+                  "lat" : 25.0824678,
+                  "lng" : 121.5495029
+               }
+            },
+            "location" : {
+               "lat" : 25.0824678,
+               "lng" : 121.5495213
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0838185302915,
+                  "lng" : 121.5508610802915
+               },
+               "southwest" : {
+                  "lat" : 25.0811205697085,
+                  "lng" : 121.5481631197085
+               }
+            }
+         },
+         "place_id" : "EjMxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDljJflronot682MDjlt7c15byEMTjomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

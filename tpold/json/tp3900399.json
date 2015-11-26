@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leli Road",
+               "short_name" : "Leli Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Leli Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0290725,
+                  "lng" : 121.552508
+               },
+               "southwest" : {
+                  "lat" : 25.0247076,
+                  "lng" : 121.5507805
+               }
+            },
+            "location" : {
+               "lat" : 25.0270872,
+               "lng" : 121.5515162
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0290725,
+                  "lng" : 121.5529932302915
+               },
+               "southwest" : {
+                  "lat" : 25.0247076,
+                  "lng" : 121.5502952697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJx2DOADOqQjQRA0FH1w4cxcw",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

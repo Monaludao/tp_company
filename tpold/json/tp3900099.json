@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 50, Section 3, Nangang Road",
+               "short_name" : "Lane 50, Section 3, Nangang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "西新里",
+               "short_name" : "西新里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 31, Lane 50, Section 3, Nangang Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0564713,
+               "lng" : 121.5907413
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0578202802915,
+                  "lng" : 121.5920902802915
+               },
+               "southwest" : {
+                  "lat" : 25.0551223197085,
+                  "lng" : 121.5893923197085
+               }
+            }
+         },
+         "place_id" : "ChIJR2sAm3urQjQRfkP99HLJ3d0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

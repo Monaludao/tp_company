@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 16, Lane 32, Guangfu South Road",
+               "short_name" : "Alley 16, Lane 32, Guangfu S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_«Ø¨½",
+               "short_name" : "´_«Ø¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Alley 16, Lane 32, Guangfu S Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0462917,
+               "lng" : 121.5563596
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0476406802915,
+                  "lng" : 121.5577085802915
+               },
+               "southwest" : {
+                  "lat" : 25.04494271970849,
+                  "lng" : 121.5550106197085
+               }
+            }
+         },
+         "place_id" : "ChIJzbaoBcGrQjQR8-OvPuKw7bc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ningbo West Street",
+               "short_name" : "Ningbo W St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ÀsºÖ¨½",
+               "short_name" : "ÀsºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 33, Ningbo W St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0311122,
+               "lng" : 121.5180503
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0324611802915,
+                  "lng" : 121.5193992802915
+               },
+               "southwest" : {
+                  "lat" : 25.0297632197085,
+                  "lng" : 121.5167013197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPY7RO5mpQjQRa7j-FcxgktM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

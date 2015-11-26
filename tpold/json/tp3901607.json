@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "post_box" ]
+            },
+            {
+               "long_name" : "53",
+               "short_name" : "53",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 42, Lane 180, Section 6, Minquan East Road",
+               "short_name" : "Alley 42, Lane 180, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ä_´ò¨½",
+               "short_name" : "Ä_´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "114, No. 53, Alley 42, Lane 180, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0671538,
+               "lng" : 121.5911426
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0685027802915,
+                  "lng" : 121.5924915802915
+               },
+               "southwest" : {
+                  "lat" : 25.0658048197085,
+                  "lng" : 121.5897936197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjVywgoOsQjQRKBjwEBDiDog",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

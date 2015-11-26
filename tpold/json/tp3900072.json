@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "184",
+               "short_name" : "184",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Tingzhou Road",
+               "short_name" : "Section 3, Tingzhou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤ô·½¨½",
+               "short_name" : "¤ô·½¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 184, Section 3, Tingzhou Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0129707,
+               "lng" : 121.5349112
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0143196802915,
+                  "lng" : 121.5362601802915
+               },
+               "southwest" : {
+                  "lat" : 25.0116217197085,
+                  "lng" : 121.5335622197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxV_MxIqpQjQRdnztwniWBDI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

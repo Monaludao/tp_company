@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "385",
+               "short_name" : "385",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Heping East Road",
+               "short_name" : "Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©¾¨½",
+               "short_name" : "¾¤©¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "No. 385, Section 3, Heping E Rd, Taipei City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0198787,
+                  "lng" : 121.5574718
+               },
+               "southwest" : {
+                  "lat" : 25.0198668,
+                  "lng" : 121.5574583
+               }
+            },
+            "location" : {
+               "lat" : 25.0198787,
+               "lng" : 121.5574718
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0212217302915,
+                  "lng" : 121.5588140302915
+               },
+               "southwest" : {
+                  "lat" : 25.0185237697085,
+                  "lng" : 121.5561160697085
+               }
+            }
+         },
+         "place_id" : "Eiflj7DngaPlj7DljJfluILlkozlubPmnbHot6_kuInmrrUzODXomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "88",
+               "short_name" : "88",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 6, Zhongshan North Road",
+               "short_name" : "Section 6, Zhongshan N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©¾¸Û¨½",
+               "short_name" : "©¾¸Û¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 88, Section 6, Zhongshan N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1049165,
+               "lng" : 121.525007
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1062654802915,
+                  "lng" : 121.5263559802915
+               },
+               "southwest" : {
+                  "lat" : 25.10356751970849,
+                  "lng" : 121.5236580197085
+               }
+            }
+         },
+         "place_id" : "ChIJ1193rpCuQjQRF9WYR5DRLfs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

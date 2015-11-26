@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "468",
+               "short_name" : "468",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jilin Road",
+               "short_name" : "Jilin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "∑s…‹®Ω",
+               "short_name" : "∑s…‹®Ω",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 468, Jilin Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0674543,
+               "lng" : 121.5302875
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0688032802915,
+                  "lng" : 121.5316364802915
+               },
+               "southwest" : {
+                  "lat" : 25.06610531970849,
+                  "lng" : 121.5289385197085
+               }
+            }
+         },
+         "place_id" : "ChIJKRSWuFCpQjQR8QZPd12S7P8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

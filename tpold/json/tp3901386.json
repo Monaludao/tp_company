@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Songde Road",
+               "short_name" : "Songde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼s©~¨½",
+               "short_name" : "¼s©~¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Songde Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.039099,
+               "lng" : 121.5767989
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0404479802915,
+                  "lng" : 121.5781478802915
+               },
+               "southwest" : {
+                  "lat" : 25.0377500197085,
+                  "lng" : 121.5754499197085
+               }
+            }
+         },
+         "place_id" : "ChIJZfuhAaSrQjQRiF_oM42GMgc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

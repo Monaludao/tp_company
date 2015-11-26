@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "125-11",
+               "short_name" : "125-11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Xinsheng South Road",
+               "short_name" : "Section 1, Xinsheng S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "チ女┰",
+               "short_name" : "チ女┰",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da・an District",
+               "short_name" : "Da・an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 125-11, Section 1, Xinsheng S Rd, Da・an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0388318,
+               "lng" : 121.5332451
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0401807802915,
+                  "lng" : 121.5345940802915
+               },
+               "southwest" : {
+                  "lat" : 25.0374828197085,
+                  "lng" : 121.5318961197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_Y9DnH6pQjQRd_kG8qjnqkQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

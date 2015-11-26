@@ -1,0 +1,1806 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Section 3, Xinyi Road",
+               "short_name" : "Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0340216,
+                  "lng" : 121.5445854
+               },
+               "southwest" : {
+                  "lat" : 25.0326526,
+                  "lng" : 121.5326437
+               }
+            },
+            "location" : {
+               "lat" : 25.0333646,
+               "lng" : 121.5385625
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0346860802915,
+                  "lng" : 121.5445854
+               },
+               "southwest" : {
+                  "lat" : 25.0319881197085,
+                  "lng" : 121.5326437
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoTzHRtWrQjQRc_-hDCnccwI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "第六教學大樓",
+               "short_name" : "第六教學大樓",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Zhongxiao East Road",
+               "short_name" : "Section 3, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民輝里",
+               "short_name" : "民輝里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "106, Taiwan, Taipei City, Da’an District, Section 3, Zhongxiao E Rd, 1號第六教學大樓",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0438925,
+                  "lng" : 121.5341737
+               },
+               "southwest" : {
+                  "lat" : 25.0436931,
+                  "lng" : 121.5337398
+               }
+            },
+            "location" : {
+               "lat" : 25.0437928,
+               "lng" : 121.5339568
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0451417802915,
+                  "lng" : 121.5353057302915
+               },
+               "southwest" : {
+                  "lat" : 25.0424438197085,
+                  "lng" : 121.5326077697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJceSo1nypQjQRaXwaXHxC4vo",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 134, Section 3, Xinyi Road",
+               "short_name" : "Lane 134, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 134, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0335667,
+                  "lng" : 121.539877
+               },
+               "southwest" : {
+                  "lat" : 25.0287528,
+                  "lng" : 121.538766
+               }
+            },
+            "location" : {
+               "lat" : 25.0311574,
+               "lng" : 121.5394244
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0335667,
+                  "lng" : 121.5406704802915
+               },
+               "southwest" : {
+                  "lat" : 25.0287528,
+                  "lng" : 121.5379725197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxyyw3SqqQjQRk3qsxjiKo0I",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 147, Section 3, Xinyi Road",
+               "short_name" : "Lane 147, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 147, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0378122,
+                  "lng" : 121.542142
+               },
+               "southwest" : {
+                  "lat" : 25.033515,
+                  "lng" : 121.5417914
+               }
+            },
+            "location" : {
+               "lat" : 25.0356364,
+               "lng" : 121.541956
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0378122,
+                  "lng" : 121.5433156802915
+               },
+               "southwest" : {
+                  "lat" : 25.033515,
+                  "lng" : 121.5406177197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJzQK2EtSrQjQRviMzxWSFY7c",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 31, Section 3, Xinyi Road",
+               "short_name" : "Lane 31, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民炤里",
+               "short_name" : "民炤里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 31, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0362241,
+                  "lng" : 121.5349088
+               },
+               "southwest" : {
+                  "lat" : 25.0336127,
+                  "lng" : 121.5343679
+               }
+            },
+            "location" : {
+               "lat" : 25.0349736,
+               "lng" : 121.5345984
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0362673802915,
+                  "lng" : 121.5359873302915
+               },
+               "southwest" : {
+                  "lat" : 25.0335694197085,
+                  "lng" : 121.5332893697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuey4o3-pQjQR5i6Jo4NcOyg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 157, Section 3, Xinyi Road",
+               "short_name" : "Lane 157, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 157, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0361032,
+                  "lng" : 121.5430583
+               },
+               "southwest" : {
+                  "lat" : 25.0334909,
+                  "lng" : 121.5429509
+               }
+            },
+            "location" : {
+               "lat" : 25.0347314,
+               "lng" : 121.5429906
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0361460302915,
+                  "lng" : 121.5443535802915
+               },
+               "southwest" : {
+                  "lat" : 25.0334480697085,
+                  "lng" : 121.5416556197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJq3ChiNOrQjQRZ1SI5XBZso0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 111, Section 3, Xinyi Road",
+               "short_name" : "Lane 111, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 111, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0361348,
+                  "lng" : 121.539648
+               },
+               "southwest" : {
+                  "lat" : 25.0335667,
+                  "lng" : 121.539168
+               }
+            },
+            "location" : {
+               "lat" : 25.0351839,
+               "lng" : 121.5395184
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0361997302915,
+                  "lng" : 121.5407569802915
+               },
+               "southwest" : {
+                  "lat" : 25.0335017697085,
+                  "lng" : 121.5380590197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoyVYB9WrQjQRE1y0C9Zi6I8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 99, Section 3, Xinyi Road",
+               "short_name" : "Lane 99, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 99, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.035198,
+                  "lng" : 121.539243
+               },
+               "southwest" : {
+                  "lat" : 25.0335926,
+                  "lng" : 121.538315
+               }
+            },
+            "location" : {
+               "lat" : 25.0344092,
+               "lng" : 121.5386622
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0357442802915,
+                  "lng" : 121.5401279802915
+               },
+               "southwest" : {
+                  "lat" : 25.0330463197085,
+                  "lng" : 121.5374300197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj6v0EtWrQjQRjV9jMXHh6Hk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 73, Section 3, Xinyi Road",
+               "short_name" : "Lane 73, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民炤里",
+               "short_name" : "民炤里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 73, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0345605,
+                  "lng" : 121.5371739
+               },
+               "southwest" : {
+                  "lat" : 25.033623,
+                  "lng" : 121.5369853
+               }
+            },
+            "location" : {
+               "lat" : 25.0341624,
+               "lng" : 121.5370777
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0354407302915,
+                  "lng" : 121.5384285802915
+               },
+               "southwest" : {
+                  "lat" : 25.03274276970849,
+                  "lng" : 121.5357306197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp4DsX9WrQjQRwJf01GE8HbQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 166, Section 3, Xinyi Road",
+               "short_name" : "Lane 166, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 166, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.033515,
+                  "lng" : 121.5419733
+               },
+               "southwest" : {
+                  "lat" : 25.0327852,
+                  "lng" : 121.5417623
+               }
+            },
+            "location" : {
+               "lat" : 25.0333118,
+               "lng" : 121.5419071
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0344990802915,
+                  "lng" : 121.5432167802915
+               },
+               "southwest" : {
+                  "lat" : 25.0318011197085,
+                  "lng" : 121.5405188197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJifakl9SrQjQRaSO3D1OCwSo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 152, Section 3, Xinyi Road",
+               "short_name" : "Lane 152, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "龍圖里",
+               "short_name" : "龍圖里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 152, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0333367,
+                  "lng" : 121.5409135
+               },
+               "southwest" : {
+                  "lat" : 25.0328181,
+                  "lng" : 121.5407585
+               }
+            },
+            "location" : {
+               "lat" : 25.0333367,
+               "lng" : 121.5407927
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0344263802915,
+                  "lng" : 121.5421849802915
+               },
+               "southwest" : {
+                  "lat" : 25.0317284197085,
+                  "lng" : 121.5394870197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnagPw9SrQjQRJXCBMGAN1HI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 10, Lane 157, Section 3, Xinyi Road",
+               "short_name" : "Alley 10, Lane 157, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 10, Lane 157, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.034533,
+                  "lng" : 121.5435524
+               },
+               "southwest" : {
+                  "lat" : 25.0342912,
+                  "lng" : 121.5419332
+               }
+            },
+            "location" : {
+               "lat" : 25.0343522,
+               "lng" : 121.5425256
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0357610802915,
+                  "lng" : 121.5440917802915
+               },
+               "southwest" : {
+                  "lat" : 25.0330631197085,
+                  "lng" : 121.5413938197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJt-F6f9SrQjQRjqnq07bHX9Y",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 15, Lane 147, Section 3, Xinyi Road",
+               "short_name" : "Alley 15, Lane 147, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 15, Lane 147, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0352054,
+                  "lng" : 121.5435428
+               },
+               "southwest" : {
+                  "lat" : 25.0348539,
+                  "lng" : 121.5419545
+               }
+            },
+            "location" : {
+               "lat" : 25.035091,
+               "lng" : 121.5429873
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0363786302915,
+                  "lng" : 121.5440976302915
+               },
+               "southwest" : {
+                  "lat" : 25.0336806697085,
+                  "lng" : 121.5413996697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUXkDdtSrQjQRS1dH7pn69ok",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 45, Lane 147, Section 3, Xinyi Road",
+               "short_name" : "Alley 45, Lane 147, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 45, Lane 147, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0371938,
+                  "lng" : 121.5435925
+               },
+               "southwest" : {
+                  "lat" : 25.0370616,
+                  "lng" : 121.5419805
+               }
+            },
+            "location" : {
+               "lat" : 25.0371645,
+               "lng" : 121.5435925
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0384766802915,
+                  "lng" : 121.5441354802915
+               },
+               "southwest" : {
+                  "lat" : 25.0357787197085,
+                  "lng" : 121.5414375197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlQJOU9GrQjQRNq9OlNXoKeI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 36, Lane 147, Section 3, Xinyi Road",
+               "short_name" : "Alley 36, Lane 147, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 36, Lane 147, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0372142,
+                  "lng" : 121.5419805
+               },
+               "southwest" : {
+                  "lat" : 25.0370775,
+                  "lng" : 121.5408258
+               }
+            },
+            "location" : {
+               "lat" : 25.0372134,
+               "lng" : 121.540871
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0384948302915,
+                  "lng" : 121.5427521302915
+               },
+               "southwest" : {
+                  "lat" : 25.03579686970849,
+                  "lng" : 121.5400541697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjeIUoNarQjQRb-CsK2bZOCo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 6, Lane 166, Section 3, Xinyi Road",
+               "short_name" : "Alley 6, Lane 166, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "龍圖里",
+               "short_name" : "龍圖里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 6, Lane 166, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0329741,
+                  "lng" : 121.5418865
+               },
+               "southwest" : {
+                  "lat" : 25.0327172,
+                  "lng" : 121.5407585
+               }
+            },
+            "location" : {
+               "lat" : 25.0328058,
+               "lng" : 121.5411818
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0341946302915,
+                  "lng" : 121.5426714802915
+               },
+               "southwest" : {
+                  "lat" : 25.0314966697085,
+                  "lng" : 121.5399735197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvZiruNSrQjQRRAdr5jrNSOE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 11, Lane 147, Section 3, Xinyi Road",
+               "short_name" : "Alley 11, Lane 147, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 11, Lane 147, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0349517,
+                  "lng" : 121.5429906
+               },
+               "southwest" : {
+                  "lat" : 25.0346828,
+                  "lng" : 121.5419502
+               }
+            },
+            "location" : {
+               "lat" : 25.0347445,
+               "lng" : 121.5425365
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.03616623029151,
+                  "lng" : 121.5438193802915
+               },
+               "southwest" : {
+                  "lat" : 25.0334682697085,
+                  "lng" : 121.5411214197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdRiXedSrQjQR6ptBPl1uDaE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 5, Lane 147, Section 3, Xinyi Road",
+               "short_name" : "Alley 5, Lane 147, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 5, Lane 147, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.034128,
+                  "lng" : 121.5429689
+               },
+               "southwest" : {
+                  "lat" : 25.033874,
+                  "lng" : 121.541912
+               }
+            },
+            "location" : {
+               "lat" : 25.0339314,
+               "lng" : 121.541912
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0353499802915,
+                  "lng" : 121.5437894302915
+               },
+               "southwest" : {
+                  "lat" : 25.0326520197085,
+                  "lng" : 121.5410914697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj1xGgdSrQjQREBm6ITKyRpc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 17, Lane 147, Section 3, Xinyi Road",
+               "short_name" : "Alley 17, Lane 147, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 17, Lane 147, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.035867,
+                  "lng" : 121.543163
+               },
+               "southwest" : {
+                  "lat" : 25.035182,
+                  "lng" : 121.541956
+               }
+            },
+            "location" : {
+               "lat" : 25.0356024,
+               "lng" : 121.5429955
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0368734802915,
+                  "lng" : 121.5439084802915
+               },
+               "southwest" : {
+                  "lat" : 25.0341755197085,
+                  "lng" : 121.5412105197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPS8VC9SrQjQRvxmmOHiyIX4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 16, Lane 111, Section 3, Xinyi Road",
+               "short_name" : "Alley 16, Lane 111, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 16, Lane 111, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0344092,
+                  "lng" : 121.5395012
+               },
+               "southwest" : {
+                  "lat" : 25.0343396,
+                  "lng" : 121.5386622
+               }
+            },
+            "location" : {
+               "lat" : 25.034388,
+               "lng" : 121.5395012
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0357233802915,
+                  "lng" : 121.5404306802915
+               },
+               "southwest" : {
+                  "lat" : 25.0330254197085,
+                  "lng" : 121.5377327197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQT3DD9WrQjQRWR39DhkY-4U",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 12, Lane 147, Section 3, Xinyi Road",
+               "short_name" : "Alley 12, Lane 147, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "和安里",
+               "short_name" : "和安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 12, Lane 147, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0361293,
+                  "lng" : 121.5422689
+               },
+               "southwest" : {
+                  "lat" : 25.0359742,
+                  "lng" : 121.5417866
+               }
+            },
+            "location" : {
+               "lat" : 25.0361293,
+               "lng" : 121.541971
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0374007302915,
+                  "lng" : 121.5433767302915
+               },
+               "southwest" : {
+                  "lat" : 25.0347027697085,
+                  "lng" : 121.5406787697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjTFsEdSrQjQRMEmhjwYODf4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 45, Lane 134, Section 3, Xinyi Road",
+               "short_name" : "Alley 45, Lane 134, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新龍里",
+               "short_name" : "新龍里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 45, Lane 134, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0299272,
+                  "lng" : 121.5400684
+               },
+               "southwest" : {
+                  "lat" : 25.0296882,
+                  "lng" : 121.5393916
+               }
+            },
+            "location" : {
+               "lat" : 25.029919,
+               "lng" : 121.5399483
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.03115668029151,
+                  "lng" : 121.5410789802915
+               },
+               "southwest" : {
+                  "lat" : 25.0284587197085,
+                  "lng" : 121.5383810197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeZqRASuqQjQRNmMe4Aht3Ik",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 65, Lane 134, Section 3, Xinyi Road",
+               "short_name" : "Alley 65, Lane 134, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新龍里",
+               "short_name" : "新龍里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 65, Lane 134, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0294967,
+                  "lng" : 121.5405498
+               },
+               "southwest" : {
+                  "lat" : 25.028989,
+                  "lng" : 121.5393753
+               }
+            },
+            "location" : {
+               "lat" : 25.0292,
+               "lng" : 121.5399581
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0305918302915,
+                  "lng" : 121.5413115302915
+               },
+               "southwest" : {
+                  "lat" : 25.0278938697085,
+                  "lng" : 121.5386135697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2RuOrCuqQjQRc_Vg1-mE6Fc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 55, Lane 134, Section 3, Xinyi Road",
+               "short_name" : "Alley 55, Lane 134, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新龍里",
+               "short_name" : "新龍里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 55, Lane 134, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0296896,
+                  "lng" : 121.540552
+               },
+               "southwest" : {
+                  "lat" : 25.0294923,
+                  "lng" : 121.5393839
+               }
+            },
+            "location" : {
+               "lat" : 25.0294967,
+               "lng" : 121.5399627
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0309399302915,
+                  "lng" : 121.5413169302915
+               },
+               "southwest" : {
+                  "lat" : 25.0282419697085,
+                  "lng" : 121.5386189697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJP79MACuqQjQRojArEC5zjFc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 86, Lane 134, Section 3, Xinyi Road",
+               "short_name" : "Alley 86, Lane 134, Section 3, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新龍里",
+               "short_name" : "新龍里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 86, Lane 134, Section 3, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0293864,
+                  "lng" : 121.5393781
+               },
+               "southwest" : {
+                  "lat" : 25.0293142,
+                  "lng" : 121.5386591
+               }
+            },
+            "location" : {
+               "lat" : 25.0293176,
+               "lng" : 121.5386591
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0306992802915,
+                  "lng" : 121.5403675802915
+               },
+               "southwest" : {
+                  "lat" : 25.0280013197085,
+                  "lng" : 121.5376696197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJcdkyWiqqQjQRcZtPFYmzZIg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 3, Lane 44, Section 2, Xinyi Road",
+               "short_name" : "Alley 3, Lane 44, Section 2, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "光明里",
+               "short_name" : "光明里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 3, Lane 44, Section 2, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0343314,
+                  "lng" : 121.526099
+               },
+               "southwest" : {
+                  "lat" : 25.034075,
+                  "lng" : 121.5256917
+               }
+            },
+            "location" : {
+               "lat" : 25.0342709,
+               "lng" : 121.5260617
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0355521802915,
+                  "lng" : 121.5272443302915
+               },
+               "southwest" : {
+                  "lat" : 25.0328542197085,
+                  "lng" : 121.5245463697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaRNytoKpQjQRcvzODOYuFrQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 3, Lane 10, Section 2, Xinyi Road",
+               "short_name" : "Alley 3, Lane 10, Section 2, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "光明里",
+               "short_name" : "光明里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 3, Lane 10, Section 2, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0346907,
+                  "lng" : 121.5251744
+               },
+               "southwest" : {
+                  "lat" : 25.0345846,
+                  "lng" : 121.5248084
+               }
+            },
+            "location" : {
+               "lat" : 25.0346405,
+               "lng" : 121.5249015
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0359866302915,
+                  "lng" : 121.5263403802915
+               },
+               "southwest" : {
+                  "lat" : 25.0332886697085,
+                  "lng" : 121.5236424197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJzZ7RTp2pQjQRexx5O9MKsg4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 27, Section 2, Da'an Road",
+               "short_name" : "Lane 27, Section 2, Da'an Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "住安里",
+               "short_name" : "住安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 27, Section 2, Da'an Rd & Alley 27, Lane 30, Section 4, Xinyi Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0320644,
+               "lng" : 121.546021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0334133802915,
+                  "lng" : 121.5473699802915
+               },
+               "southwest" : {
+                  "lat" : 25.0307154197085,
+                  "lng" : 121.5446720197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkcxMDblj7DngaPlj7DljJfluILlpKflronljYDlpKflronot6_kuozmrrUz5be35L-h576p6Lev5Zub5q61MzDlt7cyN-W8hA",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}
+

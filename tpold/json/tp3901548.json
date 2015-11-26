@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 38, Lane 358, Ruiguang Road",
+               "short_name" : "Alley 38, Lane 358, Ruiguang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥‰·Y®Ω",
+               "short_name" : "¥‰·Y®Ω",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Alley 38, Lane 358, Ruiguang Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0759178,
+               "lng" : 121.5729158
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0772667802915,
+                  "lng" : 121.5742647802915
+               },
+               "southwest" : {
+                  "lat" : 25.0745688197085,
+                  "lng" : 121.5715668197085
+               }
+            }
+         },
+         "place_id" : "ChIJCYhO6nqsQjQRZ5ZEf-f9PrU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

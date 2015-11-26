@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "399-4",
+               "short_name" : "399-4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhonghe Street",
+               "short_name" : "Zhonghe St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中和里",
+               "short_name" : "中和里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 399-4, Zhonghe St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1429012,
+               "lng" : 121.4982812
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1442501802915,
+                  "lng" : 121.4996301802915
+               },
+               "southwest" : {
+                  "lat" : 25.1415522197085,
+                  "lng" : 121.4969322197085
+               }
+            }
+         },
+         "place_id" : "ChIJseasS0muQjQR2G8u7pMaidM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

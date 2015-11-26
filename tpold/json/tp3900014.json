@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gangu Street",
+               "short_name" : "Gangu St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã¼Ö¨½",
+               "short_name" : "¥Ã¼Ö¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16, Gangu St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0527368,
+               "lng" : 121.5112788
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0540857802915,
+                  "lng" : 121.5126277802915
+               },
+               "southwest" : {
+                  "lat" : 25.0513878197085,
+                  "lng" : 121.5099298197085
+               }
+            }
+         },
+         "place_id" : "ChIJbxoQqBOpQjQRhm9P44JNXbU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

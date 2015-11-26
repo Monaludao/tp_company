@@ -1,0 +1,2091 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 228, Section 3, Heping East Road",
+               "short_name" : "Lane 228, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 228, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0203915,
+                  "lng" : 121.5527203
+               },
+               "southwest" : {
+                  "lat" : 25.020378,
+                  "lng" : 121.5527089
+               }
+            },
+            "location" : {
+               "lat" : 25.0203915,
+               "lng" : 121.5527089
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0217337302915,
+                  "lng" : 121.5540635802915
+               },
+               "southwest" : {
+                  "lat" : 25.01903576970849,
+                  "lng" : 121.5513656197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrUyMjjlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 119, Section 3, Heping East Road",
+               "short_name" : "Lane 119, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥þ¦w¨½",
+               "short_name" : "¥þ¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 119, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0278231,
+                  "lng" : 121.5506546
+               },
+               "southwest" : {
+                  "lat" : 25.0278182,
+                  "lng" : 121.5506366
+               }
+            },
+            "location" : {
+               "lat" : 25.0278182,
+               "lng" : 121.5506366
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0291696302915,
+                  "lng" : 121.5519945802915
+               },
+               "southwest" : {
+                  "lat" : 25.0264716697085,
+                  "lng" : 121.5492966197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrUxMTnlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 1, Section 3, Heping East Road",
+               "short_name" : "Lane 1, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 1, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0282479,
+                  "lng" : 121.5469227
+               },
+               "southwest" : {
+                  "lat" : 25.0282469,
+                  "lng" : 121.546904
+               }
+            },
+            "location" : {
+               "lat" : 25.0282479,
+               "lng" : 121.546904
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0295963802915,
+                  "lng" : 121.5482623302915
+               },
+               "southwest" : {
+                  "lat" : 25.0268984197085,
+                  "lng" : 121.5455643697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrUx5be3MTA26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 212, Section 3, Heping East Road",
+               "short_name" : "Lane 212, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªÚ©M¨½",
+               "short_name" : "ªÚ©M¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 212, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0208671,
+                  "lng" : 121.5527178
+               },
+               "southwest" : {
+                  "lat" : 25.0208571,
+                  "lng" : 121.5527026
+               }
+            },
+            "location" : {
+               "lat" : 25.0208571,
+               "lng" : 121.5527178
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0222110802915,
+                  "lng" : 121.5540591802915
+               },
+               "southwest" : {
+                  "lat" : 25.0195131197085,
+                  "lng" : 121.5513612197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrUyMTLlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 308, Section 3, Heping East Road",
+               "short_name" : "Lane 308, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤§µ¨½",
+               "short_name" : "¾¤§µ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 308, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0187791,
+                  "lng" : 121.5545689
+               },
+               "southwest" : {
+                  "lat" : 25.0187668,
+                  "lng" : 121.5545559
+               }
+            },
+            "location" : {
+               "lat" : 25.0187791,
+               "lng" : 121.5545559
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0201219302915,
+                  "lng" : 121.5559113802915
+               },
+               "southwest" : {
+                  "lat" : 25.0174239697085,
+                  "lng" : 121.5532134197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrUzMDjlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 346, Section 3, Heping East Road",
+               "short_name" : "Lane 346, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©M¨½",
+               "short_name" : "¾¤©M¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 346, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0184781,
+                  "lng" : 121.5573985
+               },
+               "southwest" : {
+                  "lat" : 25.0184763,
+                  "lng" : 121.5573798
+               }
+            },
+            "location" : {
+               "lat" : 25.0184763,
+               "lng" : 121.5573798
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0198261802915,
+                  "lng" : 121.5587381302915
+               },
+               "southwest" : {
+                  "lat" : 25.0171282197085,
+                  "lng" : 121.5560401697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrUzNDblt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 98, Section 3, Heping East Road",
+               "short_name" : "Lane 98, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªê¼S¨½",
+               "short_name" : "ªê¼S¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 98, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0236686,
+                  "lng" : 121.5510137
+               },
+               "southwest" : {
+                  "lat" : 25.0236572,
+                  "lng" : 121.5509998
+               }
+            },
+            "location" : {
+               "lat" : 25.0236686,
+               "lng" : 121.5510137
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0250118802915,
+                  "lng" : 121.5523557302915
+               },
+               "southwest" : {
+                  "lat" : 25.0223139197085,
+                  "lng" : 121.5496577697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrU5OOW3tzEwNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 406, Section 3, Heping East Road",
+               "short_name" : "Lane 406, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©M¨½",
+               "short_name" : "¾¤©M¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 406, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0184781,
+                  "lng" : 121.5573985
+               },
+               "southwest" : {
+                  "lat" : 25.0184611,
+                  "lng" : 121.5573972
+               }
+            },
+            "location" : {
+               "lat" : 25.0184611,
+               "lng" : 121.5573972
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0198185802915,
+                  "lng" : 121.5587468302915
+               },
+               "southwest" : {
+                  "lat" : 25.0171206197085,
+                  "lng" : 121.5560488697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrU0MDblt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 416, Section 3, Heping East Road",
+               "short_name" : "Lane 416, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©M¨½",
+               "short_name" : "¾¤©M¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 416, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0178446,
+                  "lng" : 121.5580274
+               },
+               "southwest" : {
+                  "lat" : 25.0178278,
+                  "lng" : 121.5580243
+               }
+            },
+            "location" : {
+               "lat" : 25.0178446,
+               "lng" : 121.5580243
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0191851802915,
+                  "lng" : 121.5593748302915
+               },
+               "southwest" : {
+                  "lat" : 25.0164872197085,
+                  "lng" : 121.5566768697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrU0MTblt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 67, Section 3, Heping East Road",
+               "short_name" : "Lane 67, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥þ¦w¨½",
+               "short_name" : "¥þ¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 67, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.024984,
+                  "lng" : 121.5494872
+               },
+               "southwest" : {
+                  "lat" : 25.0249837,
+                  "lng" : 121.5494684
+               }
+            },
+            "location" : {
+               "lat" : 25.0249837,
+               "lng" : 121.5494684
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0263328302915,
+                  "lng" : 121.5508267802915
+               },
+               "southwest" : {
+                  "lat" : 25.0236348697085,
+                  "lng" : 121.5481288197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrU2N-W3tzEwNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 72, Section 3, Heping East Road",
+               "short_name" : "Lane 72, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªê¼S¨½",
+               "short_name" : "ªê¼S¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 72, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0238374,
+                  "lng" : 121.5505123
+               },
+               "southwest" : {
+                  "lat" : 25.0238368,
+                  "lng" : 121.5504935
+               }
+            },
+            "location" : {
+               "lat" : 25.0238368,
+               "lng" : 121.5505123
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0251860802915,
+                  "lng" : 121.5518518802915
+               },
+               "southwest" : {
+                  "lat" : 25.02248811970849,
+                  "lng" : 121.5491539197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrU3MuW3tzEwNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 15, Lane 308, Section 3, Heping East Road",
+               "short_name" : "Alley 15, Lane 308, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤§µ¨½",
+               "short_name" : "¾¤§µ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Alley 15, Lane 308, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0188693,
+                  "lng" : 121.5562777
+               },
+               "southwest" : {
+                  "lat" : 25.018867,
+                  "lng" : 121.556259
+               }
+            },
+            "location" : {
+               "lat" : 25.018867,
+               "lng" : 121.556259
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0202171302915,
+                  "lng" : 121.5576173302915
+               },
+               "southwest" : {
+                  "lat" : 25.0175191697085,
+                  "lng" : 121.5549193697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrUzMDjlt7cxNeW8hDEwNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 39, Lane 308, Section 3, Heping East Road",
+               "short_name" : "Alley 39, Lane 308, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤§µ¨½",
+               "short_name" : "¾¤§µ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Alley 39, Lane 308, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0190918,
+                  "lng" : 121.5562442
+               },
+               "southwest" : {
+                  "lat" : 25.0190749,
+                  "lng" : 121.5562425
+               }
+            },
+            "location" : {
+               "lat" : 25.0190749,
+               "lng" : 121.5562425
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0204323302915,
+                  "lng" : 121.5575923302915
+               },
+               "southwest" : {
+                  "lat" : 25.0177343697085,
+                  "lng" : 121.5548943697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrUzMDjlt7czOeW8hDEwNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 98, Section 3, Heping East Road",
+               "short_name" : "Alley 2, Lane 98, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªê¼S¨½",
+               "short_name" : "ªê¼S¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Alley 2, Lane 98, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0238767,
+                  "lng" : 121.550685
+               },
+               "southwest" : {
+                  "lat" : 25.02386,
+                  "lng" : 121.5506813
+               }
+            },
+            "location" : {
+               "lat" : 25.02386,
+               "lng" : 121.5506813
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0252173302915,
+                  "lng" : 121.5520321302915
+               },
+               "southwest" : {
+                  "lat" : 25.02251936970849,
+                  "lng" : 121.5493341697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjwxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrU5OOW3tzLlvIQxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 15, Lane 416, Section 3, Heping East Road",
+               "short_name" : "Alley 15, Lane 416, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©M¨½",
+               "short_name" : "¾¤©M¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Alley 15, Lane 416, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0178043,
+                  "lng" : 121.5595452
+               },
+               "southwest" : {
+                  "lat" : 25.0177958,
+                  "lng" : 121.5595289
+               }
+            },
+            "location" : {
+               "lat" : 25.0177958,
+               "lng" : 121.5595452
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0191490302915,
+                  "lng" : 121.5608860302915
+               },
+               "southwest" : {
+                  "lat" : 25.0164510697085,
+                  "lng" : 121.5581880697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrU0MTblt7cxNeW8hDEwNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 25, Lane 416, Section 3, Heping East Road",
+               "short_name" : "Alley 25, Lane 416, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©M¨½",
+               "short_name" : "¾¤©M¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Alley 25, Lane 416, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0174189,
+                  "lng" : 121.558918
+               },
+               "southwest" : {
+                  "lat" : 25.0174046,
+                  "lng" : 121.5589078
+               }
+            },
+            "location" : {
+               "lat" : 25.0174046,
+               "lng" : 121.5589078
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0187607302915,
+                  "lng" : 121.5602618802915
+               },
+               "southwest" : {
+                  "lat" : 25.01606276970849,
+                  "lng" : 121.5575639197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrU0MTblt7cyNeW8hDEwNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 31, Lane 308, Section 3, Heping East Road",
+               "short_name" : "Alley 31, Lane 308, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤§µ¨½",
+               "short_name" : "¾¤§µ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Alley 31, Lane 308, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0195381,
+                  "lng" : 121.5561775
+               },
+               "southwest" : {
+                  "lat" : 25.0195211,
+                  "lng" : 121.5561766
+               }
+            },
+            "location" : {
+               "lat" : 25.0195211,
+               "lng" : 121.5561766
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0208785802915,
+                  "lng" : 121.5575260302915
+               },
+               "southwest" : {
+                  "lat" : 25.0181806197085,
+                  "lng" : 121.5548280697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrUzMDjlt7czMeW8hDEwNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 98, Section 3, Heping East Road",
+               "short_name" : "Alley 5, Lane 98, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªê¼S¨½",
+               "short_name" : "ªê¼S¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Alley 5, Lane 98, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0240342,
+                  "lng" : 121.5515048
+               },
+               "southwest" : {
+                  "lat" : 25.0240172,
+                  "lng" : 121.5515038
+               }
+            },
+            "location" : {
+               "lat" : 25.0240172,
+               "lng" : 121.5515038
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.02537468029151,
+                  "lng" : 121.5528532802915
+               },
+               "southwest" : {
+                  "lat" : 25.0226767197085,
+                  "lng" : 121.5501553197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjwxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrU5OOW3tzXlvIQxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 18, Section 2, Heping East Road",
+               "short_name" : "Alley 3, Lane 18, Section 2, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Àsªù¨½",
+               "short_name" : "Àsªù¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Alley 3, Lane 18, Section 2, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0238916,
+                  "lng" : 121.5362329
+               },
+               "southwest" : {
+                  "lat" : 25.0238915,
+                  "lng" : 121.5362141
+               }
+            },
+            "location" : {
+               "lat" : 25.0238916,
+               "lng" : 121.5362141
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0252405302915,
+                  "lng" : 121.5375724802915
+               },
+               "southwest" : {
+                  "lat" : 25.0225425697085,
+                  "lng" : 121.5348745197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjwxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuozmrrUxOOW3tzPlvIQxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 183, Section 1, Heping East Road",
+               "short_name" : "Alley 3, Lane 183, Section 1, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¦w¨½",
+               "short_name" : "Às¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Alley 3, Lane 183, Section 1, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0268191,
+                  "lng" : 121.5337614
+               },
+               "southwest" : {
+                  "lat" : 25.0268021,
+                  "lng" : 121.5337604
+               }
+            },
+            "location" : {
+               "lat" : 25.0268021,
+               "lng" : 121.5337614
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0281595802915,
+                  "lng" : 121.5351098802915
+               },
+               "southwest" : {
+                  "lat" : 25.02546161970849,
+                  "lng" : 121.5324119197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej0xMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuIDmrrUxODPlt7cz5byEMTA26Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Zhongxiao East Road",
+               "short_name" : "Section 3, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Á½÷¨½",
+               "short_name" : "¥Á½÷¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Section 3, Zhongxiao E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0416679,
+                  "lng" : 121.5368981
+               },
+               "southwest" : {
+                  "lat" : 25.0416511,
+                  "lng" : 121.5368952
+               }
+            },
+            "location" : {
+               "lat" : 25.0416511,
+               "lng" : 121.5368952
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0430084802915,
+                  "lng" : 121.5382456302915
+               },
+               "southwest" : {
+                  "lat" : 25.0403105197085,
+                  "lng" : 121.5355476697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_kuInmrrUxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 10, Section 3, Zhongxiao East Road",
+               "short_name" : "Lane 10, Section 3, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Á½÷¨½",
+               "short_name" : "¥Á½÷¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 10, Section 3, Zhongxiao E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0406886,
+                  "lng" : 121.5333887
+               },
+               "southwest" : {
+                  "lat" : 25.0406862,
+                  "lng" : 121.5333701
+               }
+            },
+            "location" : {
+               "lat" : 25.0406886,
+               "lng" : 121.5333701
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0420363802915,
+                  "lng" : 121.5347283802915
+               },
+               "southwest" : {
+                  "lat" : 25.0393384197085,
+                  "lng" : 121.5320304197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_kuInmrrUxMOW3tzEwNuiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 531, Section 3, Heping East Road",
+               "short_name" : "Lane 531, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤¦w¨½",
+               "short_name" : "¾¤¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 531, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0155679,
+                  "lng" : 121.5621922
+               },
+               "southwest" : {
+                  "lat" : 25.0155642,
+                  "lng" : 121.5621739
+               }
+            },
+            "location" : {
+               "lat" : 25.0155679,
+               "lng" : 121.5621922
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.01691503029151,
+                  "lng" : 121.5635320302915
+               },
+               "southwest" : {
+                  "lat" : 25.0142170697085,
+                  "lng" : 121.5608340697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlkozlubPmnbHot6_kuInmrrU1MzHlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 509, Section 3, Heping East Road",
+               "short_name" : "Lane 509, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤¦w¨½",
+               "short_name" : "¾¤¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 509, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0170976,
+                  "lng" : 121.5607231
+               },
+               "southwest" : {
+                  "lat" : 25.0170838,
+                  "lng" : 121.5607122
+               }
+            },
+            "location" : {
+               "lat" : 25.0170976,
+               "lng" : 121.5607231
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0184396802915,
+                  "lng" : 121.5620666302915
+               },
+               "southwest" : {
+                  "lat" : 25.0157417197085,
+                  "lng" : 121.5593686697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlkozlubPmnbHot6_kuInmrrU1MDnlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 341, Section 3, Heping East Road",
+               "short_name" : "Lane 341, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 341, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0219116,
+                  "lng" : 121.5587276
+               },
+               "southwest" : {
+                  "lat" : 25.0218968,
+                  "lng" : 121.5587184
+               }
+            },
+            "location" : {
+               "lat" : 25.0218968,
+               "lng" : 121.5587276
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0232531802915,
+                  "lng" : 121.5600719802915
+               },
+               "southwest" : {
+                  "lat" : 25.0205552197085,
+                  "lng" : 121.5573740197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlkozlubPmnbHot6_kuInmrrUzNDHlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 391, Section 3, Heping East Road",
+               "short_name" : "Lane 391, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©¾¨½",
+               "short_name" : "¾¤©¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 391, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0208445,
+                  "lng" : 121.55944
+               },
+               "southwest" : {
+                  "lat" : 25.0208297,
+                  "lng" : 121.5594308
+               }
+            },
+            "location" : {
+               "lat" : 25.0208445,
+               "lng" : 121.5594308
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0221860802915,
+                  "lng" : 121.5607843802915
+               },
+               "southwest" : {
+                  "lat" : 25.0194881197085,
+                  "lng" : 121.5580864197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlkozlubPmnbHot6_kuInmrrUzOTHlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 435, Section 3, Heping East Road",
+               "short_name" : "Lane 435, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©¾¨½",
+               "short_name" : "¾¤©¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 435, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.019898,
+                  "lng" : 121.5595763
+               },
+               "southwest" : {
+                  "lat" : 25.0198832,
+                  "lng" : 121.5595671
+               }
+            },
+            "location" : {
+               "lat" : 25.019898,
+               "lng" : 121.5595671
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0212395802915,
+                  "lng" : 121.5609206802915
+               },
+               "southwest" : {
+                  "lat" : 25.0185416197085,
+                  "lng" : 121.5582227197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlkozlubPmnbHot6_kuInmrrU0MzXlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 631, Section 3, Heping East Road",
+               "short_name" : "Lane 631, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤¦w¨½",
+               "short_name" : "¾¤¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 631, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0121822,
+                  "lng" : 121.5693333
+               },
+               "southwest" : {
+                  "lat" : 25.0121654,
+                  "lng" : 121.5693301
+               }
+            },
+            "location" : {
+               "lat" : 25.0121654,
+               "lng" : 121.5693301
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0135227802915,
+                  "lng" : 121.5706806802915
+               },
+               "southwest" : {
+                  "lat" : 25.0108248197085,
+                  "lng" : 121.5679827197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlkozlubPmnbHot6_kuInmrrU2MzHlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 627, Section 3, Heping East Road",
+               "short_name" : "Lane 627, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤¦w¨½",
+               "short_name" : "¾¤¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 627, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0127108,
+                  "lng" : 121.5662197
+               },
+               "southwest" : {
+                  "lat" : 25.0126992,
+                  "lng" : 121.566206
+               }
+            },
+            "location" : {
+               "lat" : 25.0126992,
+               "lng" : 121.5662197
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0140539802915,
+                  "lng" : 121.5675618302915
+               },
+               "southwest" : {
+                  "lat" : 25.0113560197085,
+                  "lng" : 121.5648638697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlkozlubPmnbHot6_kuInmrrU2Mjflt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 463, Section 3, Heping East Road",
+               "short_name" : "Lane 463, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©¾¨½",
+               "short_name" : "¾¤©¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 106, Lane 463, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0190622,
+                  "lng" : 121.5596239
+               },
+               "southwest" : {
+                  "lat" : 25.0190491,
+                  "lng" : 121.5596118
+               }
+            },
+            "location" : {
+               "lat" : 25.0190491,
+               "lng" : 121.5596239
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0204046302915,
+                  "lng" : 121.5609668302915
+               },
+               "southwest" : {
+                  "lat" : 25.0177066697085,
+                  "lng" : 121.5582688697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlkozlubPmnbHot6_kuInmrrU0NjPlt7cxMDbomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

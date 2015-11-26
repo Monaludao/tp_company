@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Linsen North Road",
+               "short_name" : "Linsen N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "±öªá¨½",
+               "short_name" : "±öªá¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 7, Linsen N Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0454491,
+               "lng" : 121.5236963
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0467980802915,
+                  "lng" : 121.5250452802915
+               },
+               "southwest" : {
+                  "lat" : 25.0441001197085,
+                  "lng" : 121.5223473197085
+               }
+            }
+         },
+         "place_id" : "ChIJaycUOXCpQjQRXiFf2r0Om9E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

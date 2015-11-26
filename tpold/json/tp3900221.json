@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "54-9",
+               "short_name" : "54-9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Kangning Road",
+               "short_name" : "Section 3, Kangning Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸¬¬w¨½",
+               "short_name" : "¸¬¬w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 54-9, Section 3, Kangning Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0712934,
+               "lng" : 121.609771
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0726423802915,
+                  "lng" : 121.6111199802915
+               },
+               "southwest" : {
+                  "lat" : 25.0699444197085,
+                  "lng" : 121.6084220197085
+               }
+            }
+         },
+         "place_id" : "ChIJk1RN9bysQjQRSSNelWIlYhk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

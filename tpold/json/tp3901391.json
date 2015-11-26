@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 3, Dehui Street",
+               "short_name" : "Lane 3, Dehui St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶ê¤s¨½",
+               "short_name" : "¶ê¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 3, Dehui St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0670489,
+               "lng" : 121.523118
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0683978802915,
+                  "lng" : 121.5244669802915
+               },
+               "southwest" : {
+                  "lat" : 25.0656999197085,
+                  "lng" : 121.5217690197085
+               }
+            }
+         },
+         "place_id" : "ChIJRyEvcUWpQjQR22ri0ixAL6M",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

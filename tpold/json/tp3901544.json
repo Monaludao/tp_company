@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 104, Section 3, Tingzhou Road",
+               "short_name" : "Lane 104, Section 3, Tingzhou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤ô·½¨½",
+               "short_name" : "¤ô·½¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 26, Lane 104, Section 3, Tingzhou Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0122899,
+               "lng" : 121.534483
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0136388802915,
+                  "lng" : 121.5358319802915
+               },
+               "southwest" : {
+                  "lat" : 25.0109409197085,
+                  "lng" : 121.5331340197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAXCc1IqpQjQR8Xqtid8A_YA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+
