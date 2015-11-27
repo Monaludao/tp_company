@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "96",
+               "short_name" : "96",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Minsheng East Road",
+               "short_name" : "Section 4, Minsheng E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªF©÷¨½",
+               "short_name" : "ªF©÷¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 96, Section 4, Minsheng E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0579766,
+               "lng" : 121.5537332
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0593255802915,
+                  "lng" : 121.5550821802915
+               },
+               "southwest" : {
+                  "lat" : 25.0566276197085,
+                  "lng" : 121.5523842197085
+               }
+            }
+         },
+         "place_id" : "ChIJA_pLh-6rQjQROU8IzNW8uq4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

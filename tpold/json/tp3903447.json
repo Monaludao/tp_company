@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 248, Section 6, Minquan East Road",
+               "short_name" : "Lane 248, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ä_´ò¨½",
+               "short_name" : "Ä_´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Lane 248, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0674989,
+                  "lng" : 121.6013911
+               },
+               "southwest" : {
+                  "lat" : 25.0674842,
+                  "lng" : 121.6013816
+               }
+            },
+            "location" : {
+               "lat" : 25.0674989,
+               "lng" : 121.6013911
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0688405302915,
+                  "lng" : 121.6027353302915
+               },
+               "southwest" : {
+                  "lat" : 25.0661425697085,
+                  "lng" : 121.6000373697085
+               }
+            }
+         },
+         "place_id" : "EjcxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUyNDjlt7cx6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

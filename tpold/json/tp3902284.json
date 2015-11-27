@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "309",
+               "short_name" : "309",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dunhua North Road",
+               "short_name" : "Dunhua N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºë©¾¨½",
+               "short_name" : "ºë©¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 309, Dunhua N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0595072,
+                  "lng" : 121.5500339
+               },
+               "southwest" : {
+                  "lat" : 25.0594999,
+                  "lng" : 121.5500169
+               }
+            },
+            "location" : {
+               "lat" : 25.0594999,
+               "lng" : 121.5500339
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0608525302915,
+                  "lng" : 121.5513743802915
+               },
+               "southwest" : {
+                  "lat" : 25.0581545697085,
+                  "lng" : 121.5486764197085
+               }
+            }
+         },
+         "place_id" : "Ei0xMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDmlabljJbljJfot68zMDnomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

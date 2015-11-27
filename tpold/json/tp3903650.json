@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 335, Mingde Road",
+               "short_name" : "Lane 335, Mingde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "®¶µØ¨½",
+               "short_name" : "®¶µØ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 20, Lane 335, Mingde Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1167257,
+               "lng" : 121.5191844
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.11807468029151,
+                  "lng" : 121.5205333802915
+               },
+               "southwest" : {
+                  "lat" : 25.1153767197085,
+                  "lng" : 121.5178354197085
+               }
+            }
+         },
+         "place_id" : "ChIJ1eHT-YuuQjQRgUqJMnAkScY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

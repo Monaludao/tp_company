@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wanshou Road",
+               "short_name" : "Wanshou Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 29, Wanshou Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.988528,
+                  "lng" : 121.5766235
+               },
+               "southwest" : {
+                  "lat" : 24.9885137,
+                  "lng" : 121.5766132
+               }
+            },
+            "location" : {
+               "lat" : 24.988528,
+               "lng" : 121.5766132
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9898698302915,
+                  "lng" : 121.5779673302915
+               },
+               "southwest" : {
+                  "lat" : 24.9871718697085,
+                  "lng" : 121.5752693697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikxMTblj7DngaPlj7DljJfluILmloflsbHljYDokKzlo73ot68yOeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

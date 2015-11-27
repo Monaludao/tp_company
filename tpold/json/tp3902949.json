@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "235",
+               "short_name" : "235",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Guangzhou Street",
+               "short_name" : "Guangzhou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«C¤s¨½",
+               "short_name" : "«C¤s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 235, Guangzhou St, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0367399,
+                  "lng" : 121.49858
+               },
+               "southwest" : {
+                  "lat" : 25.0367229,
+                  "lng" : 121.4985794
+               }
+            },
+            "location" : {
+               "lat" : 25.0367399,
+               "lng" : 121.49858
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0380803802915,
+                  "lng" : 121.4999286802915
+               },
+               "southwest" : {
+                  "lat" : 25.0353824197085,
+                  "lng" : 121.4972307197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EioxMDjlj7DngaPlj7DljJfluILokKzoj6_ljYDlu6Plt57ooZcyMzXomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

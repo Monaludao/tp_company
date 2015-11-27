@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 58, Yuanqu Street",
+               "short_name" : "Lane 58, Yuanqu St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三重里",
+               "short_name" : "三重里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Lane 58, Yuanqu St, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0594316,
+                  "lng" : 121.6117451
+               },
+               "southwest" : {
+                  "lat" : 25.0594299,
+                  "lng" : 121.6117264
+               }
+            },
+            "location" : {
+               "lat" : 25.0594316,
+               "lng" : 121.6117451
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0607797302915,
+                  "lng" : 121.6130847302915
+               },
+               "southwest" : {
+                  "lat" : 25.0580817697085,
+                  "lng" : 121.6103867697085
+               }
+            }
+         },
+         "place_id" : "Ei0xMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDlnJLljYDooZc1OOW3tzPomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

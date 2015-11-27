@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "365",
+               "short_name" : "365",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Songjiang Road",
+               "short_name" : "Songjiang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "行政里",
+               "short_name" : "行政里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 365, Songjiang Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.064032,
+               "lng" : 121.533552
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0653809802915,
+                  "lng" : 121.5349009802915
+               },
+               "southwest" : {
+                  "lat" : 25.06268301970849,
+                  "lng" : 121.5322030197085
+               }
+            }
+         },
+         "place_id" : "ChIJWY24t1mpQjQRR2XPBet5wSs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

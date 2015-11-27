@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "186",
+               "short_name" : "186",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Bade Road",
+               "short_name" : "Section 3, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_«Ø¨½",
+               "short_name" : "´_«Ø¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 186, Section 3, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.04787,
+               "lng" : 121.55596
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0492189802915,
+                  "lng" : 121.5573089802915
+               },
+               "southwest" : {
+                  "lat" : 25.0465210197085,
+                  "lng" : 121.5546110197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPSLlu8GrQjQRN-jeRvyBF0w",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

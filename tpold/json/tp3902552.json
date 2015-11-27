@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 220, Wende Road",
+               "short_name" : "Alley 5, Lane 220, Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "도때㉬",
+               "short_name" : "도때㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 13, Alley 5, Lane 220, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0785365,
+               "lng" : 121.5886873
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.07988548029151,
+                  "lng" : 121.5900362802915
+               },
+               "southwest" : {
+                  "lat" : 25.0771875197085,
+                  "lng" : 121.5873383197085
+               }
+            }
+         },
+         "place_id" : "ChIJXf4XrI6sQjQRo31I4xRahSI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

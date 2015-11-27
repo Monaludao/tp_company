@@ -8,10 +8,13 @@ csv_filter<-function(){
         csv.path<-paste0(csv.root,csv.list)
         
         for (i in 1:length(csv.list)){
-            csv.name<-gsub(".csv","",csv.list[i])
+            csv.name<-gsub(".csv|[0-9]|\\.","",csv.list[i])
             csv.lines<-readLines(csv.path[i],encoding="UTF-8")
             csv.lines<-gsub("\"","",csv.lines)
             csv.lines<-csv.lines[grep("臺北市",csv.lines)]
+            if(dir.list[d]=="business"|dir.list[d]=="company"){
+                csv.lines<-csv.lines[grep("核准設立",csv.lines)]
+            }
             csv.lines<-paste0(csv.lines,",",csv.name)
             
             c.number<-paste0(rep("0",(2-nchar(as.character(i)))),as.character(i))

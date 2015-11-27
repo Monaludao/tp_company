@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "和平東路一段157巷",
+               "short_name" : "和平東路一段157巷",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "龍安里",
+               "short_name" : "龍安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "106, Taiwan, Taipei City, Da’an District, 和平東路一段157巷5號",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.026755,
+               "lng" : 121.531375
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0281039802915,
+                  "lng" : 121.5327239802915
+               },
+               "southwest" : {
+                  "lat" : 25.02540601970849,
+                  "lng" : 121.5300260197085
+               }
+            }
+         },
+         "place_id" : "ChIJC-i_goapQjQRasNolT3I924",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

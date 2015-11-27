@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "113",
+               "short_name" : "113",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Dunhua South Road",
+               "short_name" : "Section 2, Dunhua S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸s½å¨½",
+               "short_name" : "¸s½å¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 113, Section 2, Dunhua S Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0271009,
+                  "lng" : 121.5485068
+               },
+               "southwest" : {
+                  "lat" : 25.0271004,
+                  "lng" : 121.5484881
+               }
+            },
+            "location" : {
+               "lat" : 25.0271009,
+               "lng" : 121.5484881
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0284496302915,
+                  "lng" : 121.5498464302915
+               },
+               "southwest" : {
+                  "lat" : 25.02575166970849,
+                  "lng" : 121.5471484697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDblj7DngaPlj7DljJfluILlpKflronljYDmlabljJbljZfot6_kuozmrrUxMTPomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

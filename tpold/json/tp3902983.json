@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "81",
+               "short_name" : "81",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Chengde Road",
+               "short_name" : "Section 4, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©Ó¼w¨½",
+               "short_name" : "©Ó¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 81, Section 4, Chengde Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0825114,
+               "lng" : 121.5235328
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0838603802915,
+                  "lng" : 121.5248817802915
+               },
+               "southwest" : {
+                  "lat" : 25.08116241970849,
+                  "lng" : 121.5221838197085
+               }
+            }
+         },
+         "place_id" : "ChIJOZJHOLKuQjQRvQ7zC3AieEE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

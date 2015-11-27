@@ -1,4 +1,6 @@
 data_handle<-function(file.num){
+    #Sys.setlocale(category='LC_ALL', locale='C')
+    
     file.num=1
     
     file.list<-dir("./tpdata")
@@ -7,24 +9,32 @@ data_handle<-function(file.num){
     
     csv.df<-read.csv(file.path[file.num],stringsAsFactors = FALSE)
     
-    csv.df$CID<-as.character(csv.df$CID)
-    for (i in 1:nrow(csv.df)){
-        csv.df$CID[i]<-check_CID(csv.df$CID[i])
-    }
-
     csv.df[grep("<U+",csv.df[,4]),4]<-"找不到指定的門牌地址。:UTF16"
                            
-    csv.df$city<-as.factor(gsub("^(.*(市|縣)).*","\\1",csv.df[1,4]))
-    csv.df$dist<-as.factor(gsub(".*市(.*區).*","\\1",csv.df[1,4]))
+    csv.df$city<-as.factor(gsub("^(.*(市|縣)).*","\\1",csv.df[,4]))
+    csv.df$dist<-as.factor(gsub(".*市(.*區).*","\\1",csv.df[,4]))
     csv.df$village<-as.factor(gsub(".*區(.*里).*","\\1",csv.df[,4]))
     csv.df$neighbour<-as.factor(gsub(".*里(.*鄰).*","\\1",csv.df[,4]))
-    csv.df$road<-as.factor(gsub(".*鄰(.*(路|街|大道)).*","\\1",csv.df[,4]))
     
-    csv.df$sec<-NA
+    csv.df$CID<-as.character(csv.df$CID)
+    csv.df$road<-NA
+    csv.df$lane<-NA
+    csv.df$alley<-NA
+    csv.df$number<-NA
+    
     for (i in 1:nrow(csv.df)){
-        csv.df$sec[i]<-check_section(csv.df$Response_Address)
+        csv.df$CID[i]<-check_CID(csv.df$CID[i])
+        address.vector<-check_address(csv.df$Response_Address[i])
+        csv.df$road[i]<-gsub("NA","",paste0(address.vector[1],address.vector[2]))
+        csv.df$lane[i]<-address.vector[3]
+        csv.df$alley[i]<-address.vector[4]
+        csv.df$number[i]<-address.vector[5]
     }
     
+    csv.df$road<-as.factor(csv.df$road)
+    csv.df$floor<-gsub(".*號(.*)$","\\1",csv.df[,3])
+    
+    return(csv.df)
 }
 
 check_CID<-function(CID){
@@ -34,11 +44,36 @@ check_CID<-function(CID){
     return(CID)
 }
 
-check_section<-function(address){
+check_address<-function(address){
+    road<-gsub(".*(鄰|區)(.*(路|街|大道)).*","\\2",address)
     if(grepl("段",address)){
         section<-gsub(".*(路|街|大道)(.*段).*","\\2",address)
+        lane.vector<-check_lane(strsplit(address,("段"))[[1]][2])
     } else {
         section<-NA
+        lane.vector<-check_lane(strsplit(address,("路|街|大道"))[[1]][2])
     }
-    return(section)
+    return(c(road,section,lane.vector))
+}
+
+check_lane<-function(address){
+    if(grepl("巷",address)){
+        lane<-gsub("^(.*巷).*","\\1",address)
+        alley.vector<-check_alley(strsplit(address,("巷"))[[1]][2])
+    } else {
+        lane<-NA
+        alley.vector<-check_alley(address)
+    }
+    return(c(lane,alley.vector))
+}
+
+check_alley<-function(address){
+    if(grepl("弄",address)){
+        alley<-gsub("^(.*弄).*","\\1",address)
+        number<-strsplit(address,("弄"))[[1]][2]
+    } else {
+        alley<-NA
+        number<-address
+    }
+    return(c(alley,number))
 }

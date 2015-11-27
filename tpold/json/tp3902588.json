@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "地穝腞地篨蝗︽加 Walsin(Citi Bank)",
+               "short_name" : "地穝腞地篨蝗︽加 Walsin(Citi Bank)",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Songzhi Road",
+               "short_name" : "Songzhi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "110, Taiwan, Taipei City, Xinyi District, Songzhi Rd, 1腹地穝腞地篨蝗︽加 Walsin(Citi Bank)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0388618,
+                  "lng" : 121.5663655
+               },
+               "southwest" : {
+                  "lat" : 25.0384392,
+                  "lng" : 121.5659281
+               }
+            },
+            "location" : {
+               "lat" : 25.0386505,
+               "lng" : 121.5661468
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0399994802915,
+                  "lng" : 121.5674957802915
+               },
+               "southwest" : {
+                  "lat" : 25.0373015197085,
+                  "lng" : 121.5647978197085
+               }
+            }
+         },
+         "place_id" : "ChIJbx27L7qrQjQR5k4_OGo0MYA",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}
+

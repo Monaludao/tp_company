@@ -1,0 +1,981 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 191, Section 6, Minquan East Road",
+               "short_name" : "Lane 191, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Lane 191, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0702932,
+                  "lng" : 121.5993002
+               },
+               "southwest" : {
+                  "lat" : 25.0702913,
+                  "lng" : 121.5992815
+               }
+            },
+            "location" : {
+               "lat" : 25.0702913,
+               "lng" : 121.5993002
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0716412302915,
+                  "lng" : 121.6006398302915
+               },
+               "southwest" : {
+                  "lat" : 25.06894326970849,
+                  "lng" : 121.5979418697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUxOTHlt7cxNTDomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 296, Section 6, Minquan East Road",
+               "short_name" : "Lane 296, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "脯瑆ń",
+               "short_name" : "脯瑆ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Lane 296, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0696096,
+                  "lng" : 121.6096386
+               },
+               "southwest" : {
+                  "lat" : 25.0695964,
+                  "lng" : 121.6096268
+               }
+            },
+            "location" : {
+               "lat" : 25.0695964,
+               "lng" : 121.6096268
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0709519802915,
+                  "lng" : 121.6109816802915
+               },
+               "southwest" : {
+                  "lat" : 25.0682540197085,
+                  "lng" : 121.6082837197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUyOTblt7cxNTDomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 280, Section 6, Minquan East Road",
+               "short_name" : "Lane 280, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "玭打ń",
+               "short_name" : "玭打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Lane 280, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0689479,
+                  "lng" : 121.609226
+               },
+               "southwest" : {
+                  "lat" : 25.0689351,
+                  "lng" : 121.6092136
+               }
+            },
+            "location" : {
+               "lat" : 25.0689479,
+               "lng" : 121.609226
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0702904802915,
+                  "lng" : 121.6105687802915
+               },
+               "southwest" : {
+                  "lat" : 25.0675925197085,
+                  "lng" : 121.6078708197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUyODDlt7cxNTDomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 206, Section 6, Minquan East Road",
+               "short_name" : "Lane 206, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "腳打ń",
+               "short_name" : "腳打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Lane 206, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.065524,
+                  "lng" : 121.5956516
+               },
+               "southwest" : {
+                  "lat" : 25.0655232,
+                  "lng" : 121.5956329
+               }
+            },
+            "location" : {
+               "lat" : 25.065524,
+               "lng" : 121.5956329
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0668725802915,
+                  "lng" : 121.5969912302915
+               },
+               "southwest" : {
+                  "lat" : 25.0641746197085,
+                  "lng" : 121.5942932697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUyMDblt7cxNTDomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 120, Section 6, Minquan East Road",
+               "short_name" : "Lane 120, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "打じń",
+               "short_name" : "打じń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Lane 120, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0664573,
+                  "lng" : 121.5874189
+               },
+               "southwest" : {
+                  "lat" : 25.0664416,
+                  "lng" : 121.5874118
+               }
+            },
+            "location" : {
+               "lat" : 25.0664416,
+               "lng" : 121.5874118
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0677984302915,
+                  "lng" : 121.5887643302915
+               },
+               "southwest" : {
+                  "lat" : 25.0651004697085,
+                  "lng" : 121.5860663697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUxMjDlt7cxNTDomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 180, Section 6, Minquan East Road",
+               "short_name" : "Lane 180, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "腳打ń",
+               "short_name" : "腳打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Lane 180, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0667374,
+                  "lng" : 121.5926446
+               },
+               "southwest" : {
+                  "lat" : 25.0667373,
+                  "lng" : 121.5926258
+               }
+            },
+            "location" : {
+               "lat" : 25.0667373,
+               "lng" : 121.5926446
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0680863302915,
+                  "lng" : 121.5939841802915
+               },
+               "southwest" : {
+                  "lat" : 25.0653883697085,
+                  "lng" : 121.5912862197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUxODDlt7cxNTDomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 163, Section 6, Minquan East Road",
+               "short_name" : "Lane 163, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "腳打ń",
+               "short_name" : "腳打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Lane 163, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0685488,
+                  "lng" : 121.5958198
+               },
+               "southwest" : {
+                  "lat" : 25.0685433,
+                  "lng" : 121.5958021
+               }
+            },
+            "location" : {
+               "lat" : 25.0685433,
+               "lng" : 121.5958198
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0698950302915,
+                  "lng" : 121.5971599302915
+               },
+               "southwest" : {
+                  "lat" : 25.0671970697085,
+                  "lng" : 121.5944619697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUxNjPlt7cxNTDomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 210, Section 6, Minquan East Road",
+               "short_name" : "Lane 210, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "腳打ń",
+               "short_name" : "腳打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Lane 210, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.067176,
+                  "lng" : 121.597751
+               },
+               "southwest" : {
+                  "lat" : 25.0671756,
+                  "lng" : 121.5977322
+               }
+            },
+            "location" : {
+               "lat" : 25.0671756,
+               "lng" : 121.597751
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0685247802915,
+                  "lng" : 121.5990905802915
+               },
+               "southwest" : {
+                  "lat" : 25.0658268197085,
+                  "lng" : 121.5963926197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUyMTDlt7cxNTDomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 41, Lane 180, Section 6, Minquan East Road",
+               "short_name" : "Alley 41, Lane 180, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "腳打ń",
+               "short_name" : "腳打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Alley 41, Lane 180, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0669506,
+                  "lng" : 121.5943281
+               },
+               "southwest" : {
+                  "lat" : 25.0669345,
+                  "lng" : 121.594322
+               }
+            },
+            "location" : {
+               "lat" : 25.0669345,
+               "lng" : 121.594322
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0682915302915,
+                  "lng" : 121.5956740302915
+               },
+               "southwest" : {
+                  "lat" : 25.0655935697085,
+                  "lng" : 121.5929760697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUxODDlt7c0MeW8hDE1MOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 61, Lane 180, Section 6, Minquan East Road",
+               "short_name" : "Alley 61, Lane 180, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "腳打ń",
+               "short_name" : "腳打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Alley 61, Lane 180, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.066505,
+                  "lng" : 121.5938764
+               },
+               "southwest" : {
+                  "lat" : 25.0664887,
+                  "lng" : 121.5938711
+               }
+            },
+            "location" : {
+               "lat" : 25.066505,
+               "lng" : 121.5938764
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0678458302915,
+                  "lng" : 121.5952227302915
+               },
+               "southwest" : {
+                  "lat" : 25.0651478697085,
+                  "lng" : 121.5925247697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUxODDlt7c2MeW8hDE1MOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 61, Lane 190, Section 6, Minquan East Road",
+               "short_name" : "Alley 61, Lane 190, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "腳打ń",
+               "short_name" : "腳打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Alley 61, Lane 190, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.06601,
+                  "lng" : 121.5952771
+               },
+               "southwest" : {
+                  "lat" : 25.0659943,
+                  "lng" : 121.5952699
+               }
+            },
+            "location" : {
+               "lat" : 25.0659943,
+               "lng" : 121.5952699
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0673511302915,
+                  "lng" : 121.5966224802915
+               },
+               "southwest" : {
+                  "lat" : 25.0646531697085,
+                  "lng" : 121.5939245197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUxOTDlt7c2MeW8hDE1MOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 21, Lane 190, Section 6, Minquan East Road",
+               "short_name" : "Alley 21, Lane 190, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "腳打ń",
+               "short_name" : "腳打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Alley 21, Lane 190, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.067844,
+                  "lng" : 121.5950417
+               },
+               "southwest" : {
+                  "lat" : 25.067828,
+                  "lng" : 121.5950354
+               }
+            },
+            "location" : {
+               "lat" : 25.067828,
+               "lng" : 121.5950354
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0691849802915,
+                  "lng" : 121.5963875302915
+               },
+               "southwest" : {
+                  "lat" : 25.0664870197085,
+                  "lng" : 121.5936895697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUxOTDlt7cyMeW8hDE1MOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 69, Lane 280, Section 6, Minquan East Road",
+               "short_name" : "Alley 69, Lane 280, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "玭打ń",
+               "short_name" : "玭打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Alley 69, Lane 280, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0694369,
+                  "lng" : 121.6066705
+               },
+               "southwest" : {
+                  "lat" : 25.0694199,
+                  "lng" : 121.6066703
+               }
+            },
+            "location" : {
+               "lat" : 25.0694199,
+               "lng" : 121.6066705
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0707773802915,
+                  "lng" : 121.6080193802915
+               },
+               "southwest" : {
+                  "lat" : 25.0680794197085,
+                  "lng" : 121.6053214197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUyODDlt7c2OeW8hDE1MOiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "150",
+               "short_name" : "150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 42, Lane 180, Section 6, Minquan East Road",
+               "short_name" : "Alley 42, Lane 180, Section 6, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "腳打ń",
+               "short_name" : "腳打ń",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 150, Alley 42, Lane 180, Section 6, Minquan E Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.067137,
+                  "lng" : 121.5913319
+               },
+               "southwest" : {
+                  "lat" : 25.0671351,
+                  "lng" : 121.5913132
+               }
+            },
+            "location" : {
+               "lat" : 25.067137,
+               "lng" : 121.5913132
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0684850302915,
+                  "lng" : 121.5926715302915
+               },
+               "southwest" : {
+                  "lat" : 25.0657870697085,
+                  "lng" : 121.5899735697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej4xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDmsJHmrIrmnbHot6_lha3mrrUxODDlt7c0MuW8hDE1MOiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

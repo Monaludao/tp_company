@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jilin Road",
+               "short_name" : "Jilin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤¦N¨½",
+               "short_name" : "¤¤¦N¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Jilin Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0564047,
+               "lng" : 121.5303007
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0577536802915,
+                  "lng" : 121.5316496802915
+               },
+               "southwest" : {
+                  "lat" : 25.0550557197085,
+                  "lng" : 121.5289517197085
+               }
+            }
+         },
+         "place_id" : "ChIJ0SBc7l2pQjQRf93zxWgPSVA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

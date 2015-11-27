@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "73",
+               "short_name" : "73",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xining North Road",
+               "short_name" : "Xining N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã¼Ö¨½",
+               "short_name" : "¥Ã¼Ö¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 73, Xining N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.055206,
+               "lng" : 121.509065
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.05655498029151,
+                  "lng" : 121.5104139802915
+               },
+               "southwest" : {
+                  "lat" : 25.0538570197085,
+                  "lng" : 121.5077160197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7zRA-BOpQjQRcSDfaE1e0-o",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

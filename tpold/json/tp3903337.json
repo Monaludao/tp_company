@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "187",
+               "short_name" : "187",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fuxing North Road",
+               "short_name" : "Fuxing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªQ°ò¨½",
+               "short_name" : "ªQ°ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 187, Fuxing N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0550339,
+               "lng" : 121.5442899
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0563828802915,
+                  "lng" : 121.5456388802915
+               },
+               "southwest" : {
+                  "lat" : 25.0536849197085,
+                  "lng" : 121.5429409197085
+               }
+            }
+         },
+         "place_id" : "ChIJe4i14earQjQRlo2RGF0My0M",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

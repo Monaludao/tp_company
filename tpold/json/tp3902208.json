@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 135, Section 2, Minquan East Road",
+               "short_name" : "Lane 135, Section 2, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "行政里",
+               "short_name" : "行政里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 33, Lane 135, Section 2, Minquan E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.064331,
+               "lng" : 121.5350983
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0656799802915,
+                  "lng" : 121.5364472802915
+               },
+               "southwest" : {
+                  "lat" : 25.0629820197085,
+                  "lng" : 121.5337493197085
+               }
+            }
+         },
+         "place_id" : "ChIJ_4g9O1ipQjQResv_tPCqi0s",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jingmao 2nd Road",
+               "short_name" : "Jingmao 2nd Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三重里",
+               "short_name" : "三重里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Nangang District",
+               "short_name" : "Nangang District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 39, Jingmao 2nd Rd, Nangang District, Taipei City, Taiwan 115",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0573305,
+                  "lng" : 121.6166902
+               },
+               "southwest" : {
+                  "lat" : 25.0573295,
+                  "lng" : 121.6166714
+               }
+            },
+            "location" : {
+               "lat" : 25.0573305,
+               "lng" : 121.6166714
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0586789802915,
+                  "lng" : 121.6180297802915
+               },
+               "southwest" : {
+                  "lat" : 25.0559810197085,
+                  "lng" : 121.6153318197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EiwxMTXlj7DngaPlj7DljJfluILljZfmuK_ljYDntpPosr_kuozot68zOeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

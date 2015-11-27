@@ -1,0 +1,1126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fuxing North Road",
+               "short_name" : "Fuxing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤¥¿¨½",
+               "short_name" : "¤¤¥¿¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Fuxing N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0522064,
+                  "lng" : 121.5442029
+               },
+               "southwest" : {
+                  "lat" : 25.0522063,
+                  "lng" : 121.5441841
+               }
+            },
+            "location" : {
+               "lat" : 25.0522063,
+               "lng" : 121.5442029
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0535553302915,
+                  "lng" : 121.5455424802915
+               },
+               "southwest" : {
+                  "lat" : 25.0508573697085,
+                  "lng" : 121.5428445197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlvqnoiIjljJfot68xMDXomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 11, Guangfu North Road",
+               "short_name" : "Lane 11, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦N²»¨½",
+               "short_name" : "¦N²»¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 11, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.050367,
+                  "lng" : 121.5625358
+               },
+               "southwest" : {
+                  "lat" : 25.0503501,
+                  "lng" : 121.5625337
+               }
+            },
+            "location" : {
+               "lat" : 25.050367,
+               "lng" : 121.5625337
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0517075302915,
+                  "lng" : 121.5638837302915
+               },
+               "southwest" : {
+                  "lat" : 25.0490095697085,
+                  "lng" : 121.5611857697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68xMeW3tzEwNeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 190, Guangfu North Road",
+               "short_name" : "Lane 190, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¥Ð¨½",
+               "short_name" : "Às¥Ð¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 190, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0545443,
+                  "lng" : 121.5537082
+               },
+               "southwest" : {
+                  "lat" : 25.0545274,
+                  "lng" : 121.5537068
+               }
+            },
+            "location" : {
+               "lat" : 25.0545443,
+               "lng" : 121.5537068
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0558848302915,
+                  "lng" : 121.5550564802915
+               },
+               "southwest" : {
+                  "lat" : 25.0531868697085,
+                  "lng" : 121.5523585197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68xOTDlt7cxMDXomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 60, Guangfu North Road",
+               "short_name" : "Lane 60, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_¶Õ¨½",
+               "short_name" : "´_¶Õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 60, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0498084,
+                  "lng" : 121.5550917
+               },
+               "southwest" : {
+                  "lat" : 25.0497914,
+                  "lng" : 121.5550914
+               }
+            },
+            "location" : {
+               "lat" : 25.0497914,
+               "lng" : 121.5550914
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0511488802915,
+                  "lng" : 121.5564405302915
+               },
+               "southwest" : {
+                  "lat" : 25.0484509197085,
+                  "lng" : 121.5537425697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot682MOW3tzEwNeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 230, Guangfu North Road",
+               "short_name" : "Lane 230, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¥Ð¨½",
+               "short_name" : "Às¥Ð¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 230, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0562269,
+                  "lng" : 121.5541072
+               },
+               "southwest" : {
+                  "lat" : 25.0562099,
+                  "lng" : 121.5541072
+               }
+            },
+            "location" : {
+               "lat" : 25.0562099,
+               "lng" : 121.5541072
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0575673802915,
+                  "lng" : 121.5554561802915
+               },
+               "southwest" : {
+                  "lat" : 25.0548694197085,
+                  "lng" : 121.5527582197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68yMzDlt7cxMDXomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 177, Guangfu North Road",
+               "short_name" : "Lane 177, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¶¹Ø¨½",
+               "short_name" : "¤¶¹Ø¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 177, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0580391,
+                  "lng" : 121.5570411
+               },
+               "southwest" : {
+                  "lat" : 25.0580221,
+                  "lng" : 121.5570399
+               }
+            },
+            "location" : {
+               "lat" : 25.0580391,
+               "lng" : 121.5570399
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.05937958029151,
+                  "lng" : 121.5583894802915
+               },
+               "southwest" : {
+                  "lat" : 25.0566816197085,
+                  "lng" : 121.5556915197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68xNzflt7cxMDXomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 100, Guangfu North Road",
+               "short_name" : "Lane 100, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_¶Õ¨½",
+               "short_name" : "´_¶Õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 100, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0505757,
+                  "lng" : 121.5563737
+               },
+               "southwest" : {
+                  "lat" : 25.0505587,
+                  "lng" : 121.5563732
+               }
+            },
+            "location" : {
+               "lat" : 25.0505757,
+               "lng" : 121.5563737
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0519161802915,
+                  "lng" : 121.5577224302915
+               },
+               "southwest" : {
+                  "lat" : 25.0492182197085,
+                  "lng" : 121.5550244697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68xMDDlt7cxMDXomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 120, Guangfu North Road",
+               "short_name" : "Lane 120, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_¶Õ¨½",
+               "short_name" : "´_¶Õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 120, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0510157,
+                  "lng" : 121.5563796
+               },
+               "southwest" : {
+                  "lat" : 25.0509987,
+                  "lng" : 121.5563789
+               }
+            },
+            "location" : {
+               "lat" : 25.0510157,
+               "lng" : 121.5563796
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0523561802915,
+                  "lng" : 121.5577282302915
+               },
+               "southwest" : {
+                  "lat" : 25.04965821970849,
+                  "lng" : 121.5550302697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68xMjDlt7cxMDXomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 26, Guangfu North Road",
+               "short_name" : "Lane 26, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´_¶Õ¨½",
+               "short_name" : "´_¶Õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 26, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0488552,
+                  "lng" : 121.556843
+               },
+               "southwest" : {
+                  "lat" : 25.0488388,
+                  "lng" : 121.5568381
+               }
+            },
+            "location" : {
+               "lat" : 25.0488552,
+               "lng" : 121.5568381
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0501959802915,
+                  "lng" : 121.5581895302915
+               },
+               "southwest" : {
+                  "lat" : 25.0474980197085,
+                  "lng" : 121.5554915697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68yNuW3tzEwNeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 161, Guangfu North Road",
+               "short_name" : "Lane 161, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¥Ð¨½",
+               "short_name" : "Às¥Ð¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 161, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0558911,
+                  "lng" : 121.5563443
+               },
+               "southwest" : {
+                  "lat" : 25.0558742,
+                  "lng" : 121.5563419
+               }
+            },
+            "location" : {
+               "lat" : 25.0558742,
+               "lng" : 121.5563443
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0572316302915,
+                  "lng" : 121.5576920802915
+               },
+               "southwest" : {
+                  "lat" : 25.0545336697085,
+                  "lng" : 121.5549941197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68xNjHlt7cxMDXomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 155, Guangfu North Road",
+               "short_name" : "Lane 155, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¥Ð¨½",
+               "short_name" : "Às¥Ð¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 155, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0554789,
+                  "lng" : 121.5564997
+               },
+               "southwest" : {
+                  "lat" : 25.055462,
+                  "lng" : 121.5564973
+               }
+            },
+            "location" : {
+               "lat" : 25.055462,
+               "lng" : 121.5564997
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0568194302915,
+                  "lng" : 121.5578474802915
+               },
+               "southwest" : {
+                  "lat" : 25.05412146970849,
+                  "lng" : 121.5551495197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68xNTXlt7cxMDXomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 210, Guangfu North Road",
+               "short_name" : "Lane 210, Guangfu N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¥Ð¨½",
+               "short_name" : "Às¥Ð¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 210, Guangfu N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0552105,
+                  "lng" : 121.5529223
+               },
+               "southwest" : {
+                  "lat" : 25.0551935,
+                  "lng" : 121.5529208
+               }
+            },
+            "location" : {
+               "lat" : 25.0552105,
+               "lng" : 121.5529208
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0565509802915,
+                  "lng" : 121.5542705302915
+               },
+               "southwest" : {
+                  "lat" : 25.05385301970849,
+                  "lng" : 121.5515725697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhYnlvqnljJfot68yMTDlt7cxMDXomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 4, Dunhua North Road",
+               "short_name" : "Lane 4, Dunhua N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤¥¿¨½",
+               "short_name" : "¤¤¥¿¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 4, Dunhua N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0502144,
+                  "lng" : 121.5445184
+               },
+               "southwest" : {
+                  "lat" : 25.0501974,
+                  "lng" : 121.5445174
+               }
+            },
+            "location" : {
+               "lat" : 25.0501974,
+               "lng" : 121.5445174
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0515548802915,
+                  "lng" : 121.5458668802915
+               },
+               "southwest" : {
+                  "lat" : 25.04885691970849,
+                  "lng" : 121.5431689197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjExMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDmlabljJbljJfot6805be3MTA16Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 81, Fuxing North Road",
+               "short_name" : "Lane 81, Fuxing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤¥¿¨½",
+               "short_name" : "¤¤¥¿¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 81, Fuxing N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0511994,
+                  "lng" : 121.5456994
+               },
+               "southwest" : {
+                  "lat" : 25.0511824,
+                  "lng" : 121.5456991
+               }
+            },
+            "location" : {
+               "lat" : 25.0511994,
+               "lng" : 121.5456994
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0525398802915,
+                  "lng" : 121.5470482302915
+               },
+               "southwest" : {
+                  "lat" : 25.0498419197085,
+                  "lng" : 121.5443502697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlvqnoiIjljJfot684MeW3tzEwNeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 60, Dunhua North Road",
+               "short_name" : "Lane 60, Dunhua N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤¥¿¨½",
+               "short_name" : "¤¤¥¿¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Lane 60, Dunhua N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.051037,
+                  "lng" : 121.5476098
+               },
+               "southwest" : {
+                  "lat" : 25.05102,
+                  "lng" : 121.5476088
+               }
+            },
+            "location" : {
+               "lat" : 25.05102,
+               "lng" : 121.5476088
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0523774802915,
+                  "lng" : 121.5489582802915
+               },
+               "southwest" : {
+                  "lat" : 25.04967951970849,
+                  "lng" : 121.5462603197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDmlabljJbljJfot682MOW3tzEwNeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 25, Lane 4, Dunhua North Road",
+               "short_name" : "Alley 25, Lane 4, Dunhua N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤¥¿¨½",
+               "short_name" : "¤¤¥¿¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 105, Alley 25, Lane 4, Dunhua N Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0496441,
+                  "lng" : 121.5461934
+               },
+               "southwest" : {
+                  "lat" : 25.049644,
+                  "lng" : 121.5461746
+               }
+            },
+            "location" : {
+               "lat" : 25.049644,
+               "lng" : 121.5461746
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0509930302915,
+                  "lng" : 121.5475329802915
+               },
+               "southwest" : {
+                  "lat" : 25.04829506970849,
+                  "lng" : 121.5448350197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDmlabljJbljJfot6805be3MjXlvIQxMDXomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

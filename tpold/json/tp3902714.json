@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 236, Section 5, Zhongxiao East Road",
+               "short_name" : "Alley 2, Lane 236, Section 5, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼s©~¨½",
+               "short_name" : "¼s©~¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 2, Lane 236, Section 5, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0403179,
+               "lng" : 121.571667
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0416668802915,
+                  "lng" : 121.5730159802915
+               },
+               "southwest" : {
+                  "lat" : 25.03896891970849,
+                  "lng" : 121.5703180197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJSQppqaSrQjQR3HCKCo84evI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

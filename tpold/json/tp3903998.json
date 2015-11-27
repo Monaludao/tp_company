@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 5, Longquan Street",
+               "short_name" : "Lane 5, Longquan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¬u¨½",
+               "short_name" : "Às¬u¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16, Lane 5, Longquan St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.025923,
+               "lng" : 121.530004
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0272719802915,
+                  "lng" : 121.5313529802915
+               },
+               "southwest" : {
+                  "lat" : 25.0245740197085,
+                  "lng" : 121.5286550197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFxldyIWpQjQRVRQyNtR38-0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+
