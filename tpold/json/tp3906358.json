@@ -1,0 +1,1451 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 223, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 223, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "建安里",
+               "short_name" : "建安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 223, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0432686,
+               "lng" : 121.5528105
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0446175802915,
+                  "lng" : 121.5541594802915
+               },
+               "southwest" : {
+                  "lat" : 25.04191961970849,
+                  "lng" : 121.5514615197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmzooOcSrQjQRaGRHSHonk3o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 216, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 216, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 216, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0384882,
+                  "lng" : 121.5529502
+               },
+               "southwest" : {
+                  "lat" : 25.0384879,
+                  "lng" : 121.5529314
+               }
+            },
+            "location" : {
+               "lat" : 25.0384882,
+               "lng" : 121.5529502
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0398370302915,
+                  "lng" : 121.5542897802915
+               },
+               "southwest" : {
+                  "lat" : 25.0371390697085,
+                  "lng" : 121.5515918197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUyMTblt7c1OeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 77, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 77, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "光武里",
+               "short_name" : "光武里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 77, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.043403,
+                  "lng" : 121.5472187
+               },
+               "southwest" : {
+                  "lat" : 25.0434026,
+                  "lng" : 121.5471999
+               }
+            },
+            "location" : {
+               "lat" : 25.043403,
+               "lng" : 121.5471999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0447517802915,
+                  "lng" : 121.5485582802915
+               },
+               "southwest" : {
+                  "lat" : 25.0420538197085,
+                  "lng" : 121.5458603197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrU3N-W3tzU56Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 26, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 26, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "仁愛里",
+               "short_name" : "仁愛里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 26, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0394396,
+                  "lng" : 121.5444312
+               },
+               "southwest" : {
+                  "lat" : 25.0394392,
+                  "lng" : 121.5444124
+               }
+            },
+            "location" : {
+               "lat" : 25.0394392,
+               "lng" : 121.5444312
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0407883802915,
+                  "lng" : 121.5457707802915
+               },
+               "southwest" : {
+                  "lat" : 25.0380904197085,
+                  "lng" : 121.5430728197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUyNuW3tzU56Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 101, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 101, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "光武里",
+               "short_name" : "光武里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 101, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0441364,
+                  "lng" : 121.5480937
+               },
+               "southwest" : {
+                  "lat" : 25.044136,
+                  "lng" : 121.548075
+               }
+            },
+            "location" : {
+               "lat" : 25.044136,
+               "lng" : 121.5480937
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0454851802915,
+                  "lng" : 121.5494333302915
+               },
+               "southwest" : {
+                  "lat" : 25.0427872197085,
+                  "lng" : 121.5467353697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUxMDHlt7c1OeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 181, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 181, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "建安里",
+               "short_name" : "建安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 181, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0445226,
+                  "lng" : 121.5508197
+               },
+               "southwest" : {
+                  "lat" : 25.0445225,
+                  "lng" : 121.5508009
+               }
+            },
+            "location" : {
+               "lat" : 25.0445225,
+               "lng" : 121.5508197
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0458715302915,
+                  "lng" : 121.5521592802915
+               },
+               "southwest" : {
+                  "lat" : 25.0431735697085,
+                  "lng" : 121.5494613197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUxODHlt7c1OeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 205, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 205, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "建安里",
+               "short_name" : "建安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 205, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0440014,
+                  "lng" : 121.5519806
+               },
+               "southwest" : {
+                  "lat" : 25.0440013,
+                  "lng" : 121.5519618
+               }
+            },
+            "location" : {
+               "lat" : 25.0440013,
+               "lng" : 121.5519806
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0453503302915,
+                  "lng" : 121.5533201802915
+               },
+               "southwest" : {
+                  "lat" : 25.0426523697085,
+                  "lng" : 121.5506222197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUyMDXlt7c1OeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 170, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 170, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "建倫里",
+               "short_name" : "建倫里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 170, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0390088,
+                  "lng" : 121.5507631
+               },
+               "southwest" : {
+                  "lat" : 25.0390087,
+                  "lng" : 121.5507443
+               }
+            },
+            "location" : {
+               "lat" : 25.0390088,
+               "lng" : 121.5507631
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0403577302915,
+                  "lng" : 121.5521026802915
+               },
+               "southwest" : {
+                  "lat" : 25.0376597697085,
+                  "lng" : 121.5494047197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUxNzDlt7c1OeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 49, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 49, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "光武里",
+               "short_name" : "光武里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 49, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0430229,
+                  "lng" : 121.5453319
+               },
+               "southwest" : {
+                  "lat" : 25.0430229,
+                  "lng" : 121.5453131
+               }
+            },
+            "location" : {
+               "lat" : 25.0430229,
+               "lng" : 121.5453319
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0443718802915,
+                  "lng" : 121.5466714802915
+               },
+               "southwest" : {
+                  "lat" : 25.0416739197085,
+                  "lng" : 121.5439735197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrU0OeW3tzU56Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 17, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 17, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "光武里",
+               "short_name" : "光武里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 17, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0429302,
+                  "lng" : 121.5445202
+               },
+               "southwest" : {
+                  "lat" : 25.0429296,
+                  "lng" : 121.5445015
+               }
+            },
+            "location" : {
+               "lat" : 25.0429296,
+               "lng" : 121.5445202
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0442788802915,
+                  "lng" : 121.5458598302915
+               },
+               "southwest" : {
+                  "lat" : 25.0415809197085,
+                  "lng" : 121.5431618697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjcxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUxN-W3tzU56Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 146, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 146, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "建倫里",
+               "short_name" : "建倫里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 146, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0404206,
+                  "lng" : 121.5496551
+               },
+               "southwest" : {
+                  "lat" : 25.0404203,
+                  "lng" : 121.5496363
+               }
+            },
+            "location" : {
+               "lat" : 25.0404203,
+               "lng" : 121.5496551
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0417694302915,
+                  "lng" : 121.5509946802915
+               },
+               "southwest" : {
+                  "lat" : 25.0390714697085,
+                  "lng" : 121.5482967197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUxNDblt7c1OeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 248, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 248, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "車層里",
+               "short_name" : "車層里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 248, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0394806,
+                  "lng" : 121.5540939
+               },
+               "southwest" : {
+                  "lat" : 25.0394805,
+                  "lng" : 121.5540751
+               }
+            },
+            "location" : {
+               "lat" : 25.0394806,
+               "lng" : 121.5540939
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0408295302915,
+                  "lng" : 121.5554334802915
+               },
+               "southwest" : {
+                  "lat" : 25.0381315697085,
+                  "lng" : 121.5527355197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUyNDjlt7c1OeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 32, Lane 216, Section 4, Zhongxiao East Road",
+               "short_name" : "Alley 32, Lane 216, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "建倫里",
+               "short_name" : "建倫里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Alley 32, Lane 216, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0399444,
+                  "lng" : 121.5518153
+               },
+               "southwest" : {
+                  "lat" : 25.0399274,
+                  "lng" : 121.5518149
+               }
+            },
+            "location" : {
+               "lat" : 25.0399444,
+               "lng" : 121.5518153
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0412848802915,
+                  "lng" : 121.5531640802915
+               },
+               "southwest" : {
+                  "lat" : 25.0385869197085,
+                  "lng" : 121.5504661197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej0xMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUyMTblt7czMuW8hDU56Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 11, Lane 216, Section 4, Zhongxiao East Road",
+               "short_name" : "Alley 11, Lane 216, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "車層里",
+               "short_name" : "車層里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Alley 11, Lane 216, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.040819,
+                  "lng" : 121.5538208
+               },
+               "southwest" : {
+                  "lat" : 25.040802,
+                  "lng" : 121.5538204
+               }
+            },
+            "location" : {
+               "lat" : 25.040819,
+               "lng" : 121.5538208
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0421594802915,
+                  "lng" : 121.5551695802915
+               },
+               "southwest" : {
+                  "lat" : 25.0394615197085,
+                  "lng" : 121.5524716197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej0xMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUyMTblt7cxMeW8hDU56Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 10, Lane 181, Section 4, Zhongxiao East Road",
+               "short_name" : "Alley 10, Lane 181, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "建安里",
+               "short_name" : "建安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Alley 10, Lane 181, Section 4, Zhongxiao E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0421659,
+                  "lng" : 121.5496529
+               },
+               "southwest" : {
+                  "lat" : 25.0421489,
+                  "lng" : 121.5496525
+               }
+            },
+            "location" : {
+               "lat" : 25.0421659,
+               "lng" : 121.5496529
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0435063802915,
+                  "lng" : 121.5510016802915
+               },
+               "southwest" : {
+                  "lat" : 25.0408084197085,
+                  "lng" : 121.5483037197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej0xMDblj7DngaPlj7DljJfluILlpKflronljYDlv6DlrZ3mnbHot6_lm5vmrrUxODHlt7cxMOW8hDU56Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 22, Lane 553, Section 4, Zhongxiao East Road",
+               "short_name" : "Alley 22, Lane 553, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新仁里",
+               "short_name" : "新仁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Alley 22, Lane 553, Section 4, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.043436,
+               "lng" : 121.563617
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0447849802915,
+                  "lng" : 121.5649659802915
+               },
+               "southwest" : {
+                  "lat" : 25.0420870197085,
+                  "lng" : 121.5622680197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7bJ5xL6rQjQRePBvEmCB0bI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 553, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 553, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新仁里",
+               "short_name" : "新仁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 553, Section 4, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0442051,
+                  "lng" : 121.5628151
+               },
+               "southwest" : {
+                  "lat" : 25.0442043,
+                  "lng" : 121.5627963
+               }
+            },
+            "location" : {
+               "lat" : 25.0442043,
+               "lng" : 121.5628151
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0455536802915,
+                  "lng" : 121.5641546802915
+               },
+               "southwest" : {
+                  "lat" : 25.0428557197085,
+                  "lng" : 121.5614567197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlv6DlrZ3mnbHot6_lm5vmrrU1NTPlt7c1OeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 559, Section 4, Zhongxiao East Road",
+               "short_name" : "Lane 559, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新仁里",
+               "short_name" : "新仁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Lane 559, Section 4, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0441761,
+                  "lng" : 121.5636781
+               },
+               "southwest" : {
+                  "lat" : 25.044176,
+                  "lng" : 121.5636593
+               }
+            },
+            "location" : {
+               "lat" : 25.044176,
+               "lng" : 121.5636593
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0455250302915,
+                  "lng" : 121.5650176802915
+               },
+               "southwest" : {
+                  "lat" : 25.0428270697085,
+                  "lng" : 121.5623197197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlv6DlrZ3mnbHot6_lm5vmrrU1NTnlt7c1OeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 118, Section 2, Heping East Road",
+               "short_name" : "Alley 4, Lane 118, Section 2, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "龍淵里",
+               "short_name" : "龍淵里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Alley 4, Lane 118, Section 2, Heping E Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0242391,
+                  "lng" : 121.5412747
+               },
+               "southwest" : {
+                  "lat" : 25.0242223,
+                  "lng" : 121.5412718
+               }
+            },
+            "location" : {
+               "lat" : 25.0242223,
+               "lng" : 121.5412718
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0255796802915,
+                  "lng" : 121.5426222302915
+               },
+               "southwest" : {
+                  "lat" : 25.0228817197085,
+                  "lng" : 121.5399242697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjwxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuozmrrUxMTjlt7c05byENTnomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 52, Lane 553, Section 4, Zhongxiao East Road",
+               "short_name" : "Alley 52, Lane 553, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新仁里",
+               "short_name" : "新仁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Alley 52, Lane 553, Section 4, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.044557,
+                  "lng" : 121.5635854
+               },
+               "southwest" : {
+                  "lat" : 25.0445438,
+                  "lng" : 121.5635737
+               }
+            },
+            "location" : {
+               "lat" : 25.044557,
+               "lng" : 121.5635854
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0458993802915,
+                  "lng" : 121.5649285302915
+               },
+               "southwest" : {
+                  "lat" : 25.0432014197085,
+                  "lng" : 121.5622305697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ej0xMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlv6DlrZ3mnbHot6_lm5vmrrU1NTPlt7c1MuW8hDU56Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 423, Section 5, Zhongxiao East Road",
+               "short_name" : "Alley 4, Lane 423, Section 5, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "富台里",
+               "short_name" : "富台里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 59, Alley 4, Lane 423, Section 5, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0413669,
+                  "lng" : 121.5769262
+               },
+               "southwest" : {
+                  "lat" : 25.0413499,
+                  "lng" : 121.5769255
+               }
+            },
+            "location" : {
+               "lat" : 25.0413669,
+               "lng" : 121.5769262
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0427073802915,
+                  "lng" : 121.5782748302915
+               },
+               "southwest" : {
+                  "lat" : 25.0400094197085,
+                  "lng" : 121.5755768697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjwxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlv6DlrZ3mnbHot6_kupTmrrU0MjPlt7c05byENTnomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

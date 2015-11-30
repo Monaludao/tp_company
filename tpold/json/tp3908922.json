@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 656, Songshan Road",
+               "short_name" : "Lane 656, Songshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªQ¶©¨½",
+               "short_name" : "ªQ¶©¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 21, Lane 656, Songshan Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.031073,
+               "lng" : 121.577998
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0324219802915,
+                  "lng" : 121.5793469802915
+               },
+               "southwest" : {
+                  "lat" : 25.0297240197085,
+                  "lng" : 121.5766490197085
+               }
+            }
+         },
+         "place_id" : "ChIJzbhRJ6mrQjQREbueIgRPG2U",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

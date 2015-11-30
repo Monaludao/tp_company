@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "159",
+               "short_name" : "159",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jinzhou Street",
+               "short_name" : "Jinzhou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新生里",
+               "short_name" : "新生里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 159, Jinzhou St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0604636,
+               "lng" : 121.5298886
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0618125802915,
+                  "lng" : 121.5312375802915
+               },
+               "southwest" : {
+                  "lat" : 25.0591146197085,
+                  "lng" : 121.5285396197085
+               }
+            }
+         },
+         "place_id" : "ChIJdZMiDVypQjQRwQ1KFso06ME",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

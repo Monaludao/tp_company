@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "422",
+               "short_name" : "422",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Ren'ai Road",
+               "short_name" : "Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "正和里",
+               "short_name" : "正和里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 422, Section 4, Ren'ai Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0373261,
+               "lng" : 121.5578836
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0386750802915,
+                  "lng" : 121.5592325802915
+               },
+               "southwest" : {
+                  "lat" : 25.03597711970849,
+                  "lng" : 121.5565346197085
+               }
+            }
+         },
+         "place_id" : "ChIJHS5eaMirQjQRS3Tbwg_ddsA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

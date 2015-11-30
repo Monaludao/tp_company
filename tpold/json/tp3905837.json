@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yongkang Street",
+               "short_name" : "Yongkang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¦í¨½",
+               "short_name" : "ºÖ¦í¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 39, Yongkang St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0305729,
+               "lng" : 121.529587
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0319218802915,
+                  "lng" : 121.5309359802915
+               },
+               "southwest" : {
+                  "lat" : 25.0292239197085,
+                  "lng" : 121.5282380197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ19AfvoOpQjQRQetemL_s0eQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "348",
+               "short_name" : "348",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Heping East Road",
+               "short_name" : "Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©¾¨½",
+               "short_name" : "¾¤©¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 348, Section 3, Heping E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0205153,
+                  "lng" : 121.5567857
+               },
+               "southwest" : {
+                  "lat" : 25.0205035,
+                  "lng" : 121.5567721
+               }
+            },
+            "location" : {
+               "lat" : 25.0205153,
+               "lng" : 121.5567857
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0218583802915,
+                  "lng" : 121.5581278802915
+               },
+               "southwest" : {
+                  "lat" : 25.0191604197085,
+                  "lng" : 121.5554299197085
+               }
+            }
+         },
+         "place_id" : "EjMxMDblj7DngaPlj7DljJfluILlpKflronljYDlkozlubPmnbHot6_kuInmrrUzNDjomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

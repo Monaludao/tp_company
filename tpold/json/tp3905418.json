@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "255",
+               "short_name" : "255",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhongzheng Road",
+               "short_name" : "Zhongzheng Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¼w¨½",
+               "short_name" : "ºÖ¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 255, Zhongzheng Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0949216,
+               "lng" : 121.5248011
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0962705802915,
+                  "lng" : 121.5261500802915
+               },
+               "southwest" : {
+                  "lat" : 25.0935726197085,
+                  "lng" : 121.5234521197085
+               }
+            }
+         },
+         "place_id" : "ChIJ5dVuuryuQjQRJHBi2PjhWts",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

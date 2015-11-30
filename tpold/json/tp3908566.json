@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 402, Fuxing North Road",
+               "short_name" : "Lane 402, Fuxing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Section 3",
+               "short_name" : "Section 3",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "¦¿¹ç¨½",
+               "short_name" : "¦¿¹ç¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 22, Lane 402, Fuxing N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.061742,
+               "lng" : 121.54256
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0630909802915,
+                  "lng" : 121.5439089802915
+               },
+               "southwest" : {
+                  "lat" : 25.0603930197085,
+                  "lng" : 121.5412110197085
+               }
+            }
+         },
+         "place_id" : "ChIJBeaYYeOrQjQRafk3rgmaS_Y",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

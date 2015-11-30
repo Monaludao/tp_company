@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "91",
+               "short_name" : "91",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wende Road",
+               "short_name" : "Wende Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ä´I¨½",
+               "short_name" : "´ä´I¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 91, Wende Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0785641,
+               "lng" : 121.5829908
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0799130802915,
+                  "lng" : 121.5843397802915
+               },
+               "southwest" : {
+                  "lat" : 25.0772151197085,
+                  "lng" : 121.5816418197085
+               }
+            }
+         },
+         "place_id" : "ChIJyW1n2YmsQjQRY_dzrAZZ9TI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

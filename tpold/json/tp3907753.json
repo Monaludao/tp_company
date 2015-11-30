@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "95",
+               "short_name" : "95",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Nanjing East Road",
+               "short_name" : "Section 4, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ªF¶Õ¨½",
+               "short_name" : "ªF¶Õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 95, Section 4, Nanjing E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0518744,
+               "lng" : 121.5541879
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0532233802915,
+                  "lng" : 121.5555368802915
+               },
+               "southwest" : {
+                  "lat" : 25.0505254197085,
+                  "lng" : 121.5528389197085
+               }
+            }
+         },
+         "place_id" : "ChIJZaOQJ-qrQjQRDAARxqOlHFE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

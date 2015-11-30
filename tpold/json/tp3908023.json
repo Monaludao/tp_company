@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wanli Street",
+               "short_name" : "Wanli St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "萬美里",
+               "short_name" : "萬美里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wanli St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0012709,
+                  "lng" : 121.5669515
+               },
+               "southwest" : {
+                  "lat" : 24.999082,
+                  "lng" : 121.5637081
+               }
+            },
+            "location" : {
+               "lat" : 25.0004942,
+               "lng" : 121.5655371
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0015254302915,
+                  "lng" : 121.5669515
+               },
+               "southwest" : {
+                  "lat" : 24.9988274697085,
+                  "lng" : 121.5637081
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJX9f6_GuqQjQR_tvkxUpifPw",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

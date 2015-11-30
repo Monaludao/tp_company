@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "55-2",
+               "short_name" : "55-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yining Street",
+               "short_name" : "Yining St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¶©©M¨½",
+               "short_name" : "¶©©M¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 55-2, Yining St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.064722,
+               "lng" : 121.5115707
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0660709802915,
+                  "lng" : 121.5129196802915
+               },
+               "southwest" : {
+                  "lat" : 25.0633730197085,
+                  "lng" : 121.5102217197085
+               }
+            }
+         },
+         "place_id" : "ChIJE-6_KD-pQjQRDB60DIzpXrQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

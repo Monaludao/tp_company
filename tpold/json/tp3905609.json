@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "500-2",
+               "short_name" : "500-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 4, Zhongxiao East Road",
+               "short_name" : "Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¶©¨½",
+               "short_name" : "¿³¶©¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 500-2, Section 4, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0410535,
+               "lng" : 121.5617109
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0424024802915,
+                  "lng" : 121.5630598802915
+               },
+               "southwest" : {
+                  "lat" : 25.0397045197085,
+                  "lng" : 121.5603619197085
+               }
+            }
+         },
+         "place_id" : "ChIJze1d7rirQjQRcf4qUGpxuCw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

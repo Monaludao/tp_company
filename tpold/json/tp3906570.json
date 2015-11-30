@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 67, Linsen North Road",
+               "short_name" : "Lane 67, Linsen N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥¿¦u¨½",
+               "short_name" : "¥¿¦u¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23, Lane 67, Linsen N Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0485857,
+               "lng" : 121.5253699
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0499346802915,
+                  "lng" : 121.5267188802915
+               },
+               "southwest" : {
+                  "lat" : 25.0472367197085,
+                  "lng" : 121.5240209197085
+               }
+            }
+         },
+         "place_id" : "ChIJK6MZgW-pQjQReBLUOSFdM8g",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

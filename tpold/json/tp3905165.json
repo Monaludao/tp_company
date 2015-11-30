@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "310",
+               "short_name" : "310",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wenlin Road",
+               "short_name" : "Wenlin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¼w¨½",
+               "short_name" : "ºÖ¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 310, Wenlin Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0921293,
+               "lng" : 121.5262472
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0934782802915,
+                  "lng" : 121.5275961802915
+               },
+               "southwest" : {
+                  "lat" : 25.0907803197085,
+                  "lng" : 121.5248982197085
+               }
+            }
+         },
+         "place_id" : "ChIJqV-XyKSuQjQRp_B-A-7CKlQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

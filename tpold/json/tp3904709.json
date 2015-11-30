@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "97",
+               "short_name" : "97",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Xiyuan Road",
+               "short_name" : "Section 1, Xiyuan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´I¥Á¨½",
+               "short_name" : "´I¥Á¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 97, Section 1, Xiyuan Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0386653,
+               "lng" : 121.4999406
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0400142802915,
+                  "lng" : 121.5012895802915
+               },
+               "southwest" : {
+                  "lat" : 25.03731631970849,
+                  "lng" : 121.4985916197085
+               }
+            }
+         },
+         "place_id" : "ChIJTV4w_qipQjQRiWGOJyg-zuI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

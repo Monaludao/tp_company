@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "233",
+               "short_name" : "233",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jiankang Road",
+               "short_name" : "Jiankang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "東光里",
+               "short_name" : "東光里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 233, Jiankang Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.053998,
+                  "lng" : 121.5616284
+               },
+               "southwest" : {
+                  "lat" : 25.053981,
+                  "lng" : 121.5616274
+               }
+            },
+            "location" : {
+               "lat" : 25.053981,
+               "lng" : 121.5616284
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0553384802915,
+                  "lng" : 121.5629768802915
+               },
+               "southwest" : {
+                  "lat" : 25.0526405197085,
+                  "lng" : 121.5602789197085
+               }
+            }
+         },
+         "place_id" : "EioxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlgaXlurfot68yMzPomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

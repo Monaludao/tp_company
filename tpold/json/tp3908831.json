@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 256, Rui'an Street",
+               "short_name" : "Lane 256, Rui'an St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¥Í¨½",
+               "short_name" : "Às¥Í¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 2, Lane 256, Rui'an St, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0269058,
+               "lng" : 121.5394564
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0282547802915,
+                  "lng" : 121.5408053802915
+               },
+               "southwest" : {
+                  "lat" : 25.02555681970849,
+                  "lng" : 121.5381074197085
+               }
+            }
+         },
+         "place_id" : "ChIJi21EhymqQjQRtPEb6QtQWdM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

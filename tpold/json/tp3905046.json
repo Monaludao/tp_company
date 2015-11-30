@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 286, Shidong Road",
+               "short_name" : "Lane 286, Shidong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 28, Lane 286, Shidong Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1116197,
+               "lng" : 121.5373769
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1129686802915,
+                  "lng" : 121.5387258802915
+               },
+               "southwest" : {
+                  "lat" : 25.1102707197085,
+                  "lng" : 121.5360279197085
+               }
+            }
+         },
+         "place_id" : "ChIJT61U-ymsQjQRECHXcZdxXJg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

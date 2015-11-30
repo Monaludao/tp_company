@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "213",
+               "short_name" : "213",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Nanjing East Road",
+               "short_name" : "Section 5, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "安平里",
+               "short_name" : "安平里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 213, Section 5, Nanjing E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.051614,
+               "lng" : 121.56405
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0529629802915,
+                  "lng" : 121.5653989802915
+               },
+               "southwest" : {
+                  "lat" : 25.0502650197085,
+                  "lng" : 121.5627010197085
+               }
+            }
+         },
+         "place_id" : "ChIJfRscQJSrQjQR0LM0VLk4YpM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

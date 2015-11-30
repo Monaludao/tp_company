@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "37",
+               "short_name" : "37",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xining North Road",
+               "short_name" : "Xining N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã¼Ö¨½",
+               "short_name" : "¥Ã¼Ö¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 37, Xining N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.053635,
+               "lng" : 121.508851
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0549839802915,
+                  "lng" : 121.5101999802915
+               },
+               "southwest" : {
+                  "lat" : 25.0522860197085,
+                  "lng" : 121.5075020197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWXnl2xOpQjQRILXhROE_doM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

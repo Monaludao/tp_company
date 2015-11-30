@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Fuxing South Road",
+               "short_name" : "Section 1, Fuxing S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤±[¨½",
+               "short_name" : "¤¤±[¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Section 1, Fuxing S Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0475939,
+                  "lng" : 121.5440341
+               },
+               "southwest" : {
+                  "lat" : 25.0475936,
+                  "lng" : 121.5440153
+               }
+            },
+            "location" : {
+               "lat" : 25.0475936,
+               "lng" : 121.5440341
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0489427302915,
+                  "lng" : 121.5453736802915
+               },
+               "southwest" : {
+                  "lat" : 25.0462447697085,
+                  "lng" : 121.5426757197085
+               }
+            }
+         },
+         "place_id" : "EjExMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlvqnoiIjljZfot6_kuIDmrrUx6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

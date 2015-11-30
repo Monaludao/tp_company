@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huaide Street",
+               "short_name" : "Huaide St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸Î¥Á¨½",
+               "short_name" : "¸Î¥Á¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 24, Huaide St, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1118345,
+               "lng" : 121.5194771
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1131834802915,
+                  "lng" : 121.5208260802915
+               },
+               "southwest" : {
+                  "lat" : 25.1104855197085,
+                  "lng" : 121.5181281197085
+               }
+            }
+         },
+         "place_id" : "ChIJ1z5S-42uQjQRLNR6s2Ph4MU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

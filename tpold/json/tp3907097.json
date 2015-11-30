@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xing'an Street",
+               "short_name" : "Xing'an St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¬w¨½",
+               "short_name" : "Às¬w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 100, Xing'an St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.055728,
+               "lng" : 121.542833
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0570769802915,
+                  "lng" : 121.5441819802915
+               },
+               "southwest" : {
+                  "lat" : 25.0543790197085,
+                  "lng" : 121.5414840197085
+               }
+            }
+         },
+         "place_id" : "ChIJIf8S0-arQjQRsCKVuP9k5Oo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

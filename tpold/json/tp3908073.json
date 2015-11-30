@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "160",
+               "short_name" : "160",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhuhai Road",
+               "short_name" : "Zhuhai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¬u·½¨½",
+               "short_name" : "¬u·½¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 160, Zhuhai Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1418917,
+                  "lng" : 121.5092879
+               },
+               "southwest" : {
+                  "lat" : 25.1418747,
+                  "lng" : 121.5092872
+               }
+            },
+            "location" : {
+               "lat" : 25.1418917,
+               "lng" : 121.5092879
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1432321802915,
+                  "lng" : 121.5106365302915
+               },
+               "southwest" : {
+                  "lat" : 25.1405342197085,
+                  "lng" : 121.5079385697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EioxMTLlj7DngaPlj7DljJfluILljJfmipXljYDnj6Dmtbfot68xNjDomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

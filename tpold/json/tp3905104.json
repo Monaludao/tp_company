@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 91, Shidong Road",
+               "short_name" : "Lane 91, Shidong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤Ñ¸S¨½",
+               "short_name" : "¤Ñ¸S¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 39, Lane 91, Shidong Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1135736,
+               "lng" : 121.5293448
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1149225802915,
+                  "lng" : 121.5306937802915
+               },
+               "southwest" : {
+                  "lat" : 25.1122246197085,
+                  "lng" : 121.5279958197085
+               }
+            }
+         },
+         "place_id" : "ChIJd-ztJISuQjQRL9oyQ-8dpW0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

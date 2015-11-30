@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "637",
+               "short_name" : "637",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Daye Road",
+               "short_name" : "Daye Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤¤±e¨½",
+               "short_name" : "¤¤±e¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 637, Daye Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1372372,
+               "lng" : 121.4986516
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1385861802915,
+                  "lng" : 121.5000005802915
+               },
+               "southwest" : {
+                  "lat" : 25.13588821970849,
+                  "lng" : 121.4973026197085
+               }
+            }
+         },
+         "place_id" : "ChIJbc493lGuQjQR3wTc4cqehUc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

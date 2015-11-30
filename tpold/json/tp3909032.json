@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 627, Section 3, Heping East Road",
+               "short_name" : "Lane 627, Section 3, Heping E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤¦w¨½",
+               "short_name" : "¾¤¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 31, Lane 627, Section 3, Heping E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0129366,
+                  "lng" : 121.564847
+               },
+               "southwest" : {
+                  "lat" : 25.0129246,
+                  "lng" : 121.5648337
+               }
+            },
+            "location" : {
+               "lat" : 25.0129366,
+               "lng" : 121.564847
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0142795802915,
+                  "lng" : 121.5661893302915
+               },
+               "southwest" : {
+                  "lat" : 25.01158161970849,
+                  "lng" : 121.5634913697085
+               }
+            }
+         },
+         "place_id" : "EjgxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDlkozlubPmnbHot6_kuInmrrU2Mjflt7czMeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

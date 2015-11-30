@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 80, Section 4, Chengde Road",
+               "short_name" : "Lane 80, Section 4, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©Ó¼w¨½",
+               "short_name" : "©Ó¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Lane 80, Section 4, Chengde Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.082402,
+               "lng" : 121.522836
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0837509802915,
+                  "lng" : 121.5241849802915
+               },
+               "southwest" : {
+                  "lat" : 25.0810530197085,
+                  "lng" : 121.5214870197085
+               }
+            }
+         },
+         "place_id" : "ChIJZXkTS7KuQjQRhKYTbC6gQ3k",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

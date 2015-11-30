@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "180",
+               "short_name" : "180",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dechang Street",
+               "short_name" : "Dechang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©¾¼w¨½",
+               "short_name" : "©¾¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 180, Dechang St, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.023792,
+               "lng" : 121.495558
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0251409802915,
+                  "lng" : 121.4969069802915
+               },
+               "southwest" : {
+                  "lat" : 25.0224430197085,
+                  "lng" : 121.4942090197085
+               }
+            }
+         },
+         "place_id" : "ChIJtVWDtbWpQjQRAQoECXBhGOo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

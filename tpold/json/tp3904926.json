@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "96",
+               "short_name" : "96",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 320, Zhengdayi Street",
+               "short_name" : "Lane 320, Zhengdayi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "政大里",
+               "short_name" : "政大里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 96, Lane 320, Zhengdayi St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9855168,
+                  "lng" : 121.5867584
+               },
+               "southwest" : {
+                  "lat" : 24.9855076,
+                  "lng" : 121.5867426
+               }
+            },
+            "location" : {
+               "lat" : 24.9855076,
+               "lng" : 121.5867426
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9868611802915,
+                  "lng" : 121.5880994802915
+               },
+               "southwest" : {
+                  "lat" : 24.9841632197085,
+                  "lng" : 121.5854015197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjIxMTblj7DngaPlj7DljJfluILmloflsbHljYDmlL_lpKfkuIDooZczMjDlt7c5NuiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

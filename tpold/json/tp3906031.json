@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 32, Lane 216, Section 4, Zhongxiao East Road",
+               "short_name" : "Alley 32, Lane 216, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«Ø­Û¨½",
+               "short_name" : "«Ø­Û¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 18, Alley 32, Lane 216, Section 4, Zhongxiao E Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0398389,
+               "lng" : 121.5520259
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0411878802915,
+                  "lng" : 121.5533748802915
+               },
+               "southwest" : {
+                  "lat" : 25.0384899197085,
+                  "lng" : 121.5506769197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7ZKzYs-rQjQR0ZObGE43hHU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

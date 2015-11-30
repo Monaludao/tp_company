@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "51",
+               "short_name" : "51",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongxing Road",
+               "short_name" : "Dongxing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·s¤¯¨½",
+               "short_name" : "·s¤¯¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 51, Dongxing Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.047505,
+               "lng" : 121.566341
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0488539802915,
+                  "lng" : 121.5676899802915
+               },
+               "southwest" : {
+                  "lat" : 25.04615601970849,
+                  "lng" : 121.5649920197085
+               }
+            }
+         },
+         "place_id" : "ChIJrxBCG5arQjQRCqRnRIC6Lno",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Songgao Road",
+               "short_name" : "Songgao Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¶®¨½",
+               "short_name" : "¿³¶®¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Songgao Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0398196,
+               "lng" : 121.5651865
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0411685802915,
+                  "lng" : 121.5665354802915
+               },
+               "southwest" : {
+                  "lat" : 25.03847061970849,
+                  "lng" : 121.5638375197085
+               }
+            }
+         },
+         "place_id" : "ChIJfUVNebmrQjQRKLJ_t0W0dUM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

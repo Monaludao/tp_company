@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "193",
+               "short_name" : "193",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jingxing Road",
+               "short_name" : "Jingxing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ºªF¨½",
+               "short_name" : "´ºªF¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 193, Jingxing Rd, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.992458,
+               "lng" : 121.5442917
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9938069802915,
+                  "lng" : 121.5456406802915
+               },
+               "southwest" : {
+                  "lat" : 24.9911090197085,
+                  "lng" : 121.5429427197085
+               }
+            }
+         },
+         "place_id" : "ChIJcQdV6gaqQjQRQeuxliI177c",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

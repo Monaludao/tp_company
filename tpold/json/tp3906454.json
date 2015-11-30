@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "161",
+               "short_name" : "161",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Jianguo South Road",
+               "short_name" : "Section 1, Jianguo S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸q§ø¨½",
+               "short_name" : "¸q§ø¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 161, Section 1, Jianguo S Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0411554,
+                  "lng" : 121.5375694
+               },
+               "southwest" : {
+                  "lat" : 25.0411498,
+                  "lng" : 121.5375518
+               }
+            },
+            "location" : {
+               "lat" : 25.0411554,
+               "lng" : 121.5375694
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0425015802915,
+                  "lng" : 121.5389095802915
+               },
+               "southwest" : {
+                  "lat" : 25.0398036197085,
+                  "lng" : 121.5362116197085
+               }
+            }
+         },
+         "place_id" : "EjMxMDblj7DngaPlj7DljJfluILlpKflronljYDlu7rlnIvljZfot6_kuIDmrrUxNjHomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

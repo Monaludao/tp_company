@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Ren'ai Road",
+               "short_name" : "Section 2, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "文北里",
+               "short_name" : "文北里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Section 2, Ren'ai Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0382056,
+                  "lng" : 121.5254032
+               },
+               "southwest" : {
+                  "lat" : 25.0381886,
+                  "lng" : 121.5254031
+               }
+            },
+            "location" : {
+               "lat" : 25.0381886,
+               "lng" : 121.5254031
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0395460802915,
+                  "lng" : 121.5267521302915
+               },
+               "southwest" : {
+                  "lat" : 25.0368481197085,
+                  "lng" : 121.5240541697085
+               }
+            }
+         },
+         "place_id" : "Ei4xMDDlj7DngaPlj7DljJfluILkuK3mraPljYDku4HmhJvot6_kuozmrrUz6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

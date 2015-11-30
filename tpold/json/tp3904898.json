@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "780",
+               "short_name" : "780",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beian Road",
+               "short_name" : "Beian Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "北安里",
+               "short_name" : "北安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 780, Beian Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0849641,
+               "lng" : 121.5537414
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0863130802915,
+                  "lng" : 121.5550903802915
+               },
+               "southwest" : {
+                  "lat" : 25.0836151197085,
+                  "lng" : 121.5523924197085
+               }
+            }
+         },
+         "place_id" : "ChIJ28KufBGsQjQRaZRpi7Tl5Hs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

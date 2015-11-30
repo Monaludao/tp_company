@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "51",
+               "short_name" : "51",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Kaifeng Street",
+               "short_name" : "Section 2, Kaifeng St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¬P¨½",
+               "short_name" : "ºÖ¬P¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 51, Section 2, Kaifeng St, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.047006,
+               "lng" : 121.505536
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0483549802915,
+                  "lng" : 121.5068849802915
+               },
+               "southwest" : {
+                  "lat" : 25.0456570197085,
+                  "lng" : 121.5041870197085
+               }
+            }
+         },
+         "place_id" : "ChIJyTAzHg-pQjQR29ATMD1wM78",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

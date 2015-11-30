@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 172, Section 1, Keelung Road",
+               "short_name" : "Lane 172, Section 1, Keelung Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·s¤¯¨½",
+               "short_name" : "·s¤¯¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Lane 172, Section 1, Keelung Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.043107,
+               "lng" : 121.564574
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0444559802915,
+                  "lng" : 121.5659229802915
+               },
+               "southwest" : {
+                  "lat" : 25.0417580197085,
+                  "lng" : 121.5632250197085
+               }
+            }
+         },
+         "place_id" : "ChIJiam5u76rQjQRFYLjHhFmC1E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

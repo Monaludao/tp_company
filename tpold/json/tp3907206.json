@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 321, Yangguang Street",
+               "short_name" : "Lane 321, Yangguang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´ò¤¸¨½",
+               "short_name" : "´ò¤¸¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 26, Lane 321, Yangguang St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0718101,
+                  "lng" : 121.5783741
+               },
+               "southwest" : {
+                  "lat" : 25.0717993,
+                  "lng" : 121.5783596
+               }
+            },
+            "location" : {
+               "lat" : 25.0718101,
+               "lng" : 121.5783596
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0731536802915,
+                  "lng" : 121.5797158302915
+               },
+               "southwest" : {
+                  "lat" : 25.0704557197085,
+                  "lng" : 121.5770178697085
+               }
+            }
+         },
+         "place_id" : "Ei8xMTTlj7DngaPlj7DljJfluILlhafmuZbljYDpmb3lhYnooZczMjHlt7cyNuiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

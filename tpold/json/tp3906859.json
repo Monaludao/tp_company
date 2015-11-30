@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "48",
+               "short_name" : "48",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 277, Wanda Road",
+               "short_name" : "Lane 277, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©¾­s¨½",
+               "short_name" : "©¾­s¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 48, Lane 277, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0254201,
+               "lng" : 121.5029486
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0267690802915,
+                  "lng" : 121.5042975802915
+               },
+               "southwest" : {
+                  "lat" : 25.02407111970849,
+                  "lng" : 121.5015996197085
+               }
+            }
+         },
+         "place_id" : "ChIJP_lSBrqpQjQRcfoQftYX6FE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

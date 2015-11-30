@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Antai Street",
+               "short_name" : "Antai St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦w®õ¨½",
+               "short_name" : "¦w®õ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 29, Antai St, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0735245,
+               "lng" : 121.6184056
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0748734802915,
+                  "lng" : 121.6197545802915
+               },
+               "southwest" : {
+                  "lat" : 25.07217551970849,
+                  "lng" : 121.6170566197085
+               }
+            }
+         },
+         "place_id" : "ChIJ04HHFLesQjQRoSRpOV3_z9A",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

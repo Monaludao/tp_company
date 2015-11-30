@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aiguo West Road",
+               "short_name" : "Aiguo W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aiguo W Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0374801,
+                  "lng" : 121.5167185
+               },
+               "southwest" : {
+                  "lat" : 25.0343763,
+                  "lng" : 121.5068364
+               }
+            },
+            "location" : {
+               "lat" : 25.0357572,
+               "lng" : 121.5115848
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0374801,
+                  "lng" : 121.5167185
+               },
+               "southwest" : {
+                  "lat" : 25.0343763,
+                  "lng" : 121.5068364
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrzRPq6GpQjQR7HjhtM5WJ3E",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

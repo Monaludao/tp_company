@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 4, Lane 356, Yanshou Street",
+               "short_name" : "Alley 4, Lane 356, Yanshou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Às¥Ð¨½",
+               "short_name" : "Às¥Ð¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 4, Alley 4, Lane 356, Yanshou St, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0558381,
+               "lng" : 121.5588261
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0571870802915,
+                  "lng" : 121.5601750802915
+               },
+               "southwest" : {
+                  "lat" : 25.0544891197085,
+                  "lng" : 121.5574771197085
+               }
+            }
+         },
+         "place_id" : "ChIJ37ioxuyrQjQR-e0DMLaULg0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

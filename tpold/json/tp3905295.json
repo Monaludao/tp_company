@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "520",
+               "short_name" : "520",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 512, Section 4, Ren'ai Road",
+               "short_name" : "Lane 512, Section 4, Ren'ai Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "正和里",
+               "short_name" : "正和里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 520, Lane 512, Section 4, Ren'ai Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0371898,
+                  "lng" : 121.5612954
+               },
+               "southwest" : {
+                  "lat" : 25.0371898,
+                  "lng" : 121.5612766
+               }
+            },
+            "location" : {
+               "lat" : 25.0371898,
+               "lng" : 121.5612954
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0385387802915,
+                  "lng" : 121.5626349802915
+               },
+               "southwest" : {
+                  "lat" : 25.0358408197085,
+                  "lng" : 121.5599370197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMTDlj7DngaPlj7DljJfluILkv6HnvqnljYDku4HmhJvot6_lm5vmrrU1MTLlt7c1MjDomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

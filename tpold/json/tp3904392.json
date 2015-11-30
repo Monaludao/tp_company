@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liangzhou Street",
+               "short_name" : "Liangzhou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Liangzhou St, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0608593,
+                  "lng" : 121.5141742
+               },
+               "southwest" : {
+                  "lat" : 25.060283,
+                  "lng" : 121.5084522
+               }
+            },
+            "location" : {
+               "lat" : 25.0606648,
+               "lng" : 121.511356
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0619201302915,
+                  "lng" : 121.5141742
+               },
+               "southwest" : {
+                  "lat" : 25.0592221697085,
+                  "lng" : 121.5084522
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfftSxD-pQjQRo0wmwYwS3rw",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

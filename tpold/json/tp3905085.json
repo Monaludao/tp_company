@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "123",
+               "short_name" : "123",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Huanhe North Road",
+               "short_name" : "Section 3, Huanhe N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¸¬Äª¨½",
+               "short_name" : "¸¬Äª¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 123, Section 3, Huanhe N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0848855,
+                  "lng" : 121.5061968
+               },
+               "southwest" : {
+                  "lat" : 25.0848778,
+                  "lng" : 121.5061801
+               }
+            },
+            "location" : {
+               "lat" : 25.0848855,
+               "lng" : 121.5061968
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0862306302915,
+                  "lng" : 121.5075374302915
+               },
+               "southwest" : {
+                  "lat" : 25.0835326697085,
+                  "lng" : 121.5048394697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDnkrDmsrPljJfot6_kuInmrrUxMjPomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

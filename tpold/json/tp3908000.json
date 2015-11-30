@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 62, Section 2, Huanhe South Road",
+               "short_name" : "Lane 62, Section 2, Huanhe S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¬h¶m¨½",
+               "short_name" : "¬h¶m¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 10, Lane 62, Section 2, Huanhe S Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0377753,
+               "lng" : 121.4959211
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0391242802915,
+                  "lng" : 121.4972700802915
+               },
+               "southwest" : {
+                  "lat" : 25.0364263197085,
+                  "lng" : 121.4945721197085
+               }
+            }
+         },
+         "place_id" : "ChIJzcAa8qupQjQRezFmx7EjyOk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

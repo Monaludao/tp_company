@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 20, Lane 423, Wanda Road",
+               "short_name" : "Alley 20, Lane 423, Wanda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¿³¼w¨½",
+               "short_name" : "¿³¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 20, Lane 423, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0211258,
+               "lng" : 121.4994438
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0224747802915,
+                  "lng" : 121.5007927802915
+               },
+               "southwest" : {
+                  "lat" : 25.0197768197085,
+                  "lng" : 121.4980948197085
+               }
+            }
+         },
+         "place_id" : "ChIJM03iMbapQjQR3rMKGTqZlvw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

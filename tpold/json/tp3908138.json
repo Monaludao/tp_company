@@ -1,0 +1,186 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Zhongxiao West Road",
+               "short_name" : "Section 1, Zhongxiao W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©ú¨½",
+               "short_name" : "¾¤©ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 39, Section 1, Zhongxiao W Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0461867,
+               "lng" : 121.5185898
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0475356802915,
+                  "lng" : 121.5199387802915
+               },
+               "southwest" : {
+                  "lat" : 25.0448377197085,
+                  "lng" : 121.5172408197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjdYAP3KpQjQRnHme7Q-QXVg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "41",
+               "short_name" : "41",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Zhongxiao West Road",
+               "short_name" : "Section 1, Zhongxiao W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©ú¨½",
+               "short_name" : "¾¤©ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 41, Section 1, Zhongxiao W Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.046302,
+               "lng" : 121.518464
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0476509802915,
+                  "lng" : 121.5198129802915
+               },
+               "southwest" : {
+                  "lat" : 25.04495301970849,
+                  "lng" : 121.5171150197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ1uBP3KpQjQRucXQbdSocWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Zhongxiao West Road",
+               "short_name" : "Section 1, Zhongxiao W Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤©ú¨½",
+               "short_name" : "¾¤©ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 36, Section 1, Zhongxiao W Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0461245,
+               "lng" : 121.5169401
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0474734802915,
+                  "lng" : 121.5182890802915
+               },
+               "southwest" : {
+                  "lat" : 25.04477551970849,
+                  "lng" : 121.5155911197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhyIZ-HKpQjQRuj2jRJdDP3E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

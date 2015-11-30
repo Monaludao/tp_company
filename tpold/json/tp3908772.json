@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "226",
+               "short_name" : "226",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yanping South Road",
+               "short_name" : "Yanping S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "愛國里",
+               "short_name" : "愛國里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 226, Yanping S Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0341407,
+               "lng" : 121.5073464
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0354896802915,
+                  "lng" : 121.5086953802915
+               },
+               "southwest" : {
+                  "lat" : 25.0327917197085,
+                  "lng" : 121.5059974197085
+               }
+            }
+         },
+         "place_id" : "ChIJ1Y5LGaSpQjQRvuoLXtxoQsI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

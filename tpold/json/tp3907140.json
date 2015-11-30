@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 5, Lane 107, Section 1, Fuxing South Road",
+               "short_name" : "Alley 5, Lane 107, Section 1, Fuxing S Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥úªZ¨½",
+               "short_name" : "¥úªZ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da¡¦an District",
+               "short_name" : "Da¡¦an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 9, Alley 5, Lane 107, Section 1, Fuxing S Rd, Da¡¦an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0441299,
+               "lng" : 121.54439
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0454788802915,
+                  "lng" : 121.5457389802915
+               },
+               "southwest" : {
+                  "lat" : 25.04278091970849,
+                  "lng" : 121.5430410197085
+               }
+            }
+         },
+         "place_id" : "ChIJZx2iS9qrQjQReh7TrYioFhM",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

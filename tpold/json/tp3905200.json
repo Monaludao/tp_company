@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "118-2",
+               "short_name" : "118-2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wuxing Street",
+               "short_name" : "Wuxing St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "뉴햜㉬",
+               "short_name" : "뉴햜㉬",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 118-2, Wuxing St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.029896,
+               "lng" : 121.561136
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0312449802915,
+                  "lng" : 121.5624849802915
+               },
+               "southwest" : {
+                  "lat" : 25.02854701970849,
+                  "lng" : 121.5597870197085
+               }
+            }
+         },
+         "place_id" : "ChIJcei6n7WrQjQRN-0A3IIgHkg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

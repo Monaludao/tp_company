@@ -1,0 +1,1151 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 40, Lane 366, Section 2, Bade Road",
+               "short_name" : "Alley 40, Lane 366, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中崙里",
+               "short_name" : "中崙里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 40, Lane 366, Section 2, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.04661,
+                  "lng" : 121.5460048
+               },
+               "southwest" : {
+                  "lat" : 25.0463865,
+                  "lng" : 121.5455491
+               }
+            },
+            "location" : {
+               "lat" : 25.0464028,
+               "lng" : 121.5455491
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0478472302915,
+                  "lng" : 121.5471259302915
+               },
+               "southwest" : {
+                  "lat" : 25.0451492697085,
+                  "lng" : 121.5444279697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDWUyedurQjQRrTOxj3SX7_Q",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 451, Section 2, Bade Road",
+               "short_name" : "Lane 451, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 451, Section 2, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0501391,
+                  "lng" : 121.5474905
+               },
+               "southwest" : {
+                  "lat" : 25.04816,
+                  "lng" : 121.5472958
+               }
+            },
+            "location" : {
+               "lat" : 25.0491998,
+               "lng" : 121.5474405
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0504985302915,
+                  "lng" : 121.5487421302915
+               },
+               "southwest" : {
+                  "lat" : 25.0478005697085,
+                  "lng" : 121.5460441697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPcWIJt2rQjQR2IpzPFe462s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 437, Section 2, Bade Road",
+               "short_name" : "Lane 437, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中正里",
+               "short_name" : "中正里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 437, Section 2, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0496768,
+                  "lng" : 121.547395
+               },
+               "southwest" : {
+                  "lat" : 25.0482521,
+                  "lng" : 121.546828
+               }
+            },
+            "location" : {
+               "lat" : 25.049015,
+               "lng" : 121.5469926
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.05031343029151,
+                  "lng" : 121.5484604802915
+               },
+               "southwest" : {
+                  "lat" : 25.0476154697085,
+                  "lng" : 121.5457625197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTa-D39yrQjQR45wmgM0RnHU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 45, Lane 366, Section 2, Bade Road",
+               "short_name" : "Alley 45, Lane 366, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中崙里",
+               "short_name" : "中崙里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 45, Lane 366, Section 2, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.046495,
+                  "lng" : 121.5467169
+               },
+               "southwest" : {
+                  "lat" : 25.0463635,
+                  "lng" : 121.5460048
+               }
+            },
+            "location" : {
+               "lat" : 25.0463865,
+               "lng" : 121.5460048
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0477782302915,
+                  "lng" : 121.5477098302915
+               },
+               "southwest" : {
+                  "lat" : 25.0450802697085,
+                  "lng" : 121.5450118697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsWToYturQjQRgb_k_2Ekq2M",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 33, Lane 366, Section 2, Bade Road",
+               "short_name" : "Alley 33, Lane 366, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 33, Lane 366, Section 2, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0466924,
+               "lng" : 121.5462341
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0480413802915,
+                  "lng" : 121.5475830802915
+               },
+               "southwest" : {
+                  "lat" : 25.04534341970849,
+                  "lng" : 121.5448851197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJd1TXgtyrQjQR-fgOgFP-j2Y",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Section 2, Zhongxiao East Road",
+               "short_name" : "Section 2, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Section 2, Zhongxiao E Rd & Section 1, Bade Rd, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0433131,
+               "lng" : 121.5289668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04466208029151,
+                  "lng" : 121.5303157802915
+               },
+               "southwest" : {
+                  "lat" : 25.0419641197085,
+                  "lng" : 121.5276178197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjwxMDDlj7DngaPlj7DljJfluILkuK3mraPljYDlv6DlrZ3mnbHot6_kuozmrrXlhavlvrfot6_kuIDmrrU",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 106, Section 4, Bade Road",
+               "short_name" : "Lane 106, Section 4, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "復盛里",
+               "short_name" : "復盛里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 106, Section 4, Bade Rd & Alley 2, Lane 106, Section 4, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0479681,
+               "lng" : 121.5610279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0493170802915,
+                  "lng" : 121.5623768802915
+               },
+               "southwest" : {
+                  "lat" : 25.0466191197085,
+                  "lng" : 121.5596789197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkkxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDlhavlvrfot6_lm5vmrrUxMDblt7flhavlvrfot6_lm5vmrrUxMDblt7cy5byE",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 218, Section 2, Bade Road",
+               "short_name" : "Lane 218, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "埤頭里",
+               "short_name" : "埤頭里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 218, Section 2, Bade Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0465937,
+                  "lng" : 121.5403334
+               },
+               "southwest" : {
+                  "lat" : 25.0453233,
+                  "lng" : 121.5397869
+               }
+            },
+            "location" : {
+               "lat" : 25.0453233,
+               "lng" : 121.5400672
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0473074802915,
+                  "lng" : 121.5414091302915
+               },
+               "southwest" : {
+                  "lat" : 25.0446095197085,
+                  "lng" : 121.5387111697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfRm-AtmrQjQRW5OOrg1CsEc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 2, Lane 250, Section 5, Nanjing East Road",
+               "short_name" : "Alley 2, Lane 250, Section 5, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "新聚里",
+               "short_name" : "新聚里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 2, Lane 250, Section 5, Nanjing E Rd & Lane 389, Section 4, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0506727,
+               "lng" : 121.5681539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0520216802915,
+                  "lng" : 121.5695028802915
+               },
+               "southwest" : {
+                  "lat" : 25.0493237197085,
+                  "lng" : 121.5668049197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkwxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDljZfkuqzmnbHot6_kupTmrrUyNTDlt7cy5byE5YWr5b636Lev5Zub5q61Mzg55be3",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 10, Section 2, Bade Road",
+               "short_name" : "Lane 10, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 10, Section 2, Bade Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0446341,
+                  "lng" : 121.5363422
+               },
+               "southwest" : {
+                  "lat" : 25.0437094,
+                  "lng" : 121.5338948
+               }
+            },
+            "location" : {
+               "lat" : 25.043981,
+               "lng" : 121.5351733
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0455207302915,
+                  "lng" : 121.5364674802915
+               },
+               "southwest" : {
+                  "lat" : 25.0428227697085,
+                  "lng" : 121.5337695197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWUqnzmKpQjQRjoHNe9dd90U",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 2, Bade Road",
+               "short_name" : "Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民輝里",
+               "short_name" : "民輝里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Da’an District",
+               "short_name" : "Da’an District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5, Section 2, Bade Rd, Da’an District, Taipei City, Taiwan 106",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0445685,
+               "lng" : 121.5333113
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.04591748029151,
+                  "lng" : 121.5346602802915
+               },
+               "southwest" : {
+                  "lat" : 25.0432195197085,
+                  "lng" : 121.5319623197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe8YlMmOpQjQRAqYI1F6VkeE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 7, Lane 174, Section 2, Bade Road",
+               "short_name" : "Alley 7, Lane 174, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "埤頭里",
+               "short_name" : "埤頭里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 7, Lane 174, Section 2, Bade Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0460681,
+                  "lng" : 121.5392344
+               },
+               "southwest" : {
+                  "lat" : 25.0458867,
+                  "lng" : 121.5382092
+               }
+            },
+            "location" : {
+               "lat" : 25.0460459,
+               "lng" : 121.5392344
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0473263802915,
+                  "lng" : 121.5400707802915
+               },
+               "southwest" : {
+                  "lat" : 25.0446284197085,
+                  "lng" : 121.5373728197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYTUM9NirQjQRBd13KVDmSCg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 42, Lane 300, Section 2, Bade Road",
+               "short_name" : "Alley 42, Lane 300, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "埤頭里",
+               "short_name" : "埤頭里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 42, Lane 300, Section 2, Bade Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0459892,
+                  "lng" : 121.5425323
+               },
+               "southwest" : {
+                  "lat" : 25.045867,
+                  "lng" : 121.5420198
+               }
+            },
+            "location" : {
+               "lat" : 25.0459184,
+               "lng" : 121.5422438
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0472770802915,
+                  "lng" : 121.5436250302915
+               },
+               "southwest" : {
+                  "lat" : 25.04457911970849,
+                  "lng" : 121.5409270697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmc7DZtmrQjQRU3rEIXvZ_ig",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 5, Lane 146, Section 2, Bade Road",
+               "short_name" : "Alley 5, Lane 146, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "埤頭里",
+               "short_name" : "埤頭里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 5, Lane 146, Section 2, Bade Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0455317,
+                  "lng" : 121.5377759
+               },
+               "southwest" : {
+                  "lat" : 25.0453761,
+                  "lng" : 121.537207
+               }
+            },
+            "location" : {
+               "lat" : 25.0453817,
+               "lng" : 121.5376936
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0468028802915,
+                  "lng" : 121.5388404302915
+               },
+               "southwest" : {
+                  "lat" : 25.0441049197085,
+                  "lng" : 121.5361424697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs3WGedirQjQRUXMQ1fpCBI4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 1, Lane 146, Section 2, Bade Road",
+               "short_name" : "Alley 1, Lane 146, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "埤頭里",
+               "short_name" : "埤頭里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 1, Lane 146, Section 2, Bade Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0457563,
+                  "lng" : 121.5374934
+               },
+               "southwest" : {
+                  "lat" : 25.0456788,
+                  "lng" : 121.5372039
+               }
+            },
+            "location" : {
+               "lat" : 25.045756,
+               "lng" : 121.5372453
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0470665302915,
+                  "lng" : 121.5386976302915
+               },
+               "southwest" : {
+                  "lat" : 25.0443685697085,
+                  "lng" : 121.5359996697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG0KeftirQjQRfKHp7rnr23c",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "八德公園",
+               "short_name" : "八德公園",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 366, Section 2, Bade Road",
+               "short_name" : "Lane 366, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "105, Taiwan, Taipei City, Songshan District, Lane 366, Section 2, Bade Rd, 25號八德公園",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0469816,
+               "lng" : 121.5459443
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0483305802915,
+                  "lng" : 121.5472932802915
+               },
+               "southwest" : {
+                  "lat" : 25.0456326197085,
+                  "lng" : 121.5445953197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN5kEhNyrQjQRZa0IBfK_1Eo",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alley 14, Lane 88, Section 2, Bade Road",
+               "short_name" : "Alley 14, Lane 88, Section 2, Bade Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "埤頭里",
+               "short_name" : "埤頭里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alley 14, Lane 88, Section 2, Bade Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0451346,
+                  "lng" : 121.5359612
+               },
+               "southwest" : {
+                  "lat" : 25.0450757,
+                  "lng" : 121.5357523
+               }
+            },
+            "location" : {
+               "lat" : 25.0450886,
+               "lng" : 121.5357668
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0464541302915,
+                  "lng" : 121.5372057302915
+               },
+               "southwest" : {
+                  "lat" : 25.0437561697085,
+                  "lng" : 121.5345077697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHc7olWKpQjQRnhNprz9r5gc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 4, Dunhua North Road",
+               "short_name" : "Lane 4, Dunhua N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中正里",
+               "short_name" : "中正里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 4, Dunhua N Rd & Lane 451, Section 2, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0501391,
+               "lng" : 121.5474905
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0514880802915,
+                  "lng" : 121.5488394802915
+               },
+               "southwest" : {
+                  "lat" : 25.0487901197085,
+                  "lng" : 121.5461415197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkAxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDmlabljJbljJfot6805be35YWr5b636Lev5LqM5q61NDUx5be3",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Section 4, Civic Boulevard",
+               "short_name" : "Section 4, Civic Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "中崙里",
+               "short_name" : "中崙里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Section 4, Civic Blvd & Lane 366, Section 2, Bade Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0452344,
+               "lng" : 121.5459911
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0465833802915,
+                  "lng" : 121.5473400802915
+               },
+               "southwest" : {
+                  "lat" : 25.0438854197085,
+                  "lng" : 121.5446421197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkIxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDluILmsJHlpKfpgZPlm5vmrrXlhavlvrfot6_kuozmrrUzNjblt7c",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,71 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lane 450, Section 6, Zhongshan North Road",
+               "short_name" : "Lane 450, Section 6, Zhongshan N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¤Ñ¸S¨½",
+               "short_name" : "¤Ñ¸S¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lane 450, Section 6, Zhongshan N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1143767,
+                  "lng" : 121.5284881
+               },
+               "southwest" : {
+                  "lat" : 25.1132047,
+                  "lng" : 121.5273949
+               }
+            },
+            "location" : {
+               "lat" : 25.1138611,
+               "lng" : 121.5279667
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1151396802915,
+                  "lng" : 121.5292904802915
+               },
+               "southwest" : {
+                  "lat" : 25.1124417197085,
+                  "lng" : 121.5265925197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkS_c0YWuQjQR3kwEO5OjQdQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+

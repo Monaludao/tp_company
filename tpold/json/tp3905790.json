@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "370",
+               "short_name" : "370",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhengda 1st Street",
+               "short_name" : "Zhengda 1st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "政大里",
+               "short_name" : "政大里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 370, Zhengda 1st St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9871768,
+                  "lng" : 121.5866269
+               },
+               "southwest" : {
+                  "lat" : 24.9871598,
+                  "lng" : 121.5866249
+               }
+            },
+            "location" : {
+               "lat" : 24.9871598,
+               "lng" : 121.5866249
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9885172802915,
+                  "lng" : 121.5879748802915
+               },
+               "southwest" : {
+                  "lat" : 24.9858193197085,
+                  "lng" : 121.5852769197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMTblj7DngaPlj7DljJfluILmloflsbHljYDmlL_lpKfkuIDooZczNzDomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

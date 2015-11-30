@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "238",
+               "short_name" : "238",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jihe Road",
+               "short_name" : "Jihe Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ºÖ¼w¨½",
+               "short_name" : "ºÖ¼w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 238, Jihe Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.090816,
+               "lng" : 121.521624
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0921649802915,
+                  "lng" : 121.5229729802915
+               },
+               "southwest" : {
+                  "lat" : 25.0894670197085,
+                  "lng" : 121.5202750197085
+               }
+            }
+         },
+         "place_id" : "ChIJLWf8QbquQjQReyVZFB4oB1o",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

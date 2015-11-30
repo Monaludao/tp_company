@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "37",
+               "short_name" : "37",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 21, Lane 450, Section 5, Chenggong Road",
+               "short_name" : "Alley 21, Lane 450, Section 5, Chenggong Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ª÷´ò¨½",
+               "short_name" : "ª÷´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 37, Alley 21, Lane 450, Section 5, Chenggong Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0732177,
+               "lng" : 121.6079682
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0745666802915,
+                  "lng" : 121.6093171802915
+               },
+               "southwest" : {
+                  "lat" : 25.07186871970849,
+                  "lng" : 121.6066192197085
+               }
+            }
+         },
+         "place_id" : "ChIJv7ubyb2sQjQRJF-yO4Ft0WU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

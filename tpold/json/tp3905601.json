@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16-3",
+               "short_name" : "16-3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fuzhou Street",
+               "short_name" : "Fuzhou St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«nºÖ¨½",
+               "short_name" : "«nºÖ¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16-3, Fuzhou St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0284975,
+               "lng" : 121.5182263
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0298464802915,
+                  "lng" : 121.5195752802915
+               },
+               "southwest" : {
+                  "lat" : 25.0271485197085,
+                  "lng" : 121.5168773197085
+               }
+            }
+         },
+         "place_id" : "ChIJ2RmLvJmpQjQRHXDZn29fhv8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

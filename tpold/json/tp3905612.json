@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "229",
+               "short_name" : "229",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zhixing Road",
+               "short_name" : "Zhixing Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ãö´ç¨½",
+               "short_name" : "Ãö´ç¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 229, Zhixing Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.120167,
+               "lng" : 121.4669535
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1215159802915,
+                  "lng" : 121.4683024802915
+               },
+               "southwest" : {
+                  "lat" : 25.1188180197085,
+                  "lng" : 121.4656045197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4V5q6GyvQjQRwbP7EQwjbIU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,66 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "35",
+               "short_name" : "35",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fuyang Street",
+               "short_name" : "Fuyang St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¾¤¥­¨½",
+               "short_name" : "¾¤¥­¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 35, Fuyang St, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0229414,
+               "lng" : 121.5565637
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0242903802915,
+                  "lng" : 121.5579126802915
+               },
+               "southwest" : {
+                  "lat" : 25.0215924197085,
+                  "lng" : 121.5552147197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJb7wKTSqQjQR8DD-s2h9rug",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

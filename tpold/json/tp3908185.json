@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 22, Lane 553, Section 4, Zhongxiao East Road",
+               "short_name" : "Alley 22, Lane 553, Section 4, Zhongxiao E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·s¤¯¨½",
+               "short_name" : "·s¤¯¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 25, Alley 22, Lane 553, Section 4, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.043821,
+               "lng" : 121.563378
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0451699802915,
+                  "lng" : 121.5647269802915
+               },
+               "southwest" : {
+                  "lat" : 25.04247201970849,
+                  "lng" : 121.5620290197085
+               }
+            }
+         },
+         "place_id" : "ChIJn5tW3b6rQjQRdKZ8GjpXC5c",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

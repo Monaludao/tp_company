@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "38",
+               "short_name" : "38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 33, Linyi Street",
+               "short_name" : "Lane 33, Linyi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "幸市里",
+               "short_name" : "幸市里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 38, Lane 33, Linyi St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0398206,
+               "lng" : 121.5316832
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0411695802915,
+                  "lng" : 121.5330321802915
+               },
+               "southwest" : {
+                  "lat" : 25.0384716197085,
+                  "lng" : 121.5303342197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTcA_BHypQjQRb_7tERdHr-M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "38-1",
+               "short_name" : "38-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Linyi Street",
+               "short_name" : "Linyi St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "文北里",
+               "short_name" : "文北里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongzheng District",
+               "short_name" : "Zhongzheng District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 38-1, Linyi St, Zhongzheng District, Taipei City, Taiwan 100",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0388436,
+               "lng" : 121.5293318
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0401925802915,
+                  "lng" : 121.5306807802915
+               },
+               "southwest" : {
+                  "lat" : 25.0374946197085,
+                  "lng" : 121.5279828197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ15I1bHmpQjQR6qAVScSQkck",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

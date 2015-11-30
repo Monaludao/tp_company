@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Yanping North Road",
+               "short_name" : "Section 5, Yanping N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "´I¥ú¨½",
+               "short_name" : "´I¥ú¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 23, Section 5, Yanping N Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0797022,
+                  "lng" : 121.5110016
+               },
+               "southwest" : {
+                  "lat" : 25.079697,
+                  "lng" : 121.5109837
+               }
+            },
+            "location" : {
+               "lat" : 25.079697,
+               "lng" : 121.5109837
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0810485802915,
+                  "lng" : 121.5123416302915
+               },
+               "southwest" : {
+                  "lat" : 25.07835061970849,
+                  "lng" : 121.5096436697085
+               }
+            }
+         },
+         "place_id" : "EjIxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlu7blubPljJfot6_kupTmrrUyM-iZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

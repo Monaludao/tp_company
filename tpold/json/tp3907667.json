@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 25, Lane 113, Section 3, Minsheng East Road",
+               "short_name" : "Alley 25, Lane 113, Section 3, Minsheng E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民有里",
+               "short_name" : "民有里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 25, Lane 113, Section 3, Minsheng E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0599292,
+               "lng" : 121.5463542
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.06127818029151,
+                  "lng" : 121.5477031802915
+               },
+               "southwest" : {
+                  "lat" : 25.0585802197085,
+                  "lng" : 121.5450052197085
+               }
+            }
+         },
+         "place_id" : "ChIJIQeLCOWrQjQRcUWxddU7OQo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

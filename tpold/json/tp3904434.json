@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 214, Section 2, Nanjing East Road",
+               "short_name" : "Lane 214, Section 2, Nanjing E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦¶¶é¨½",
+               "short_name" : "¦¶¶é¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Lane 214, Section 2, Nanjing E Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0513979,
+                  "lng" : 121.5360492
+               },
+               "southwest" : {
+                  "lat" : 25.0513976,
+                  "lng" : 121.5360304
+               }
+            },
+            "location" : {
+               "lat" : 25.0513976,
+               "lng" : 121.5360492
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0527467302915,
+                  "lng" : 121.5373887802915
+               },
+               "southwest" : {
+                  "lat" : 25.0500487697085,
+                  "lng" : 121.5346908197085
+               }
+            }
+         },
+         "place_id" : "EjcxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDljZfkuqzmnbHot6_kuozmrrUyMTTlt7cz6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

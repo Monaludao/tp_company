@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "34",
+               "short_name" : "34",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 3, Lane 106, Section 3, Minquan East Road",
+               "short_name" : "Alley 3, Lane 106, Section 3, Minquan E Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "民有里",
+               "short_name" : "民有里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Songshan District",
+               "short_name" : "Songshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 34, Alley 3, Lane 106, Section 3, Minquan E Rd, Songshan District, Taipei City, Taiwan 105",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0612879,
+                  "lng" : 121.5485534
+               },
+               "southwest" : {
+                  "lat" : 25.0612712,
+                  "lng" : 121.5485498
+               }
+            },
+            "location" : {
+               "lat" : 25.0612712,
+               "lng" : 121.5485498
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0626285302915,
+                  "lng" : 121.5499005802915
+               },
+               "southwest" : {
+                  "lat" : 25.0599305697085,
+                  "lng" : 121.5472026197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjwxMDXlj7DngaPlj7DljJfluILmnb7lsbHljYDmsJHmrIrmnbHot6_kuInmrrUxMDblt7cz5byEMzTomZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

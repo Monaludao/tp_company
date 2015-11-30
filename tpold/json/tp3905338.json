@@ -1,0 +1,1446 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "58-1",
+               "short_name" : "58-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 58-1, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.024695,
+               "lng" : 121.571176
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0260439802915,
+                  "lng" : 121.5725249802915
+               },
+               "southwest" : {
+                  "lat" : 25.02334601970849,
+                  "lng" : 121.5698270197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-ztBVU2qQjQRHT-To_XGLp8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "66-1",
+               "short_name" : "66-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 66-1, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0240889,
+               "lng" : 121.571546
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0254378802915,
+                  "lng" : 121.5728949802915
+               },
+               "southwest" : {
+                  "lat" : 25.0227399197085,
+                  "lng" : 121.5701970197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJH5W4qFKqQjQRi7nW1h9z4vY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 5, Xinyi Road",
+               "short_name" : "Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "西村里",
+               "short_name" : "西村里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.033263,
+               "lng" : 121.5604918
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0346119802915,
+                  "lng" : 121.5618407802915
+               },
+               "southwest" : {
+                  "lat" : 25.0319140197085,
+                  "lng" : 121.5591428197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2U-zGrarQjQR4ZrcRw-xw6o",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 342, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 342, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三犁里",
+               "short_name" : "三犁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 342, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0264533,
+               "lng" : 121.5705276
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0278022802915,
+                  "lng" : 121.5718765802915
+               },
+               "southwest" : {
+                  "lat" : 25.0251043197085,
+                  "lng" : 121.5691786197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNx1jl7KrQjQRunEn5RyWXxo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 401, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 401, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 401, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.024796,
+               "lng" : 121.570777
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0261449802915,
+                  "lng" : 121.5721259802915
+               },
+               "southwest" : {
+                  "lat" : 25.0234470197085,
+                  "lng" : 121.5694280197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJre07U02qQjQRV8008Y11WQY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 22, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 22, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三犁里",
+               "short_name" : "三犁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 22, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0271588,
+               "lng" : 121.569685
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0285077802915,
+                  "lng" : 121.5710339802915
+               },
+               "southwest" : {
+                  "lat" : 25.0258098197085,
+                  "lng" : 121.5683360197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAz6O8rKrQjQRIqj0YdEiwfc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 445, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 445, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 445, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.023192,
+               "lng" : 121.572229
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0245409802915,
+                  "lng" : 121.5735779802915
+               },
+               "southwest" : {
+                  "lat" : 25.0218430197085,
+                  "lng" : 121.5708800197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO7aKvVKqQjQRrflN4IzEyfs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 14, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 14, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三犁里",
+               "short_name" : "三犁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 14, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0286106,
+               "lng" : 121.569424
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0299595802915,
+                  "lng" : 121.5707729802915
+               },
+               "southwest" : {
+                  "lat" : 25.0272616197085,
+                  "lng" : 121.5680750197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJu6CaRLKrQjQR67rCfkcL-mA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 400, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 400, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 400, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.025134,
+               "lng" : 121.571179
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0264829802915,
+                  "lng" : 121.5725279802915
+               },
+               "southwest" : {
+                  "lat" : 25.02378501970849,
+                  "lng" : 121.5698300197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm_btqbKrQjQROmDSgLXy4oY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "18-1",
+               "short_name" : "18-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 471, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 471, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 18-1, Alley 471, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.020741,
+               "lng" : 121.574269
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0220899802915,
+                  "lng" : 121.5756179802915
+               },
+               "southwest" : {
+                  "lat" : 25.01939201970849,
+                  "lng" : 121.5729200197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYy95rVOqQjQRn3x_39IgjB0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "26-1",
+               "short_name" : "26-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 471, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 471, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 26-1, Alley 471, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.020467,
+               "lng" : 121.574439
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0218159802915,
+                  "lng" : 121.5757879802915
+               },
+               "southwest" : {
+                  "lat" : 25.0191180197085,
+                  "lng" : 121.5730900197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6_bZs1OqQjQRydJzUAdwM38",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5-1",
+               "short_name" : "5-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 471, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 471, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 5-1, Alley 471, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.020399,
+               "lng" : 121.573935
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0217479802915,
+                  "lng" : 121.5752839802915
+               },
+               "southwest" : {
+                  "lat" : 25.0190500197085,
+                  "lng" : 121.5725860197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqc51S1KqQjQRSlDYrLoE5TA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 441, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 441, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 441, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.02351,
+               "lng" : 121.571973
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0248589802915,
+                  "lng" : 121.5733219802915
+               },
+               "southwest" : {
+                  "lat" : 25.02216101970849,
+                  "lng" : 121.5706240197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT_G0vFKqQjQRkVVX8O1gOq8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 418, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 418, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 418, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.024564,
+               "lng" : 121.571238
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0259129802915,
+                  "lng" : 121.5725869802915
+               },
+               "southwest" : {
+                  "lat" : 25.02321501970849,
+                  "lng" : 121.5698890197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJSGBVU2qQjQR1FtyAgcXeCg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 411, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 411, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 411, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0242819,
+               "lng" : 121.570965
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0256308802915,
+                  "lng" : 121.5723139802915
+               },
+               "southwest" : {
+                  "lat" : 25.0229329197085,
+                  "lng" : 121.5696160197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp3UjV02qQjQRWmAAM138FNI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 421, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 421, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 421, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0238929,
+               "lng" : 121.571242
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0252418802915,
+                  "lng" : 121.5725909802915
+               },
+               "southwest" : {
+                  "lat" : 25.0225439197085,
+                  "lng" : 121.5698930197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8zqCWE2qQjQRqzlZrtI1g6c",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 335, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 335, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三犁里",
+               "short_name" : "三犁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 335, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0263848,
+               "lng" : 121.5698629
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0277337802915,
+                  "lng" : 121.5712118802915
+               },
+               "southwest" : {
+                  "lat" : 25.0250358197085,
+                  "lng" : 121.5685139197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJD-r8v7KrQjQRn0yWkipqPo4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 315, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 315, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三犁里",
+               "short_name" : "三犁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 315, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0269435,
+               "lng" : 121.5692805
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0282924802915,
+                  "lng" : 121.5706294802915
+               },
+               "southwest" : {
+                  "lat" : 25.0255945197085,
+                  "lng" : 121.5679315197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeSbh7rKrQjQR0L0FdK-93MY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 325, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 325, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三犁里",
+               "short_name" : "三犁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 325, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0266485,
+               "lng" : 121.5695955
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0279974802915,
+                  "lng" : 121.5709444802915
+               },
+               "southwest" : {
+                  "lat" : 25.0252995197085,
+                  "lng" : 121.5682465197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDZmx67KrQjQREFTOZflzF5s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 16, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 16, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三犁里",
+               "short_name" : "三犁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 16, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0282479,
+               "lng" : 121.569297
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0295968802915,
+                  "lng" : 121.5706459802915
+               },
+               "southwest" : {
+                  "lat" : 25.0268989197085,
+                  "lng" : 121.5679480197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdYPMW7KrQjQR04s2T9EA6Sc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 305, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 305, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三犁里",
+               "short_name" : "三犁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 305, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0272845,
+               "lng" : 121.569045
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0286334802915,
+                  "lng" : 121.5703939802915
+               },
+               "southwest" : {
+                  "lat" : 25.0259355197085,
+                  "lng" : 121.5676960197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz9ew-rKrQjQRFnQZG4VXpUI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 426, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 426, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "六合里",
+               "short_name" : "六合里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 426, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.024353,
+               "lng" : 121.571406
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0257019802915,
+                  "lng" : 121.5727549802915
+               },
+               "southwest" : {
+                  "lat" : 25.02300401970849,
+                  "lng" : 121.5700570197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXweEqVKqQjQR9rlSfI4JG0k",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 20, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 20, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三犁里",
+               "short_name" : "三犁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 20, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.027987,
+               "lng" : 121.569139
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0293359802915,
+                  "lng" : 121.5704879802915
+               },
+               "southwest" : {
+                  "lat" : 25.0266380197085,
+                  "lng" : 121.5677900197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_7MjWLKrQjQReolW0Y1kUdg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 13, Lane 150, Section 5, Xinyi Road",
+               "short_name" : "Alley 13, Lane 150, Section 5, Xinyi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "三犁里",
+               "short_name" : "三犁里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Xinyi District",
+               "short_name" : "Xinyi District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 1, Alley 13, Lane 150, Section 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0274789,
+               "lng" : 121.568871
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.02882788029151,
+                  "lng" : 121.5702199802915
+               },
+               "southwest" : {
+                  "lat" : 25.0261299197085,
+                  "lng" : 121.5675220197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJP56m-7KrQjQRc2vBYp3OTHE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,61 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mingshui Road",
+               "short_name" : "Mingshui Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã¦w¨½",
+               "short_name" : "¥Ã¦w¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mingshui Rd & Lane 397, Mingshui Rd, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0773534,
+               "lng" : 121.547687
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0787023802915,
+                  "lng" : 121.5490359802915
+               },
+               "southwest" : {
+                  "lat" : 25.0760044197085,
+                  "lng" : 121.5463380197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjMxMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDmmI7msLTot6_mmI7msLTot68zOTflt7c",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}
+

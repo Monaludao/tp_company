@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 1, Zhongshun Street",
+               "short_name" : "Section 1, Zhongshun St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¼ÌªL¨½",
+               "short_name" : "¼ÌªL¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wenshan District",
+               "short_name" : "Wenshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "116",
+               "short_name" : "116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 24, Section 1, Zhongshun St, Wenshan District, Taipei City, Taiwan 116",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.9841034,
+                  "lng" : 121.5591524
+               },
+               "southwest" : {
+                  "lat" : 24.9840866,
+                  "lng" : 121.5591493
+               }
+            },
+            "location" : {
+               "lat" : 24.9840866,
+               "lng" : 121.5591524
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.9854439802915,
+                  "lng" : 121.5604998302915
+               },
+               "southwest" : {
+                  "lat" : 24.9827460197085,
+                  "lng" : 121.5578018697085
+               }
+            }
+         },
+         "place_id" : "Ei8xMTblj7DngaPlj7DljJfluILmloflsbHljYDlv6DpoIbooZfkuIDmrrUyNOiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 2, Lane 384, Shezhong Street",
+               "short_name" : "Alley 2, Lane 384, Shezhong St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¥Ã­Û¨½",
+               "short_name" : "¥Ã­Û¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 16, Alley 2, Lane 384, Shezhong St, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0924428,
+               "lng" : 121.5029973
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.09379178029151,
+                  "lng" : 121.5043462802915
+               },
+               "southwest" : {
+                  "lat" : 25.0910938197085,
+                  "lng" : 121.5016483197085
+               }
+            }
+         },
+         "place_id" : "ChIJ22c43s-uQjQR8qVIs3r_Io8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

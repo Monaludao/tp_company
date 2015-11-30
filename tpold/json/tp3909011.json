@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "291",
+               "short_name" : "291",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gongguan Road",
+               "short_name" : "Gongguan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "©_©¥¨½",
+               "short_name" : "©_©¥¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 291, Gongguan Rd, Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.1248075,
+               "lng" : 121.507093
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1261564802915,
+                  "lng" : 121.5084419802915
+               },
+               "southwest" : {
+                  "lat" : 25.1234585197085,
+                  "lng" : 121.5057440197085
+               }
+            }
+         },
+         "place_id" : "ChIJM24SoFiuQjQRsTPmTLbFco0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

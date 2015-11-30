@@ -1,0 +1,1996 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Chongqing North Road",
+               "short_name" : "Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "揚雅里",
+               "short_name" : "揚雅里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0671456,
+               "lng" : 121.5139666
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0684945802915,
+                  "lng" : 121.5153155802915
+               },
+               "southwest" : {
+                  "lat" : 25.0657966197085,
+                  "lng" : 121.5126176197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdV0JgTipQjQRj5sjEpLjOlM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 8, Section 3, Chengde Road",
+               "short_name" : "Lane 8, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "蓬萊里",
+               "short_name" : "蓬萊里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 8, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0637201,
+                  "lng" : 121.5162643
+               },
+               "southwest" : {
+                  "lat" : 25.0637031,
+                  "lng" : 121.5162637
+               }
+            },
+            "location" : {
+               "lat" : 25.0637201,
+               "lng" : 121.5162643
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0650605802915,
+                  "lng" : 121.5176129802915
+               },
+               "southwest" : {
+                  "lat" : 25.0623626197085,
+                  "lng" : 121.5149150197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjQxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrU45be3MTEx6Jmf",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 208, Section 3, Chengde Road",
+               "short_name" : "Lane 208, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "至聖里",
+               "short_name" : "至聖里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 208, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0705228,
+                  "lng" : 121.5165953
+               },
+               "southwest" : {
+                  "lat" : 25.0705058,
+                  "lng" : 121.5165949
+               }
+            },
+            "location" : {
+               "lat" : 25.0705228,
+               "lng" : 121.5165953
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.07186328029151,
+                  "lng" : 121.5179440802915
+               },
+               "southwest" : {
+                  "lat" : 25.0691653197085,
+                  "lng" : 121.5152461197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrUyMDjlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 214, Section 3, Chengde Road",
+               "short_name" : "Lane 214, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "至聖里",
+               "short_name" : "至聖里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 214, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0715416,
+                  "lng" : 121.5169741
+               },
+               "southwest" : {
+                  "lat" : 25.0715246,
+                  "lng" : 121.516973
+               }
+            },
+            "location" : {
+               "lat" : 25.0715416,
+               "lng" : 121.5169741
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0728820802915,
+                  "lng" : 121.5183225302915
+               },
+               "southwest" : {
+                  "lat" : 25.0701841197085,
+                  "lng" : 121.5156245697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrUyMTTlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 90, Section 3, Chengde Road",
+               "short_name" : "Lane 90, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "斯文里",
+               "short_name" : "斯文里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 90, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0664384,
+                  "lng" : 121.5171119
+               },
+               "southwest" : {
+                  "lat" : 25.0664214,
+                  "lng" : 121.5171115
+               }
+            },
+            "location" : {
+               "lat" : 25.0664384,
+               "lng" : 121.5171119
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0677788802915,
+                  "lng" : 121.5184606802915
+               },
+               "southwest" : {
+                  "lat" : 25.0650809197085,
+                  "lng" : 121.5157627197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjUxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrU5MOW3tzExMeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 122, Section 3, Chengde Road",
+               "short_name" : "Lane 122, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "斯文里",
+               "short_name" : "斯文里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 122, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0672908,
+                  "lng" : 121.5174399
+               },
+               "southwest" : {
+                  "lat" : 25.0672738,
+                  "lng" : 121.5174386
+               }
+            },
+            "location" : {
+               "lat" : 25.0672738,
+               "lng" : 121.5174386
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0686312802915,
+                  "lng" : 121.5187882302915
+               },
+               "southwest" : {
+                  "lat" : 25.0659333197085,
+                  "lng" : 121.5160902697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrUxMjLlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 129, Section 3, Chengde Road",
+               "short_name" : "Lane 129, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "斯文里",
+               "short_name" : "斯文里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 129, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0673133,
+                  "lng" : 121.5193671
+               },
+               "southwest" : {
+                  "lat" : 25.0672963,
+                  "lng" : 121.519367
+               }
+            },
+            "location" : {
+               "lat" : 25.0673133,
+               "lng" : 121.519367
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0686537802915,
+                  "lng" : 121.5207160302915
+               },
+               "southwest" : {
+                  "lat" : 25.0659558197085,
+                  "lng" : 121.5180180697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrUxMjnlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 85, Section 3, Chengde Road",
+               "short_name" : "Lane 85, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "蓬萊里",
+               "short_name" : "蓬萊里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 85, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.066067,
+                  "lng" : 121.5191835
+               },
+               "southwest" : {
+                  "lat" : 25.06605,
+                  "lng" : 121.5191834
+               }
+            },
+            "location" : {
+               "lat" : 25.066067,
+               "lng" : 121.5191835
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0674074802915,
+                  "lng" : 121.5205324302915
+               },
+               "southwest" : {
+                  "lat" : 25.0647095197085,
+                  "lng" : 121.5178344697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjUxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrU4NeW3tzExMeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Section 3, Yanping North Road",
+               "short_name" : "Section 3, Yanping N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "國慶里",
+               "short_name" : "國慶里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Section 3, Yanping N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0681351,
+               "lng" : 121.5109789
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0694840802915,
+                  "lng" : 121.5123278802915
+               },
+               "southwest" : {
+                  "lat" : 25.0667861197085,
+                  "lng" : 121.5096299197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO2kWqjmpQjQRL4EZjcHCDgs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 108, Section 3, Chengde Road",
+               "short_name" : "Lane 108, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "斯文里",
+               "short_name" : "斯文里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 108, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0668421,
+                  "lng" : 121.5172597
+               },
+               "southwest" : {
+                  "lat" : 25.0668251,
+                  "lng" : 121.5172592
+               }
+            },
+            "location" : {
+               "lat" : 25.0668251,
+               "lng" : 121.5172597
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0681825802915,
+                  "lng" : 121.5186084302915
+               },
+               "southwest" : {
+                  "lat" : 25.0654846197085,
+                  "lng" : 121.5159104697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrUxMDjlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 159, Section 3, Chengde Road",
+               "short_name" : "Lane 159, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "斯文里",
+               "short_name" : "斯文里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 159, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0680661,
+                  "lng" : 121.5194781
+               },
+               "southwest" : {
+                  "lat" : 25.0680491,
+                  "lng" : 121.519478
+               }
+            },
+            "location" : {
+               "lat" : 25.0680661,
+               "lng" : 121.5194781
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0694065802915,
+                  "lng" : 121.5208270302915
+               },
+               "southwest" : {
+                  "lat" : 25.0667086197085,
+                  "lng" : 121.5181290697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrUxNTnlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 143, Section 3, Chengde Road",
+               "short_name" : "Lane 143, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "斯文里",
+               "short_name" : "斯文里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 143, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0677097,
+                  "lng" : 121.5194207
+               },
+               "southwest" : {
+                  "lat" : 25.0676927,
+                  "lng" : 121.5194206
+               }
+            },
+            "location" : {
+               "lat" : 25.0677097,
+               "lng" : 121.5194206
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0690501802915,
+                  "lng" : 121.5207696302915
+               },
+               "southwest" : {
+                  "lat" : 25.0663522197085,
+                  "lng" : 121.5180716697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrUxNDPlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 113, Section 3, Chengde Road",
+               "short_name" : "Lane 113, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "斯文里",
+               "short_name" : "斯文里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 113, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0668734,
+                  "lng" : 121.5193055
+               },
+               "southwest" : {
+                  "lat" : 25.0668564,
+                  "lng" : 121.5193053
+               }
+            },
+            "location" : {
+               "lat" : 25.0668734,
+               "lng" : 121.5193055
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0682138802915,
+                  "lng" : 121.5206543802915
+               },
+               "southwest" : {
+                  "lat" : 25.0655159197085,
+                  "lng" : 121.5179564197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjYxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrUxMTPlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 99, Section 3, Chengde Road",
+               "short_name" : "Lane 99, Section 3, Chengde Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "斯文里",
+               "short_name" : "斯文里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 99, Section 3, Chengde Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0664731,
+                  "lng" : 121.5192433
+               },
+               "southwest" : {
+                  "lat" : 25.0664561,
+                  "lng" : 121.5192431
+               }
+            },
+            "location" : {
+               "lat" : 25.0664731,
+               "lng" : 121.5192433
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0678135802915,
+                  "lng" : 121.5205921802915
+               },
+               "southwest" : {
+                  "lat" : 25.0651156197085,
+                  "lng" : 121.5178942197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjUxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDmib_lvrfot6_kuInmrrU5OeW3tzExMeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "11-1",
+               "short_name" : "11-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 313, Section 3, Chongqing North Road",
+               "short_name" : "Lane 313, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "保安里",
+               "short_name" : "保安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 11-1, Lane 313, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0741495,
+               "lng" : 121.5144824
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0754984802915,
+                  "lng" : 121.5158313802915
+               },
+               "southwest" : {
+                  "lat" : 25.07280051970849,
+                  "lng" : 121.5131334197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlxgm4UmpQjQRLmwUeB3tIgc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "11-1",
+               "short_name" : "11-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alley 23, Lane 223, Section 3, Chongqing North Road",
+               "short_name" : "Alley 23, Lane 223, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "至聖里",
+               "short_name" : "至聖里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 11-1, Alley 23, Lane 223, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0709588,
+               "lng" : 121.5148296
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0723077802915,
+                  "lng" : 121.5161785802915
+               },
+               "southwest" : {
+                  "lat" : 25.0696098197085,
+                  "lng" : 121.5134806197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJR2jRGUipQjQRg8LW2LdzWN8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 18, Section 3, Yanping North Road",
+               "short_name" : "Lane 18, Section 3, Yanping N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "景星里",
+               "short_name" : "景星里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 18, Section 3, Yanping N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0639572,
+                  "lng" : 121.5094537
+               },
+               "southwest" : {
+                  "lat" : 25.0639402,
+                  "lng" : 121.5094535
+               }
+            },
+            "location" : {
+               "lat" : 25.0639572,
+               "lng" : 121.5094535
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0652976802915,
+                  "lng" : 121.5108025802915
+               },
+               "southwest" : {
+                  "lat" : 25.06259971970849,
+                  "lng" : 121.5081046197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDlu7blubPljJfot6_kuInmrrUxOOW3tzExMeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 113, Section 3, Chongqing North Road",
+               "short_name" : "Lane 113, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "揚雅里",
+               "short_name" : "揚雅里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 113, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.067291,
+                  "lng" : 121.5157765
+               },
+               "southwest" : {
+                  "lat" : 25.067274,
+                  "lng" : 121.5157763
+               }
+            },
+            "location" : {
+               "lat" : 25.067274,
+               "lng" : 121.5157765
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0686314802915,
+                  "lng" : 121.5171253802915
+               },
+               "southwest" : {
+                  "lat" : 25.06593351970849,
+                  "lng" : 121.5144274197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDph43mhbbljJfot6_kuInmrrUxMTPlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 120, Section 3, Chongqing North Road",
+               "short_name" : "Lane 120, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "國慶里",
+               "short_name" : "國慶里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 120, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0672528,
+                  "lng" : 121.5115456
+               },
+               "southwest" : {
+                  "lat" : 25.0672358,
+                  "lng" : 121.5115454
+               }
+            },
+            "location" : {
+               "lat" : 25.0672528,
+               "lng" : 121.5115454
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0685932802915,
+                  "lng" : 121.5128944802915
+               },
+               "southwest" : {
+                  "lat" : 25.0658953197085,
+                  "lng" : 121.5101965197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDph43mhbbljJfot6_kuInmrrUxMjDlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 205, Section 3, Chongqing North Road",
+               "short_name" : "Lane 205, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "至聖里",
+               "short_name" : "至聖里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 205, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0700563,
+                  "lng" : 121.5154058
+               },
+               "southwest" : {
+                  "lat" : 25.0700393,
+                  "lng" : 121.5154055
+               }
+            },
+            "location" : {
+               "lat" : 25.0700393,
+               "lng" : 121.5154055
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0713967802915,
+                  "lng" : 121.5167546302915
+               },
+               "southwest" : {
+                  "lat" : 25.06869881970849,
+                  "lng" : 121.5140566697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDph43mhbbljJfot6_kuInmrrUyMDXlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 335, Section 3, Chongqing North Road",
+               "short_name" : "Lane 335, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "重慶里",
+               "short_name" : "重慶里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 335, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0745769,
+                  "lng" : 121.5157489
+               },
+               "southwest" : {
+                  "lat" : 25.0745599,
+                  "lng" : 121.5157486
+               }
+            },
+            "location" : {
+               "lat" : 25.0745769,
+               "lng" : 121.5157489
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0759173802915,
+                  "lng" : 121.5170977302915
+               },
+               "southwest" : {
+                  "lat" : 25.0732194197085,
+                  "lng" : 121.5143997697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDph43mhbbljJfot6_kuInmrrUzMzXlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 61, Section 3, Yanping North Road",
+               "short_name" : "Lane 61, Section 3, Yanping N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "隆和里",
+               "short_name" : "隆和里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 61, Section 3, Yanping N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0656272,
+                  "lng" : 121.5130206
+               },
+               "southwest" : {
+                  "lat" : 25.0656102,
+                  "lng" : 121.5130203
+               }
+            },
+            "location" : {
+               "lat" : 25.0656272,
+               "lng" : 121.5130203
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0669676802915,
+                  "lng" : 121.5143694302915
+               },
+               "southwest" : {
+                  "lat" : 25.06426971970849,
+                  "lng" : 121.5116714697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDlu7blubPljJfot6_kuInmrrU2MeW3tzExMeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 257, Section 3, Chongqing North Road",
+               "short_name" : "Lane 257, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "至聖里",
+               "short_name" : "至聖里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 257, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0715651,
+                  "lng" : 121.5158907
+               },
+               "southwest" : {
+                  "lat" : 25.0715482,
+                  "lng" : 121.5158891
+               }
+            },
+            "location" : {
+               "lat" : 25.0715651,
+               "lng" : 121.5158907
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0729056302915,
+                  "lng" : 121.5172388802915
+               },
+               "southwest" : {
+                  "lat" : 25.0702076697085,
+                  "lng" : 121.5145409197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDph43mhbbljJfot6_kuInmrrUyNTflt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 66, Section 3, Yanping North Road",
+               "short_name" : "Lane 66, Section 3, Yanping N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "景星里",
+               "short_name" : "景星里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 66, Section 3, Yanping N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0654343,
+                  "lng" : 121.5101318
+               },
+               "southwest" : {
+                  "lat" : 25.0654174,
+                  "lng" : 121.5101295
+               }
+            },
+            "location" : {
+               "lat" : 25.0654174,
+               "lng" : 121.5101295
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0667748302915,
+                  "lng" : 121.5114796302915
+               },
+               "southwest" : {
+                  "lat" : 25.0640768697085,
+                  "lng" : 121.5087816697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDlu7blubPljJfot6_kuInmrrU2NuW3tzExMeiZnw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 312, Section 3, Chongqing North Road",
+               "short_name" : "Lane 312, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "老師里",
+               "short_name" : "老師里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 312, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0741108,
+                  "lng" : 121.5128965
+               },
+               "southwest" : {
+                  "lat" : 25.0740939,
+                  "lng" : 121.5128952
+               }
+            },
+            "location" : {
+               "lat" : 25.0740939,
+               "lng" : 121.5128952
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0754513302915,
+                  "lng" : 121.5142448302915
+               },
+               "southwest" : {
+                  "lat" : 25.07275336970849,
+                  "lng" : 121.5115468697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDph43mhbbljJfot6_kuInmrrUzMTLlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 295, Section 3, Chongqing North Road",
+               "short_name" : "Lane 295, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "保安里",
+               "short_name" : "保安里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 295, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0736818,
+                  "lng" : 121.5151921
+               },
+               "southwest" : {
+                  "lat" : 25.0736649,
+                  "lng" : 121.5151907
+               }
+            },
+            "location" : {
+               "lat" : 25.0736818,
+               "lng" : 121.5151907
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0750223302915,
+                  "lng" : 121.5165403802915
+               },
+               "southwest" : {
+                  "lat" : 25.0723243697085,
+                  "lng" : 121.5138424197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDph43mhbbljJfot6_kuInmrrUyOTXlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 136, Section 3, Chongqing North Road",
+               "short_name" : "Lane 136, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "國慶里",
+               "short_name" : "國慶里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 136, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0677436,
+                  "lng" : 121.5122471
+               },
+               "southwest" : {
+                  "lat" : 25.0677266,
+                  "lng" : 121.5122469
+               }
+            },
+            "location" : {
+               "lat" : 25.0677436,
+               "lng" : 121.5122471
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.06908408029151,
+                  "lng" : 121.5135959802915
+               },
+               "southwest" : {
+                  "lat" : 25.0663861197085,
+                  "lng" : 121.5108980197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDph43mhbbljJfot6_kuInmrrUxMzblt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 152, Section 3, Chongqing North Road",
+               "short_name" : "Lane 152, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "國慶里",
+               "short_name" : "國慶里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 152, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0681465,
+                  "lng" : 121.5122664
+               },
+               "southwest" : {
+                  "lat" : 25.0681295,
+                  "lng" : 121.5122664
+               }
+            },
+            "location" : {
+               "lat" : 25.0681465,
+               "lng" : 121.5122664
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0694869802915,
+                  "lng" : 121.5136153802915
+               },
+               "southwest" : {
+                  "lat" : 25.06678901970849,
+                  "lng" : 121.5109174197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjkxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDph43mhbbljJfot6_kuInmrrUxNTLlt7cxMTHomZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 25, Section 3, Chongqing North Road",
+               "short_name" : "Lane 25, Section 3, Chongqing N Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "隆和里",
+               "short_name" : "隆和里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Datong District",
+               "short_name" : "Datong District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 111, Lane 25, Section 3, Chongqing N Rd, Datong District, Taipei City, Taiwan 103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0645343,
+                  "lng" : 121.5149688
+               },
+               "southwest" : {
+                  "lat" : 25.0645185,
+                  "lng" : 121.5149618
+               }
+            },
+            "location" : {
+               "lat" : 25.0645185,
+               "lng" : 121.5149618
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0658753802915,
+                  "lng" : 121.5163142802915
+               },
+               "southwest" : {
+                  "lat" : 25.0631774197085,
+                  "lng" : 121.5136163197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjgxMDPlj7DngaPlj7DljJfluILlpKflkIzljYDph43mhbbljJfot6_kuInmrrUyNeW3tzExMeiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

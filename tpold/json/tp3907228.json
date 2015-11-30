@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 55, Jiantan Road",
+               "short_name" : "Lane 55, Jiantan Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "«e´ä¨½",
+               "short_name" : "«e´ä¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 20, Lane 55, Jiantan Road, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.0846712,
+                  "lng" : 121.5213755
+               },
+               "southwest" : {
+                  "lat" : 25.0846707,
+                  "lng" : 121.5213568
+               }
+            },
+            "location" : {
+               "lat" : 25.0846707,
+               "lng" : 121.5213755
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.08601993029151,
+                  "lng" : 121.5227151302915
+               },
+               "southwest" : {
+                  "lat" : 25.0833219697085,
+                  "lng" : 121.5200171697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei4xMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDlio3mva3ot681NeW3tzIw6Jmf",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

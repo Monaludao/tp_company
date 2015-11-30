@@ -1,0 +1,76 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dongshan Road",
+               "short_name" : "Dongshan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "東山里",
+               "short_name" : "東山里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Shilin District",
+               "short_name" : "Shilin District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 26, Dongshan Rd, Shilin District, Taipei City, Taiwan 111",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1116769,
+                  "lng" : 121.5397186
+               },
+               "southwest" : {
+                  "lat" : 25.1116739,
+                  "lng" : 121.5397001
+               }
+            },
+            "location" : {
+               "lat" : 25.1116769,
+               "lng" : 121.5397186
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1130243802915,
+                  "lng" : 121.5410583302915
+               },
+               "southwest" : {
+                  "lat" : 25.1103264197085,
+                  "lng" : 121.5383603697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EikxMTHlj7DngaPlj7DljJfluILlo6vmnpfljYDmnbHlsbHot68yNuiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "605",
+               "short_name" : "605",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ruiguang Road",
+               "short_name" : "Ruiguang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "¦è´ò¨½",
+               "short_name" : "¦è´ò¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Neihu District",
+               "short_name" : "Neihu District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "114",
+               "short_name" : "114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 605, Ruiguang Rd, Neihu District, Taipei City, Taiwan 114",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0801643,
+               "lng" : 121.5669773
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0815132802915,
+                  "lng" : 121.5683262802915
+               },
+               "southwest" : {
+                  "lat" : 25.0788153197085,
+                  "lng" : 121.5656283197085
+               }
+            }
+         },
+         "place_id" : "ChIJwbodQG6sQjQR8TDP96-O4vI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 125, Xizang Road",
+               "short_name" : "Lane 125, Xizang Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "·s©¾¨½",
+               "short_name" : "·s©¾¨½",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wanhua District",
+               "short_name" : "Wanhua District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "108",
+               "short_name" : "108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 3, Lane 125, Xizang Rd, Wanhua District, Taipei City, Taiwan 108",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.0290651,
+               "lng" : 121.5022705
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0304140802915,
+                  "lng" : 121.5036194802915
+               },
+               "southwest" : {
+                  "lat" : 25.0277161197085,
+                  "lng" : 121.5009215197085
+               }
+            }
+         },
+         "place_id" : "ChIJSd3RDLCpQjQRkmoOlTcnWJI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+

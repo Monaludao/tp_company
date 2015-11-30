@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "44",
+               "short_name" : "44",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lane 105, Liaoning Street",
+               "short_name" : "Lane 105, Liaoning St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "力行里",
+               "short_name" : "力行里",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Zhongshan District",
+               "short_name" : "Zhongshan District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "Taipei City",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "No. 44, Lane 105, Liaoning St, Zhongshan District, Taipei City, Taiwan 104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.051117,
+                  "lng" : 121.5433321
+               },
+               "southwest" : {
+                  "lat" : 25.0511,
+                  "lng" : 121.5433311
+               }
+            },
+            "location" : {
+               "lat" : 25.0511,
+               "lng" : 121.5433321
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.0524574802915,
+                  "lng" : 121.5446805802915
+               },
+               "southwest" : {
+                  "lat" : 25.0497595197085,
+                  "lng" : 121.5419826197085
+               }
+            }
+         },
+         "place_id" : "Ei8xMDTlj7DngaPlj7DljJfluILkuK3lsbHljYDpgbzlr6fooZcxMDXlt7c0NOiZnw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+
