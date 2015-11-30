@@ -1,13 +1,29 @@
-data_handle<-function(file.num){
+data_handle<-function(){
     #Sys.setlocale(category='LC_ALL', locale='C')
-    
-    file.num=1
+    #file.num=1
     
     file.list<-dir("./tpdata")
     file.list<-file.list[grep(".csv",file.list)]
+    file.list<-file.list[grep("done",file.list)]
     file.path<-paste0("./tpdata/",file.list)
     
-    csv.df<-read.csv(file.path[file.num],stringsAsFactors = FALSE)
+    csv.df<-data.frame()
+    
+    for(i in 1:length(file.list)){
+        print (file.list[i])
+        csv.df<-rbind(csv.df,set_csv(file.path[i]))
+    }
+    
+    write.csv(csv.df,file="./tpprocess/totaldata.csv",row.names=FALSE,fileEncoding = "UTF-8")
+    
+    address.df<-unique(csv.df[!grepl("找不到",csv.df[,4]),-c(1:3,15)])
+    
+    write.csv(address.df,file="./tpprocess/addressbook.csv",row.names=FALSE,fileEncoding = "UTF-8")
+    
+}
+    
+set_csv<-function(file.path){    
+    csv.df<-read.csv(file.path,stringsAsFactors = FALSE)
     
     csv.df[grep("<U+",csv.df[,4]),4]<-"找不到指定的門牌地址。:UTF16"
                            
@@ -31,6 +47,9 @@ data_handle<-function(file.num){
         csv.df$number[i]<-address.vector[5]
     }
     
+    csv.df$CID<-as.factor(csv.df$CID)
+    csv.df$CNAME<-as.factor(csv.df$CNAME)
+    csv.df$Response_Address<-as.factor(csv.df$Response_Address)
     csv.df$road<-as.factor(csv.df$road)
     csv.df$floor<-gsub(".*號(.*)$","\\1",csv.df[,3])
     
