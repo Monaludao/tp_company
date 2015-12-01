@@ -100,7 +100,7 @@ gl_api_runner<-function(run.df,act.file){
         
         setTxtProgressBar(pb, i)
         
-        Sys.sleep(0.5)
+        Sys.sleep(1)
         
         #print(json)
     }
