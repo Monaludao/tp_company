@@ -1,7 +1,7 @@
 gl_convert<-function(){
     file.root<-"./tpdata/"
     today<-as.character(Sys.Date())
-    api.limit<-2450
+    api.limit<-2480
     
     if(file.exists("glapi_record.csv")){
         record.df<-read.csv("glapi_record.csv",col.names=c("Date","cnt","file","row"),stringsAsFactors = FALSE)
@@ -100,7 +100,7 @@ gl_api_runner<-function(run.df,act.file){
         
         setTxtProgressBar(pb, i)
         
-        Sys.sleep(2)
+        Sys.sleep(0.5)
         
         #print(json)
     }
