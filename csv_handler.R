@@ -16,6 +16,7 @@ csv_filter<-function(){
                 csv.lines<-csv.lines[grep("核准設立",csv.lines)]
             }
             csv.lines<-paste0(csv.lines,",",csv.name)
+            csv.lines<-gsub(",核准設立","",csv.lines)
             
             c.number<-paste0(rep("0",(2-nchar(as.character(i)))),as.character(i))
             c.path<-paste0("./tpprocess/",dir.name,"/")

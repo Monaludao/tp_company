@@ -14,11 +14,11 @@ data_handle<-function(){
         csv.df<-rbind(csv.df,set_csv(file.path[i]))
     }
     
-    write.csv(csv.df,file="./tpprocess/totaldata.csv",row.names=FALSE,fileEncoding = "UTF-8")
+    write.csv(csv.df,file="./tpprocess/totaldata.csv",row.names=FALSE)##,fileEncoding = "UTF-8")
     
     address.df<-unique(csv.df[!grepl("找不到",csv.df[,4]),-c(1:3,15)])
     
-    write.csv(address.df,file="./tpprocess/addressbook.csv",row.names=FALSE,fileEncoding = "UTF-8")
+    write.csv(address.df,file="./tpprocess/addressbook.csv",row.names=FALSE)##,fileEncoding = "UTF-8")
     
 }
     
