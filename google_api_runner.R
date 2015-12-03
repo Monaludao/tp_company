@@ -1,7 +1,7 @@
 gl_convert<-function(){
     file.root<-"./tpdata/"
     today<-as.character(Sys.Date())
-    api.limit<-2480
+    api.limit<-2450
     
     if(file.exists("glapi_record.csv")){
         record.df<-read.csv("glapi_record.csv",col.names=c("Date","cnt","file","row"),stringsAsFactors = FALSE)
