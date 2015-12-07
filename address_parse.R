@@ -10,11 +10,10 @@ find_lack_address<- function(){
     fld.list<-list(list(bus.root,bus),list(com.root,com),list(sep.root,sep))
     
     address.df<-read_address()
+    lackadd<-c()
     
     for (i in 1:length(fld.list)){
         file.root<-fld.list[[i]][[1]]
-        
-        lackadd.df<-data.frame()
         
         print(fld.list[[i]])
         
@@ -24,10 +23,12 @@ find_lack_address<- function(){
             
             merge.df<-merge(data.df,address.df,all.x = TRUE)
             
-            lackadd.df<-rbind(lackadd.df,merge.df[is.na(merge.df$Response_Address),])
-            lackadd.df<-unique(lackadd.df)
+            lackadd<-c(lackadd,as.character(merge.df[is.na(merge.df$Response_Address),1]))
+            lackadd<-unique(lackadd)
         }
     }
+    
+    lackadd.df<-data.frame(Response_Address=as.character(lackadd))
     
     write.csv(lackadd.df,file="./tpprocess/lackaddress.csv",row.names=FALSE)
     ##return(lackadd.df)
@@ -97,3 +98,19 @@ data_parse<-function(file.path){
     return(data.df)
 }
 
+sep_lackaddress<-function(){
+    file.root<-"./tpprocess/"
+    file.name<-"lackaddress.csv"
+    lackaddress.df<-read.csv(paste0(file.root,file.name),stringsAsFactors = FALSE)
+    
+    for(c in 1:ceiling(nrow(lackaddress.df)/10000)){
+        start<-(c-1)*10000+1
+        end<-c*10000
+        seg<-lackaddress.df[start:end,1]
+        seg<-seg[!is.na(seg)]
+        
+        output.df<-cbind(c(start:(start+length(seg)-1)),seg,c(NA),c(NA),c(NA))
+        colnames(output.df)<-c("id","Address","Response_Address","Response_X","Response_Y")
+        write.csv(output.df,paste0(file.root,c,".csv"),na="",row.names=FALSE)
+    }
+}
