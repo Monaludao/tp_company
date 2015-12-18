@@ -1,7 +1,4 @@
 data_handle<-function(){
-    #Sys.setlocale(category='LC_ALL', locale='C')
-    #file.num=1
-    
     file.list<-dir("./tpdata")
     file.list<-file.list[grep(".csv",file.list)]
     file.list<-file.list[grep("done",file.list)]
@@ -14,11 +11,11 @@ data_handle<-function(){
         csv.df<-rbind(csv.df,set_csv(file.path[i]))
     }
     
-    write.csv(csv.df,file="./tpprocess/totaldata.csv",row.names=FALSE)##,fileEncoding = "UTF-8")
+    write.csv(csv.df,file="./tpprocess/totaldata.csv",row.names=FALSE)
     
     address.df<-unique(csv.df[!grepl("找不到",csv.df[,4]),-c(1:3,15)])
     
-    write.csv(address.df,file="./tpprocess/addressbook.csv",row.names=FALSE)##,fileEncoding = "UTF-8")
+    write.csv(address.df,file="./tpprocess/addressbook.csv",row.names=FALSE)
     
 }
     

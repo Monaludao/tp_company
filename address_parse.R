@@ -1,4 +1,4 @@
-find_lack_address<- function(){
+fit_data<- function(){
     bus.root<-"./tpprocess/business"
     com.root<-"./tpprocess/company"
     sep.root<-"./tpprocess/specific"
@@ -17,6 +17,8 @@ find_lack_address<- function(){
         
         print(fld.list[[i]])
         
+        total.df<-NULL
+        
         for (j in 1:length(fld.list[[i]][[2]])){
             file.path<-paste0(file.root,"/",fld.list[[i]][[2]][j])
             data.df<-data_parse(file.path)
@@ -25,7 +27,11 @@ find_lack_address<- function(){
             
             lackadd<-c(lackadd,as.character(merge.df[is.na(merge.df$Response_Address),1]))
             lackadd<-unique(lackadd)
+            
+            total.df<-rbind(total.df,merge.df)
         }
+        
+        write.csv(total.df,file=paste0(file.root,"_data.csv"),row.names=FALSE)
     }
     
     lackadd.df<-data.frame(Response_Address=as.character(lackadd))
@@ -34,20 +40,32 @@ find_lack_address<- function(){
     ##return(lackadd.df)
 }
 
+compile_lack_response<-function(){
+    file.root<-"./tpprocess/"
+    file.vector<-dir(file.root)[grep("_re",dir(file.root))]
+    
+    address.df<-NULL
+    for(i in 1:length(file.vector)){
+        file.df<-read.csv(paste0(file.root,file.vector[i]),stringsAsFactors = FALSE)
+        address.df<-rbind(address.df,file.df)
+    }
+    write.csv(address.df,file="./tpprocess/lackresponse.csv",row.names=FALSE)
+}
+
 read_address<-function(){
     address.root<-"./tpprocess/"
     address.file<-"addressbook.csv"
     address.path<-paste0(address.root,address.file)
     
-    address.df<-read.csv(address.path)##,encoding="UTF-8")
-    address.df$fit_Address<-gsub("NA","",paste0(address.df$city,address.df$dist,address.df$village,address.df$road,address.df$lane,address.df$alley,address.df$number))
+    address.df<-read.csv(address.path,stringsAsFactors = FALSE)
+    address.df$fit_Address<-gsub("NA","",paste0(address.df$city,address.df$dist,address.df$road,address.df$lane,address.df$alley,address.df$number))
     
     return(address.df)
 }
 
 data_parse<-function(file.path){
     
-    number.df<-data.frame("en"=as.character(c(1:9)),"zh"=c("一","二","三","四","五","六","七","八","九"))
+    number.df<-data.frame("en"=as.character(c(1:9)),"zh"=c("一","二","三","四","五","六","七","八","九"),"cap"=c("１","２","３","４","５","６","７","８","９"))
     
     data.df<-read.csv(file.path,stringsAsFactors = FALSE,header=FALSE,col.names=c("CID","CNAME","CADDR","CIND"))
     
@@ -55,6 +73,9 @@ data_parse<-function(file.path){
         address<-data.df[i,3]
         
         if(grepl("樓",address)) address<-gsub(gsub(".*樓(.*)$","\\1",address),"",address)
+        
+        for(n in 1:9) address<-gsub(number.df[i,3],number.df[i,1],address)
+        address<-gsub("０","0",address)
         
         if(grepl("段",address)){
             address.split<-strsplit(address,"段")[[1]]
@@ -64,17 +85,20 @@ data_parse<-function(file.path){
                 address<-paste0(gsub("(.*區)(.*)","\\1",address.split[1]),sec.check,"段",address.split[2])
             }
         }
+        if(grepl("鄭州地下街商場",address)) address<-"臺北市市民大道1段100號"
         
         if(grepl("八德4",address)) address<-gsub("八德4","八德路4",address)
         if(grepl("八德硌",address)) address<-gsub("八德硌","八德路",address)
         if(grepl("羅斯福3",address)) address<-gsub("羅斯福3","羅斯福路3",address)
         if(grepl("羅斯福5",address)) address<-gsub("羅斯福5","羅斯福路5",address)
         if(grepl("中山北６",address)) address<-gsub("中山北６","中山北路6",address)
+        if(grepl("中山北6",address)) address<-gsub("中山北6","中山北路6",address)
         if(grepl("信義2",address)) address<-gsub("信義2","信義路2",address)
         if(grepl("基隆2",address)) address<-gsub("基隆2","基隆路2",address)
         if(grepl("基隆1",address)) address<-gsub("基隆1","基隆路1",address)
         if(grepl("重慶南一",address)) address<-gsub("重慶南一","重慶南路一",address)
         if(grepl("市民大道211號1段",address)) address<-gsub("市民大道211號1段","市民大道1段211號",address)
+        
         
         o.vector<-check_address(address)
         section<-strsplit(o.vector[2],"")[[1]]
