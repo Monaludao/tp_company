@@ -12,7 +12,7 @@ fit_data<- function(){
     address.df<-read_address()
     lackadd<-c()
     
-    for (i in 1:length(fld.list)){
+    for (i in 3:3){#length(fld.list)){
         file.root<-fld.list[[i]][[1]]
         
         print(fld.list[[i]])
@@ -68,13 +68,15 @@ data_parse<-function(file.path){
     number.df<-data.frame("en"=as.character(c(1:9)),"zh"=c("一","二","三","四","五","六","七","八","九"),"cap"=c("１","２","３","４","５","６","７","８","９"))
     
     data.df<-read.csv(file.path,stringsAsFactors = FALSE,header=FALSE,col.names=c("CID","CNAME","CADDR","CIND"))
+    data.df<-data.df[!nchar(data.df$CNAME)==0,]
+    data.df$CIND<-data.df$CID[1]
     
     for (i in 1:nrow(data.df)){
         address<-data.df[i,3]
         
         if(grepl("樓",address)) address<-gsub(gsub(".*樓(.*)$","\\1",address),"",address)
         
-        for(n in 1:9) address<-gsub(number.df[i,3],number.df[i,1],address)
+        for(n in 1:9) address<-gsub(number.df[n,3],number.df[n,1],address)
         address<-gsub("０","0",address)
         
         if(grepl("段",address)){
@@ -106,7 +108,7 @@ data_parse<-function(file.path){
         ##print(c(file.path,i,address))
         
         for (j in 1:length(section)){
-            if(grepl("[0-9]",section[j])) section[j]<-as.character(number.df[grep(section[1],number.df[,1]),2])
+            if(grepl("[0-9]",section[j])) section[j]<-as.character(number.df[grep(section[j],number.df[,1]),2])
         }
         o.vector[2]<-paste0(section,collapse="")
         data.df$o.dist[i]<-gsub(".*市(.*區).*","\\1",address)
@@ -117,7 +119,7 @@ data_parse<-function(file.path){
     }
     
     data.df$fit_Address<-gsub("NA","",paste0("臺北市",data.df$o.dist,data.df$o.road,data.df$o.lane,data.df$o.alley,data.df$o.number))
-    data.df<-data.frame(CID=data.df$CID,CNAME=data.df$CNAME,CADDR=data.df$CADDR,fit_Address=data.df$fit_Address)
+    data.df<-data.frame(CID=data.df$CID,CNAME=data.df$CNAME,CADDR=data.df$CADDR,fit_Address=data.df$fit_Address,stringsAsFactors = FALSE)
     
     return(data.df)
 }
