@@ -12,7 +12,7 @@ fit_data<- function(){
     address.df<-read_address()
     lackadd<-c()
     
-    for (i in 3:3){#length(fld.list)){
+    for (i in 1:length(fld.list)){
         file.root<-fld.list[[i]][[1]]
         
         print(fld.list[[i]])
@@ -31,6 +31,7 @@ fit_data<- function(){
             total.df<-rbind(total.df,merge.df)
         }
         
+        total.df<-unique(total.df)
         write.csv(total.df,file=paste0(file.root,"_data.csv"),row.names=FALSE)
     }
     
@@ -58,7 +59,8 @@ read_address<-function(){
     address.path<-paste0(address.root,address.file)
     
     address.df<-read.csv(address.path,stringsAsFactors = FALSE)
-    address.df$fit_Address<-gsub("NA","",paste0(address.df$city,address.df$dist,address.df$road,address.df$lane,address.df$alley,address.df$number))
+    ##address.df$fit_Address<-gsub("NA","",paste0(address.df$city,address.df$dist,address.df$road,address.df$lane,address.df$alley,address.df$number))
+    address.df$fit_Address<-gsub("NA","",paste0(address.df$city,address.df$road,address.df$lane,address.df$alley,address.df$number))
     
     return(address.df)
 }
@@ -79,6 +81,9 @@ data_parse<-function(file.path){
         for(n in 1:9) address<-gsub(number.df[n,3],number.df[n,1],address)
         address<-gsub("０","0",address)
         
+        if(grepl("鄭州地下街商場|鄭州路地下街商場",address)) address<-"臺北市市民大道1段100號"
+        if(grepl("永樂市場",address)) address<-"台北市大同區迪化街一段21號"
+        
         if(grepl("段",address)){
             address.split<-strsplit(address,"段")[[1]]
             sec.check<-gsub(".*區(.*)","\\1",address.split[1])
@@ -87,8 +92,8 @@ data_parse<-function(file.path){
                 address<-paste0(gsub("(.*區)(.*)","\\1",address.split[1]),sec.check,"段",address.split[2])
             }
         }
-        if(grepl("鄭州地下街商場",address)) address<-"臺北市市民大道1段100號"
         
+        if(grepl("臺北市民大道",address)) address<-gsub("臺北市民大道","臺北市市民大道",address)
         if(grepl("八德4",address)) address<-gsub("八德4","八德路4",address)
         if(grepl("八德硌",address)) address<-gsub("八德硌","八德路",address)
         if(grepl("羅斯福3",address)) address<-gsub("羅斯福3","羅斯福路3",address)
@@ -98,6 +103,7 @@ data_parse<-function(file.path){
         if(grepl("信義2",address)) address<-gsub("信義2","信義路2",address)
         if(grepl("基隆2",address)) address<-gsub("基隆2","基隆路2",address)
         if(grepl("基隆1",address)) address<-gsub("基隆1","基隆路1",address)
+        if(grepl("虎林242",address)) address<-gsub("虎林242","虎林街242",address)
         if(grepl("重慶南一",address)) address<-gsub("重慶南一","重慶南路一",address)
         if(grepl("市民大道211號1段",address)) address<-gsub("市民大道211號1段","市民大道1段211號",address)
         
@@ -118,7 +124,8 @@ data_parse<-function(file.path){
         data.df$o.number[i]<-paste0(strsplit(o.vector[5],"號")[[1]][1],"號")
     }
     
-    data.df$fit_Address<-gsub("NA","",paste0("臺北市",data.df$o.dist,data.df$o.road,data.df$o.lane,data.df$o.alley,data.df$o.number))
+    ##data.df$fit_Address<-gsub("NA","",paste0("臺北市",data.df$o.dist,data.df$o.road,data.df$o.lane,data.df$o.alley,data.df$o.number))
+    data.df$fit_Address<-gsub("NA","",paste0("臺北市",data.df$o.road,data.df$o.lane,data.df$o.alley,data.df$o.number))
     data.df<-data.frame(CID=data.df$CID,CNAME=data.df$CNAME,CADDR=data.df$CADDR,fit_Address=data.df$fit_Address,stringsAsFactors = FALSE)
     
     return(data.df)
