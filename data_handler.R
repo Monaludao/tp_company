@@ -61,13 +61,15 @@ check_CID<-function(CID){
 }
 
 check_address<-function(address){
-    road<-gsub(".*(鄰|區)(.*(路|街|大道)).*","\\2",address)
+    road<-gsub(".*(市|區|里|鄰)(.*(路|街|大道)).*","\\2",address)
+    if(road == "民大道") road = "市民大道"
     if(grepl("段",address)){
         section<-gsub(".*(路|街|大道)(.*段).*","\\2",address)
         lane.vector<-check_lane(strsplit(address,("段"))[[1]][2])
     } else {
         section<-NA
-        lane.vector<-check_lane(strsplit(address,("路|街|大道"))[[1]][2])
+        ##lane.vector<-check_lane(strsplit(address,("路|街|大道"))[[1]][2])
+        lane.vector<-check_lane(gsub(".*(路|街|大道)(.*)","\\2",address))
     }
     return(c(road,section,lane.vector))
 }

@@ -81,8 +81,15 @@ data_parse<-function(file.path){
         for(n in 1:9) address<-gsub(number.df[n,3],number.df[n,1],address)
         address<-gsub("０","0",address)
         
+        if(grepl("中山地下街",address)) address<-"臺北市大同區長安西路52之1號"
+        if(grepl("東區地下街",address)) address<-"臺北市大安區大安路1段77號"
+        if(grepl("光華數位新天地",address)) address<-"臺北市中正區市民大道3段8號"
         if(grepl("鄭州地下街商場|鄭州路地下街商場",address)) address<-"臺北市市民大道1段100號"
-        if(grepl("永樂市場",address)) address<-"台北市大同區迪化街一段21號"
+        if(grepl("永樂市場",address)) address<-"臺北市大同區迪化街一段21號"
+        
+        if(grepl("虎林242",address)) address<-gsub("虎林242","虎林街242",address)
+        if(grepl("成都106",address)) address<-gsub("成都106","成都路106",address)
+        if(grepl("廈門街",address)) address<-gsub("廈門街","?門街",address)
         
         if(grepl("段",address)){
             address.split<-strsplit(address,"段")[[1]]
@@ -103,7 +110,6 @@ data_parse<-function(file.path){
         if(grepl("信義2",address)) address<-gsub("信義2","信義路2",address)
         if(grepl("基隆2",address)) address<-gsub("基隆2","基隆路2",address)
         if(grepl("基隆1",address)) address<-gsub("基隆1","基隆路1",address)
-        if(grepl("虎林242",address)) address<-gsub("虎林242","虎林街242",address)
         if(grepl("重慶南一",address)) address<-gsub("重慶南一","重慶南路一",address)
         if(grepl("市民大道211號1段",address)) address<-gsub("市民大道211號1段","市民大道1段211號",address)
         
