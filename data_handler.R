@@ -99,8 +99,8 @@ check_alley<-function(address){
         number<-address
     }
     
-    if(grepl("、|.",number)) {
-        number<-gsub("(.*)、.*$","\\1號",number)
+    if(grepl("、|\\.|，",number)) {
+        number<-paste0(strsplit(number,"、|\\.|，")[[1]][1],"號")
     }
     
     return(c(alley,number))

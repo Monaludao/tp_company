@@ -13,7 +13,7 @@ fit_data<- function(){
     address.df<-read_address()
     lackadd<-c()
     
-    for (i in 2:2){#length(fld.list)){
+    for (i in 1:length(fld.list)){
         file.root<-fld.list[[i]][[1]]
         
         print(fld.list[[i]])
@@ -33,15 +33,16 @@ fit_data<- function(){
         
         total.df<-unique(total.df)
         
-        cnt.table<-rbind(cnt.table,c(file.root,sum(!is.na(total.df$Response_Address)),sum(is.na(total.df$Response_Address))))
+        #cnt.table<-rbind(cnt.table,c(file.root,as.character(sum(!is.na(total.df$Response_Address))),
+        #                             as.character(sum(is.na(total.df$Response_Address)))))
         
         write.csv(total.df,file=paste0(file.root,"_data.csv"),row.names=FALSE)
     }
     
     lackadd.df<-data.frame(Response_Address=as.character(lackadd))
     
-    colnames(cnt.table)=c("item","fit","lack")
-    print(cnt.table)
+    #colnames(cnt.table)=c("item","fit","lack")
+    #print(cnt.table)
     
     write.csv(lackadd.df,file="./tpprocess/lackaddress.csv",row.names=FALSE)
     ##return(lackadd.df)
@@ -73,7 +74,8 @@ read_address<-function(){
 
 data_parse<-function(file.path){
     
-    number.df<-data.frame("en"=as.character(c(1:9)),"zh"=c("一","二","三","四","五","六","七","八","九"),"cap"=c("１","２","３","４","５","６","７","８","９"))
+    number.df<-data.frame("en"=as.character(c(1:9)),"zh"=c("一","二","三","四","五","六","七","八","九"),
+                          "cap"=c("１","２","３","４","５","６","７","８","９"),stringsAsFactors=FALSE)
     
     data.df<-read.csv(file.path,stringsAsFactors = FALSE,header=FALSE,col.names=c("CID","CNAME","CADDR","CIND"))
     data.df<-data.df[!nchar(data.df$CNAME)==0,]
@@ -89,13 +91,13 @@ data_parse<-function(file.path){
         ##去除"臨"字
         address<-gsub("(.*)(臨)([0-9]+((之|-)[0-9]+)?號$)","\\1\\3",address)
         ##去除"(南)"字
-        address<-gsub("(南)","",address)
+        address<-gsub("\\(南\\)","",address)
         ##市場名稱改成市場地址
-        if(grepl("中山地下街",address)) address<-"臺北市大同區長安西路52之1號"
+        if(grepl("中山地下街|臺北市長安西路52之1號",address)) address<-"臺北市大同區長安西路52之1號"
         if(grepl("東區地下街",address)) address<-"臺北市大安區大安路1段77號"
         if(grepl("光華數位新天地",address)) address<-"臺北市中正區市民大道3段8號"
-        if(grepl("台北地下街|鄭州(路)?地下(街)?商場",address)) address<-"臺北市中正區市民大道1段100號"
-        if(grepl("臺北市中正區市民大道1段100號",address)) address<-"臺北市中正區市民大道1段100號"
+        if(grepl("台北地下街|鄭州(路)?地下(街)?商場|臺北市中正區市民大道1段100號",address)) {
+            address<-"臺北市中正區市民大道1段100號"}
         if(grepl("永樂市場",address)) address<-"臺北市大同區迪化街一段21號"
         if(grepl("永吉市場",address)) address<-"臺北市信義區永吉路278巷1弄30號"
         if(grepl("西門市場",address)) address<-"臺北市萬華區西寧南路177號"
@@ -106,6 +108,7 @@ data_parse<-function(file.path){
         if(grepl("新興(綜合)?市場",address)) address<-"臺北市中山區林森北路487號"
         if(grepl("雙連市場",address)) address<-"臺北市大同區民生西路198號"
         if(grepl("龍山寺地下街商場",address)) address<-"臺北市萬華區西園路1段145號"
+        if(grepl("河濱商場",address)) address<-"臺北市萬華區環河南路一段286號"
         ##東西南北路少"路"字就補上
         if(grepl("段",address)){
             address.split<-strsplit(address,"段")[[1]]
@@ -149,7 +152,6 @@ data_parse<-function(file.path){
         data.df$o.number[i]<-paste0(strsplit(o.vector[5],"號")[[1]][1],"號")
     }
     
-    ##data.df$fit_Address<-gsub("NA","",paste0("臺北市",data.df$o.dist,data.df$o.road,data.df$o.lane,data.df$o.alley,data.df$o.number))
     data.df$fit_Address<-gsub("NA","",paste0("臺北市",data.df$o.road,data.df$o.lane,data.df$o.alley,data.df$o.number))
     data.df<-data.frame(CID=data.df$CID,CNAME=data.df$CNAME,CADDR=data.df$CADDR,fit_Address=data.df$fit_Address,stringsAsFactors = FALSE)
     
