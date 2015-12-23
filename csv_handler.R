@@ -14,6 +14,7 @@ csv_filter<-function(){
             csv.lines<-csv.lines[grep("臺北市",csv.lines)]
             if(dir.list[d]=="business"|dir.list[d]=="company"){
                 csv.lines<-csv.lines[grep("核准設立",csv.lines)]
+                csv.lines<-csv.lines[!grepl("命令解散",csv.lines)]
             }
             csv.lines<-paste0(csv.lines,",",csv.name)
             csv.lines<-gsub(",核准設立","",csv.lines)

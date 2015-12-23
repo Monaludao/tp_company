@@ -8,11 +8,12 @@ fit_data<- function(){
     sep<-dir(sep.root)
     
     fld.list<-list(list(bus.root,bus),list(com.root,com),list(sep.root,sep))
+    cnt.table<-data.frame(stringsAsFactors = FALSE)
     
     address.df<-read_address()
     lackadd<-c()
     
-    for (i in 1:length(fld.list)){
+    for (i in 2:2){#length(fld.list)){
         file.root<-fld.list[[i]][[1]]
         
         print(fld.list[[i]])
@@ -25,17 +26,22 @@ fit_data<- function(){
             
             merge.df<-merge(data.df,address.df,all.x = TRUE)
             
-            lackadd<-c(lackadd,as.character(merge.df[is.na(merge.df$Response_Address),1]))
-            lackadd<-unique(lackadd)
+            lackadd<-unique(c(lackadd,as.character(merge.df[is.na(merge.df$Response_Address),1])))
             
             total.df<-rbind(total.df,merge.df)
         }
         
         total.df<-unique(total.df)
+        
+        cnt.table<-rbind(cnt.table,c(file.root,sum(!is.na(total.df$Response_Address)),sum(is.na(total.df$Response_Address))))
+        
         write.csv(total.df,file=paste0(file.root,"_data.csv"),row.names=FALSE)
     }
     
     lackadd.df<-data.frame(Response_Address=as.character(lackadd))
+    
+    colnames(cnt.table)=c("item","fit","lack")
+    print(cnt.table)
     
     write.csv(lackadd.df,file="./tpprocess/lackaddress.csv",row.names=FALSE)
     ##return(lackadd.df)
@@ -75,22 +81,32 @@ data_parse<-function(file.path){
     
     for (i in 1:nrow(data.df)){
         address<-data.df[i,3]
-        
+        ##去除樓層文字
         if(grepl("樓",address)) address<-gsub(gsub(".*樓(.*)$","\\1",address),"",address)
-        
+        ##全型數字轉半型
         for(n in 1:9) address<-gsub(number.df[n,3],number.df[n,1],address)
-        address<-gsub("０","0",address)
-        
+        address<-gsub("０|Ｏ","0",address)
+        ##去除"臨"字
+        address<-gsub("(.*)(臨)([0-9]+((之|-)[0-9]+)?號$)","\\1\\3",address)
+        ##去除"(南)"字
+        address<-gsub("(南)","",address)
+        ##市場名稱改成市場地址
         if(grepl("中山地下街",address)) address<-"臺北市大同區長安西路52之1號"
         if(grepl("東區地下街",address)) address<-"臺北市大安區大安路1段77號"
         if(grepl("光華數位新天地",address)) address<-"臺北市中正區市民大道3段8號"
-        if(grepl("鄭州地下街商場|鄭州路地下街商場",address)) address<-"臺北市市民大道1段100號"
+        if(grepl("台北地下街|鄭州(路)?地下(街)?商場",address)) address<-"臺北市中正區市民大道1段100號"
+        if(grepl("臺北市中正區市民大道1段100號",address)) address<-"臺北市中正區市民大道1段100號"
         if(grepl("永樂市場",address)) address<-"臺北市大同區迪化街一段21號"
-        
-        if(grepl("虎林242",address)) address<-gsub("虎林242","虎林街242",address)
-        if(grepl("成都106",address)) address<-gsub("成都106","成都路106",address)
-        if(grepl("廈門街",address)) address<-gsub("廈門街","?門街",address)
-        
+        if(grepl("永吉市場",address)) address<-"臺北市信義區永吉路278巷1弄30號"
+        if(grepl("西門市場",address)) address<-"臺北市萬華區西寧南路177號"
+        if(grepl("水源市場",address)) address<-"臺北市中正區羅斯福路四段92號"
+        if(grepl("永吉市場",address)) address<-"臺北市信義區永吉路278巷1弄30號"
+        if(grepl("自強市場",address)) address<-"臺北市中正區重慶南路3段"
+        if(grepl("龍山商場",address)) address<-"臺北市萬華區和平西路三段120號"
+        if(grepl("新興(綜合)?市場",address)) address<-"臺北市中山區林森北路487號"
+        if(grepl("雙連市場",address)) address<-"臺北市大同區民生西路198號"
+        if(grepl("龍山寺地下街商場",address)) address<-"臺北市萬華區西園路1段145號"
+        ##東西南北路少"路"字就補上
         if(grepl("段",address)){
             address.split<-strsplit(address,"段")[[1]]
             sec.check<-gsub(".*區(.*)","\\1",address.split[1])
@@ -99,7 +115,11 @@ data_parse<-function(file.path){
                 address<-paste0(gsub("(.*區)(.*)","\\1",address.split[1]),sec.check,"段",address.split[2])
             }
         }
-        
+        ##錯誤街道名修正
+        if(grepl("虎林242",address)) address<-gsub("虎林242","虎林街242",address)
+        if(grepl("成都106",address)) address<-gsub("成都106","成都路106",address)
+        if(grepl("廈門街",address)) address<-gsub("廈門街","?門街",address)
+        if(grepl("(南)中原街",address)) address<-gsub("(南)中原街","中原街",address)        
         if(grepl("臺北市民大道",address)) address<-gsub("臺北市民大道","臺北市市民大道",address)
         if(grepl("八德4",address)) address<-gsub("八德4","八德路4",address)
         if(grepl("八德硌",address)) address<-gsub("八德硌","八德路",address)
@@ -112,7 +132,6 @@ data_parse<-function(file.path){
         if(grepl("基隆1",address)) address<-gsub("基隆1","基隆路1",address)
         if(grepl("重慶南一",address)) address<-gsub("重慶南一","重慶南路一",address)
         if(grepl("市民大道211號1段",address)) address<-gsub("市民大道211號1段","市民大道1段211號",address)
-        
         
         o.vector<-check_address(address)
         section<-strsplit(o.vector[2],"")[[1]]

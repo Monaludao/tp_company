@@ -61,8 +61,13 @@ check_CID<-function(CID){
 }
 
 check_address<-function(address){
-    road<-gsub(".*(市|區|里|鄰)(.*(路|街|大道)).*","\\2",address)
+    if(grepl("新市街",address)) {
+        road<-"新市街"
+    } else {
+        road<-gsub(".*(市|區|里|鄰)(.*(路|街|大道)).*","\\2",address)
+    }
     if(road == "民大道") road = "市民大道"
+    
     if(grepl("段",address)){
         section<-gsub(".*(路|街|大道)(.*段).*","\\2",address)
         lane.vector<-check_lane(strsplit(address,("段"))[[1]][2])
@@ -93,5 +98,10 @@ check_alley<-function(address){
         alley<-NA
         number<-address
     }
+    
+    if(grepl("、|.",number)) {
+        number<-gsub("(.*)、.*$","\\1號",number)
+    }
+    
     return(c(alley,number))
 }
