@@ -19,6 +19,9 @@ fit_data<- function(){
         print(fld.list[[i]])
         
         total.df<-NULL
+        total.rows<-0
+        
+        pb <- txtProgressBar(max = length(fld.list[[i]][[2]]), style = 3)
         
         for (j in 1:length(fld.list[[i]][[2]])){
             file.path<-paste0(file.root,"/",fld.list[[i]][[2]][j])
@@ -29,23 +32,25 @@ fit_data<- function(){
             lackadd<-unique(c(lackadd,as.character(merge.df[is.na(merge.df$Response_Address),1])))
             
             total.df<-rbind(total.df,merge.df)
+            total.rows<-total.rows+nrow(data.df)
+            
+            setTxtProgressBar(pb, j)
         }
         
         total.df<-unique(total.df)
         
-        #cnt.table<-rbind(cnt.table,c(file.root,as.character(sum(!is.na(total.df$Response_Address))),
-        #                             as.character(sum(is.na(total.df$Response_Address)))))
+        cnt.table<-rbind(cnt.table,c(i,total.rows,sum(!is.na(total.df$Response_Address)),sum(is.na(total.df$Response_Address))))
         
         write.csv(total.df,file=paste0(file.root,"_data.csv"),row.names=FALSE)
     }
     
     lackadd.df<-data.frame(Response_Address=as.character(lackadd))
     
-    #colnames(cnt.table)=c("item","fit","lack")
-    #print(cnt.table)
+    colnames(cnt.table)=c("item","rows","fit","lack")
+    cnt.table$percent<-cnt.table$lack/(cnt.table$fit+cnt.table$lack)
+    print(cnt.table)
     
     write.csv(lackadd.df,file="./tpprocess/lackaddress.csv",row.names=FALSE)
-    ##return(lackadd.df)
 }
 
 compile_lack_response<-function(){
@@ -66,7 +71,6 @@ read_address<-function(){
     address.path<-paste0(address.root,address.file)
     
     address.df<-read.csv(address.path,stringsAsFactors = FALSE)
-    ##address.df$fit_Address<-gsub("NA","",paste0(address.df$city,address.df$dist,address.df$road,address.df$lane,address.df$alley,address.df$number))
     address.df$fit_Address<-gsub("NA","",paste0(address.df$city,address.df$road,address.df$lane,address.df$alley,address.df$number))
     
     return(address.df)
@@ -76,14 +80,13 @@ data_parse<-function(file.path){
     
     number.df<-data.frame("en"=as.character(c(1:9)),"zh"=c("一","二","三","四","五","六","七","八","九"),
                           "cap"=c("１","２","３","４","５","６","７","８","９"),stringsAsFactors=FALSE)
-    
     data.df<-read.csv(file.path,stringsAsFactors = FALSE,header=FALSE,col.names=c("CID","CNAME","CADDR","CIND"))
     data.df<-data.df[!nchar(data.df$CNAME)==0,]
     data.df$CIND<-data.df$CID[1]
     
     for (i in 1:nrow(data.df)){
         address<-data.df[i,3]
-        ##去除樓層文字
+        ##去除樓層後方文字
         if(grepl("樓",address)) address<-gsub(gsub(".*樓(.*)$","\\1",address),"",address)
         ##全型數字轉半型
         for(n in 1:9) address<-gsub(number.df[n,3],number.df[n,1],address)
@@ -92,23 +95,6 @@ data_parse<-function(file.path){
         address<-gsub("(.*)(臨)([0-9]+((之|-)[0-9]+)?號$)","\\1\\3",address)
         ##去除"(南)"字
         address<-gsub("\\(南\\)","",address)
-        ##市場名稱改成市場地址
-        if(grepl("中山地下街|臺北市長安西路52之1號",address)) address<-"臺北市大同區長安西路52之1號"
-        if(grepl("東區地下街",address)) address<-"臺北市大安區大安路1段77號"
-        if(grepl("光華數位新天地",address)) address<-"臺北市中正區市民大道3段8號"
-        if(grepl("台北地下街|鄭州(路)?地下(街)?商場|臺北市中正區市民大道1段100號",address)) {
-            address<-"臺北市中正區市民大道1段100號"}
-        if(grepl("永樂市場",address)) address<-"臺北市大同區迪化街一段21號"
-        if(grepl("永吉市場",address)) address<-"臺北市信義區永吉路278巷1弄30號"
-        if(grepl("西門市場",address)) address<-"臺北市萬華區西寧南路177號"
-        if(grepl("水源市場",address)) address<-"臺北市中正區羅斯福路四段92號"
-        if(grepl("永吉市場",address)) address<-"臺北市信義區永吉路278巷1弄30號"
-        if(grepl("自強市場",address)) address<-"臺北市中正區重慶南路3段"
-        if(grepl("龍山商場",address)) address<-"臺北市萬華區和平西路三段120號"
-        if(grepl("新興(綜合)?市場",address)) address<-"臺北市中山區林森北路487號"
-        if(grepl("雙連市場",address)) address<-"臺北市大同區民生西路198號"
-        if(grepl("龍山寺地下街商場",address)) address<-"臺北市萬華區西園路1段145號"
-        if(grepl("河濱商場",address)) address<-"臺北市萬華區環河南路一段286號"
         ##東西南北路少"路"字就補上
         if(grepl("段",address)){
             address.split<-strsplit(address,"段")[[1]]
@@ -118,28 +104,52 @@ data_parse<-function(file.path){
                 address<-paste0(gsub("(.*區)(.*)","\\1",address.split[1]),sec.check,"段",address.split[2])
             }
         }
+        ##市場名稱改成市場地址
+        if(grepl("臺北市大安區大安路1段77號",address)) address<-"臺北市大安區大安路1段77號"
+        if(grepl("臺北市中正區忠孝西路1段50之1號",address)) address<-"臺北市中正區忠孝西路1段50之1號"
+        if(grepl("臺北市萬華區環河南路1段162號",address)) address<-"臺北市萬華區環河南路1段162號"
+        if(grepl("中山地下街|臺北市(大同區)?長安西路52之1號",address)) address<-"臺北市大同區長安西路52之1號"
+        if(grepl("東區地下街",address)) address<-"臺北市大安區大安路1段77號"
+        if(grepl("光華數位新天地",address)) address<-"臺北市中正區市民大道3段8號"
+        if(grepl("台北地下街|鄭州(路)?地下(街)?商場|臺北市中正區市民大道(一|1)段(一|1)00號",address)) {
+            address<-"臺北市中正區市民大道1段100號"}
+        if(grepl("商場",address)){
+            if(grepl("龍山商場",address)) address<-"臺北市萬華區和平西路三段120號"
+            if(grepl("龍山寺地下街商場",address)) address<-"臺北市萬華區西園路1段145號"
+            if(grepl("河濱商場",address)) address<-"臺北市萬華區環河南路一段286號"
+        }
+        if(grepl("市場",address)){
+            if(grepl("永樂市場",address)) address<-"臺北市大同區迪化街一段21號"
+            if(grepl("永吉市場",address)) address<-"臺北市信義區永吉路278巷1弄30號"
+            if(grepl("西門市場",address)) address<-"臺北市萬華區西寧南路177號"
+            if(grepl("水源市場",address)) address<-"臺北市中正區羅斯福路四段92號"
+            if(grepl("永吉市場",address)) address<-"臺北市信義區永吉路278巷1弄30號"
+            if(grepl("自強市場",address)) address<-"臺北市中正區重慶南路3段"
+            if(grepl("新興(綜合)?市場",address)) address<-"臺北市中山區林森北路487號"
+            if(grepl("雙連市場",address)) address<-"臺北市大同區民生西路198號"
+            if(grepl("成功(臨時攤棚)?市場",address)) address<-"臺北市大安區四維路192巷"
+            if(grepl("松江市場",address)) address<-"臺北市中山區錦州街222號"
+            if(grepl("南門市場",address)) address<-"臺北市中正區羅斯福路一段8號"
+            if(grepl("環南(綜合)?(公有)?市場",address)) address<-"臺北市萬華區環河南路二段245號"
+            if(grepl("直興市場",address)) address<-"臺北市萬華區康定路172巷1號"
+            if(grepl("松山市場",address)) address<-"臺北市松山區八德路4段679號"
+        }
         ##錯誤街道名修正
         if(grepl("虎林242",address)) address<-gsub("虎林242","虎林街242",address)
         if(grepl("成都106",address)) address<-gsub("成都106","成都路106",address)
+        if(grepl("松江204",address)) address<-gsub("松江204","松江路204",address)
+        if(grepl("社子32",address)) address<-gsub("社子32","社子街32",address)
         if(grepl("廈門街",address)) address<-gsub("廈門街","?門街",address)
         if(grepl("(南)中原街",address)) address<-gsub("(南)中原街","中原街",address)        
-        if(grepl("臺北市民大道",address)) address<-gsub("臺北市民大道","臺北市市民大道",address)
         if(grepl("八德4",address)) address<-gsub("八德4","八德路4",address)
         if(grepl("八德硌",address)) address<-gsub("八德硌","八德路",address)
-        if(grepl("羅斯福3",address)) address<-gsub("羅斯福3","羅斯福路3",address)
-        if(grepl("羅斯福5",address)) address<-gsub("羅斯福5","羅斯福路5",address)
-        if(grepl("中山北６",address)) address<-gsub("中山北６","中山北路6",address)
-        if(grepl("中山北6",address)) address<-gsub("中山北6","中山北路6",address)
+        if(grepl("羅斯福[0-9]",address)) address<-gsub("(羅斯福)([0-9])","\\1路\\2",address)
         if(grepl("信義2",address)) address<-gsub("信義2","信義路2",address)
-        if(grepl("基隆2",address)) address<-gsub("基隆2","基隆路2",address)
-        if(grepl("基隆1",address)) address<-gsub("基隆1","基隆路1",address)
-        if(grepl("重慶南一",address)) address<-gsub("重慶南一","重慶南路一",address)
+        if(grepl("基隆[0-9]",address)) address<-gsub("(基隆)([0-9])","\\1路\\2",address)
         if(grepl("市民大道211號1段",address)) address<-gsub("市民大道211號1段","市民大道1段211號",address)
         
         o.vector<-check_address(address)
         section<-strsplit(o.vector[2],"")[[1]]
-        
-        ##print(c(file.path,i,address))
         
         for (j in 1:length(section)){
             if(grepl("[0-9]",section[j])) section[j]<-as.character(number.df[grep(section[j],number.df[,1]),2])

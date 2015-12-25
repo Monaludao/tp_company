@@ -2,3 +2,4 @@
 .RData
 count.R
 tpdata/schema.ini
+Rprof.out

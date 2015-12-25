@@ -16,6 +16,8 @@ combine_addressbook<-function(){
     lackresponse.df$village<-as.factor(gsub(".*區(.*里).*","\\1",lackresponse.df[,1]))
     lackresponse.df$neighbour<-as.factor(gsub(".*里(.*鄰).*","\\1",lackresponse.df[,1]))
     
+    pb <- txtProgressBar(max = nrow(lackresponse.df), style = 3)
+    
     for(i in 1:nrow(lackresponse.df)){
         a.vector<-check_address(lackresponse.df[i,1])
         lackresponse.df$road[i]<-gsub("NA","",paste0(a.vector[1],a.vector[2]))
@@ -23,11 +25,10 @@ combine_addressbook<-function(){
         lackresponse.df$alley[i]<-a.vector[4]
         lackresponse.df$number[i]<-a.vector[5]
         
-        print(i)
+        setTxtProgressBar(pb, i)
     }
     
     addressbook.new<-unique(rbind(addressbook.df,lackresponse.df))
     
     write.csv(addressbook.new,file="./tpprocess/addressbook.csv",row.names=FALSE)
-    ##return(addressbook.new)
 }
