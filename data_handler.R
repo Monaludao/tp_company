@@ -54,7 +54,7 @@ set_csv<-function(file.path){
 }
 
 check_CID<-function(CID){
-    if(nchar(CID)!=8){
+    if(nchar(CID)< 8){
         CID<-paste0(paste(rep("0",(8-nchar(CID))),collapse = ""),CID)
     }
     return(CID)
