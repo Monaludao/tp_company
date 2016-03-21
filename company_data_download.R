@@ -71,7 +71,3 @@ data_dl<-function(){
         setTxtProgressBar(pb, i)
     }
 }
-
-data_extract<-function(){
-    
-}
