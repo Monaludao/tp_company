@@ -65,7 +65,7 @@ data_dl<-function(){
         ind.number<-paste0(paste(rep("0",2-nchar(as.character(i))),collapse = ""),i)
         
         link<-GET(ind.file[i])
-        filelocale<-paste("raw/bussiness_",ind.number,ind.name[i],".zip",sep="")
+        filelocale<-paste("raw/business_",ind.number,ind.name[i],".zip",sep="")
         download.file(link$url,filelocale,mode="wb")
         
         setTxtProgressBar(pb, i)
