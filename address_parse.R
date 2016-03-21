@@ -176,9 +176,9 @@ address_correct<-function(address){
         }
     }
     ##市場名稱改成市場地址
-    if(grepl("臺北市大安區大安路1段77號",address)) address<-"臺北市大安區大安路1段77號"
-    if(grepl("臺北市中正區忠孝西路1段50之1號",address)) address<-"臺北市中正區忠孝西路1段50之1號"
-    if(grepl("臺北市萬華區環河南路1段162號",address)) address<-"臺北市萬華區環河南路1段162號"
+    #if(grepl("臺北市大安區大安路1段77號",address)) address<-"臺北市大安區大安路1段77號"
+    #if(grepl("臺北市中正區忠孝西路1段50之1號",address)) address<-"臺北市中正區忠孝西路1段50之1號"
+    #if(grepl("臺北市萬華區環河南路1段162號",address)) address<-"臺北市萬華區環河南路1段162號"
     if(grepl("中山地下街|臺北市(大同區)?長安西路52之1號",address)) address<-"臺北市大同區長安西路52之1號"
     if(grepl("東區地下街",address)) address<-"臺北市大安區大安路1段77號"
     if(grepl("光華數位新天地",address)) address<-"臺北市中正區市民大道3段8號"
