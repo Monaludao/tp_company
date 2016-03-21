@@ -72,3 +72,6 @@ data_dl<-function(){
     }
 }
 
+data_extract<-function(){
+    
+}
