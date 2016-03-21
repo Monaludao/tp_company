@@ -29,17 +29,9 @@ fit_data<- function(){
         for (j in 1:length(fld.list[[i]][[2]])){
             file.path<-paste0(file.root,"/",fld.list[[i]][[2]][j])
             data.df<-data_parse(file.path)
-            
-            #merge.df<-merge(data.df,address.df,all.x = TRUE)
-            
-            #lackadd<-unique(c(lackadd,as.character(merge.df[is.na(merge.df$Response_Address),1])))
-            
-            #merge.df$fit_Address<-NULL
-            
             total.df<-rbind(total.df,data.df)
-            #total.df<-rbind(total.df,merge.df)
             total.rows<-total.rows+nrow(data.df)
-            
+        
             setTxtProgressBar(pb, j)
         }
         
