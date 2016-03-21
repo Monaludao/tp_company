@@ -27,26 +27,26 @@ csv_filter<-function(){
     }
 }
 
-csv_convert<-function(){
-    cnt<-0
+#csv_convert<-function(){
+    #cnt<-0
     
-    for(i in 1:length(dir("./tpdata/"))){
-        file.name<-paste0("./tpdata/",dir("./tpdata/")[i])
-        csv.df<-read.csv(file.name,header=FALSE,sep=",",stringsAsFactors = FALSE,col.names=c("CID","CNAME","CADDR"))
-        c.number<-paste0(rep("0",(2-nchar(as.character(i)))),as.character(i))
+    #for(i in 1:length(dir("./tpdata/"))){
+        #file.name<-paste0("./tpdata/",dir("./tpdata/")[i])
+        #csv.df<-read.csv(file.name,header=FALSE,sep=",",stringsAsFactors = FALSE,col.names=c("CID","CNAME","CADDR"))
+        #c.number<-paste0(rep("0",(2-nchar(as.character(i)))),as.character(i))
         
-        cnt<-cnt+nrow(csv.df)
+        #cnt<-cnt+nrow(csv.df)
         
-        for(c in 1:ceiling(nrow(csv.df)/10000)){
-            start<-(c-1)*10000+1
-            end<-c*10000
-            seg<-csv.df[start:end,3]
-            seg<-seg[!is.na(seg)]
+        #for(c in 1:ceiling(nrow(csv.df)/10000)){
+            #start<-(c-1)*10000+1
+            #end<-c*10000
+            #seg<-csv.df[start:end,3]
+            #seg<-seg[!is.na(seg)]
             
-            output.df<-cbind(c(start:(start+length(seg)-1)),seg,c(NA),c(NA),c(NA))
-            colnames(output.df)<-c("id","Address","Response_Address","Response_X","Response_Y")
-            write.csv(output.df,paste0("./tpupload/tp",c.number,"_",c,".csv"),na="",row.names=FALSE)
-        }
-    }
-    print(cnt)
-}
+            #output.df<-cbind(c(start:(start+length(seg)-1)),seg,c(NA),c(NA),c(NA))
+            #colnames(output.df)<-c("id","Address","Response_Address","Response_X","Response_Y")
+            #write.csv(output.df,paste0("./tpupload/tp",c.number,"_",c,".csv"),na="",row.names=FALSE)
+        #}
+    #}
+    #print(cnt)
+#}

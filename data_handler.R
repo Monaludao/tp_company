@@ -1,23 +1,23 @@
-data_handle<-function(){
-    file.list<-dir("./tpdata")
-    file.list<-file.list[grep(".csv",file.list)]
-    file.list<-file.list[grep("done",file.list)]
-    file.path<-paste0("./tpdata/",file.list)
+#data_handle<-function(){
+    #file.list<-dir("./tpdata")
+    #file.list<-file.list[grep(".csv",file.list)]
+    #file.list<-file.list[grep("done",file.list)]
+    #file.path<-paste0("./tpdata/",file.list)
     
-    csv.df<-data.frame()
+    #csv.df<-data.frame()
     
-    for(i in 1:length(file.list)){
-        print (file.list[i])
-        csv.df<-rbind(csv.df,set_csv(file.path[i]))
-    }
+    #for(i in 1:length(file.list)){
+        #print (file.list[i])
+        #csv.df<-rbind(csv.df,set_csv(file.path[i]))
+    #}
     
-    write.csv(csv.df,file="./tpprocess/totaldata.csv",row.names=FALSE)
+    #write.csv(csv.df,file="./tpprocess/totaldata.csv",row.names=FALSE)
     
-    address.df<-unique(csv.df[!grepl("找不到",csv.df[,4]),-c(1:3,15)])
+    #address.df<-unique(csv.df[!grepl("找不到",csv.df[,4]),-c(1:3,15)])
     
-    write.csv(address.df,file="./tpprocess/addressbook.csv",row.names=FALSE)
+    #write.csv(address.df,file="./tpprocess/addressbook.csv",row.names=FALSE)
     
-}
+#}
     
 set_csv<-function(file.path){    
     csv.df<-read.csv(file.path,stringsAsFactors = FALSE)
