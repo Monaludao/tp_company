@@ -1,3 +1,34 @@
+company_to_company<-function(){
+    library(reshape2)
+    
+    bus.file<-"./tpprocess/business_data.csv"
+    com.file<-"./tpprocess/company_data.csv"
+    sep.file<-"./tpprocess/specific_data.csv"
+    
+    file.list<-c(bus.file,com.file,sep.file)
+    
+    total.df<-data.frame()
+    
+    for(i in 1:length(file.list)){
+        data.df<-read.csv(file.list[i],stringsAsFactors = FALSE)
+        total.df<-rbind(total.df,data.df)
+    }
+    
+    total.df<-unique(total.df)
+    
+    total.df$R_cat=0;total.df$P_cat=0;total.df$M_cat=0
+    
+    total.df$R_cat[grep("R_cat",total.df$IND_CAT)]=1
+    total.df$P_cat[grep("P_cat",total.df$IND_CAT)]=1
+    total.df$M_cat[grep("M_cat",total.df$IND_CAT)]=1
+    
+    melt.df<-melt(total.df,id=c("CID","CNAME","CADDR","Response_X","Response_Y"),measure.vars = c("R_cat","P_cat","M_cat"))
+    cast.df<-dcast(melt.df,CID+CNAME+CADDR+Response_X+Response_Y~variable,sum)
+    cast.df$max_cat<-colnames(cast.df)[(max.col(cast.df[,6:8]))+5]
+    
+    write.csv(cast.df,file="./tpprocess/company_map.csv",row.names=FALSE)
+}
+
 company_to_village<-function(){
     library(reshape2)
     
@@ -13,6 +44,8 @@ company_to_village<-function(){
         data.df<-read.csv(file.list[i],stringsAsFactors = FALSE)
         total.df<-rbind(total.df,data.df)
     }
+    
+    total.df<-unique(total.df)
     
     total.df$admin<-paste0(total.df$village,total.df$neighbour)
     total.df$R_cat=0;total.df$P_cat=0;total.df$M_cat=0
@@ -45,6 +78,8 @@ company_to_xy<-function(){
         data.df<-read.csv(file.list[i],stringsAsFactors = FALSE)
         total.df<-rbind(total.df,data.df)
     }
+    
+    total.df<-unique(total.df)
     
     total.df$R_cat=0;total.df$P_cat=0;total.df$M_cat=0
     
