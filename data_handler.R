@@ -101,16 +101,25 @@ check_alley<-function(address){
     
     if(grepl("、|\\.|，",number)) number<-paste0(strsplit(number,"、|\\.|，")[[1]][1],"號")
     alley<-lapply(gsub("十","",alley),check_digit)[[1]]
+    #print(number)
     number<-lapply(gsub("十","",number),check_digit)[[1]]
     return(c(alley,number))
 }
 
 check_digit<-function(digit){
+    #print(c(digit,length(digit)))
     number.df<-data.frame("en"=as.character(c(1:9)),"zh"=c("一","二","三","四","五","六","七","八","九"),
                           "cap"=c("１","２","３","４","５","６","７","８","９"),stringsAsFactors=FALSE)
     digit<-strsplit(digit,"")[[1]]
-    for(l in 1:length(digit)){
-        for(d in 1:9) digit[l]<-gsub(number.df[d,2],number.df[d,1],digit[l])
+    
+    if(!is.na(digit) && length(digit)>0){
+        for(l in 1:length(digit)){
+            if(digit[l] %in% number.df$zh){digit[l]<-number.df$en[grep(digit[l],number.df$zh)]}
+            else if(digit[l] %in% number.df$cap){digit[l]<-number.df$en[grep(digit[l],number.df$cap)]}
+        }
     }
+    #for(l in 1:length(digit)){
+        #for(d in 1:9) digit[l]<-gsub(number.df[d,2],number.df[d,1],digit[l])
+    #}
     return(paste0(digit,collapse=""))
 }
